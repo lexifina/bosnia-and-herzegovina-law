@@ -1,0 +1,11 @@
+# ODLUKU O IZMJENI ODLUKE O PROCEDURAMA ZA KORIŠTENJE SREDSTAVA SVJETSKE BANKE I SREDSTAVA DONATORA ZA KOJE JE SVJETSKA BANKA ADMINISTRATOR
+
+Naslov: ODLUKU O IZMJENI ODLUKE O PROCEDURAMA ZA KORIŠTENJE SREDSTAVA SVJETSKE BANKE I SREDSTAVA DONATORA ZA KOJE JE SVJETSKA BANKA ADMINISTRATOR
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 22/98 (12.11.1998.), akt 8 od 19 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ZGF16qFMIbQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
