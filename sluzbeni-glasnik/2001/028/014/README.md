@@ -1,0 +1,11 @@
+# UPUTSTVO O SADRŽAJU I NAČINU VOĐENJA REGISTRA KORISNIKA BUDŽETA INSTITUCIJA BOSNE I HERCEGOVINE I MEĐUNARODNIH OBAVEZA BOSNE I HERCEGOVINE
+
+Naslov: UPUTSTVO O SADRŽAJU I NAČINU VOĐENJA REGISTRA KORISNIKA BUDŽETA INSTITUCIJA BOSNE I HERCEGOVINE I MEĐUNARODNIH OBAVEZA BOSNE I HERCEGOVINE
+
+Donosilac: MINISTARSTVO ZA TREZOR INSITUCIJA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 28/01 (13.11.2001.), akt 14 od 14 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/hA9x1vgoF10=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
