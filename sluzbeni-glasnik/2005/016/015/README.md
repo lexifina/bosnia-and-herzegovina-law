@@ -1,0 +1,11 @@
+# ODLUKU KOJOM SE STAVLJA VAN SNAGE ODLUKA O UTVRĐIVANJU NAKNADE KOMERCIJALNIM BANKAMA ZA POVLAČENJE NOVČANICA KONVERTIBILNE MARKE IZ OPTICAJA
+
+Naslov: ODLUKU KOJOM SE STAVLJA VAN SNAGE ODLUKA O UTVRĐIVANJU NAKNADE KOMERCIJALNIM BANKAMA ZA POVLAČENJE NOVČANICA KONVERTIBILNE MARKE IZ OPTICAJA
+
+Donosilac: CENTRALNA BANKA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 16/05 (21.3.2005.), akt 15 od 20 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/HHnNxp4mjL8=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
