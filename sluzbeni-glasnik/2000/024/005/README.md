@@ -1,0 +1,11 @@
+# ODLUKU O RAZRJEŠENJU DUŽNOSTI SAVJETNIKA ZA DRUŠTVENE DJELATNOSTI ČLANA PREDSJEDNIŠTVA BOSNE I HERCEGOVINE IZ REDA HRVATSKOG NARODA
+
+Naslov: ODLUKU O RAZRJEŠENJU DUŽNOSTI SAVJETNIKA ZA DRUŠTVENE DJELATNOSTI ČLANA PREDSJEDNIŠTVA BOSNE I HERCEGOVINE IZ REDA HRVATSKOG NARODA
+
+Donosilac: PREDSJEDNIŠTVO BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 24/00 (23.9.2000.), akt 5 od 17 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/hoLk8F2pcDE=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
