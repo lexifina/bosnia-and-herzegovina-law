@@ -1,0 +1,13 @@
+{
+  "id": "52571",
+  "case_number": "AP-144/02",
+  "date": "2003-07-25T00:00:00",
+  "decision_type": "Odluka o dopustivosti",
+  "item_type": "AP",
+  "source": "https://www.ustavnisud.ba/bs/api/odluke?submit=1&vp%5B%5D=1&sp=DatumAsc&dos=01.01.1997.&doe=31.12.2003.",
+  "official_decision": "https://www.ustavnisud.ba/uploads/odluke/AP-144-02-52571.pdf",
+  "listing_source": "https://www.ustavnisud.ba/bs/api/odluke?submit=1&vp%5B%5D=1&sp=DatumAsc&dos=01.01.1997.&doe=31.12.2003.",
+  "record_type": "metadata-only",
+  "date_basis": "Official Court database decision date",
+  "source_sha256": "94b74fd5dd646bb20eb61b5e256e9e2c3ce7e97a194bcbb0d802d077f0100d78"
+}
