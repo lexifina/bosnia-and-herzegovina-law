@@ -1,0 +1,13 @@
+{
+  "id": "12134",
+  "case_number": "U-9/00",
+  "date": "2000-11-03T00:00:00",
+  "decision_type": "Odluka o meritumu",
+  "item_type": "U",
+  "source": "https://www.ustavnisud.ba/uploads/odluke/_bs/U-9-00-12134.pdf",
+  "official_decision": "https://www.ustavnisud.ba/uploads/odluke/_bs/U-9-00-12134.pdf",
+  "listing_source": "https://www.ustavnisud.ba/bs/api/odluke?submit=1&vp%5B%5D=2&sp=DatumAsc",
+  "record_type": "decision-text",
+  "date_basis": "Official Court database decision date",
+  "source_sha256": "b38019b5b2240ede09f82ce1094240175e5f666a6afcce59965487f71f596876"
+}
