@@ -1,0 +1,3 @@
+# XI - POSTUPAK DO DONOŠENJA RJEŠENJA
+A. OPĆA NAČELA
+1. Zajedničke odredbe

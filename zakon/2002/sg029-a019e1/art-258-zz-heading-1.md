@@ -1,0 +1,2 @@
+# XVII - IZVRŠENJE RJEŠENJA I ZAKLJUČAKA
+1. Opće odredbe
