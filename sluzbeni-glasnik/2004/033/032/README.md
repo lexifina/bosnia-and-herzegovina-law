@@ -1,0 +1,11 @@
+# UPUTSTVO ZA PROVOĐENJE POSTUPKA ZA IZDAVANJE POTVRDE ZA VAZDUŠNOG OPERATORA
+
+Naslov: UPUTSTVO ZA PROVOĐENJE POSTUPKA ZA IZDAVANJE POTVRDE ZA VAZDUŠNOG OPERATORA
+
+Donosilac: DIREKCIJA ZA CIVILNO ZRAKOPLOVSTVO BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 33/04 (22.7.2004.), akt 32 od 32 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/49l6LJnatvE=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
