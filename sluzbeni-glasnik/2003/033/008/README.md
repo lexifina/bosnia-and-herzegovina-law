@@ -1,0 +1,11 @@
+# ODLUKU O VETERINARSKOJ SVJEDODŽBI O ZDRAVSTVENOM STANJU ŽIVOTINJA I POŠILJAKA ŽIVOTINJSKOG PORIJEKLA U UNUTRAŠNJEM I MEĐUNARODNOM PROMETU
+
+Naslov: ODLUKU O VETERINARSKOJ SVJEDODŽBI O ZDRAVSTVENOM STANJU ŽIVOTINJA I POŠILJAKA ŽIVOTINJSKOG PORIJEKLA U UNUTRAŠNJEM I MEĐUNARODNOM PROMETU
+
+Donosilac: MINISTARSTVO VANJSKE TRGOVINE I EKONOMSKIH ODNOSA BIH.
+
+Službeni glasnik BiH broj 33/03 (5.11.2003.), akt 8 od 18 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/DbvPB01TSu8=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
