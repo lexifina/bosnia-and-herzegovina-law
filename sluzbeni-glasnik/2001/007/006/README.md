@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI MINISTARSTVU ZA LJUDSKA PRAVA I IZBJEGLICE ZA NABAVKU STIKERA ZA VIZU I BORAVIšNU DOZVOLU BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI MINISTARSTVU ZA LJUDSKA PRAVA I IZBJEGLICE ZA NABAVKU STIKERA ZA VIZU I BORAVIšNU DOZVOLU BOSNE I HERCEGOVINE
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 7/01 (12.3.2001.), akt 6 od 9 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/SzYpc6P2Jio=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
