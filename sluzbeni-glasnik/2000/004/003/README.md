@@ -1,0 +1,11 @@
+# ODLUKU O IMPLEMENTACIJI ČLANA 2.5. ZAKONA O ZRAKOPLOVSTVU BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O IMPLEMENTACIJI ČLANA 2.5. ZAKONA O ZRAKOPLOVSTVU BOSNE I HERCEGOVINE
+
+Donosilac: ODJEL ZA CIVILNO VAZDUHOPLOVSTVO BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 4/00 (10.2.2000.), akt 3 od 3 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/G2jFgztz5k76kjn45hUpDuW0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
