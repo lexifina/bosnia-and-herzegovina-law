@@ -1,0 +1,9 @@
+# Odluka o meritumu U-2/04
+
+Ustavni sud Bosne i Hercegovine.
+
+Datum odluke: 2004-05-28 (službena baza odluka).
+
+[Objavljena odluka](https://www.ustavnisud.ba/uploads/odluke/_bs/U-2-04-51325.pdf)
+
+Tekst odluke kako je objavljen; izvorni jezik i pismo su zadržani.
