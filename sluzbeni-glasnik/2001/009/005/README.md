@@ -1,0 +1,11 @@
+# ODLUKU O PRIJENOSU DIJELA POSLOVA IZ NADLEŽNOSTI MINISTARSTAVA VANJSKE TRGOVINE I EKONOMSKIH ODNOSA U MINISTARSTVO ZA TREZOR INSTITUCIJA BiH
+
+Naslov: ODLUKU O PRIJENOSU DIJELA POSLOVA IZ NADLEŽNOSTI MINISTARSTAVA VANJSKE TRGOVINE I EKONOMSKIH ODNOSA U MINISTARSTVO ZA TREZOR INSTITUCIJA BiH
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 9/01 (31.3.2001.), akt 5 od 9 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/q28GQqTgv9g=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
