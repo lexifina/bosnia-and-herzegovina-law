@@ -1,0 +1,11 @@
+# PRIVREMENO PRAVILO O NAPLATI NAVIGACIONIH USLUGA PRILAZNE I AERODROMSKE KONTROLE LETENJA NA AERODROMIMA U BOSNI I HERCEGOVINI
+
+Naslov: PRIVREMENO PRAVILO O NAPLATI NAVIGACIONIH USLUGA PRILAZNE I AERODROMSKE KONTROLE LETENJA NA AERODROMIMA U BOSNI I HERCEGOVINI
+
+Donosilac: DIREKCIJA ZA CIVILNO ZRAKOPLOVSTVO BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 25/98 (8.12.1998.), akt 3 od 3 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/p7kMc67JlD8=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
