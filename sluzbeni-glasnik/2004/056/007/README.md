@@ -1,0 +1,11 @@
+# PRAVILNIK O USLOVIMA I PROCEDURI IZDAVANJA VIZA STRANCIMA, PRODUŽENJU VIZA, PONIŠTENJU VIZA, TIPOVIMA VIZA I EVIDENCIJAMA IZDATIH VIZA
+
+Naslov: PRAVILNIK O USLOVIMA I PROCEDURI IZDAVANJA VIZA STRANCIMA, PRODUŽENJU VIZA, PONIŠTENJU VIZA, TIPOVIMA VIZA I EVIDENCIJAMA IZDATIH VIZA
+
+Donosilac: MINISTARSTVO VANJSKIH POSLOVA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 56/04 (15.12.2004.), akt 7 od 11 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/l6m2mLOE9vc=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
