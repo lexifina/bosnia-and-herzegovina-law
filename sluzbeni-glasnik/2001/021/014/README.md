@@ -1,0 +1,11 @@
+# ODLUKU O PREUZIMANJU UPOSLENIH, RASPODJELI SREDSTAVA I DRUGIH STVARI I PREDMETA ZAVODA ZA UPOŠLJAVANJE BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O PREUZIMANJU UPOSLENIH, RASPODJELI SREDSTAVA I DRUGIH STVARI I PREDMETA ZAVODA ZA UPOŠLJAVANJE BOSNE I HERCEGOVINE
+
+Donosilac: KOMISIJA ZA PRIJENOS IMOVINE ZAVODA ZA UPOŠLJAVANJE BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 21/01 (7.9.2001.), akt 14 od 14 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/4NnMgztz5k76kjn45htPbDTg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
