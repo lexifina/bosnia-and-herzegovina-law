@@ -1,0 +1,11 @@
+# ODLUKU O IMENOVANJU MEĐUNARODNOG TUŽIOCA NA MJESTO ZAMJENIKA GLAVNOG TUŽIOCA I RUKOVODIOCA POSEBNOG ODJELA TUŽILAŠTVA BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O IMENOVANJU MEĐUNARODNOG TUŽIOCA NA MJESTO ZAMJENIKA GLAVNOG TUŽIOCA I RUKOVODIOCA POSEBNOG ODJELA TUŽILAŠTVA BOSNE I HERCEGOVINE
+
+Donosilac: VISOKI PREDSTAVNIK ZA BOSNU I HERCEGOVINU.
+
+Službeni glasnik BiH broj 3/04 (10.2.2004.), akt 2 od 20 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/fO3m3i8opDI=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
