@@ -1,0 +1,11 @@
+# ODLUKU O IMENOVANJU SEKRETARA KOMISIJE ZA FINANSIJE I BUDŽET PREDSTAVNIČKOG DOMA PARLAMENTARNE SKUPŠTINE BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O IMENOVANJU SEKRETARA KOMISIJE ZA FINANSIJE I BUDŽET PREDSTAVNIČKOG DOMA PARLAMENTARNE SKUPŠTINE BOSNE I HERCEGOVINE
+
+Donosilac: PREDSTAVNIČKI DOM PARLAMENTARNE SKUPŠTINE BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 33/00 (28.12.2000.), akt 2 od 19 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/8UUNRlgIWW0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
