@@ -1,0 +1,13 @@
+{
+  "id": "51800",
+  "case_number": "AP-293/04",
+  "date": "2004-02-17T00:00:00",
+  "decision_type": "Odluka o dopustivosti",
+  "item_type": "AP",
+  "source": "https://www.ustavnisud.ba/bs/api/odluke?submit=1&vp%5B%5D=1&sp=DatumAsc&dos=01.01.2004.&doe=31.12.2004.",
+  "official_decision": "https://www.ustavnisud.ba/uploads/odluke/AP-293-04-51800.pdf",
+  "listing_source": "https://www.ustavnisud.ba/bs/api/odluke?submit=1&vp%5B%5D=1&sp=DatumAsc&dos=01.01.2004.&doe=31.12.2004.",
+  "record_type": "metadata-only",
+  "date_basis": "Official Court database decision date",
+  "source_sha256": "f6cf05b5876942656793f0e23a771299b5004a5c089dbfe339884555cf1c883f"
+}
