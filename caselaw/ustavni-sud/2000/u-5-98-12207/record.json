@@ -1,0 +1,13 @@
+{
+  "id": "12207",
+  "case_number": "U-5/98",
+  "date": "2000-02-18T00:00:00",
+  "decision_type": "Odluka o meritumu",
+  "item_type": "U",
+  "source": "https://www.ustavnisud.ba/uploads/odluke/_bs/U-5-98-12207.pdf",
+  "official_decision": "https://www.ustavnisud.ba/uploads/odluke/_bs/U-5-98-12207.pdf",
+  "listing_source": "https://www.ustavnisud.ba/bs/api/odluke?submit=1&vp%5B%5D=2&sp=DatumAsc",
+  "record_type": "decision-text",
+  "date_basis": "Official Court database decision date",
+  "source_sha256": "e517607191b03dbea39b89a79c893ff2b915608dc657b1b2bfc012a38cec7ef7"
+}
