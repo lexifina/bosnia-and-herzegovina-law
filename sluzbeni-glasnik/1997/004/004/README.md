@@ -1,0 +1,11 @@
+# ODLUKU O POTVRĐIVANJU IMENOVANJA MINISTRA VANJSKE TRGOVINE I EKONOMSKIH ODNOSA U VIJEĆU MINISTARA BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O POTVRĐIVANJU IMENOVANJA MINISTRA VANJSKE TRGOVINE I EKONOMSKIH ODNOSA U VIJEĆU MINISTARA BOSNE I HERCEGOVINE
+
+Donosilac: PREDSTAVNIČKI DOM PARLAMENTARNE SKUPŠTINE BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 4/97 (23.12.1997.), akt 4 od 7 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/R5Efd5DM82I=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
