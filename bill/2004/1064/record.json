@@ -1,0 +1,25 @@
+{
+  "id": "1064",
+  "title": "Prijedlog zakona o Ustavnom sudu BiH",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2004-12-29",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 29.12.2004",
+  "official_procedure_date": "29.12.2004",
+  "proposer": "poslanik Momčilo Novaković - srpski jezik",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=1064",
+  "source_sha256": "cd7b9a404d0419f7cafb3118c7ca5282f3ada841a12a7090731a2e5417f6dc41",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=3863eabc-f3e2-41c2-bb89-873dfba0e4a3&langTag=bs",
+      "label": "Prijedlog zakona o Ustavnom sudu BiH",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
