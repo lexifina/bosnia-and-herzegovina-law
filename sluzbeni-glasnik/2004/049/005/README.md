@@ -1,0 +1,11 @@
+# RJEŠENJE DISPOZITIV RJEŠENJA BEZ OBRAZLOŽENJA JE OBJAVLJEN U "SLUŽBENOM GLASNIKU BIH", BROJ 45/04. O DAVANJU SAGLASNOSTI ZA PRIMJENU CBT MEHANIZMA
+
+Naslov: RJEŠENJE DISPOZITIV RJEŠENJA BEZ OBRAZLOŽENJA JE OBJAVLJEN U "SLUŽBENOM GLASNIKU BIH", BROJ 45/04. O DAVANJU SAGLASNOSTI ZA PRIMJENU CBT MEHANIZMA
+
+Donosilac: DRŽAVNA REGULATORNA KOMISIJA ZA ELEKTRIČNU ENERGIJU - DERK.
+
+Službeni glasnik BiH broj 49/04 (2.11.2004.), akt 5 od 6 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/xoRyVNsEohz4nh78h77hI=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
