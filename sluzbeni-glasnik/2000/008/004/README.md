@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI ZA RATIFIKACIJU SPORAZUMA O AMANDMANU BR. 1 NA SPORAZUM O ZAJMU IZMEĐU BOSNE I HERCEGOVINE I EVROPSKE BANKE ZA OBNOVU I RAZVOJ
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI ZA RATIFIKACIJU SPORAZUMA O AMANDMANU BR. 1 NA SPORAZUM O ZAJMU IZMEĐU BOSNE I HERCEGOVINE I EVROPSKE BANKE ZA OBNOVU I RAZVOJ
+
+Donosilac: PARLAMENTARNA SKUPŠTINA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 8/00 (30.3.2000.), akt 4 od 6 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ohz4nh78h77gztz5k76kjn45hTw7S7uxgztz5k76kjn45hA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
