@@ -1,0 +1,11 @@
+# NAREDBU O UPLATNIM RAČUNIMA ZA NAKNADE TROŠKOVA POLAGANJA STRUČNOG UPRAVNOG ISPITA PRIPRAVNIKA I ZAPOSLENIKA NA NIVOU BOSNE I HERCEGOVINE
+
+Naslov: NAREDBU O UPLATNIM RAČUNIMA ZA NAKNADE TROŠKOVA POLAGANJA STRUČNOG UPRAVNOG ISPITA PRIPRAVNIKA I ZAPOSLENIKA NA NIVOU BOSNE I HERCEGOVINE
+
+Donosilac: MINISTARSTVO FINANSIJA I TREZORA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 4/05 (31.1.2005.), akt 4 od 5 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/MyIjOmfXQhY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
