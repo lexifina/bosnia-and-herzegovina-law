@@ -1,0 +1,11 @@
+# ODLUKU O FINANSIRANJU KOORDINACIONOG ODBORA INSTITUCIJA ZA REVIZIJU I SEKRETARIJATA KOORDINACIONOG ODBORA ZA 2003. GODINU
+
+Naslov: ODLUKU O FINANSIRANJU KOORDINACIONOG ODBORA INSTITUCIJA ZA REVIZIJU I SEKRETARIJATA KOORDINACIONOG ODBORA ZA 2003. GODINU
+
+Donosilac: KOORDINACIONI ODBOR INSTITUCIJA ZA REVIZIJU BIH.
+
+Službeni glasnik BiH broj 15/03 (5.6.2003.), akt 26 od 27 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/WeXcLpIFpMo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
