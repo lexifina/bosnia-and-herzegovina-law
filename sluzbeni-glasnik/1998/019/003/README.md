@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI NA RATIFIKACIJU SPORAZUMA O PRIVREDNOJ SARADNJI IZMEĐU BOSNE I HERCEGOVINE I VLADE REPUBLIKE SLOVENIJE
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI NA RATIFIKACIJU SPORAZUMA O PRIVREDNOJ SARADNJI IZMEĐU BOSNE I HERCEGOVINE I VLADE REPUBLIKE SLOVENIJE
+
+Donosilac: PARLAMENTARNA SKUPŠTINA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 19/98 (11.10.1998.), akt 3 od 9 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Bcgztz5k76kjn45h2lIVSScA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
