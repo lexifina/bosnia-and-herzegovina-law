@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O NAČINU I POSTUPKU USKLAĐIVANJA I REGISTRIRANJA REDOVA VOŽNJE MEĐUNARODNIH AUTOBUSKIH LINIJA
+
+Naslov: PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O NAČINU I POSTUPKU USKLAĐIVANJA I REGISTRIRANJA REDOVA VOŽNJE MEĐUNARODNIH AUTOBUSKIH LINIJA
+
+Donosilac: MINISTARSTVO KOMUNIKACIJA I PROMETA BIH.
+
+Službeni glasnik BiH broj 62/04 (30.12.2004.), akt 7 od 8 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/sa8LIK2RXBw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
