@@ -1,0 +1,11 @@
+# ODLUKU O RATIFIKACIJI SPORAZUMA IZMEĐU BOSNE I HERCEGOVINE I SAVEZNE REPUBLIKE NJEMAČKE O OSNIVANJU I DJELATNOSTI INSTITUTA ZA KULTURU
+
+Naslov: ODLUKU O RATIFIKACIJI SPORAZUMA IZMEĐU BOSNE I HERCEGOVINE I SAVEZNE REPUBLIKE NJEMAČKE O OSNIVANJU I DJELATNOSTI INSTITUTA ZA KULTURU
+
+Donosilac: PREDSJEDNIŠTVO BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 19/00 (20.7.2000.), akt 3 od 9 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/uNsC5KBVCKY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
