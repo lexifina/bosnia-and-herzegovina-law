@@ -1,0 +1,11 @@
+# ODLUKU O IZBORU PREDSJEDAVAJUĆEG I ZAMJENIKA PREDSJEDAVAJUĆEG PREDSTAVNIČKOG DOMA PARLAMENTARNE SKUPŠTINE BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O IZBORU PREDSJEDAVAJUĆEG I ZAMJENIKA PREDSJEDAVAJUĆEG PREDSTAVNIČKOG DOMA PARLAMENTARNE SKUPŠTINE BOSNE I HERCEGOVINE
+
+Donosilac: PREDSTAVNIČKI DOM PARLAMENTARNE SKUPŠTINE BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 3/01 (30.1.2001.), akt 1 od 5 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ehPX3ZEOnMk=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
