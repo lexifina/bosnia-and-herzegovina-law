@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU SREDSTAVA IZ REZERVISANJA ZA IZMIRENJE OBAVEZA INSTITUCIJA BOSNE I HERCEGOVINE IZ RANIJEG PERIODA U BUDŽETU BIH ZA 2004. GODINU
+
+Naslov: ODLUKU O ODOBRAVANJU SREDSTAVA IZ REZERVISANJA ZA IZMIRENJE OBAVEZA INSTITUCIJA BOSNE I HERCEGOVINE IZ RANIJEG PERIODA U BUDŽETU BIH ZA 2004. GODINU
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 3/05 (24.1.2005.), akt 3 od 20 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/qa21oYg6Hls=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
