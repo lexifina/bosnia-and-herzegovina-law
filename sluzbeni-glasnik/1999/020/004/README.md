@@ -1,0 +1,11 @@
+# ODLUKU O RATIFIKACIJI KONVENCIJE O ZABRANI UPOTREBE, GOMILANJA, PROIZVODNJE I PROMETA PROTUPJEŠADIJSKIH NAGAZNIH MINA I O NJIHOVOM UNIŠTENJU
+
+Naslov: ODLUKU O RATIFIKACIJI KONVENCIJE O ZABRANI UPOTREBE, GOMILANJA, PROIZVODNJE I PROMETA PROTUPJEŠADIJSKIH NAGAZNIH MINA I O NJIHOVOM UNIŠTENJU
+
+Donosilac: PREDSJEDNIŠTVO BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 20/99 (22.11.1999.), akt 4 od 8 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/YHVQqikYXIU=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
