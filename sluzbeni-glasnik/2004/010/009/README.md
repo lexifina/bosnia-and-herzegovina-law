@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O OVJERI POLITIČKIH STRANAKA, NEZAVISNIH KANDIDATA, KOALICIJA I LISTI NEZAVISNIH KANDIDATA
+
+Naslov: PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O OVJERI POLITIČKIH STRANAKA, NEZAVISNIH KANDIDATA, KOALICIJA I LISTI NEZAVISNIH KANDIDATA
+
+Donosilac: IZBORNO POVJERENSTVO/KOMISIJA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 10/04 (31.3.2004.), akt 9 od 9 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/y1StdemfWow=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
