@@ -1,0 +1,11 @@
+# ODLUKU APELACIJA N. O. I H.O. PROTIV PRESUDE VRHOVNOG SUDA FEDERACIJE BIH, BROJ REV-44/01 OD 13. SEPTEMBRA 2001. GODINE I NIŽESTEPENIH PRESUDA KANTONALNOG I OPĆINSKOG SUDA
+
+Naslov: ODLUKU APELACIJA N. O. I H.O. PROTIV PRESUDE VRHOVNOG SUDA FEDERACIJE BIH, BROJ REV-44/01 OD 13. SEPTEMBRA 2001. GODINE I NIŽESTEPENIH PRESUDA KANTONALNOG I OPĆINSKOG SUDA
+
+Donosilac: USTAVNI SUD BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 21/04 (18.5.2004.), akt 12 od 13 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/WDIMGp0q0cs=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
