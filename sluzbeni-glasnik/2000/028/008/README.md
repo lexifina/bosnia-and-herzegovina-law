@@ -1,0 +1,11 @@
+# IZMJENE I DOPUNE BUDŽETA INSTITUCIJA BOSNE I HERCEGOVINE I MEĐUNARODNIH OBAVEZA BOSNE I HERCEGOVINE ZA 2000.GODINU
+
+Naslov: IZMJENE I DOPUNE BUDŽETA INSTITUCIJA BOSNE I HERCEGOVINE I MEĐUNARODNIH OBAVEZA BOSNE I HERCEGOVINE ZA 2000.GODINU
+
+Donosilac: PARLAMENTARNA SKUPŠTINA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 28/00 (17.11.2000.), akt 8 od 16 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/L9MDb8JWwWU=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
