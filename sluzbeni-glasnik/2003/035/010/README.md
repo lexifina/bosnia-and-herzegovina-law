@@ -1,0 +1,11 @@
+# UPUTSTVO O NAČINU VRŠENJA KANCELARIJSKOG POSLOVANJA MINISTARSTAVA, SLUŽBI, INSTITUCIJA I DRUGIH TIJELA VIJEĆA MINISTARA BOSNE I HERCEGOVINE
+
+Naslov: UPUTSTVO O NAČINU VRŠENJA KANCELARIJSKOG POSLOVANJA MINISTARSTAVA, SLUŽBI, INSTITUCIJA I DRUGIH TIJELA VIJEĆA MINISTARA BOSNE I HERCEGOVINE
+
+Donosilac: MINISTARSTVO PRAVDE BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 35/03 (12.11.2003.), akt 10 od 13 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/jsimWVbywpQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
