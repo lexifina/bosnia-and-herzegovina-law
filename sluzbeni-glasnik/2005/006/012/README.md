@@ -1,0 +1,11 @@
+# ODLUKU O PRIVREMENOM FINANSIRANJU INSTITUCIJA BOSNE I HERCEGOVINE I MEĐUNARODNIH OBAVEZA BOSNE I HERCEGOVINE ZA PERIOD JANUAR - MART 2005. GODINE
+
+Naslov: ODLUKU O PRIVREMENOM FINANSIRANJU INSTITUCIJA BOSNE I HERCEGOVINE I MEĐUNARODNIH OBAVEZA BOSNE I HERCEGOVINE ZA PERIOD JANUAR - MART 2005. GODINE
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 6/05 (14.2.2005.), akt 12 od 17 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/RJA8VbZ9rsA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
