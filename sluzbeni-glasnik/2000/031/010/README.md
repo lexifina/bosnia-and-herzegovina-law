@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU KONTIGENTA DETAŠMANA U SAVEZNOJ REPUBLICI NJEMAČKOJ ZA DETAŠMANSKU 2000/2001 GODINU, I O NAČINU NJEGOVE RASPODJELE
+
+Naslov: ODLUKU O UTVRĐIVANJU KONTIGENTA DETAŠMANA U SAVEZNOJ REPUBLICI NJEMAČKOJ ZA DETAŠMANSKU 2000/2001 GODINU, I O NAČINU NJEGOVE RASPODJELE
+
+Donosilac: MINISTARSTVO VANJSKE TRGOVINE I EKONOMSKIH ODNOSA BIH.
+
+Službeni glasnik BiH broj 31/00 (18.12.2000.), akt 10 od 11 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/yGGqClUPohz4nh78h7700=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
