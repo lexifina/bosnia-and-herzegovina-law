@@ -1,0 +1,13 @@
+{
+  "id": "12354",
+  "case_number": "U-1/99",
+  "date": "1999-08-14T00:00:00",
+  "decision_type": "Odluka o meritumu",
+  "item_type": "U",
+  "source": "https://www.ustavnisud.ba/uploads/odluke/_bs/U-1-99-12354.pdf",
+  "official_decision": "https://www.ustavnisud.ba/uploads/odluke/_bs/U-1-99-12354.pdf",
+  "listing_source": "https://www.ustavnisud.ba/bs/api/odluke?submit=1&vp%5B%5D=2&sp=DatumAsc",
+  "record_type": "decision-text",
+  "date_basis": "Official Court database decision date",
+  "source_sha256": "9ca428ce494e37b76c0e8b64d094e4ac969b9d7f7cbd603e0ce0b1acff42b042"
+}
