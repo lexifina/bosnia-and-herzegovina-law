@@ -1,0 +1,11 @@
+# ODLUKU O KORIŠTENJU SREDSTAVA BUDŽETA ZA 2003. GODINU ZA IZMIRENJE OBAVEZA IZ RANIJIH GODINA I PLANU ZA IZMIRENJE NEREVIDIRANIH OBAVEZA INSTITUCIJA BIH
+
+Naslov: ODLUKU O KORIŠTENJU SREDSTAVA BUDŽETA ZA 2003. GODINU ZA IZMIRENJE OBAVEZA IZ RANIJIH GODINA I PLANU ZA IZMIRENJE NEREVIDIRANIH OBAVEZA INSTITUCIJA BIH
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 39/03 (19.12.2003.), akt 10 od 27 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/qHdxpKHnyug=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
