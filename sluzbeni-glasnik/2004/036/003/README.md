@@ -1,0 +1,11 @@
+# ODLUKU KOJOM SE BLOKIRAJU SVI BANKOVNI RAČUNI KOJE POSJEDUJE, ČIJI JE IMALAC, ODNOSNO KOJI GLASE NA IME SDS-A I KOJOM SE OD SDS-A ZAHTIJEVA DA USPOSTAVI JEDAN BANKOVNI RAČUN
+
+Naslov: ODLUKU KOJOM SE BLOKIRAJU SVI BANKOVNI RAČUNI KOJE POSJEDUJE, ČIJI JE IMALAC, ODNOSNO KOJI GLASE NA IME SDS-A I KOJOM SE OD SDS-A ZAHTIJEVA DA USPOSTAVI JEDAN BANKOVNI RAČUN
+
+Donosilac: VISOKI PREDSTAVNIK ZA BOSNU I HERCEGOVINU.
+
+Službeni glasnik BiH broj 36/04 (3.8.2004.), akt 3 od 7 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/pb4gztz5k76kjn45hJla3Ots=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
