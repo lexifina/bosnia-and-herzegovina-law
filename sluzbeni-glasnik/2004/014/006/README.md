@@ -1,0 +1,11 @@
+# PRAVILNIK O DOPUNAMA PRAVILNIKA O OVJERI POLITIČKIH STRANAKA, NEZAVISNIH KANDIDATA, KOALICIJA I LISTI NEZAVISNIH KANDIDATA
+
+Naslov: PRAVILNIK O DOPUNAMA PRAVILNIKA O OVJERI POLITIČKIH STRANAKA, NEZAVISNIH KANDIDATA, KOALICIJA I LISTI NEZAVISNIH KANDIDATA
+
+Donosilac: IZBORNO POVJERENSTVO/KOMISIJA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 14/04 (27.4.2004.), akt 6 od 6 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Bod2DpCJvT0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
