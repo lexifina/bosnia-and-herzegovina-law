@@ -1,0 +1,11 @@
+# ODLUKU O OSLOBAĐANJU OD PLAĆANJA ULAZNIH VIZA ZA LICA KOJA UČESTVUJU NA BALKANSKOM PRVENSTVU U ATLETICI ZA JUNIORE, KOJE ĆE BITI ODRŽANO 24. I 25. JULA 2004. GODINE U BANJOJ LUCI
+
+Naslov: ODLUKU O OSLOBAĐANJU OD PLAĆANJA ULAZNIH VIZA ZA LICA KOJA UČESTVUJU NA BALKANSKOM PRVENSTVU U ATLETICI ZA JUNIORE, KOJE ĆE BITI ODRŽANO 24. I 25. JULA 2004. GODINE U BANJOJ LUCI
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 37/04 (12.8.2004.), akt 7 od 30 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/zmCOJw3Ihd0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
