@@ -1,0 +1,11 @@
+# ODLUKU O IZMJENI I DOPUNI INFORMACIJE O PRAVILIMA ODREĐIVANJA RUTNIH NAKNADA PRIKUPLJENIH OD STRANE EUROCONTROL-A U IME BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O IZMJENI I DOPUNI INFORMACIJE O PRAVILIMA ODREĐIVANJA RUTNIH NAKNADA PRIKUPLJENIH OD STRANE EUROCONTROL-A U IME BOSNE I HERCEGOVINE
+
+Donosilac: ODJEL ZA CIVILNO VAZDUHOPLOVSTVO BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 33/01 (30.12.2001.), akt 13 od 13 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/vigECmeewwg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
