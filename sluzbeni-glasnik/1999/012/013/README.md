@@ -1,0 +1,11 @@
+# REZOLUCIJU PARLAMENTARNE SKUPŠTINE BOSNE I HERCEGOVINE O EVROPSKIM INTEGRACIJAMA I PAKTU O STABILNOSTI ZA JUGOISTOČNU EVROPU
+
+Naslov: REZOLUCIJU PARLAMENTARNE SKUPŠTINE BOSNE I HERCEGOVINE O EVROPSKIM INTEGRACIJAMA I PAKTU O STABILNOSTI ZA JUGOISTOČNU EVROPU
+
+Donosilac: PARLAMENTARNA SKUPŠTINA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 12/99 (2.8.1999.), akt 13 od 18 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/OUvh4XRBnCo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
