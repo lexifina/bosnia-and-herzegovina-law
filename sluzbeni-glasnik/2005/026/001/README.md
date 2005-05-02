@@ -1,0 +1,11 @@
+# ODLUKU O OSNIVANJU KOMISIJE ZA ŽALBE INSTITUTA ZA STANDARDE, MJERITELJSTVO I INTELEKTUALNO VLASNIŠTVO BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O OSNIVANJU KOMISIJE ZA ŽALBE INSTITUTA ZA STANDARDE, MJERITELJSTVO I INTELEKTUALNO VLASNIŠTVO BOSNE I HERCEGOVINE
+
+Donosilac: INSTITUT ZA STANDARDE, MJERITELJSTVO I INTELEKTUALNO VLASNIŠTVO BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 26/05 (2.5.2005.), akt 1 od 2 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/xPgztz5k76kjn45h7YgM35mY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
