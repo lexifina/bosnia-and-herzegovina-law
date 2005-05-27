@@ -1,0 +1,13 @@
+{
+  "id": "26444",
+  "case_number": "AP-983/04",
+  "date": "2005-05-27T00:00:00",
+  "decision_type": "Odluka o meritumu",
+  "item_type": "AP",
+  "source": "https://www.ustavnisud.ba/bs/api/odluke?submit=1&sp=DatumAsc&dos=01.01.2005.&doe=31.12.2005.",
+  "official_decision": "https://www.ustavnisud.ba/uploads/odluke/_bs/AP-983-04-26444.pdf",
+  "listing_source": "https://www.ustavnisud.ba/bs/api/odluke?submit=1&sp=DatumAsc&dos=01.01.2005.&doe=31.12.2005.",
+  "record_type": "metadata-only",
+  "date_basis": "Official Court database decision date",
+  "source_sha256": "49b6eaef76e938e4280dde99001fb471440fae35eb7a3414a8b82518f90669af"
+}
