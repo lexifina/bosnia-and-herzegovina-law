@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O PORESKIM MARKICAMA ZA DUHANSKE PRERAĐEVINE I KONTROLNIM MARKICAMA ZA ALKOHOLNA PIĆA I VINA
+
+Naslov: PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O PORESKIM MARKICAMA ZA DUHANSKE PRERAĐEVINE I KONTROLNIM MARKICAMA ZA ALKOHOLNA PIĆA I VINA
+
+Donosilac: BOSNA I HERCEGOVINA UPRAVA ZA INDIREKTNO OPOREZIVANJE.
+
+Službeni glasnik BiH broj 38/05 (14.6.2005.), akt 7 od 22 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/NlGGqmwZp1A=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
