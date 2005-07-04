@@ -1,0 +1,11 @@
+# ODLUKU KOJOM SE PRODUŽAVA MANDAT GOSPODINA SVEN MARIUS URKE-A NA FUNKCIJI MEĐUNARODNOG ČLANA VISOKOG SUDSKOG I TUŽILAČKOG VIJEĆA BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU KOJOM SE PRODUŽAVA MANDAT GOSPODINA SVEN MARIUS URKE-A NA FUNKCIJI MEĐUNARODNOG ČLANA VISOKOG SUDSKOG I TUŽILAČKOG VIJEĆA BOSNE I HERCEGOVINE
+
+Donosilac: VISOKI PREDSTAVNIK ZA BOSNU I HERCEGOVINU.
+
+Službeni glasnik BiH broj 43/05 (4.7.2005.), akt 2 od 6 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/93oZC0aVpyQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
