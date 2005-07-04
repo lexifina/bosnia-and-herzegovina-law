@@ -1,0 +1,11 @@
+# ODLUKU KOJOM SE ODOBRAVA PRIJEDLOG VLADE REPUBLIKE SRPSKE O KOLIČINI DIZEL - GORIVA D2 I MAZUTA, ZA POTREBE RUDNIKA I TERMOELEKTRANA ZA 2005. GODINU
+
+Naslov: ODLUKU KOJOM SE ODOBRAVA PRIJEDLOG VLADE REPUBLIKE SRPSKE O KOLIČINI DIZEL - GORIVA D2 I MAZUTA, ZA POTREBE RUDNIKA I TERMOELEKTRANA ZA 2005. GODINU
+
+Donosilac: BOSNA I HERCEGOVINA UPRAVA ZA INDIREKTNO OPOREZIVANJE.
+
+Službeni glasnik BiH broj 43/05 (4.7.2005.), akt 6 od 6 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/93oZC0aVpyQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
