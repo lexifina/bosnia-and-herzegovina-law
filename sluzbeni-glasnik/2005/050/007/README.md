@@ -1,0 +1,11 @@
+# ODLUKU O DOPUNAMA ODLUKE O USLOVIMA I NAČINU POLAGANJA STRUČNOG UPRAVNOG ISPITA PRIPRAVNIKA I ZAPOSLENIKA NA NIVOU BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O DOPUNAMA ODLUKE O USLOVIMA I NAČINU POLAGANJA STRUČNOG UPRAVNOG ISPITA PRIPRAVNIKA I ZAPOSLENIKA NA NIVOU BOSNE I HERCEGOVINE
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 50/05 (26.7.2005.), akt 7 od 37 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/xD3AM8lI20c=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
