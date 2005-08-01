@@ -1,0 +1,11 @@
+# ODLUKU O IZMJENAMA POSLOVNIKA O PROCEDURI PROVOĐENJA JAVNE KONKURENCIJE I IMENOVANJA ČLANOVA IZBORNE KOMISIJE BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O IZMJENAMA POSLOVNIKA O PROCEDURI PROVOĐENJA JAVNE KONKURENCIJE I IMENOVANJA ČLANOVA IZBORNE KOMISIJE BOSNE I HERCEGOVINE
+
+Donosilac: CENTRALNA IZBORNA KOMISIJA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 51/05 (1.8.2005.), akt 3 od 3 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/9c3FRJVWmpw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
