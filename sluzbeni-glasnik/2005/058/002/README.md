@@ -1,0 +1,11 @@
+# ODLUKU O PRIVREMENOM FINANSIRANJU ISPLATE OTPREMNINA OTPUŠTENIH ZAPOSLENIKA PO OSNOVU REFORME ENTITETSKIH OBAVJEŠTAJNO-SIGURNOSNIH SLUŽBI
+
+Naslov: ODLUKU O PRIVREMENOM FINANSIRANJU ISPLATE OTPREMNINA OTPUŠTENIH ZAPOSLENIKA PO OSNOVU REFORME ENTITETSKIH OBAVJEŠTAJNO-SIGURNOSNIH SLUŽBI
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 58/05 (23.8.2005.), akt 2 od 15 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ffabHoEDovI=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
