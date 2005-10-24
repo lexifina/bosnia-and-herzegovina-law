@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU SREDSTAVA IZ REZERVI BUDŽETA INSTITUCIJA BOSNE I HERCEGOVINE I MEĐUNARODNIH OBAVEZA BOSNE I HERCEGOVINE ZA 2005. GODINU
+
+Naslov: ODLUKU O ODOBRAVANJU SREDSTAVA IZ REZERVI BUDŽETA INSTITUCIJA BOSNE I HERCEGOVINE I MEĐUNARODNIH OBAVEZA BOSNE I HERCEGOVINE ZA 2005. GODINU
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 74/05 (24.10.2005.), akt 1 od 7 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/zohz4nh78h77vohz4nh78h77M8y33MM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
