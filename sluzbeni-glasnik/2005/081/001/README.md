@@ -1,0 +1,11 @@
+# ODLUKU KOJOM SE DONOSI ZAKON O DAVANJU IMENA ILI MIJENJANJU POSTOJEĆIH IMENA OBJEKATA I PRAVNIH OSOBA OD JAVNOG INTERESA ZA BOSNU I HERCEGOVINU
+
+Naslov: ODLUKU KOJOM SE DONOSI ZAKON O DAVANJU IMENA ILI MIJENJANJU POSTOJEĆIH IMENA OBJEKATA I PRAVNIH OSOBA OD JAVNOG INTERESA ZA BOSNU I HERCEGOVINU
+
+Donosilac: VISOKI PREDSTAVNIK ZA BOSNU I HERCEGOVINU.
+
+Službeni glasnik BiH broj 81/05 (21.11.2005.), akt 1 od 15 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/KzbpIsItVM0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
