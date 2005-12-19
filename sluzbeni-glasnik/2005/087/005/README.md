@@ -1,0 +1,11 @@
+# RJEŠENJE O PRIHVATANJU ZAHTJEVA ZA RAZRJEŠENJE HARISA BAŠIĆA, ZAMJENIKA MINISTRA PROMETA I KOMUNIKACIJA
+
+Naslov: RJEŠENJE O PRIHVATANJU ZAHTJEVA ZA RAZRJEŠENJE HARISA BAŠIĆA, ZAMJENIKA MINISTRA PROMETA I KOMUNIKACIJA
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 87/05 (19.12.2005.), akt 5 od 6 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Bft8ZPDxc1c=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
