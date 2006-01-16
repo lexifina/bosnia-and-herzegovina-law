@@ -1,0 +1,25 @@
+{
+  "id": "1063",
+  "title": "Prijedlog zakona o dopunama Zakona BiH o izvršenju krivičnih sankcija, pritvora i drugih mjera",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2006-01-16",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 16.1.2006",
+  "official_procedure_date": "16.1.2006",
+  "proposer": "poslanik Momčilo Novaković i delegat Slobodan Šaraba - srpski jezik",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=1063",
+  "source_sha256": "133c76384484bec2ab35fb35ef54a40590a7f0c24876ad6fd5a3010f36a045ca",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=0e50568f-15f4-4140-967b-44e46fc96f2c&langTag=bs",
+      "label": "Prijedlog zakona o dopunama Zakona BiH o izvršenju krivičnih sankcija, pritvora i drugih mjera",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
