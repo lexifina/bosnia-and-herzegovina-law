@@ -1,0 +1,11 @@
+# ODLUKU O STICANJU DRŽAVLJANSTVA BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O STICANJU DRŽAVLJANSTVA BOSNE I HERCEGOVINE
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 3/06 (23.1.2006.), akt 4 od 27 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/vkBJcNHFwUg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
