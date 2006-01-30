@@ -1,0 +1,11 @@
+# ODLUKU O DONOŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O POLICIJSKIM SLUŽBENICIMA BOSNE I HERCEGOVINE ("SLUŽBENI GLASNIK BOSNE I HERCEGOVINE", BR. 27/04 I 63/04)
+
+Naslov: ODLUKU O DONOŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O POLICIJSKIM SLUŽBENICIMA BOSNE I HERCEGOVINE ("SLUŽBENI GLASNIK BOSNE I HERCEGOVINE", BR. 27/04 I 63/04)
+
+Donosilac: VISOKI PREDSTAVNIK ZA BOSNU I HERCEGOVINU.
+
+Službeni glasnik BiH broj 5/06 (30.1.2006.), akt 1 od 4 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/E09OiSdAAQE=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
