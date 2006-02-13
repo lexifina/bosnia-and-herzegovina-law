@@ -1,0 +1,11 @@
+# NAREDBU O UPLATNOM RAČUNU ZA UPLATU SREDSTAVA PO FITOSANITARNIM ZAHTJEVIMA ZA DRVENI MATERIJAL ZA PAKOVANJE U MEĐUNARODNOM PROMETU
+
+Naslov: NAREDBU O UPLATNOM RAČUNU ZA UPLATU SREDSTAVA PO FITOSANITARNIM ZAHTJEVIMA ZA DRVENI MATERIJAL ZA PAKOVANJE U MEĐUNARODNOM PROMETU
+
+Donosilac: MINISTARSTVO FINANSIJA I TREZORA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 9/06 (13.2.2006.), akt 7 od 7 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/s4XE0kOZWzA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
