@@ -1,0 +1,11 @@
+# PRAVILNIK O NAČINU UNOSA PODATAKA O ULASKU I IZLASKU IZ ZEMLJE, O ZAPREČAVANJU ULASKA U ZEMLJU I DRUGE PODATKE U ISPRAVE PROPISANE ZA PRELAZAK DRŽAVNE GRANICE
+
+Naslov: PRAVILNIK O NAČINU UNOSA PODATAKA O ULASKU I IZLASKU IZ ZEMLJE, O ZAPREČAVANJU ULASKA U ZEMLJU I DRUGE PODATKE U ISPRAVE PROPISANE ZA PRELAZAK DRŽAVNE GRANICE
+
+Donosilac: DRŽAVNA GRANIČNA SLUŽBA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 10/06 (14.2.2006.), akt 6 od 8 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/nfnfH1bUQoQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
