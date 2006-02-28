@@ -1,0 +1,11 @@
+# ODLUKU O USTUPANJU IMOVINE BOSNE I HERCEGOVINE DOBIJENE KROZ SPORAZUM O PITANJIMA SUKCESIJE I NJEZINOG KONVERTOVANJA U NOVČANI OBLIK
+
+Naslov: ODLUKU O USTUPANJU IMOVINE BOSNE I HERCEGOVINE DOBIJENE KROZ SPORAZUM O PITANJIMA SUKCESIJE I NJEZINOG KONVERTOVANJA U NOVČANI OBLIK
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 14/06 (28.2.2006.), akt 6 od 9 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/HSfO0hx3eSI=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
