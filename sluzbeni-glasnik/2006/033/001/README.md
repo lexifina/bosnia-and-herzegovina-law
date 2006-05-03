@@ -1,0 +1,11 @@
+# ODLUKU KOJOM SE DODATNO OGRANIČAVA OBIM ZABRANE OBAVLJANJA JAVNE FUNKCIJE U ODLUKAMA VISOKOG PREDSTAVNIKA O SMJENJIVANJU ZVANIČNIKA
+
+Naslov: ODLUKU KOJOM SE DODATNO OGRANIČAVA OBIM ZABRANE OBAVLJANJA JAVNE FUNKCIJE U ODLUKAMA VISOKOG PREDSTAVNIKA O SMJENJIVANJU ZVANIČNIKA
+
+Donosilac: VISOKI PREDSTAVNIK ZA BOSNU I HERCEGOVINU.
+
+Službeni glasnik BiH broj 33/06 (3.5.2006.), akt 1 od 9 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/vdAIcsusFzI=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
