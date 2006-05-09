@@ -1,0 +1,11 @@
+# ODLUKU O KRITERIJIMA ZA KORIŠTENJE SVEOBUHVATNE GARANCIJE NA NIŽI IZNOS ZA OBEZBJEĐENJE PLAĆANJA INDIREKTNIH POREZA U UNUTRAŠNJOJ OBRADI
+
+Naslov: ODLUKU O KRITERIJIMA ZA KORIŠTENJE SVEOBUHVATNE GARANCIJE NA NIŽI IZNOS ZA OBEZBJEĐENJE PLAĆANJA INDIREKTNIH POREZA U UNUTRAŠNJOJ OBRADI
+
+Donosilac: BOSNA I HERCEGOVINA UPRAVA ZA INDIREKTNO OPOREZIVANJE.
+
+Službeni glasnik BiH broj 35/06 (9.5.2006.), akt 9 od 13 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/KhAhDEUiohz4nh78h77A0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
