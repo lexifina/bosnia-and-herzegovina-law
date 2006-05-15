@@ -1,0 +1,25 @@
+{
+  "id": "1062",
+  "title": "Prijedlog zakona o izmjeni Zakona o porezu na dodatu vrijednost",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2006-05-15",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 15.5.2006",
+  "official_procedure_date": "15.5.2006",
+  "proposer": "poslanik Momčilo Novaković - srpski jezik",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=1062",
+  "source_sha256": "bddad9d7aba90f25caca23e8ecb68d8d6d25683453b56f00b3da9c979bbcf745",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=9eac0938-2fee-4f71-9174-f9f980f76465&langTag=bs",
+      "label": "Prijedlog zakona o izmjeni Zakona o porezu na dodatu vrijednost",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
