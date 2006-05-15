@@ -1,0 +1,11 @@
+# PRAVILNIK O PRIJAVI I OVJERI POLITIČKE STRANKE, NEZAVISNOG KANDIDATA, KOALICIJE I LISTE NEZAVISNIH KANDIDATA ZA UČEŠĆE NA NEPOSREDNIM IZBORIMA
+
+Naslov: PRAVILNIK O PRIJAVI I OVJERI POLITIČKE STRANKE, NEZAVISNOG KANDIDATA, KOALICIJE I LISTE NEZAVISNIH KANDIDATA ZA UČEŠĆE NA NEPOSREDNIM IZBORIMA
+
+Donosilac: CENTRALNA IZBORNA KOMISIJA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 36/06 (15.5.2006.), akt 5 od 8 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/VpFNorr86bI=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
