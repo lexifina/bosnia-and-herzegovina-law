@@ -1,0 +1,25 @@
+{
+  "id": "1061",
+  "title": "Prijedlog zakona o izmjenama i dopunama Zakona o izmirenju obaveza po osnovu računa stare devizne štednje",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2006-05-24",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 24.5.2006",
+  "official_procedure_date": "24.5.2006",
+  "proposer": "poslanik Tihomir Gligorić - srpski jezik",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=1061",
+  "source_sha256": "029357206be9f71531df122adb0663b83b2d87172ee65a2a7da199aebd0ca175",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=8e811e62-a7d8-48a3-bf0c-2ef524783019&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Zakona o izmirenju obaveza po osnovu računa stare devizne štednje",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
