@@ -1,0 +1,11 @@
+# ODLUKU O NAKNADI ZA RAD ČLANOVIMA KOMISIJE ZA KOORDINACIJU PITANJA MLADIH U BOSNI I HERCEGOVINI I ANGAŽIRANOM ADMINISTRATIVNO-TEHNIČKOM OSOBLJU
+
+Naslov: ODLUKU O NAKNADI ZA RAD ČLANOVIMA KOMISIJE ZA KOORDINACIJU PITANJA MLADIH U BOSNI I HERCEGOVINI I ANGAŽIRANOM ADMINISTRATIVNO-TEHNIČKOM OSOBLJU
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 40/06 (29.5.2006.), akt 4 od 25 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/5W5gztz5k76kjn45h2Lai5yY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
