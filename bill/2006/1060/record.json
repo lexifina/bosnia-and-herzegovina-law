@@ -1,0 +1,25 @@
+{
+  "id": "1060",
+  "title": "Prijedlog zakona o izmjenama i dopunama Zakona o koncesijama Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2006-06-08",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 8.6.2006",
+  "official_procedure_date": "8.6.2006",
+  "proposer": "poslanik Momčilo Novaković",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=1060",
+  "source_sha256": "eb894ffe673c5e56332105e8ecd801c120e019f5dfb43f71d6c9e96211232353",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=b571fa85-f526-47c1-ae36-47fbd2bb3fa1&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Zakona o koncesijama Bosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
