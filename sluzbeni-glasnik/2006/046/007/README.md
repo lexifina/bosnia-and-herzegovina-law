@@ -1,0 +1,11 @@
+# ODLUKU KOJOM SE DONOSI ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O KRIVIČNOM POSTUPKU BOSNE I HERCEGOVINE ("SLUŽBENI GLASNIK BOSNE I HERCEGOVINE", BR. 3/03, 32/03, 36/03, 26/04, 63/04, 13/05 I 48/05)
+
+Naslov: ODLUKU KOJOM SE DONOSI ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O KRIVIČNOM POSTUPKU BOSNE I HERCEGOVINE ("SLUŽBENI GLASNIK BOSNE I HERCEGOVINE", BR. 3/03, 32/03, 36/03, 26/04, 63/04, 13/05 I 48/05)
+
+Donosilac: VISOKI PREDSTAVNIK ZA BOSNU I HERCEGOVINU.
+
+Službeni glasnik BiH broj 46/06 (19.6.2006.), akt 7 od 15 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/fxJCWdO5QE4=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
