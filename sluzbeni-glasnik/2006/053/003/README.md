@@ -1,0 +1,11 @@
+# PRAVILNIK O POSTUPKU DIREKTNOG SPORAZUMA
+
+Naslov: PRAVILNIK O POSTUPKU DIREKTNOG SPORAZUMA
+
+Donosilac: AGENCIJA ZA JAVNE NABAVKE.
+
+Službeni glasnik BiH broj 53/06 (13.7.2006.), akt 3 od 6 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/o6h2OR97c8E=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
