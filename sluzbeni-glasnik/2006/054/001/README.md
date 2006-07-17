@@ -1,0 +1,11 @@
+# ODLUKU O IMENOVANJU G. PETERA NICHOLLA NA FUNKCIJU INICIJALNOG PREDSJEDAVAJUĆEG UPRAVNOG ODBORA UPRAVE ZA INDIREKTNO OPOREZIVANJE
+
+Naslov: ODLUKU O IMENOVANJU G. PETERA NICHOLLA NA FUNKCIJU INICIJALNOG PREDSJEDAVAJUĆEG UPRAVNOG ODBORA UPRAVE ZA INDIREKTNO OPOREZIVANJE
+
+Donosilac: VISOKI PREDSTAVNIK ZA BOSNU I HERCEGOVINU.
+
+Službeni glasnik BiH broj 54/06 (17.7.2006.), akt 1 od 11 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Xqvk36SWSdg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
