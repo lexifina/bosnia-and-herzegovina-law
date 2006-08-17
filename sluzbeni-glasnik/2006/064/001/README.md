@@ -1,0 +1,11 @@
+# ODLUKU KOJOM SE PRODU�AVA MANDAT GOSPODINA SVENA MARIUSA URKEA NA DU�NOSTI ME�UNARODNOG �LANA VISOKOG SUDSKOG I TU�ILA�KOG VIJE�A BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU KOJOM SE PRODU�AVA MANDAT GOSPODINA SVENA MARIUSA URKEA NA DU�NOSTI ME�UNARODNOG �LANA VISOKOG SUDSKOG I TU�ILA�KOG VIJE�A BOSNE I HERCEGOVINE
+
+Donosilac: VISOKI PREDSTAVNIK ZA BOSNU I HERCEGOVINU.
+
+Službeni glasnik BiH broj 64/06 (17.8.2006.), akt 1 od 2 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/wHrmx8iGnJw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
