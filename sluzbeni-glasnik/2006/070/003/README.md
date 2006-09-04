@@ -1,0 +1,11 @@
+# ODLUKU O IMENOVANJU KOMISIJE ZA PRIPREMU I PROVOĐENJE JAVNOG POZIVA ZA DODJELU DOZVOLA ZA KORIŠTENJE RADIO FREKVENCIJSKOG OPSEGA NA 11,7 - 12,5 GHZ
+
+Naslov: ODLUKU O IMENOVANJU KOMISIJE ZA PRIPREMU I PROVOĐENJE JAVNOG POZIVA ZA DODJELU DOZVOLA ZA KORIŠTENJE RADIO FREKVENCIJSKOG OPSEGA NA 11,7 - 12,5 GHZ
+
+Donosilac: REGULATORNA AGENCIJA ZA KOMUNIKACIJE BIH.
+
+Službeni glasnik BiH broj 70/06 (4.9.2006.), akt 3 od 4 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/JsWnpN3A5UU=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
