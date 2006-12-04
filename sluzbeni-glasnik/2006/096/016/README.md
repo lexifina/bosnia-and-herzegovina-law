@@ -1,0 +1,11 @@
+# UPUTSTVO O NAČINU I PROCEDURAMA IDENTIFIKACIJE KORISNIKA POMOĆI IZ PODFONDA ZA INTERVENTNU POMOĆ U ODRŽIVOM POVRATKU U BOSNI I HERCEGOVINI
+
+Naslov: UPUTSTVO O NAČINU I PROCEDURAMA IDENTIFIKACIJE KORISNIKA POMOĆI IZ PODFONDA ZA INTERVENTNU POMOĆ U ODRŽIVOM POVRATKU U BOSNI I HERCEGOVINI
+
+Donosilac: MINISTARSTVO ZA LJUDSKA PRAVA I IZBJEGLICE.
+
+Službeni glasnik BiH broj 96/06 (4.12.2006.), akt 16 od 22 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ko3ExjXL5XI=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
