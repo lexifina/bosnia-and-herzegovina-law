@@ -1,0 +1,11 @@
+# ODLUKU O IZMJENI ODLUKE O IMENOVANJU PREDSJEDNICE I DVA POTPREDSJEDNIKA KOMISIJE ZA KOORDINACIJU PITANJA MLADIH U BOSNI I HERCEGOVINI
+
+Naslov: ODLUKU O IZMJENI ODLUKE O IMENOVANJU PREDSJEDNICE I DVA POTPREDSJEDNIKA KOMISIJE ZA KOORDINACIJU PITANJA MLADIH U BOSNI I HERCEGOVINI
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 98/06 (11.12.2006.), akt 14 od 23 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Dgztz5k76kjn45hry5SpVpBU=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
