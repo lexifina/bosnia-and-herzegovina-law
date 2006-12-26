@@ -1,0 +1,11 @@
+# ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O FORMIRANJU UDARNE GRUPE ZA BORBU PROTIV TRGOVINE LJUDIMA I ORGANIZOVANE ILEGALNE IMIGRACIJE
+
+Naslov: ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O FORMIRANJU UDARNE GRUPE ZA BORBU PROTIV TRGOVINE LJUDIMA I ORGANIZOVANE ILEGALNE IMIGRACIJE
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 103/06 (26.12.2006.), akt 2 od 8 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/MQzSB4jXKq0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
