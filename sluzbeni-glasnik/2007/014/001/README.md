@@ -1,0 +1,11 @@
+# POTVRĐENE REZULTATE POSREDNIH IZBORA I DODJELU MANDATA ZA DOM NARODA PARLAMENTA FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: POTVRĐENE REZULTATE POSREDNIH IZBORA I DODJELU MANDATA ZA DOM NARODA PARLAMENTA FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: CENTRALNA IZBORNA KOMISIJA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 14/07 (5.3.2007.), akt 1 od 10 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/A5DotZzS2cI=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
