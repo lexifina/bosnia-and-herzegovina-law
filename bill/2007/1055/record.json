@@ -1,0 +1,25 @@
+{
+  "id": "1055",
+  "title": "Prijedlog zakona o dopunama Zakona o industrijskom vlasništvu u Bosni i Hercegovini",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2007-03-22",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 22.3.2007",
+  "official_procedure_date": "22.3.2007",
+  "proposer": "poslanici Selim Bešlagić i Mirjana Malić",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=1055",
+  "source_sha256": "33c7743b3e7b956a84e42dd68d10be978e4216d7f064ffd81ce5b997661be280",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=320d3136-ffb3-4768-9c27-1105cd199ebe&langTag=bs",
+      "label": "Prijedlog zakona o dopunama Zakona o industrijskom vlasništvu u Bosni i Hercegovini",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
