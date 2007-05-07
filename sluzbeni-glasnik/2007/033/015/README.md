@@ -1,0 +1,11 @@
+# NAREDBU O IZMJENI NAREDBE O UPLATNOM RAČUNU ZA UPLATU SREDSTAVA ZA USLUGE I PUBLIKACIJE AGENCIJE ZA STATISTIKU BOSNE I HERCEGOVINE
+
+Naslov: NAREDBU O IZMJENI NAREDBE O UPLATNOM RAČUNU ZA UPLATU SREDSTAVA ZA USLUGE I PUBLIKACIJE AGENCIJE ZA STATISTIKU BOSNE I HERCEGOVINE
+
+Donosilac: MINISTARSTVO FINANSIJA I TREZORA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 33/07 (7.5.2007.), akt 15 od 15 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/nqTuZTYoq0o=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
