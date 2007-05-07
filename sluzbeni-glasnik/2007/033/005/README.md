@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU PRESTANKA POSLANIČKOG MANDATA EDINU MUŠIĆU, POSLANIKU U PREDSTAVNIČKOM DOMU PARLAMENTARNE SKUPŠTINE BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O UTVRĐIVANJU PRESTANKA POSLANIČKOG MANDATA EDINU MUŠIĆU, POSLANIKU U PREDSTAVNIČKOM DOMU PARLAMENTARNE SKUPŠTINE BOSNE I HERCEGOVINE
+
+Donosilac: PREDSTAVNIČKI DOM PARLAMENTARNE SKUPŠTINE BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 33/07 (7.5.2007.), akt 5 od 15 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/nqTuZTYoq0o=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
