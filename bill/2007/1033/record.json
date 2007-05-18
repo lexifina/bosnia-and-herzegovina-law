@@ -1,0 +1,25 @@
+{
+  "id": "1033",
+  "title": "Prijedlog zakona o izmjenama i dopunama Zakona o osiguranju depozita u bankama Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2007-05-18",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 18.5.2007",
+  "official_procedure_date": "18.5.2007",
+  "proposer": "poslanik Azra Hadžiahmetović",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=1033",
+  "source_sha256": "f97135d95b6e4c25509bc2d5d721ac668d61720dfadc730f9ede71ab353dcc7c",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=dd8b4162-3b30-46da-953c-8daa0e052715&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Zakona o osiguranju depozita u bankama Bosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
