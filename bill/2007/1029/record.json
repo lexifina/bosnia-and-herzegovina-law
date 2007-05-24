@@ -1,0 +1,25 @@
+{
+  "id": "1029",
+  "title": "Prijedlog zakona o zabrani negiranja, minimiziranja, opravdavanja ili odobravanja holokausta, zločina genocida i zločina protiv čovječnosti",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2007-05-24",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 24.5.2007",
+  "official_procedure_date": "24.5.2007",
+  "proposer": "poslanik Ekrem Ajanović",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=1029",
+  "source_sha256": "a10406e175e813cd6de92d9b7be1a4fbefab05e5adba461a250c83d6dfeecac3",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=54236824-1f17-4192-9852-3dacaff15cd4&langTag=bs",
+      "label": "Prijedlog zakona o zabrani negiranja, minimiziranja, opravdavanja ili odobravanja holokausta, zločina genocida i zločina protiv čovječnosti",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
