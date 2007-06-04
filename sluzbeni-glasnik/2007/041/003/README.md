@@ -1,0 +1,11 @@
+# ODLUKU O PRODUŽENJU MANDATA G. PETERA NICHOLLA NA FUNKCIJI INICIJALNOG PREDSJEDAVAJUĆEG UPRAVNOG ODBORA UPRAVE ZA INDIREKTNO OPOREZIVANJE
+
+Naslov: ODLUKU O PRODUŽENJU MANDATA G. PETERA NICHOLLA NA FUNKCIJI INICIJALNOG PREDSJEDAVAJUĆEG UPRAVNOG ODBORA UPRAVE ZA INDIREKTNO OPOREZIVANJE
+
+Donosilac: VISOKI PREDSTAVNIK ZA BOSNU I HERCEGOVINU.
+
+Službeni glasnik BiH broj 41/07 (4.6.2007.), akt 3 od 13 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/8Ndmgztz5k76kjn45hohz4nh78h77MINZI=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
