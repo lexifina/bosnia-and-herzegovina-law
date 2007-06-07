@@ -1,0 +1,25 @@
+{
+  "id": "1027",
+  "title": "Prijedlog zakona o zaštiti planova rasporeda integriranih kola",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2007-06-07",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 7.6.2007",
+  "official_procedure_date": "7.6.2007",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=1027",
+  "source_sha256": "cb23aa13213c807c2cc91f30dd5b252486ea015045bd40743d59852cb457833b",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=e21bf053-98da-4ba4-9ad9-b84d8bef3f59&langTag=bs",
+      "label": "Prijedlog zakona o zaštiti planova rasporeda integriranih kola",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
