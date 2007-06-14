@@ -1,0 +1,25 @@
+{
+  "id": "1026",
+  "title": "Prijedlog zakona o izmjenama i dopunama Zakona o javnim nabavkama Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2007-06-14",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 14.6.2007",
+  "official_procedure_date": "14.6.2007",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=1026",
+  "source_sha256": "c1fe2253e6eb7a03d89996960e3af095de5d2c68022d65cb80ff1f2d7bc86077",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=66e75fb9-7fba-4c81-9d48-a0a414488801&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Zakona o javnim nabavkama Bosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
