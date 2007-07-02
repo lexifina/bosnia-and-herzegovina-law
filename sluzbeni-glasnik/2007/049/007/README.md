@@ -1,0 +1,11 @@
+# POSLOVNIK O PROCEDURI PROVOĐENJA JAVNE KONKURENCIJE I IMENOVANJA ČLANOVA CENTRALNE IZBORNE KOMISIJE BOSNE I HERCEGOVINE
+
+Naslov: POSLOVNIK O PROCEDURI PROVOĐENJA JAVNE KONKURENCIJE I IMENOVANJA ČLANOVA CENTRALNE IZBORNE KOMISIJE BOSNE I HERCEGOVINE
+
+Donosilac: CENTRALNA IZBORNA KOMISIJA BOSNE I HERCEGOVINE KOMISIJA ZA IZBOR I IMENOVANJE.
+
+Službeni glasnik BiH broj 49/07 (2.7.2007.), akt 7 od 7 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/dd3ohz4nh78h77jtTlZIs=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
