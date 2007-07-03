@@ -1,0 +1,25 @@
+{
+  "id": "1024",
+  "title": "Prijedlog zakona o besplatnoj pravnoj pomoći u građanskim stvarima",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2007-07-03",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 3.7.2007",
+  "official_procedure_date": "3.7.2007",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=1024",
+  "source_sha256": "79918959853e29aa2abfc403ad795b3c557e05418c147e353eef1bb41d28c19e",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=b95a9cb0-3dcf-4f36-a439-04fe369b2aaf&langTag=bs",
+      "label": "Prijedlog zakona o besplatnoj pravnoj pomoći u građanskim stvarima",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
