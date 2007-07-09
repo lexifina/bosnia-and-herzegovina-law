@@ -1,0 +1,11 @@
+# PRAVILNIK O LIČNOM STANJU I UPISU ČINJENICA ROĐENJA, VJENČANJA I SMRTI IZBJEGLICA I OSOBA POD MEĐUNARODNOM ZAŠTITOM U BOSNI I HERCEGOVINI U MATIČNE KNJIGE
+
+Naslov: PRAVILNIK O LIČNOM STANJU I UPISU ČINJENICA ROĐENJA, VJENČANJA I SMRTI IZBJEGLICA I OSOBA POD MEĐUNARODNOM ZAŠTITOM U BOSNI I HERCEGOVINI U MATIČNE KNJIGE
+
+Donosilac: MINISTARSTVO ZA LJUDSKA PRAVA I IZBJEGLICE.
+
+Službeni glasnik BiH broj 51/07 (9.7.2007.), akt 2 od 3 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/mTalBQ86uN4=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
