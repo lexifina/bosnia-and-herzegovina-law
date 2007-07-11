@@ -1,0 +1,25 @@
+{
+  "id": "1023",
+  "title": "Prijedlog zakona o imunitetu  Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2007-07-11",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 11.7.2007",
+  "official_procedure_date": "11.7.2007",
+  "proposer": "poslanik Niko Lozančić - hrvatski jezik",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=1023",
+  "source_sha256": "d78d238184139f59060b2d1cb120ec38a77dda9fe8d06d06de2c67af5014ad6d",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=bd033622-ce05-45ef-9211-3601ca7f4628&langTag=bs",
+      "label": "Prijedlog zakona o imunitetu  Bosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
