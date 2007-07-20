@@ -1,0 +1,25 @@
+{
+  "id": "1022",
+  "title": "Prijedlog zakona o izmjenama i dopunama Zakona o carinskoj politici BiH",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2007-07-20",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 20.7.2007",
+  "official_procedure_date": "20.7.2007",
+  "proposer": "Komisija za vanjsku trgovinu i carine Predstavničkog doma",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=1022",
+  "source_sha256": "6871302dd10546bc8c74601b816a3cccbdd113d8ee3b6c0c2b14c76bf1cc5f89",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=7bc8c1ae-4301-450b-b053-f8db65884913&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Zakona o carinskoj politici BiH",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
