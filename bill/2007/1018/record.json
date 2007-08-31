@@ -1,0 +1,25 @@
+{
+  "id": "1018",
+  "title": "Prijedlog zakona o policijskoj strukturi u BiH",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2007-08-31",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 31.8.2007",
+  "official_procedure_date": "31.8.2007",
+  "proposer": "poslanici Drago Kalabić i Branko Dokić - srpski jezik",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=1018",
+  "source_sha256": "d6e1bcd1ff48f313c956042cdc4e3fccf9020a9c3ceb7e31168d22116dea2173",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=ac07b02e-2ca1-4a39-8e6a-979774fe0279&langTag=bs",
+      "label": "Prijedlog zakona o policijskoj strukturi u BiH",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
