@@ -1,0 +1,25 @@
+{
+  "id": "1017",
+  "title": "Prijedlog zakona o primjeni Sporazuma o izmjeni i pristupanju Centralnoevropskom sporazumu o slobodnoj trgovini (CEFTA)",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2007-09-04",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 4.9.2007",
+  "official_procedure_date": "4.9.2007",
+  "proposer": "Komisija za vanjsku trgovinu i carine Predstavničkog doma",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=1017",
+  "source_sha256": "7dc90f83cad70dc1f6e0bf83e95c229456238e4ecde071c652ee19cf64a33ddc",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=b513aad7-393d-4651-b05b-5eb649b9124a&langTag=bs",
+      "label": "Prijedlog zakona o primjeni Sporazuma o izmjeni i pristupanju Centralnoevropskom sporazumu o slobodnoj trgovini (CEFTA)",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
