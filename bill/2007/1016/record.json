@@ -1,0 +1,25 @@
+{
+  "id": "1016",
+  "title": "Prijedlog zakona o izmjenama Zakona o ministarstvima i drugim organima uprave Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2007-09-12",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 12.9.2007",
+  "official_procedure_date": "12.9.2007",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=1016",
+  "source_sha256": "cb16baa113f72a33e7b7f7f99dc8cce1ec084441940539f86082882b2820335e",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=af863189-7a23-4a4e-ae4d-21832a21cd4e&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama Zakona o ministarstvima i drugim organima uprave Bosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
