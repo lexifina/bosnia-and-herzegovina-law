@@ -1,0 +1,11 @@
+# ODLUKU O IZMJENI I DOPUNI ODLUKE O OSNIVANJU KOMISIJE ZA UTVRĐIVANJE RASPOREDA UREDSKOG PROSTORA U ZGRADI PRIJATELJSTVA IZMEĐU GRČKE I BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O IZMJENI I DOPUNI ODLUKE O OSNIVANJU KOMISIJE ZA UTVRĐIVANJE RASPOREDA UREDSKOG PROSTORA U ZGRADI PRIJATELJSTVA IZMEĐU GRČKE I BOSNE I HERCEGOVINE
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 71/07 (24.9.2007.), akt 5 od 5 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/iF1nCqt2jrM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
