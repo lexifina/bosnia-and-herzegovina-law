@@ -1,0 +1,25 @@
+{
+  "id": "1008",
+  "title": "Prijedlog zakona o izmjenama i dopunama Zakona o osnovama sigurnosti saobraćaja na putevima u Bosni i Hercegovini",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2007-10-11",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 11.10.2007",
+  "official_procedure_date": "11.10.2007",
+  "proposer": "Komisija za saobraćaj i komunikacije Predstavničkog doma",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=1008",
+  "source_sha256": "ffbf7a1cd64d57330bbce18bc0ee5fa67c303d8852662774009aa31c59e09117",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=8b56d137-21f7-46e6-878b-2948ea7b0b40&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Zakona o osnovama sigurnosti saobraćaja na putevima u Bosni i Hercegovini",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
