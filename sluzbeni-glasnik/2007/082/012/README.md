@@ -1,0 +1,11 @@
+# UPUTSTVO O ROKOVIMA IZBORNIH AKTIVNOSTI ZA ODRŽAVANJE PRIJEVREMENIH IZBORA ZA NAČELNIKA OPĆINE DONJI VAKUF I NAČELNIKA OPĆINE ČAJNIČE
+
+Naslov: UPUTSTVO O ROKOVIMA IZBORNIH AKTIVNOSTI ZA ODRŽAVANJE PRIJEVREMENIH IZBORA ZA NAČELNIKA OPĆINE DONJI VAKUF I NAČELNIKA OPĆINE ČAJNIČE
+
+Donosilac: CENTRALNA IZBORNA KOMISIJA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 82/07 (30.10.2007.), akt 12 od 24 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/5o6iqATPCak=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
