@@ -1,0 +1,25 @@
+{
+  "id": "999",
+  "title": "Prijedlog zakona o izmjenama i dopunama Zakona o porezu na dodatu vrijednost",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2007-11-19",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 19.11.2007",
+  "official_procedure_date": "19.11.2007",
+  "proposer": "poslanik Branko Dokić i delegat Mladen Ivanić",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=999",
+  "source_sha256": "fe5523553a801d9e8a2265a5b18b780de34ca0141e3cc984555b809386d53657",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=91068648-6938-4614-9a66-b5b1356c9b2c&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Zakona o porezu na dodatu vrijednost",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
