@@ -1,0 +1,11 @@
+# ODLUKU O POTVRĐIVANJU I OBJAVI REZULTATA PRIJEVREMENIH IZBORA ZA NAČELNIKA OPĆINE DONJI VAKUF
+
+Naslov: ODLUKU O POTVRĐIVANJU I OBJAVI REZULTATA PRIJEVREMENIH IZBORA ZA NAČELNIKA OPĆINE DONJI VAKUF
+
+Donosilac: CENTRALNA IZBORNA KOMISIJA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 94/07 (10.12.2007.), akt 3 od 6 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ilLkUUYrFSQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
