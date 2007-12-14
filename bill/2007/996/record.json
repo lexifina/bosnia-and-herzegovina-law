@@ -1,0 +1,25 @@
+{
+  "id": "996",
+  "title": "Prijedlog zakona o izmjenama i dopunama Izbornog zakona Bоsne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2007-12-14",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 14.12.2007",
+  "official_procedure_date": "14.12.2007",
+  "proposer": "poslanici Šefik Džaferović, Niko Lozančić i Milorad Živković i delegati Alma Čolo, Mladen Ivanić i Ilija Filipović",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=996",
+  "source_sha256": "e7a9dd9bff770851d94c852336baafe8c26c31c8977f5ed75d28b921d6288aef",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=a93121ef-687d-40f9-8259-929a725e9207&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Izbornog zakona Bоsne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
