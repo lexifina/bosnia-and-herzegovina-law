@@ -1,0 +1,11 @@
+# ADMINISTRATIVNI DOGOVOR O PROVOĐENJU SPORAZUMA O SOCIJALNOM OSIGURANJU IZMEĐU BOSNE I HERCEGOVINE I REPUBLIKE SLOVENIJE
+
+Naslov: ADMINISTRATIVNI DOGOVOR O PROVOĐENJU SPORAZUMA O SOCIJALNOM OSIGURANJU IZMEĐU BOSNE I HERCEGOVINE I REPUBLIKE SLOVENIJE
+
+Donosilac: MINISTARTSTVO CIVILNIH POSLOVA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 97/07 (18.12.2007.), akt 2 od 11 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/iWmJEaoXsKQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
