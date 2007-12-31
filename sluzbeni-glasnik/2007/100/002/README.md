@@ -1,0 +1,11 @@
+# ODLUKU O POTVRĐIVANJU REZULTATA POSREDNIH IZBORA I DODJELI MANDATA ZA DOM NARODA PARLAMENTA FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O POTVRĐIVANJU REZULTATA POSREDNIH IZBORA I DODJELI MANDATA ZA DOM NARODA PARLAMENTA FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: CENTRALNA IZBORNA KOMISIJA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 100/07 (31.12.2007.), akt 2 od 7 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/zLaB36Ugztz5k76kjn45hR40=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
