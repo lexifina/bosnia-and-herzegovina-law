@@ -1,0 +1,11 @@
+# ODLUKU O DOPUSTIVOSTI I MERITUMU
+
+Naslov: ODLUKU O DOPUSTIVOSTI I MERITUMU
+
+Donosilac: USTAVNI SUD BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 2/08 (8.1.2008.), akt 6 od 12 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/UMPluEMTJEc=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
