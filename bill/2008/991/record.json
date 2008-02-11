@@ -1,0 +1,25 @@
+{
+  "id": "991",
+  "title": "Prijedlog zakona o izmjenama i dopunama Izbornog zakona Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2008-02-11",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 11.2.2008",
+  "official_procedure_date": "11.2.2008",
+  "proposer": "poslanik Jerko Ivanković Lijanović - hrvatski jezik",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=991",
+  "source_sha256": "95221804a8e961df2c432ac780943cf5b26b48d5eb9209c5a8f7f5c9b624da6d",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=a4f39524-835b-4861-a4cd-32ba14245957&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Izbornog zakona Bosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
