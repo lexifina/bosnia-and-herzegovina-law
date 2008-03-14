@@ -1,0 +1,25 @@
+{
+  "id": "981",
+  "title": "Prijedlog zakona o izmjenama i dopunama Zakona o sukobu interesa u institucijama vlasti Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2008-03-14",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 14.3.2008",
+  "official_procedure_date": "14.3.2008",
+  "proposer": "poslanici Šefik Džaferović, Niko Lozančić i Milorad Živković i delegati Alma Čolo, Mladen Ivanić i Ilija Filipović",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=981",
+  "source_sha256": "99f15f841f48f9efa9987c50bcda8964dd44899ccfe241834df90b099e2ec6c5",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=73ae8d5a-3d4f-4b3b-a4fa-9778be852fd9&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Zakona o sukobu interesa u institucijama vlasti Bosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
