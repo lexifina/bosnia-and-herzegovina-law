@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRENJU IMENOVANJA ZAMJENIKA PREDSJEDAVAJUĆEG VIJEĆA MINISTARA BIH, MINISTARA I ZAMJENIKA MINISTARA U VIJEĆU MINISTARA BIH
+
+Naslov: ODLUKU O ODOBRENJU IMENOVANJA ZAMJENIKA PREDSJEDAVAJUĆEG VIJEĆA MINISTARA BIH, MINISTARA I ZAMJENIKA MINISTARA U VIJEĆU MINISTARA BIH
+
+Donosilac: PREDSTAVNIČKI DOM PARLAMENTARNE SKUPŠTINE BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 22/08 (17.3.2008.), akt 1 od 12 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/mg6FizXzeBM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
