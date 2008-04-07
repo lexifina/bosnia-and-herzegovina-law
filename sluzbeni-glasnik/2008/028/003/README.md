@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU SREDSTAVA IZ REZERVE BUDŽETA INSTITUCIJA BOSNE I HERCEGOVINE I MEĐUNARODNIH OBAVEZA BOSNE I HERCEGOVINE ZA 2008. GODINU
+
+Naslov: ODLUKU O ODOBRAVANJU SREDSTAVA IZ REZERVE BUDŽETA INSTITUCIJA BOSNE I HERCEGOVINE I MEĐUNARODNIH OBAVEZA BOSNE I HERCEGOVINE ZA 2008. GODINU
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 28/08 (7.4.2008.), akt 3 od 9 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Q1yGA7sAkohz4nh78h770=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
