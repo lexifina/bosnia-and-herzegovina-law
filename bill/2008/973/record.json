@@ -1,0 +1,25 @@
+{
+  "id": "973",
+  "title": "Prijedlog zakona o graničnoj kontroli",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2008-04-24",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 24.4.2008",
+  "official_procedure_date": "24.4.2008",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=973",
+  "source_sha256": "931c16fcd7f29a3e3ab9d2c330bccb20ebe55c9cba1b9ab4cb9d5394af99dfe0",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=a173f124-442e-4a2a-9e4e-7992a40c4d52&langTag=bs",
+      "label": "Prijedlog zakona o graničnoj kontroli",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
