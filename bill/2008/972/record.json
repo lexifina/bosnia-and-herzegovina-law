@@ -1,0 +1,25 @@
+{
+  "id": "972",
+  "title": "Prijedog zakona o izmjenama i dopunama Zakona o finansiranju političkih stranaka",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2008-04-24",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 24.4.2008",
+  "official_procedure_date": "24.4.2008",
+  "proposer": "poslanici Šefik Džaferović, Niko Lozančić i Milorad Živković i delegati Alma Čolo, Mladen Ivanić i Ilija Filipović",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=972",
+  "source_sha256": "f495f53a5babd64658ded82fba173ab1c70bd028cd52d03393aa02613a715609",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=e4108301-addd-438d-878c-740acd4edd27&langTag=bs",
+      "label": "Prijedog zakona o izmjenama i dopunama Zakona o finansiranju političkih stranaka",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
