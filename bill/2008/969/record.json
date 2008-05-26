@@ -1,0 +1,25 @@
+{
+  "id": "969",
+  "title": "Prijedlog zakona o izmjenama i dopunama Zakona o porezu na dodatu vrijednost",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2008-05-26",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 26.5.2008",
+  "official_procedure_date": "26.5.2008",
+  "proposer": "poslanik Momčilo Novaković - srpski jezik",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=969",
+  "source_sha256": "a50e30e30bd3a29944ef5b755d4e99c0d06d7a954d59c3525f018dd26224c27c",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=de144a73-6f10-445b-b429-39150a62dd8f&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Zakona o porezu na dodatu vrijednost",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
