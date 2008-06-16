@@ -1,0 +1,25 @@
+{
+  "id": "966",
+  "title": "Prijedlog zakona o izmjenama i dopunama Zakona o sportu u Bosni i Hercegovini",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2008-06-16",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 16.6.2008",
+  "official_procedure_date": "16.6.2008",
+  "proposer": "Ustavnopavna komisija Doma naroda",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=966",
+  "source_sha256": "a725b0e87bcb9ec32b215ddd2df8804fb71adf2ee5165d52179fd58cfcc41b2c",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=208fbb24-e5e6-4c2d-9020-25ce815e1ada&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Zakona o sportu u Bosni i Hercegovini",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
