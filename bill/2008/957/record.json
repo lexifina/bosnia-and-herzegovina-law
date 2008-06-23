@@ -1,0 +1,25 @@
+{
+  "id": "957",
+  "title": "Prijedlog zakona o javnim putevima",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2008-06-23",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 23.6.2008",
+  "official_procedure_date": "23.6.2008",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=957",
+  "source_sha256": "a0d2fb252fa6f1d38f5450ea3ec95baec853d207b7749b9f5cd0e54502cccc21",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=6ee3e2f8-180c-49f2-8b2e-20bdce8d0670&langTag=bs",
+      "label": "Prijedlog zakona o javnim putevima",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
