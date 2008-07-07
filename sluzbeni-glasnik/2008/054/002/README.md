@@ -1,0 +1,11 @@
+# ODLUKU O IMENOVANJU VRŠIOCA DUŽNOSTI DIREKTORA DRŽAVNE REGULATORNE AGENCIJE ZA RADIJACIJSKU I NUKLEARNU SIGURNOST
+
+Naslov: ODLUKU O IMENOVANJU VRŠIOCA DUŽNOSTI DIREKTORA DRŽAVNE REGULATORNE AGENCIJE ZA RADIJACIJSKU I NUKLEARNU SIGURNOST
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 54/08 (7.7.2008.), akt 2 od 12 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/1GNohz4nh78h779fPo1fc=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
