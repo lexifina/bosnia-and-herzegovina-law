@@ -1,0 +1,25 @@
+{
+  "id": "956",
+  "title": "Prijedlog zakona o izmjenama i dopunama Zakona o Vijeću ministara Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2008-07-11",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 11.7.2008",
+  "official_procedure_date": "11.7.2008",
+  "proposer": "poslanik Milorad Živković - srpski jezik",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=956",
+  "source_sha256": "465d006a7f33ba93447aa8e0da35dbb444ff279f5785820acfa66a30f7a0fb6f",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=ea23dea8-abfc-4bf1-9532-9c182971e66a&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Zakona o Vijeću ministara Bosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
