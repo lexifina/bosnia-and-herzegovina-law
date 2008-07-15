@@ -1,0 +1,11 @@
+# ODLUKU O IMENOVANJU GENERALNOG REVIZORA I ZAMJENIKA GENERALNOG REVIZORA UREDA ZA REVIZIJU INSTITUCIJA BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O IMENOVANJU GENERALNOG REVIZORA I ZAMJENIKA GENERALNOG REVIZORA UREDA ZA REVIZIJU INSTITUCIJA BOSNE I HERCEGOVINE
+
+Donosilac: PARLAMENTARNA SKUPŠTINA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 57/08 (15.7.2008.), akt 1 od 3 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/MGz6bZaFQ6M=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
