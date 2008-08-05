@@ -1,0 +1,11 @@
+# ODLUKU O POTVRĐIVANJU ODLUKE PREDSJEDNIŠTVA BOSNE I HERCEGOVINE O UČEŠĆU JEDINICE ORUŽANIH SNAGA BOSNE I HERCEGOVINE U OPERACIJI PODRŠKE MIRU "IRAČKA SLOBODA" U IRAKU
+
+Naslov: ODLUKU O POTVRĐIVANJU ODLUKE PREDSJEDNIŠTVA BOSNE I HERCEGOVINE O UČEŠĆU JEDINICE ORUŽANIH SNAGA BOSNE I HERCEGOVINE U OPERACIJI PODRŠKE MIRU "IRAČKA SLOBODA" U IRAKU
+
+Donosilac: PARLAMENTARNA SKUPŠTINA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 63/08 (5.8.2008.), akt 8 od 17 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Rzptn3gceCU=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
