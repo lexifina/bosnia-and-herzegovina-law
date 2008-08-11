@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU PRIVREMENIH KOEFICIJENATA ZA RASPODJELU SREDSTAVA S JEDINSTVENOG RAČUNA ZA PERIOD JULI - SEPTEMBAR 2008. GODINE
+
+Naslov: ODLUKU O UTVRĐIVANJU PRIVREMENIH KOEFICIJENATA ZA RASPODJELU SREDSTAVA S JEDINSTVENOG RAČUNA ZA PERIOD JULI - SEPTEMBAR 2008. GODINE
+
+Donosilac: BOSNA I HERCEGOVINA UPRAVA ZA INDIREKTNO OPOREZIVANJE.
+
+Službeni glasnik BiH broj 64/08 (11.8.2008.), akt 18 od 20 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/DRS1O4Gohz4nh78h77pok=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
