@@ -1,0 +1,11 @@
+# ODLUKU O POSTUPKU KANDIDOVANJA I IMENOVANJA MEĐUNARODNIH PREDSTAVNIKA BOSNE I HERCEGOVINE U MEĐUNARODNIM ORGANIZACIJAMA I INSTITUCIJAMA
+
+Naslov: ODLUKU O POSTUPKU KANDIDOVANJA I IMENOVANJA MEĐUNARODNIH PREDSTAVNIKA BOSNE I HERCEGOVINE U MEĐUNARODNIM ORGANIZACIJAMA I INSTITUCIJAMA
+
+Donosilac: PREDSJEDNIŠTVO BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 66/08 (13.8.2008.), akt 1 od 12 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ywXeroDRyTY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
