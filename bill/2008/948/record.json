@@ -1,0 +1,25 @@
+{
+  "id": "948",
+  "title": "Prijedlog zakona o Agenciji za razvoj informacijskog društva Bosne i Hercegovine (ZARID)",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2008-08-18",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 18.8.2008",
+  "official_procedure_date": "18.8.2008",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=948",
+  "source_sha256": "e2f3897319a9426a552f2d57c7a2555dfc2f6de9f093eaf3bff75e9d695e23c8",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=cc7f61f1-56b4-480d-8775-b46236c04e52&langTag=bs",
+      "label": "Prijedlog zakona o Agenciji za razvoj informacijskog društva Bosne i Hercegovine (ZARID)",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
