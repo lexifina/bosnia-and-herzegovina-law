@@ -1,0 +1,25 @@
+{
+  "id": "945",
+  "title": "Prijedlog zakona o izmjenama i dopunama Zakona o izmirenju obaveza po osnovi računa stare devizne štednje",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2008-09-01",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 1.9.2008",
+  "official_procedure_date": "1.9.2008",
+  "proposer": "poslanik Jerko Ivanković Lijanović - hrvatski jezik",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=945",
+  "source_sha256": "1c10ba4b2752d903e9190d963480fd5261c91fcb4c0c0ae08f171ef1ac5d767b",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=3209286b-92e8-40ef-aa6d-63afb5839b08&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Zakona o izmirenju obaveza po osnovi računa stare devizne štednje",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
