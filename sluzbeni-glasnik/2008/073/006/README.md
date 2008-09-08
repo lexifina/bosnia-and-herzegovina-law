@@ -1,0 +1,11 @@
+# ODLUKU O OSNIVANJU MJEŠOVITE KOMISIJE ZA PROVOĐENJE OSNOVNOG UGOVORA IZMEĐU BOSNE I HERCEGOVINE I SVETE STOLICE I DODATNOG PROTOKOLA NA OSNOVNI UGOVOR
+
+Naslov: ODLUKU O OSNIVANJU MJEŠOVITE KOMISIJE ZA PROVOĐENJE OSNOVNOG UGOVORA IZMEĐU BOSNE I HERCEGOVINE I SVETE STOLICE I DODATNOG PROTOKOLA NA OSNOVNI UGOVOR
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 73/08 (8.9.2008.), akt 6 od 8 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/UbowskERdts=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
