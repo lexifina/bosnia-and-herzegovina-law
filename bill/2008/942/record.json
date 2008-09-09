@@ -1,0 +1,25 @@
+{
+  "id": "942",
+  "title": "Prijedlog zakona o popisu stanovništva i domaćinstava u Bosni i Hercegovini 2011. godine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2008-09-09",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 9.9.2008",
+  "official_procedure_date": "9.9.2008",
+  "proposer": "poslanik Momčilo Novaković i delegat Slobodan Šaraba - srpski jezik",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=942",
+  "source_sha256": "69d0b449a7cbca6d301717938ee7d54efef5db72f33f515babc48d1b2f179896",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=316d46d5-c3f7-460b-940c-0cb03e30e092&langTag=bs",
+      "label": "Prijedlog zakona o popisu stanovništva i domaćinstava u Bosni i Hercegovini 2011. godine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
