@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU I OBJAVI BROJA BIRAČA UPISANIH U CENTRALNI BIRAČKI SPISAK PO OSNOVNIM IZBORNIM JEDINICAMA ZA LOKALNE IZBORE 2008. GODINE
+
+Naslov: ODLUKU O UTVRĐIVANJU I OBJAVI BROJA BIRAČA UPISANIH U CENTRALNI BIRAČKI SPISAK PO OSNOVNIM IZBORNIM JEDINICAMA ZA LOKALNE IZBORE 2008. GODINE
+
+Donosilac: CENTRALNA IZBORNA KOMISIJA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 74/08 (9.9.2008.), akt 4 od 6 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/kGBiJHj3AfY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
