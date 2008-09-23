@@ -1,0 +1,11 @@
+# INSTRUKCIJU O DOPUNI INSTRUKCIJE O NAČINU VRŠENJA INTERNIH I EKSTERNIH PREMJEŠTAJA DRŽAVNIH SLUŽBENIKA U INSTITUCIJAMA BOSNE I HERCEGOVINE
+
+Naslov: INSTRUKCIJU O DOPUNI INSTRUKCIJE O NAČINU VRŠENJA INTERNIH I EKSTERNIH PREMJEŠTAJA DRŽAVNIH SLUŽBENIKA U INSTITUCIJAMA BOSNE I HERCEGOVINE
+
+Donosilac: AGENCIJA ZA DRŽAVNU SLUŽBU BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 77/08 (23.9.2008.), akt 8 od 8 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/MpHTLZXRgztz5k76kjn45hYo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
