@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU POMOĆNIKA MINISTRA U SEKTORU ZA MULTILATERALNE ODNOSE U MINISTARSTVU VANJSKIH POSLOVA BOSNE I HERCEGOVINE
+
+Naslov: RJEŠENJE O IMENOVANJU POMOĆNIKA MINISTRA U SEKTORU ZA MULTILATERALNE ODNOSE U MINISTARSTVU VANJSKIH POSLOVA BOSNE I HERCEGOVINE
+
+Donosilac: MINISTARSTVO VANJSKIH POSLOVA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 82/08 (13.10.2008.), akt 4 od 6 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/wQnVfNlLR00=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
