@@ -1,0 +1,25 @@
+{
+  "id": "937",
+  "title": "Prijedlog zakona o maloljetnim počiniocima krivičnih dijela i krivičnopravnoj zaštiti djece i maloljetnika",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2008-10-17",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 17.10.2008",
+  "official_procedure_date": "17.10.2008",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=937",
+  "source_sha256": "f270d4ad13977f3e87348879e8ab2e82e2b114a3dd10f49cc784a5e7e8a2a307",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=82201712-a5be-4ecb-ab4d-44399cbcfaba&langTag=bs",
+      "label": "Prijedlog zakona o maloljetnim počiniocima krivičnih dijela i krivičnopravnoj zaštiti djece i maloljetnika",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
