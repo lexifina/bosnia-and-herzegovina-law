@@ -1,0 +1,25 @@
+{
+  "id": "936",
+  "title": "Prijedlog zakona o izmjeni Zakona o državnoj službi u institucijama Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2008-10-22",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 22.10.2008",
+  "official_procedure_date": "22.10.2008",
+  "proposer": "poslanici Niko Lozančić, Beriz Belkić i Milorad Živković",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=936",
+  "source_sha256": "940f8f83c8de2aa5759c4a412d1cf1ab16d0093e4782363e0c4d758be657ee47",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=31014287-3d8b-4cc2-bdd6-2ce686c5ae63&langTag=bs",
+      "label": "Prijedlog zakona o izmjeni Zakona o državnoj službi u institucijama Bosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
