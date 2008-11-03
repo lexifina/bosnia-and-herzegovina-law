@@ -1,0 +1,11 @@
+# PRAVILNIK O ORGANIZACIJI GLAVNOG CENTRA ZA BROJANJE, NAČINU VERIFIKACIJE I BROJANJA GLASAČKIH LISTIĆA NA LOKALNIM IZBORIMA 2008. GODINE
+
+Naslov: PRAVILNIK O ORGANIZACIJI GLAVNOG CENTRA ZA BROJANJE, NAČINU VERIFIKACIJE I BROJANJA GLASAČKIH LISTIĆA NA LOKALNIM IZBORIMA 2008. GODINE
+
+Donosilac: CENTRALNA IZBORNA KOMISIJA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 88/08 (3.11.2008.), akt 1 od 1 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/2qmutzHe114=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
