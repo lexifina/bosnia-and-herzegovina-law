@@ -1,0 +1,11 @@
+# ODLUKU O OSNIVANJU RADNE GRUPE INSTITUCIJA BOSNE I HERCEGOVINE ZA SPREČAVANJE PRANJA NOVCA I FINANSIRANJA TERORISTIČKIH AKTIVNOSTI
+
+Naslov: ODLUKU O OSNIVANJU RADNE GRUPE INSTITUCIJA BOSNE I HERCEGOVINE ZA SPREČAVANJE PRANJA NOVCA I FINANSIRANJA TERORISTIČKIH AKTIVNOSTI
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 92/08 (17.11.2008.), akt 7 od 10 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/bcHOQyRTgYA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
