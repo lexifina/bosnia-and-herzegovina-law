@@ -1,0 +1,11 @@
+# ODLUKU O KRITERIJIMA ZA DODJELU SREDSTAVA IZ GRANTA "PROGRAMI ZA PRIPREMU PROJEKATA I POTENCIJALNIH KANDIDATA ZA SREDSTVA IZ FONDA EU-FP7" ZA 2008. GODINU
+
+Naslov: ODLUKU O KRITERIJIMA ZA DODJELU SREDSTAVA IZ GRANTA "PROGRAMI ZA PRIPREMU PROJEKATA I POTENCIJALNIH KANDIDATA ZA SREDSTVA IZ FONDA EU-FP7" ZA 2008. GODINU
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 98/08 (9.12.2008.), akt 1 od 10 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/TwlmcQyjBFM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
