@@ -1,0 +1,25 @@
+{
+  "id": "928",
+  "title": "Prijedlog zakona o unutrašnjoj i pomorskoj plovidbi",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2008-12-15",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 15.12.2008",
+  "official_procedure_date": "15.12.2008",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=928",
+  "source_sha256": "59dba0fa0ee36353d114d75028f7f5c8dfaa8268a457d5828225d63ebb476915",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=dd36d549-0d26-42e7-b9e6-18768f1272a6&langTag=bs",
+      "label": "Prijedlog zakona o unutrašnjoj i pomorskoj plovidbi",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
