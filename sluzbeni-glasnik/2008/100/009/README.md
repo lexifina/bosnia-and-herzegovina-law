@@ -1,0 +1,11 @@
+# RJEŠENJE O VISINI TROŠKOVA POLAGANJA STRUČNOG UPRAVNOG ISPITA I O ODREĐIVANJU NAKNADE ZA RAD U KOMISIJAMA ZA POLAGANJE STRUČNOG UPRAVNOG ISPITA
+
+Naslov: RJEŠENJE O VISINI TROŠKOVA POLAGANJA STRUČNOG UPRAVNOG ISPITA I O ODREĐIVANJU NAKNADE ZA RAD U KOMISIJAMA ZA POLAGANJE STRUČNOG UPRAVNOG ISPITA
+
+Donosilac: MINISTARSTVO PRAVDE BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 100/08 (16.12.2008.), akt 9 od 17 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/fHZx7qp5OvQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
