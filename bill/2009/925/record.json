@@ -1,0 +1,25 @@
+{
+  "id": "925",
+  "title": "Prijedlog zakona o advokaturi Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2009-01-09",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 9.1.2009",
+  "official_procedure_date": "9.1.2009",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=925",
+  "source_sha256": "39592f468a79167a8f0f95ae51bbddbd978bd2b923fd2868c1350d849e846f99",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=3e301489-16a1-451c-be22-2144f3aa25c2&langTag=bs",
+      "label": "Prijedlog zakona o advokaturi Bosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
