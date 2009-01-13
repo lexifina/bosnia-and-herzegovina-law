@@ -1,0 +1,25 @@
+{
+  "id": "923",
+  "title": "Prijedlog zakona o dopuni Zakona o službenom glasilu Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2009-01-13",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 13.1.2009",
+  "official_procedure_date": "13.1.2009",
+  "proposer": "poslanik Adem Huskić - bosanski jezik",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=923",
+  "source_sha256": "1e8ec754d16e13d88a676534beb95fb429307bf4236d7fa362dddbe69203d23f",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=0e265cda-8c94-4aa0-be29-c3f1d163db63&langTag=bs",
+      "label": "Prijedlog zakona o dopuni Zakona o službenom glasilu Bosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
