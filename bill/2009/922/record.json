@@ -1,0 +1,25 @@
+{
+  "id": "922",
+  "title": "Prijedlog zakona o međunarodnoj pravnoj pomoći u krivičnim stvarima",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2009-01-19",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 19.1.2009",
+  "official_procedure_date": "19.1.2009",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=922",
+  "source_sha256": "742ea62e4592a7178af433dbecfcf864ea398e296e40e052b119155e9eefd6a6",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=b17979ea-43de-44aa-a96e-33661611c5c8&langTag=bs",
+      "label": "Prijedlog zakona o međunarodnoj pravnoj pomoći u krivičnim stvarima",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
