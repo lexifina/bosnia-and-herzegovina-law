@@ -1,0 +1,25 @@
+{
+  "id": "921",
+  "title": "Prijedlog zakona o Garancijskom fondu",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2009-01-20",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 20.1.2009",
+  "official_procedure_date": "20.1.2009",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=921",
+  "source_sha256": "7125221886c4d4b8d6166a5c0f19e004b08c1c0903b0a16f2bf6495900eaa96b",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=ba8878cf-b2ab-4fe9-bff5-52155fd061b2&langTag=bs",
+      "label": "Prijedlog zakona o Garancijskom fondu",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
