@@ -1,0 +1,25 @@
+{
+  "id": "914",
+  "title": "Prijedlog zakona o poštama Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2009-02-03",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 3.2.2009",
+  "official_procedure_date": "3.2.2009",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=914",
+  "source_sha256": "da00034cea2f9e4e982179e22035e401635c04cb708eecdb9f86fdf3dbe5f59b",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=85a3543a-340e-4fbb-9765-34623d7532f2&langTag=bs",
+      "label": "Prijedlog zakona o poštama Bosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
