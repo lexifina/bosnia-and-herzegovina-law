@@ -1,0 +1,11 @@
+# POSLOVNIK O RADU UPRAVNOG ODBORA USPOSTAVLJENOG PREMA ZAKONU O SISTEMU INDIREKTNOG OPOREZIVANJA U BOSNI I HERCEGOVINI
+
+Naslov: POSLOVNIK O RADU UPRAVNOG ODBORA USPOSTAVLJENOG PREMA ZAKONU O SISTEMU INDIREKTNOG OPOREZIVANJA U BOSNI I HERCEGOVINI
+
+Donosilac: BOSNA I HERCEGOVINA UPRAVA ZA INDIREKTNO OPOREZIVANJE.
+
+Službeni glasnik BiH broj 14/09 (17.2.2009.), akt 3 od 7 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/JWB7nMex5HA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
