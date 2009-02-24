@@ -1,0 +1,11 @@
+# SPORAZUM O ZAJEDNIČKOM JEZGRU CJELOVITIH RAZVOJNIH PROGRAMA ZA RAD U PREDŠKOLSKIM USTANOVAMA
+
+Naslov: SPORAZUM O ZAJEDNIČKOM JEZGRU CJELOVITIH RAZVOJNIH PROGRAMA ZA RAD U PREDŠKOLSKIM USTANOVAMA
+
+Donosilac: MINISTARSTVO OBRAZOVANJA REPUBLIKE SRPSKE, MINISTARSTVA OBRAZOVANJA SVIH KANTONA IZ FEDERACIJE BIH I ODJEL ZA OBRAZOVANJE VLADE BRČKO DISTRI.
+
+Službeni glasnik BiH broj 16/09 (24.2.2009.), akt 2 od 2 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ipk4Gvjb9oc=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
