@@ -1,0 +1,25 @@
+{
+  "id": "909",
+  "title": "Prijedlog zakona o izmjenama i dopunama Zakona o slobodi pristupa informacijama u Bosni i Hercegovini",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2009-02-27",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 27.2.2009",
+  "official_procedure_date": "27.2.2009",
+  "proposer": "poslanik Sefer Halilović",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=909",
+  "source_sha256": "d15fee30bb584b693aa8ed3c80af3e1e1bc68af139a9b0ff123ab66d5baea982",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=ecc4ecda-1a32-4573-aa7c-62a0f9570031&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Zakona o slobodi pristupa informacijama u Bosni i Hercegovini",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
