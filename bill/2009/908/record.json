@@ -1,0 +1,25 @@
+{
+  "id": "908",
+  "title": "Prijedlog zakona o finansijskom lizingu",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2009-03-04",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 4.3.2009",
+  "official_procedure_date": "4.3.2009",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=908",
+  "source_sha256": "6d398c83514fde4cbd055703b78c1dbb86f2bec8626c75f35a4cb480c4991d29",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=6149e33b-e13d-4075-a2fc-d62116ba0079&langTag=bs",
+      "label": "Prijedlog zakona o finansijskom lizingu",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
