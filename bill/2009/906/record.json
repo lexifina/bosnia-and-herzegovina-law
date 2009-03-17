@@ -1,0 +1,25 @@
+{
+  "id": "906",
+  "title": "Prijedlog zakona o postupku zaključivanja i izvršavanja međunarodnih ugovora",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2009-03-17",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 17.3.2009",
+  "official_procedure_date": "17.3.2009",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=906",
+  "source_sha256": "93a6f3681c1ba1be6c5739654e8fa7ee074d66acd687b5b039cc867b8f3c25db",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=daf7dd24-e2ab-410d-84e1-6bf941a3e741&langTag=bs",
+      "label": "Prijedlog zakona o postupku zaključivanja i izvršavanja međunarodnih ugovora",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
