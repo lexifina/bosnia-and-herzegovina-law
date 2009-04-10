@@ -1,0 +1,25 @@
+{
+  "id": "903",
+  "title": "Prijedlog zakona o dopuni Zakona о porezu na dodatu vrijednost",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2009-04-10",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 10.4.2009",
+  "official_procedure_date": "10.4.2009",
+  "proposer": "Klub poslanika SNSD - srpski jezik",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=903",
+  "source_sha256": "31abedccc287b3d16c8ef3ce034911db7f0f993379aed0ae70312b53ba27e06c",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=090bfb8c-ad7a-49af-8100-6891bcbe30d7&langTag=bs",
+      "label": "Prijedlog zakona o dopuni Zakona о porezu na dodatu vrijednost",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
