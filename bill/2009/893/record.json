@@ -1,0 +1,25 @@
+{
+  "id": "893",
+  "title": "Prijedlog zakona o izmjenama i dopunama Krivičnog zakona Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2009-04-29",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 29.4.2009",
+  "official_procedure_date": "29.4.2009",
+  "proposer": "poslanici Ekrem Ajanović, Remzija Kadrić i Adem Huskić",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=893",
+  "source_sha256": "ea80cf8f2d420d8d3a3d5f7dbfc87dfaf8f549146d93ecf5956840cb4874f307",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=770b60c2-4e58-4786-8cd3-82a05bb7db47&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Krivičnog zakona Bosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
