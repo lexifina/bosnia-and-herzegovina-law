@@ -1,0 +1,25 @@
+{
+  "id": "892",
+  "title": "Prijedlog zakona o dopuni Zakona o osnovama sigurnosti saobraćaja na putevima u Bosni i Hercegovini",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2009-05-13",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 13.5.2009",
+  "official_procedure_date": "13.5.2009",
+  "proposer": "delegati Ilija Filipović, Sulejman Tihić i Dušanka Majkić",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=892",
+  "source_sha256": "0ae22804aad75b761626d6571d08a7cf7fc3f6206e3745efff278003e8c92cf0",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=6b30a8e9-a3da-429f-a7d7-f7424b4e381e&langTag=bs",
+      "label": "Prijedlog zakona o dopuni Zakona o osnovama sigurnosti saobraćaja na putevima u Bosni i Hercegovini",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
