@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU POMOĆNIKA MINISTRA U SEKTORU ZA LJUDSKA PRAVA U MINISTARSTVU ZA LJUDSKA PRAVA I IZBJEGLICE BOSNE I HERCEGOVINE
+
+Naslov: RJEŠENJE O IMENOVANJU POMOĆNIKA MINISTRA U SEKTORU ZA LJUDSKA PRAVA U MINISTARSTVU ZA LJUDSKA PRAVA I IZBJEGLICE BOSNE I HERCEGOVINE
+
+Donosilac: MINISTARSTVO ZA LJUDSKA PRAVA I IZBJEGLICE.
+
+Službeni glasnik BiH broj 40/09 (25.5.2009.), akt 11 od 11 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/6BHsGUv9Qfw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
