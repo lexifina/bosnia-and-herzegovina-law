@@ -1,0 +1,11 @@
+# PRAVILNIK O DOPUNI PRAVILNIKA O POSTUPKU ZA ISPITIVANJE, ŽIGOSANJE I OBILJEŽAVANJE RUČNOG VATRENOG ORUŽJA, MUNICIJE I RUČNIH APARATA I NAPRAVA
+
+Naslov: PRAVILNIK O DOPUNI PRAVILNIKA O POSTUPKU ZA ISPITIVANJE, ŽIGOSANJE I OBILJEŽAVANJE RUČNOG VATRENOG ORUŽJA, MUNICIJE I RUČNIH APARATA I NAPRAVA
+
+Donosilac: MINISTARSTVO VANJSKE TRGOVINE I EKONOMSKIH ODNOSA BIH.
+
+Službeni glasnik BiH broj 42/09 (1.6.2009.), akt 2 od 20 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/4Koo8oNzAcs=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
