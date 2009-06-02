@@ -1,0 +1,11 @@
+# ODLUKU O VISINI TROŠKOVA ZA IZDAVANJE LICENCI I VISINI GODIŠNJE NAKNADE ZA OBAVLJANJE POŠTANSKIH USLUGA
+
+Naslov: ODLUKU O VISINI TROŠKOVA ZA IZDAVANJE LICENCI I VISINI GODIŠNJE NAKNADE ZA OBAVLJANJE POŠTANSKIH USLUGA
+
+Donosilac: AGENCIJA ZA POŠTANSKI PROMET BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 43/09 (2.6.2009.), akt 25 od 32 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/NkmQFm0CuL4=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
