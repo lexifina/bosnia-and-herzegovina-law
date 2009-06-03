@@ -1,0 +1,25 @@
+{
+  "id": "887",
+  "title": "Prijedlog zakona o protivminskom djelovanju u Bosni i Hercegovini",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2009-06-03",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 3.6.2009",
+  "official_procedure_date": "3.6.2009",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=887",
+  "source_sha256": "b93ce391c08e038bc2458a17684f90737ad46d44c6536465e4f46c8bfdc21b47",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=1fe62694-118d-4aa3-bb15-aaa69c8c1d7b&langTag=bs",
+      "label": "Prijedlog zakona o protivminskom djelovanju u Bosni i Hercegovini",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
