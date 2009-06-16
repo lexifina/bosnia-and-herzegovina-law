@@ -1,0 +1,11 @@
+# ODLUKU O IMENOVANJU PREDSTAVNIKA IZ BOSNE I HERCEGOVINE U PANEL EKSPERATA NA VISOKOM NIVOU ZA SIGURNOST HRANE ORGANIZACIJE ZA HRANU I POLJOPRIVREDU
+
+Naslov: ODLUKU O IMENOVANJU PREDSTAVNIKA IZ BOSNE I HERCEGOVINE U PANEL EKSPERATA NA VISOKOM NIVOU ZA SIGURNOST HRANE ORGANIZACIJE ZA HRANU I POLJOPRIVREDU
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 47/09 (16.6.2009.), akt 3 od 6 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/MhsNmPEajfs=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
