@@ -1,0 +1,25 @@
+{
+  "id": "883",
+  "title": "Prijedlog zakona o izmjeni Zakona o državnoj himni Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2009-06-17",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 17.6.2009",
+  "official_procedure_date": "17.6.2009",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=883",
+  "source_sha256": "537fe3cae0a482d592138b8259bf435fa9a3ee995abcdb513ca145fc60684faf",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=d001e154-f3ed-4e48-85ab-42010bcbbc58&langTag=bs",
+      "label": "Prijedlog zakona o izmjeni Zakona o državnoj himni Bosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
