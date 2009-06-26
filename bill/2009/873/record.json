@@ -1,0 +1,25 @@
+{
+  "id": "873",
+  "title": "Prijedlog zakona o izmjenama i dopunama Izbornog zakona Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2009-06-26",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 26.6.2009",
+  "official_procedure_date": "26.6.2009",
+  "proposer": "Komisija za ostvarivanje ravnopravnosti spolova Predstavničkog doma",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=873",
+  "source_sha256": "5cc5d1be8758ddc3ec1828ee33657936b758ebb51899cd8a61d5ac9f8cdbd58f",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=4ae47835-4125-4bfa-a728-49b62a8c7fb7&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Izbornog zakona Bosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
