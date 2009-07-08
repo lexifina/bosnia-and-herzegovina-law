@@ -1,0 +1,25 @@
+{
+  "id": "871",
+  "title": "Prijedlog zakona o dopuni Zakona o plaćama i naknadama u institucijama BiH",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2009-07-08",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 8.7.2009",
+  "official_procedure_date": "8.7.2009",
+  "proposer": "Klub poslanika Stranke za BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=871",
+  "source_sha256": "ad88abe1e6ff95b0c53e532b402273a14797a68cc8f79b881492745dd5644f35",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=8201656a-da0d-4140-9acb-804eebe6ca6c&langTag=bs",
+      "label": "Prijedlog zakona o dopuni Zakona o plaćama i naknadama u institucijama BiH",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
