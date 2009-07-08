@@ -1,0 +1,31 @@
+{
+  "id": "872",
+  "title": "Prijedlog Amandmana II na Ustav Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "pending",
+  "source_categories": [
+    1
+  ],
+  "record_date": "2009-07-08",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 8.7.2009",
+  "official_procedure_date": "8.7.2009",
+  "proposer": "Klub poslanika Stranke za BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=872",
+  "source_sha256": "88f94fe5a8a1953f781feba2d4527f4ea260898199c980c330afef89709322f8",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=2c5464ff-17b7-4185-9417-8db5d560276d&langTag=bs",
+      "label": "Prijedlog Amandmana II na Ustav Bosne i Hercegovine",
+      "sha256": "8451ac06e2eaba4a50d7e126bf45d9bf918ad37a828e72c5547700ce7e7b52b3",
+      "pages": 1,
+      "source_images": 1,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "empty_pages": [],
+      "text_status": "text held: image-bearing document requires image review"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
