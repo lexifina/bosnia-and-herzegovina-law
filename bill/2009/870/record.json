@@ -1,0 +1,25 @@
+{
+  "id": "870",
+  "title": "Prijedlog zakona o izmjenama Zakona o akcizama u Bosni i Hercegovini",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2009-07-09",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 9.7.2009",
+  "official_procedure_date": "9.7.2009",
+  "proposer": "poslanik Jerko Ivanković Lijanović - hrvatski jezik",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=870",
+  "source_sha256": "511db054a02f38b943cfe98d1534bb92f11b5205760a389c9600b2bc8dd33cd3",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=e4bc5599-8193-4cb1-8f65-8b5dbe0dbad0&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama Zakona o akcizama u Bosni i Hercegovini",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
