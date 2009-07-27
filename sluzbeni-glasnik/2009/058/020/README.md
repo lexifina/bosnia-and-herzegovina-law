@@ -1,0 +1,11 @@
+# ODLUKU O DOPUNAMA ODLUKE O PROGLAŠENJU GRADITELJSKE CJELINE - REPOVAČKA DŽAMIJA U KONJICU NACIONALNIM SPOMENIKOM BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O DOPUNAMA ODLUKE O PROGLAŠENJU GRADITELJSKE CJELINE - REPOVAČKA DŽAMIJA U KONJICU NACIONALNIM SPOMENIKOM BOSNE I HERCEGOVINE
+
+Donosilac: KOMISIJA ZA OČUVANJE NACIONALNIH SPOMENIKA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 58/09 (27.7.2009.), akt 20 od 24 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/vDF7cZ0tlwI=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
