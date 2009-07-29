@@ -1,0 +1,25 @@
+{
+  "id": "863",
+  "title": "Prijedlog zakona o izmjenama Zakona o Sudu Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2009-07-29",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 29.7.2009",
+  "official_procedure_date": "29.7.2009",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=863",
+  "source_sha256": "00a5ff4ec2fe3b8aa203125dcacd1f8f572dde16836bb90c113e1f20bc027efe",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=cd113d48-b61f-4ade-8411-ea6fd585329b&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama Zakona o Sudu Bosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
