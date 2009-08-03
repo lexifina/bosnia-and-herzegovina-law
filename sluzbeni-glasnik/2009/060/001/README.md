@@ -1,0 +1,11 @@
+# ODLUKU O POTVRDI ODLUKE O SMJENI MINISTRA SIGURNOSTI BOSNE I HERCEGOVINE I ZAMJENIKA PREDSJEDAVAJUĆEG VIJEĆA MINISTARA BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O POTVRDI ODLUKE O SMJENI MINISTRA SIGURNOSTI BOSNE I HERCEGOVINE I ZAMJENIKA PREDSJEDAVAJUĆEG VIJEĆA MINISTARA BOSNE I HERCEGOVINE
+
+Donosilac: PARLAMENTARNA SKUPŠTINA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 60/09 (3.8.2009.), akt 1 od 8 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/O0jeM0jeohz4nh78h77YQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
