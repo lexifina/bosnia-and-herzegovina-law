@@ -1,0 +1,11 @@
+# ODLUKU O UPISU 1/3 OBAVEZE BOSNE I HERCEGOVINE U MDRI (INICIJATIVA MULTILATERALNOG FINANSIRANJA UMANJENJA DUGA) MEĐUNARODNE ASOCIJACIJE ZA RAZVOJ - IDA
+
+Naslov: ODLUKU O UPISU 1/3 OBAVEZE BOSNE I HERCEGOVINE U MDRI (INICIJATIVA MULTILATERALNOG FINANSIRANJA UMANJENJA DUGA) MEĐUNARODNE ASOCIJACIJE ZA RAZVOJ - IDA
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 66/09 (24.8.2009.), akt 7 od 9 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/LhxZP5iKCNY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
