@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU SREDSTAVA IZ TEKUĆE REZERVE BUDŽETA INSTITUCIJA BOSNE I HERCEGOVINE I MEĐUNARODNIH OBAVEZA BOSNE I HERCEGOVINE ZA 2009. GODINU
+
+Naslov: ODLUKU O ODOBRAVANJU SREDSTAVA IZ TEKUĆE REZERVE BUDŽETA INSTITUCIJA BOSNE I HERCEGOVINE I MEĐUNARODNIH OBAVEZA BOSNE I HERCEGOVINE ZA 2009. GODINU
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 67/09 (25.8.2009.), akt 2 od 11 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/nsry2Oie0mk=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
