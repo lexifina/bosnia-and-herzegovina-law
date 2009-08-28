@@ -1,0 +1,25 @@
+{
+  "id": "862",
+  "title": "Prijedlog zakona o izmjenama i dopunama Zakona o nestalim licima",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2009-08-28",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 28.8.2009",
+  "official_procedure_date": "28.8.2009",
+  "proposer": "Zajednička komisija za ljudska prava, prava djeteta, mlade, imigraciju, izbjeglice, azil i etiku",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=862",
+  "source_sha256": "ffa96e6b68310b9b07a57fc610813d14ae6838ec5cd7c60445bd911998ef9e0e",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=33c83c1d-dd2a-4d47-9aa4-a2773d61eeae&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Zakona o nestalim licima",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
