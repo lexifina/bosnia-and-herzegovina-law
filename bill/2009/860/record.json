@@ -1,0 +1,25 @@
+{
+  "id": "860",
+  "title": "Prijedlog zakona o izmjenama i dopunama Krivičnog zakona Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2009-09-04",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 4.9.2009",
+  "official_procedure_date": "4.9.2009",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=860",
+  "source_sha256": "c23ca9700e5aa25272d9301edd80e5c60c326b87b42f222297d5444aea749cc7",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=b72d9244-5b31-4e69-8315-235799e03325&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Krivičnog zakona Bosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
