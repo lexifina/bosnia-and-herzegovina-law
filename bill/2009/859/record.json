@@ -1,0 +1,25 @@
+{
+  "id": "859",
+  "title": "Prijedlog zakona o Agenciji za kontrolu i osiguranje prisilnog oduzimanja imovine stečene krivičnim djelima i upravljanje oduzetom imovinom",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2009-09-14",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 14.9.2009",
+  "official_procedure_date": "14.9.2009",
+  "proposer": "Klub poslanika SDP BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=859",
+  "source_sha256": "9cf0e060f7298a09623f54ad63a45751a0b1a65a50bd6fb0d8f3fafba71eb3b4",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=60d1c018-520a-4fbc-96a2-ed8edb097933&langTag=bs",
+      "label": "Prijedlog zakona o Agenciji za kontrolu i osiguranje prisilnog oduzimanja imovine stečene krivičnim djelima i upravljanje oduzetom imovinom",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
