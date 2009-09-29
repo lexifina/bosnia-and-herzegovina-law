@@ -1,0 +1,11 @@
+# ODLUKU O FORMIRANJU RADNE GRUPE ZA IZRADU PRIJEDLOGA STRATEGIJE BOSNE I HERCEGOVINE ZA PREVENCIJU I BORBU PROTIV TERORIZMA (ZA PERIOD 2009-2012)
+
+Naslov: ODLUKU O FORMIRANJU RADNE GRUPE ZA IZRADU PRIJEDLOGA STRATEGIJE BOSNE I HERCEGOVINE ZA PREVENCIJU I BORBU PROTIV TERORIZMA (ZA PERIOD 2009-2012)
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 77/09 (29.9.2009.), akt 11 od 29 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/GUPtBwP703k=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
