@@ -1,0 +1,11 @@
+# ODLUKU O VISINI NAKNADA ZA IZDAVANJE LICENCI, DOZVOLA I POTVRDE O SIGURNOSTI KOJE IZDAJE REGULATORNI ODBOR ŽELJEZNICA BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O VISINI NAKNADA ZA IZDAVANJE LICENCI, DOZVOLA I POTVRDE O SIGURNOSTI KOJE IZDAJE REGULATORNI ODBOR ŽELJEZNICA BOSNE I HERCEGOVINE
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 77/09 (29.9.2009.), akt 17 od 29 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/GUPtBwP703k=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
