@@ -1,0 +1,11 @@
+# PRAVILNIK O MJERAMA ZA SPRJEČAVANJE UNOŠENJA I ŠIRENJA SYNCHYTRIUM ENDOBIOTICUM (SCHILB.) PERC UZROČNIKA BOLESTI RAKA KROMPIRA U BOSNU I HERCEGOVINU
+
+Naslov: PRAVILNIK O MJERAMA ZA SPRJEČAVANJE UNOŠENJA I ŠIRENJA SYNCHYTRIUM ENDOBIOTICUM (SCHILB.) PERC UZROČNIKA BOLESTI RAKA KROMPIRA U BOSNU I HERCEGOVINU
+
+Donosilac: MINISTARSTVO VANJSKE TRGOVINE I EKONOMSKIH ODNOSA BIH.
+
+Službeni glasnik BiH broj 78/09 (5.10.2009.), akt 9 od 11 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/0OirYDhmmLg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
