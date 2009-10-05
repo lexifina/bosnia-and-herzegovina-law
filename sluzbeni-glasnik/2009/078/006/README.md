@@ -1,0 +1,11 @@
+# PRAVILNIK O IZGLEDU I SADRŽAJU ZAHTJEVA ZA IZDAVANJE PUTNE ISPRAVE ZA IZBJEGLICE, PUTNE ISPRAVE ZA OSOBE BEZ DRŽAVLJANSTVA I PUTNOG LISTA ZA STRANCE
+
+Naslov: PRAVILNIK O IZGLEDU I SADRŽAJU ZAHTJEVA ZA IZDAVANJE PUTNE ISPRAVE ZA IZBJEGLICE, PUTNE ISPRAVE ZA OSOBE BEZ DRŽAVLJANSTVA I PUTNOG LISTA ZA STRANCE
+
+Donosilac: MINISTARSTVO SIGURNOSTI BIH.
+
+Službeni glasnik BiH broj 78/09 (5.10.2009.), akt 6 od 11 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/0OirYDhmmLg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
