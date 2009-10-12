@@ -1,0 +1,11 @@
+# ODLUKU O IZDVAJANJU SREDSTAVA IZ TEKUĆE REZERVE BUDŽETA INSTITUCIJA BOSNE I HERCEGOVINE I MEĐUNARODNIH OBAVEZA BOSNE I HERCEGOVINE ZA 2009. GODINU
+
+Naslov: ODLUKU O IZDVAJANJU SREDSTAVA IZ TEKUĆE REZERVE BUDŽETA INSTITUCIJA BOSNE I HERCEGOVINE I MEĐUNARODNIH OBAVEZA BOSNE I HERCEGOVINE ZA 2009. GODINU
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 79/09 (12.10.2009.), akt 8 od 23 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/sDTWUyYU2ohz4nh78h77E=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
