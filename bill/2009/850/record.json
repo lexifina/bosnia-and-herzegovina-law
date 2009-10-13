@@ -1,0 +1,25 @@
+{
+  "id": "850",
+  "title": "Prijedlog zakona o dopuni Zakona o reviziji institucija Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2009-10-13",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 13.10.2009",
+  "official_procedure_date": "13.10.2009",
+  "proposer": "poslanik Momčilo Novaković i delegat Slobodan Šaraba - srpski jezik",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=850",
+  "source_sha256": "da7a96e1f91be70202054b1da4e8aa604a42599d3712308e4b615e25a9b0d928",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=a0ed79fe-3388-4c98-b2ad-00e91958753c&langTag=bs",
+      "label": "Prijedlog zakona o dopuni Zakona o reviziji institucija Bosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
