@@ -1,0 +1,25 @@
+{
+  "id": "848",
+  "title": "Prijedlog zakona o izmjeni Zakona o osnovama sigurnosti saobraćaja u Bosni i Hercegovini",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2009-10-13",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 13.10.2009",
+  "official_procedure_date": "13.10.2009",
+  "proposer": "poslanik Momčilo Novaković i izaslanik Slobodan Šaraba - srpski jezik",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=848",
+  "source_sha256": "4e20757706460229a1f36671fb86b0c68bdb3d6e7953e9cc7100a1706d6f8629",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=1a4f4b22-c673-434b-9ac0-0f5fe7b47e16&langTag=bs",
+      "label": "Prijedlog zakona o izmjeni Zakona o osnovama sigurnosti saobraćaja u Bosni i Hercegovini",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
