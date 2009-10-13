@@ -1,0 +1,25 @@
+{
+  "id": "849",
+  "title": "Prijedlog zakona o dopuni Zakona o državnoj službi u institucijama Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2009-10-13",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 13.10.2009",
+  "official_procedure_date": "13.10.2009",
+  "proposer": "poslanik Momčilo Novaković i delegat Slobodan Šaraba - srpski jezik",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=849",
+  "source_sha256": "33dc10d71a000a30e5caa538c09ae14835ec50735d574f5a959119d95f9361d8",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=2fbadc73-3df3-403d-a74c-4d9c1748b51c&langTag=bs",
+      "label": "Prijedlog zakona o dopuni Zakona o državnoj službi u institucijama Bosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
