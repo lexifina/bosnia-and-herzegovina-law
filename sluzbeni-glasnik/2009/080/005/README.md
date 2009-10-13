@@ -1,0 +1,11 @@
+# ODLUKU O NOVČANOJ NAKNADI LICIMA ANGAŽOVANIM U RADU KOMISIJE ZA JAVNE NABAVKE ROBA I USLUGA - KANCELARIJSKOG NAMJEŠTAJA ZA ZGRADU PRIJATELJSTVA (OBJEKAT 3)
+
+Naslov: ODLUKU O NOVČANOJ NAKNADI LICIMA ANGAŽOVANIM U RADU KOMISIJE ZA JAVNE NABAVKE ROBA I USLUGA - KANCELARIJSKOG NAMJEŠTAJA ZA ZGRADU PRIJATELJSTVA (OBJEKAT 3)
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 80/09 (13.10.2009.), akt 5 od 16 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/HN0gdVVKVnI=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
