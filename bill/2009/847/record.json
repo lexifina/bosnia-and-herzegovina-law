@@ -1,0 +1,25 @@
+{
+  "id": "847",
+  "title": "Prijedlog zakona o učeničkom i studentskom standardu u Bosni i Hercegovini",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2009-10-14",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 14.10.2009",
+  "official_procedure_date": "14.10.2009",
+  "proposer": "poslanik Denis Bećirović",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=847",
+  "source_sha256": "5c4bb31332f046de243f25354c98dbae4efe77e71433a7ebb5091e9d91b5c122",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=611c35e7-d6ea-445a-8ec4-3c78fae231b4&langTag=bs",
+      "label": "Prijedlog zakona o učeničkom i studentskom standardu u Bosni i Hercegovini",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
