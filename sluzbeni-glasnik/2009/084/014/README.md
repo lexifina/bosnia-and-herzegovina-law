@@ -1,0 +1,11 @@
+# ODLUKU O ODREĐIVANJU VETERINARSKO-ZDRAVSTVENIH USLOVA KOJE MORAJU ISPUNJAVATI DOMAĆA GOVEDA ZA RASPLOD I/ILI TOV PRILIKOM UVOZA U BOSNU I HERCEGOVINU
+
+Naslov: ODLUKU O ODREĐIVANJU VETERINARSKO-ZDRAVSTVENIH USLOVA KOJE MORAJU ISPUNJAVATI DOMAĆA GOVEDA ZA RASPLOD I/ILI TOV PRILIKOM UVOZA U BOSNU I HERCEGOVINU
+
+Donosilac: URED ZA VETERINARSTVO BIH.
+
+Službeni glasnik BiH broj 84/09 (27.10.2009.), akt 14 od 16 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/mqNl0pO76Bc=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
