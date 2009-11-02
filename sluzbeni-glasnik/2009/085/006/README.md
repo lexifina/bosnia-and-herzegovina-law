@@ -1,0 +1,11 @@
+# ODLUKU O VISINI NOVČANE NAKNADE ZA RAD U UPRAVNOM ODBORU CENTRA ZA INFORMISANJE I PRIZNAVANJE DOKUMENATA IZ OBLASTI VISOKOG OBRAZOVANJA
+
+Naslov: ODLUKU O VISINI NOVČANE NAKNADE ZA RAD U UPRAVNOM ODBORU CENTRA ZA INFORMISANJE I PRIZNAVANJE DOKUMENATA IZ OBLASTI VISOKOG OBRAZOVANJA
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 85/09 (2.11.2009.), akt 6 od 25 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/WgnZ9aaNsUw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
