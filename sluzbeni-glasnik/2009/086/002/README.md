@@ -1,0 +1,11 @@
+# METODOLOGIJU ZA IZRADU PROCJENE UGROŽENOSTI BOSNE I HERCEGOVINE OD PRIRODNIH ILI DRUGIH NESREĆA
+
+Naslov: METODOLOGIJU ZA IZRADU PROCJENE UGROŽENOSTI BOSNE I HERCEGOVINE OD PRIRODNIH ILI DRUGIH NESREĆA
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 86/09 (3.11.2009.), akt 2 od 9 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/PXRnlZFE7jg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
