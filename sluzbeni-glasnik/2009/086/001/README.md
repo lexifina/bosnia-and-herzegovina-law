@@ -1,0 +1,11 @@
+# PRAVILNIK O STANDARDIMA FUNKCIONIRANJA I DRUGIM PITANJIMA ZNAČAJNIM ZA RAD AZILANTSKOG CENTRA
+
+Naslov: PRAVILNIK O STANDARDIMA FUNKCIONIRANJA I DRUGIM PITANJIMA ZNAČAJNIM ZA RAD AZILANTSKOG CENTRA
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 86/09 (3.11.2009.), akt 1 od 9 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/PXRnlZFE7jg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
