@@ -1,0 +1,25 @@
+{
+  "id": "843",
+  "title": "Prijedlog zakona o praznicima Bosne i Hercegovine i neradnim danima",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2009-11-05",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 5.11.2009",
+  "official_procedure_date": "5.11.2009",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=843",
+  "source_sha256": "37f1f2ba25cce0fcc12ea23bff865089ceff7429f027d2d68e4a5efc09759cbb",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=9ad3ec94-1a16-4913-8070-d2c220fdd534&langTag=bs",
+      "label": "Prijedlog zakona o praznicima Bosne i Hercegovine i neradnim danima",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
