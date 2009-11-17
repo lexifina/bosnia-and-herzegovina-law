@@ -1,0 +1,11 @@
+# PRAVILNIK O USLOVIMA ZA STAVLJANJE U PROMET, KVALITETU I KONTROLI KVALITETA MINERALNIH ĐUBRIVA TE SKLADIŠTENJU I RUKOVANJU MINERALNIM ĐUBRIVIMA
+
+Naslov: PRAVILNIK O USLOVIMA ZA STAVLJANJE U PROMET, KVALITETU I KONTROLI KVALITETA MINERALNIH ĐUBRIVA TE SKLADIŠTENJU I RUKOVANJU MINERALNIM ĐUBRIVIMA
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 90/09 (17.11.2009.), akt 1 od 3 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/qcgztz5k76kjn45hZUohz4nh78h778hT5E=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
