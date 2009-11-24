@@ -1,0 +1,25 @@
+{
+  "id": "836",
+  "title": "Prijedlog zakona o izmjenama i dopunama Okvirnog zakona o visokom obrazovanju u Bosni i Hercegovini",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2009-11-24",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 24.11.2009",
+  "official_procedure_date": "24.11.2009",
+  "proposer": "poslanik Denis Bećirović",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=836",
+  "source_sha256": "7c84c4c8de86055117eef981b66cb43c7e9bc012e267807e67471bdfd417b446",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=66715f82-a52b-4ff9-bc51-996fef035684&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Okvirnog zakona o visokom obrazovanju u Bosni i Hercegovini",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
