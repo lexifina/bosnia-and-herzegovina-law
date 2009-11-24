@@ -1,0 +1,25 @@
+{
+  "id": "838",
+  "title": "Prijedlog zakona o dopuni Okvirnog zakona o osnovnom i srednjem obrazovanju u Bosni i Hercegovini",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2009-11-24",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 24.11.2009",
+  "official_procedure_date": "24.11.2009",
+  "proposer": "poslanik Denis Bećirović",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=838",
+  "source_sha256": "026b77abc4befd5fe74410de90231230158594ac1a500c006ea53d8ab2ac844e",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=51be42cf-ad49-47f9-bf5c-a28045b8ba07&langTag=bs",
+      "label": "Prijedlog zakona o dopuni Okvirnog zakona o osnovnom i srednjem obrazovanju u Bosni i Hercegovini",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
