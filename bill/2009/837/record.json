@@ -1,0 +1,25 @@
+{
+  "id": "837",
+  "title": "Prijedlog zakona o Budžetu institucija Bosne i Hercegovine i međunarodnih obaveza Bosne i Hercegovine za 2010. godinu",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2009-11-24",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 24.11.2009",
+  "official_procedure_date": "24.11.2009",
+  "proposer": "Predsjedništvo BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=837",
+  "source_sha256": "adbf701ef1b44de8b2d21c64c8454d27335900c06ac0cbee49d2dcd29277403a",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=7144c7f6-050f-401e-a593-b0ddbbaa5652&langTag=bs",
+      "label": "Prijedlog zakona o Budžetu institucija Bosne i Hercegovine i međunarodnih obaveza Bosne i Hercegovine za 2010. godinu",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
