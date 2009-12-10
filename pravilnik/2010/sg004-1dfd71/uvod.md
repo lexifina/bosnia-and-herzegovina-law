@@ -1,0 +1,1 @@
+Na osnovu člana 56. stav (4) i člana 120. stav 6. Zakona o lijekovima i medicinskim sredstvima ("Službeni glasnik BiH", br. 58/08), na prijedlog Stručnog vijeća Agencije za lijekove i medicinska sredstva Bosne i Hercegovine, Ministarstvo civilnih poslova Bosne i Hercegovine donosi
