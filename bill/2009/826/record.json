@@ -1,0 +1,25 @@
+{
+  "id": "826",
+  "title": "Prijedlog zakona o dopunama Zakona o Sudu BiH",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2009-12-15",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 15.12.2009",
+  "official_procedure_date": "15.12.2009",
+  "proposer": "poslanik Azra Hadžiahmetović",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=826",
+  "source_sha256": "056b9d75c00039e18a5f9baed0647a8b6056c4dd062dc34262f745862a26faec",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=ba84870a-539e-436b-942b-f03c0e095517&langTag=bs",
+      "label": "Prijedlog zakona o dopunama Zakona o Sudu BiH",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
