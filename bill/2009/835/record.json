@@ -1,0 +1,25 @@
+{
+  "id": "835",
+  "title": "Prijedlog zakona o izmjenama i dopunama Zakona o Tužilaštvu BiH",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2009-12-15",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 15.12.2009",
+  "official_procedure_date": "15.12.2009",
+  "proposer": "poslanik Azra Hadžiahmetović",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=835",
+  "source_sha256": "84343984c84bed3cddc4ab26ade2724e1738afb95e0b1d42fa349ff9132ce6ab",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=f44305e9-b57c-4b5f-a812-824a708a028d&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Zakona o Tužilaštvu BiH",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
