@@ -1,0 +1,11 @@
+# ODLUKU O NAKNADI ZA RAD ČLANOVIMA RADNE GRUPE ZA IZRADU PRIJEDLOGA STRATEGIJE BOSNE I HERCEGOVINE ZA BORBU PROTIV ORGANIZOVANOG KRIMINALA
+
+Naslov: ODLUKU O NAKNADI ZA RAD ČLANOVIMA RADNE GRUPE ZA IZRADU PRIJEDLOGA STRATEGIJE BOSNE I HERCEGOVINE ZA BORBU PROTIV ORGANIZOVANOG KRIMINALA
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 98/09 (21.12.2009.), akt 5 od 12 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/FMEz7YjShAo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
