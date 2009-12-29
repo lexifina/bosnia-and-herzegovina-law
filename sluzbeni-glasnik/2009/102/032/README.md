@@ -1,0 +1,11 @@
+# RJEŠENJE O IZMJENI RJEŠENJA O IMENOVANJU KOMISIJE ZA POLAGANJE PRAVOSUDNOG ISPITA NA NIVOU BOSNE I HERCEGOVINE
+
+Naslov: RJEŠENJE O IZMJENI RJEŠENJA O IMENOVANJU KOMISIJE ZA POLAGANJE PRAVOSUDNOG ISPITA NA NIVOU BOSNE I HERCEGOVINE
+
+Donosilac: MINISTARSTVO PRAVDE BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 102/09 (29.12.2009.), akt 32 od 49 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/0l9F3EnSqgztz5k76kjn45hY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
