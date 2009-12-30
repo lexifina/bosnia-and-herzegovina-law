@@ -1,0 +1,25 @@
+{
+  "id": "824",
+  "title": "Prijedlog zakona o dopuni Krivičnog zakona Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2009-12-30",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 30.12.2009",
+  "official_procedure_date": "30.12.2009",
+  "proposer": "poslanik Denis Bećirović",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=824",
+  "source_sha256": "539a7b3904511d5774b8d060638abe6c244063f22490b0271b4a110f1aa5baa7",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=c224b890-78f4-421c-b7c5-0cb137da9654&langTag=bs",
+      "label": "Prijedlog zakona o dopuni Krivičnog zakona Bosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
