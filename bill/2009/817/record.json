@@ -1,0 +1,25 @@
+{
+  "id": "817",
+  "title": "Prijedlog zakona o Sudskoj policiji Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2009-12-31",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 31.12.2009",
+  "official_procedure_date": "31.12.2009",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=817",
+  "source_sha256": "fecdafea0af7a318ebe7c0b988834f63956257310b0d9aec5d3b30dca2b7b836",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=9dece180-e8c3-4c58-8be0-d59baf2e323a&langTag=bs",
+      "label": "Prijedlog zakona o Sudskoj policiji Bosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
