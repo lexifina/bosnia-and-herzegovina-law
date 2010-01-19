@@ -1,0 +1,25 @@
+{
+  "id": "815",
+  "title": "Prijedlog zakona o osiguranju proporcionalne etničke zastupljenosti u organima uprave i lokalne samouprave u Bosni i Hercegovini",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2010-01-19",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 19.1.2010",
+  "official_procedure_date": "19.1.2010",
+  "proposer": "Klub poslanika SDA",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=815",
+  "source_sha256": "12329f0c4d68cc20e744f5170c6405f5e16b4fb58530541f439f66ef05497e94",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=94bf7731-490f-47f8-a848-935830825cea&langTag=bs",
+      "label": "Prijedlog zakona o osiguranju proporcionalne etničke zastupljenosti u organima uprave i lokalne samouprave u Bosni i Hercegovini",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
