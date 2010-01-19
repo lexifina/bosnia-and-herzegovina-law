@@ -1,0 +1,25 @@
+{
+  "id": "814",
+  "title": "Prijedlog zakona o sprečavanju nereda na sportskim takmičenjima",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2010-01-19",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 19.1.2010",
+  "official_procedure_date": "19.1.2010",
+  "proposer": "Klub poslanika SDA",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=814",
+  "source_sha256": "d4330b7c93e64cb942b37541744516df5f7e00b441c985a08bc015094b487025",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=9970b57e-2bcd-44ef-94b2-6acbc84120d4&langTag=bs",
+      "label": "Prijedlog zakona o sprečavanju nereda na sportskim takmičenjima",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
