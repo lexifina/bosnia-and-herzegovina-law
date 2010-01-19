@@ -1,0 +1,13 @@
+# ODLUKU O IMENOVANJU PREDSTAVNIKA OMLADINSKIH NEVLADINIH ORGANIZACIJA U KOMISIJI ZA KOORDINACIJU PITANJA MLADIH U BOSNI I HERCEGOVINI
+
+Naslov: ODLUKU O IMENOVANJU PREDSTAVNIKA OMLADINSKIH NEVLADINIH ORGANIZACIJA U KOMISIJI ZA KOORDINACIJU PITANJA MLADIH U BOSNI I HERCEGOVINI
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 4/10 (19.1.2010.), akt 5 od 30 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/y40MB44XiSQ=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/OjgTsirohz4nh78h77g9o=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
