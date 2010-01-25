@@ -1,0 +1,25 @@
+{
+  "id": "811",
+  "title": "Prijedlog zakona o primjeni rezultata analize dezoksiribonukleinske kiseline u sudskim postupcima",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2010-01-25",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 25.1.2010",
+  "official_procedure_date": "25.1.2010",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=811",
+  "source_sha256": "a2301152fc92c00a8cfa6d51f2ed11a4ace2ac304d012aa8bd263483dc96e1c8",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=d5c9cd13-0db6-40db-96c5-d05f3660018c&langTag=bs",
+      "label": "Prijedlog zakona o primjeni rezultata analize dezoksiribonukleinske kiseline u sudskim postupcima",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
