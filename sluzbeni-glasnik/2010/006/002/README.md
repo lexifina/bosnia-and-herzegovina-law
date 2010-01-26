@@ -1,0 +1,13 @@
+# ODLUKU O ODOBRAVANJU SREDSTAVA IZ TEKUĆE BUDŽETSKE REZERVE BUDŽETA INSTITUCIJA BOSNE I HERCEGOVINE I MEĐUNARODNIH OBAVEZA BOSNE I HERCEGOVINE ZA 2009. GODINU U KORIST UDRUŽENJA SLIJEPIH GRAĐANA U BOSNI I HERCEGOVINI
+
+Naslov: ODLUKU O ODOBRAVANJU SREDSTAVA IZ TEKUĆE BUDŽETSKE REZERVE BUDŽETA INSTITUCIJA BOSNE I HERCEGOVINE I MEĐUNARODNIH OBAVEZA BOSNE I HERCEGOVINE ZA 2009. GODINU U KORIST UDRUŽENJA SLIJEPIH GRAĐANA U BOSNI I HERCEGOVINI
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 6/10 (26.1.2010.), akt 2 od 8 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/HkUdeJo0hYk=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/bDRE7mk9yPg=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
