@@ -1,0 +1,25 @@
+{
+  "id": "810",
+  "title": "Prijedlog Amandmana II., III. i IV. na Ustav Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2010-01-27",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 27.1.2010",
+  "official_procedure_date": "27.1.2010",
+  "proposer": "Klub poslanika Stranke za BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=810",
+  "source_sha256": "1393633701f6b1b86e3a459f979e222b980ff2a16beecf4271739f5195f869b1",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=de6785e3-0f92-4967-94ae-3caedbd01206&langTag=bs",
+      "label": "Prijedlog Amandmana II., III. i IV. na Ustav Bosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
