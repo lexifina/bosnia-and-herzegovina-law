@@ -1,0 +1,13 @@
+# ODLUKU O IMENOVANJU KARSTENA FLEDELIUSA ZA POČASNOG KONZULA BOSNE I HERCEGOVINE U KRALJEVINI DANSKOJ I OTVARANJU POČASNOG KONZULATA BOSNE I HERCEGOVINE U KRALJEVINI DANSKOJ SA SJEDIŠTEM U KOPENHAGENU
+
+Naslov: ODLUKU O IMENOVANJU KARSTENA FLEDELIUSA ZA POČASNOG KONZULA BOSNE I HERCEGOVINE U KRALJEVINI DANSKOJ I OTVARANJU POČASNOG KONZULATA BOSNE I HERCEGOVINE U KRALJEVINI DANSKOJ SA SJEDIŠTEM U KOPENHAGENU
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 7/10 (1.2.2010.), akt 2 od 10 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/JBjBaJWJbeI=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/PQMYUgl6ivg=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
