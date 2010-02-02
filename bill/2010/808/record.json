@@ -1,0 +1,25 @@
+{
+  "id": "808",
+  "title": "Prijedlog zakona o praznicima Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2010-02-02",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 2.2.2010",
+  "official_procedure_date": "2.2.2010",
+  "proposer": "poslanik Denis Bećirović",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=808",
+  "source_sha256": "905d5aa4d82268542a721b1e0709327a7e0eb6f6936f90b341b9878543ae9bd7",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=880701a1-c508-4c15-92d1-b65ae84dcd49&langTag=bs",
+      "label": "Prijedlog zakona o praznicima Bosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
