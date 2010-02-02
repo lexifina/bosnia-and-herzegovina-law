@@ -1,0 +1,1 @@
+Na osnovu člana 2. stav (2) Zakona o parlamentarnom vojnom povjereniku Bosne i Hercegovine ("Službeni glasnik BiH", broj 51/09), Parlamentarna skupština Bosne i Hercegovine, na 40. sjednici Doma naroda, održanoj 30. decembra 2009. godine i na 69. sjednici Predstavničkog doma, održanoj 30. decembra 2009. godine i 12. januara 2010. godine, usvojila je
