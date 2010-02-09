@@ -1,0 +1,1 @@
+Na osnovu člana 17. Zakona o Vijeću ministara Bosne i Hercegovine ("Službeni glasnik BiH", br. 30/03, 42/03, 81/06, 76/07, 81/07, 94/07 i 24/08) i člana 107. stav 1. Zakona o upravi ("Službeni glasnik BiH", broj 32/02), Vijeće ministara Bosne i Hercegovine na 109. sjednici, održanoj 22. decembra 2009. godine, donijelo je
