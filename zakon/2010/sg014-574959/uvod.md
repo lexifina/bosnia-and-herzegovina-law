@@ -1,0 +1,1 @@
+Na osnovu člana IV. 4. a) Ustava Bosne i Hercegovine, Parlamentarna skupština Bosne i Hercegovine, na 71. sjednici Predstavničkog doma, održanoj 3. i 10. februara 2010. godine, i na 43. sjednici Doma naroda, održanoj 23. februara 2010. godine, usvojila je
