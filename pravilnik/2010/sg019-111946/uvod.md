@@ -1,0 +1,1 @@
+Na osnovu člana 34. stav (5) Zakona o zaštiti i dobrobiti životinja BiH ("Službeni glasnik BiH", broj 25/09), Ministarstvo vanjske trgovine i ekonomskih odnosa Bosne i Hercegovine, na prijedlog Ureda za veterinarstvo Bosne i Hercegovine, donosi
