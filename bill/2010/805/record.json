@@ -1,0 +1,25 @@
+{
+  "id": "805",
+  "title": "Prijedlog zakona o izmjenama i dopunama Zakona o službi u Oružanim snagama Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2010-03-23",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 23.3.2010",
+  "official_procedure_date": "23.3.2010",
+  "proposer": "poslanik Niko Lozančić - hrvatski jezik",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=805",
+  "source_sha256": "3fef178ad49d815ec3b7c4e3287b7402dc06df59210f2599f3b92969c3ba9893",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=2dafa152-8b46-45eb-aebb-8cfe77eb1009&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Zakona o službi u Oružanim snagama Bosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
