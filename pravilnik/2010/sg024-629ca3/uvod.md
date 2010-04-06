@@ -1,0 +1,1 @@
+Na osnovu člana 58. stav (9) Zakona o lijekovima i medicinskim sredstvima Bosne i Hercegovine ("Službeni glasnik Bosne i Hercegovine", broj 58/08), ministar civilnih poslova Bosne i Hercegovine, na prijedlog Stručnog vijeća Agencije za lijekove i medicinska sredstva Bosne i Hercegovine, donosi
