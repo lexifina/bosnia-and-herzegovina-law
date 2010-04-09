@@ -1,0 +1,25 @@
+{
+  "id": "804",
+  "title": "Prijedlog zakona o izmjenama i dopunama Zakona o javnim nabavkama BiH",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2010-04-09",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 9.4.2010",
+  "official_procedure_date": "9.4.2010",
+  "proposer": "poslanik Bajazit Jašarević",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=804",
+  "source_sha256": "dd34e190d2d42cfec5bf8979cd587c24c138d30cf05bfa56493c9f4623ee4a42",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=4910ffe4-c098-42f4-83a7-ac6a7d988df1&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Zakona o javnim nabavkama BiH",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
