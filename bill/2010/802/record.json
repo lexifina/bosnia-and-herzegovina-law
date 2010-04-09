@@ -1,0 +1,25 @@
+{
+  "id": "802",
+  "title": "Prijedlog zakona o zabrani svih fašističkih i neofašističkih organizacija i upotrebe njihovih simbola u Bosni i Hercegovini",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2010-04-09",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 9.4.2010",
+  "official_procedure_date": "9.4.2010",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=802",
+  "source_sha256": "84f7c85c625173f589e46aebd4c5e9c5949580dce217ad6b6f657319386173d8",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=81d418a2-c424-4e28-b839-de0bb07bbb8c&langTag=bs",
+      "label": "Prijedlog zakona o zabrani svih fašističkih i neofašističkih organizacija i upotrebe njihovih simbola u Bosni i Hercegovini",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
