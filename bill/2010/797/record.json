@@ -1,0 +1,31 @@
+{
+  "id": "797",
+  "title": "Prijedlog zakona o zabrani nošenja odjeće koja onemogućava identifikaciju",
+  "kind": "bill",
+  "is_law": false,
+  "status": "pending",
+  "source_categories": [
+    1
+  ],
+  "record_date": "2010-04-09",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 9.4.2010",
+  "official_procedure_date": "9.4.2010",
+  "proposer": "Klub poslanika SNSD - srpski jezik",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=797",
+  "source_sha256": "ee4bb4fc2d89afaedafe1fa21c1b9c1a44ebd0e8cbcbab3a0956c3e0d28f8d5f",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=55394a69-0ed5-44c6-9865-37eddbfb44c9&langTag=bs",
+      "label": "Prijedlog zakona o zabrani nošenja odjeće koja onemogućava identifikaciju",
+      "sha256": "9fa8f2dc13901d4f36cf5121f78d60151fd3a0b6fd119f4d54cc70991ef6baf7",
+      "pages": 4,
+      "source_images": 4,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "empty_pages": [],
+      "text_status": "text held: image-bearing document requires image review"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
