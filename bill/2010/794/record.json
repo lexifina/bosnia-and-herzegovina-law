@@ -1,0 +1,25 @@
+{
+  "id": "794",
+  "title": "Prijedlog zakona o izmjenama i dopunama Krivičnog zakona Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2010-04-21",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 21.4.2010",
+  "official_procedure_date": "21.4.2010",
+  "proposer": "Klub poslanika SDP BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=794",
+  "source_sha256": "151ec5aa66122bfad28c8d6e5ee5e465b5bce2eea0bfddb31893519ba994a2a1",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=0ac5bfcd-5997-4a4c-8e45-d8980f0cde25&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Krivičnog zakona Bosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
