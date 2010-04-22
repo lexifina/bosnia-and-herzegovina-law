@@ -1,0 +1,25 @@
+{
+  "id": "792",
+  "title": "Prijedlog zakona o Javnom preduzeću za izdavanje službenih glasila Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2010-04-22",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 22.4.2010",
+  "official_procedure_date": "22.4.2010",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=792",
+  "source_sha256": "6760c96a3d8912c0f2807c08e14c7cbc2e4cbc2f9acd4bda146ece157ae46fec",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=bc180a72-b67f-4d23-aba2-1b8cad7c8a12&langTag=bs",
+      "label": "Prijedlog zakona o Javnom preduzeću za izdavanje službenih glasila Bosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
