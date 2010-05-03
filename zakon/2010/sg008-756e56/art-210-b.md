@@ -1,0 +1,3 @@
+# Član 210b.
+(1) Ko uskladišti robu na koju se plaća porez po poreznom zakonodavstvu Bosne i Hercegovine u prostoriji koja nije registrirana za tu namjenu u skladu sa zakonom ili ko dozvoli da se u njegovoj prostoriji uskladišti roba, a prostorija nije za to registrirana, kaznit će se novčanom kaznom ili kaznom zatvora do tri godine.
+(2) Kaznom iz stava (1) ovog člana kaznit će se i onaj ko u prostoriji registriranoj u skladu sa zakonom za skladištenje robe uskladišti robu na koju se plaća porez po poreznom zakonodavstvu Bosne i Hercegovine za koju ne postoji propisana dokumentacija o porijeklu robe i plaćenom porezu."
