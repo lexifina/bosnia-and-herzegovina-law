@@ -1,0 +1,13 @@
+# ODLUKU O OSNIVANJU I IMENOVANJU ČLANOVA SAVJETODAVNOG ODBORA ZA PROVOĐENJE PROJEKTA INTEGRIRANE REHABILITACIJE/PROCJENA STANJA ARHITEKTONSKOG I ARHEOLOŠKOG NASLIJEĐA (IRPP/SAAH) U BOSNI I HERCEGOVINI
+
+Naslov: ODLUKU O OSNIVANJU I IMENOVANJU ČLANOVA SAVJETODAVNOG ODBORA ZA PROVOĐENJE PROJEKTA INTEGRIRANE REHABILITACIJE/PROCJENA STANJA ARHITEKTONSKOG I ARHEOLOŠKOG NASLIJEĐA (IRPP/SAAH) U BOSNI I HERCEGOVINI
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 35/10 (3.5.2010.), akt 3 od 22 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/UwgU3Qzzqqg=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/oD5dbaJxDwE=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
