@@ -1,0 +1,1 @@
+Na osnovu člana 82. i člana 86. stav (2) Zakona o zaštiti zdravlja bilja ("Službeni glasnik BiH", broj 23/03), Uprava Bosne i Hercegovine za zaštitu zdravlja bilja, u saradnji s nadležnim organima entiteta i Brčko Distrikta Bosne i Hercegovine, donosi
