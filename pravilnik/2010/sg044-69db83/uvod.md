@@ -1,0 +1,1 @@
+Na osnovu člana 16. Zakona o upravi ("Službeni glasnik BiH", br. 32/02 i 102/09) i Zaključka Doma naroda Parlamentarne skupštine Bosne i Hercegovine broj 02-50-1-16-25/09 od 05.02.2009. godine a vezano za čl. 4. i 5. Zakona o zaštiti i dobrobiti životinja ("Službeni glasnik BiH", broj 25/09), direktor Ureda za veterinarstvo Bosne i Hercegovine donosi
