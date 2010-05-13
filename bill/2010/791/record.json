@@ -1,0 +1,25 @@
+{
+  "id": "791",
+  "title": "Prijedlog zakona o izmjenama Zakona o državnoj službi u institucijama Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2010-05-13",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 13.5.2010",
+  "official_procedure_date": "13.5.2010",
+  "proposer": "poslanik Lazar Prodanović - srpski jezik",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=791",
+  "source_sha256": "0425fe27fd1c6fa6e309df7e5f4e804931301ba5baf270700c57ebec5be7ef60",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=809256f6-0014-44ee-b783-2ca25f0752b3&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama Zakona o državnoj službi u institucijama Bosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
