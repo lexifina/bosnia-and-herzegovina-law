@@ -1,0 +1,25 @@
+{
+  "id": "790",
+  "title": "Prijedlog zakona o izmjeni i dopuni Zakona o sukobu interesa u institucijama vlasti Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2010-05-14",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 14.5.2010",
+  "official_procedure_date": "14.5.2010",
+  "proposer": "poslanik Martin Raguž - hrvatski jezik",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=790",
+  "source_sha256": "c018bd900a9df5ff54855c21d5818e672c77077e2335f849a90ddde454884bc9",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=c0848b98-15f3-4381-949b-7cc4e79eb84e&langTag=bs",
+      "label": "Prijedlog zakona o izmjeni i dopuni Zakona o sukobu interesa u institucijama vlasti Bosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
