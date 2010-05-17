@@ -1,0 +1,13 @@
+# ODLUKU O ODOBRAVANJU "PROJEKTA IZGRADNJE GLAVNOG SJEDIŠTA SLUŽBE ZA POSLOVE SA STRANCIMA I TERENSKOG CENTRA SARAJEVO" KOJI ĆE SE UVRSTITI U PROGRAM VIŠEGODIŠNJIH KAPITALNIH ULAGANJA ZA PERIOD 2011.-2013. GODINE
+
+Naslov: ODLUKU O ODOBRAVANJU "PROJEKTA IZGRADNJE GLAVNOG SJEDIŠTA SLUŽBE ZA POSLOVE SA STRANCIMA I TERENSKOG CENTRA SARAJEVO" KOJI ĆE SE UVRSTITI U PROGRAM VIŠEGODIŠNJIH KAPITALNIH ULAGANJA ZA PERIOD 2011.-2013. GODINE
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 40/10 (17.5.2010.), akt 1 od 27 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/15WyScqflAg=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/EwLUY1FkuAo=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
