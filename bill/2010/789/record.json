@@ -1,0 +1,25 @@
+{
+  "id": "789",
+  "title": "Prijedlog zakona o ostvarivanju saradnje Bosne i Hercegovine sa iseljeništvom",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2010-05-25",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 25.5.2010",
+  "official_procedure_date": "25.5.2010",
+  "proposer": "poslanici Lejla Klokić, Sadik Bahtić, Husein Nanić i Remzija Kadrić",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=789",
+  "source_sha256": "b006d8d7c5a19dce229cc67e3a57ec03b8c61f353d8b54b41c749872cd37e203",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=4a83b070-713e-4b85-b427-22ade6691b8a&langTag=bs",
+      "label": "Prijedlog zakona o ostvarivanju saradnje Bosne i Hercegovine sa iseljeništvom",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
