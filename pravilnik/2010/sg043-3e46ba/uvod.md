@@ -1,0 +1,1 @@
+Na osnovu člana 208. stav (3) Zakona Bosne i Hercegovine o izvršenju krivičnih sankcija, pritvora i drugih mjera - Prečišćeni tekst ("Službeni glasnik BiH", broj 12/10) i člana 43. stav (1) i (3) Krivičnog zakona Bosne i Hercegovine ("Službeni glasnik BiH", broj 03/03, 32/03, 37/03, 54/04, 61/04, 30/05, 53/06, 55/06, 32/07 i 8/10), ministar pravde Bosne i Hercegovine donosi
