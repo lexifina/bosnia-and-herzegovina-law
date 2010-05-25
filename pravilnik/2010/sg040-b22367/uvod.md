@@ -1,0 +1,1 @@
+Na osnovu člana 73. stav 2. i člana 122. stav 2. Zakona o lijekovima i medicinskim sredstvima BiH ("Službeni glasnik BiH", broj 58/08), ministar civilnih poslova Bosne i Hercegovine, na prijedlog Stručnog vijeća Agencije za lijekove i medicinska sredstva Bosne i Hercegovine, donosi
