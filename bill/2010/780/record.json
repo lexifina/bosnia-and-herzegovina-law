@@ -1,0 +1,25 @@
+{
+  "id": "780",
+  "title": "Prijedlog zakona o volontiranju",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2010-06-08",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 8.6.2010",
+  "official_procedure_date": "8.6.2010",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=780",
+  "source_sha256": "a406336db2e98aa0d2d0b559d4a3972598c369eb403c291023bfa8ae9591cac5",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=374ab117-7475-4393-99e8-a13e72201a1a&langTag=bs",
+      "label": "Prijedlog zakona o volontiranju",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
