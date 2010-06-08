@@ -1,0 +1,1 @@
+Na osnovu člana 80. stav (4) Zakona o lijekovima i medicinskim sredstvima ("Službeni glasnik BiH", broj 58/08), Stručno vijeće Agencije za lijekove i medicinska sredstva Bosne i Hercegovine, na prijedlog direktora Agencije, na IX sjednici održanoj 30. aprila 2010. godine, donosi
