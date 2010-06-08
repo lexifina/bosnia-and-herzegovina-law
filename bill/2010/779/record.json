@@ -1,0 +1,25 @@
+{
+  "id": "779",
+  "title": "Prijedlog okvirnog zakona o besplatnoj pravnoj pomoći",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2010-06-08",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 8.6.2010",
+  "official_procedure_date": "8.6.2010",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=779",
+  "source_sha256": "d448699b0900ab7bb1b90287bc25f39c15bdfefe0a68d389f94bce97e4203c17",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=e8d85a4b-f0c4-4406-9315-161961a4deab&langTag=bs",
+      "label": "Prijedlog okvirnog zakona o besplatnoj pravnoj pomoći",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
