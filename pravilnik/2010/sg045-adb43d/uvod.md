@@ -1,0 +1,1 @@
+Sem za situacije nužde vazduhoplova, pri skretanju na alternativni aerodrom, ili pod uslovima navedenim za svaki pojedinačni slučaj, vazduhoplovi, za koje nisu namijenjeni projekat aerodroma i operativni postupci, ne koriste aerodrom ili njegove dijelove.
