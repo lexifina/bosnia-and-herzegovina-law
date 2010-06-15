@@ -1,0 +1,25 @@
+{
+  "id": "778",
+  "title": "Prijedlog zakona o izmjeni Okvirnog zakona o visokom obrazovanju u Bosni i Hercegovini",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2010-06-15",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 15.6.2010",
+  "official_procedure_date": "15.6.2010",
+  "proposer": "Klub poslanika SDP BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=778",
+  "source_sha256": "45125a22ae3e48bf8f2a243b2dcf6d9d0ea0492bd002c9c2e7e023f1ec56b02a",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=ff148415-7269-4b4b-86e5-251f0e134fe8&langTag=bs",
+      "label": "Prijedlog zakona o izmjeni Okvirnog zakona o visokom obrazovanju u Bosni i Hercegovini",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
