@@ -1,0 +1,1 @@
+Na osnovu člana 17. stav (4) a u vezi s članom 40. stav (1) tačka d) Zakona o zaštiti i dobrobiti životinja ("Službeni glasnik BiH", broj 25/09), Ministarstvo vanjske trgovine i ekonomskih odnosa, na prijedlog Ureda za veterinarstvo Bosne i Hercegovine, donosi
