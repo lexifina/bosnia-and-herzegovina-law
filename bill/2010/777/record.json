@@ -1,0 +1,25 @@
+{
+  "id": "777",
+  "title": "Prijedlog zakona o međunarodnom i međuentitetskom cestovnom prijevozu",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2010-06-16",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 16.6.2010",
+  "official_procedure_date": "16.6.2010",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=777",
+  "source_sha256": "c479561ae3cc9f38dca2f036eee7ac0cf9fba560de6343ea2b21e78fa0b24b9a",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=e59d16c1-281a-48cc-a7bd-d8c8f70efc7c&langTag=bs",
+      "label": "Prijedlog zakona o međunarodnom i međuentitetskom cestovnom prijevozu",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
