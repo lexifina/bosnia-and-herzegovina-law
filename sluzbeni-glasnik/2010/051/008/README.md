@@ -1,0 +1,13 @@
+# ODLUKU O DOPUSTIVOSTI I MERITUMU ZAJEDNIČKO IZDVOJENO MIŠLJENJE POTPREDSJEDNICE USTAVNOG SUDA BIH VALERIJE GALIĆ I SUDIJE USTAVNOG SUDA BIH MATE TADIĆA U PREDMETU BROJ AP-2771/06 OD 25. SEPTEMBRA 2009. GODINE
+
+Naslov: ODLUKU O DOPUSTIVOSTI I MERITUMU ZAJEDNIČKO IZDVOJENO MIŠLJENJE POTPREDSJEDNICE USTAVNOG SUDA BIH VALERIJE GALIĆ I SUDIJE USTAVNOG SUDA BIH MATE TADIĆA U PREDMETU BROJ AP-2771/06 OD 25. SEPTEMBRA 2009. GODINE
+
+Donosilac: USTAVNI SUD BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 51/10 (22.6.2010.), akt 8 od 15 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/pcd9E5TQQSo=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/lohz4nh78h77MD3hpdKaY=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
