@@ -1,0 +1,31 @@
+{
+  "id": "773",
+  "title": "Prijedlog zakona o parlamentarnom nadzoru u oblasti odbrane, sigurnosti i obavještajno - sigurnosnih poslova",
+  "kind": "bill",
+  "is_law": false,
+  "status": "pending",
+  "source_categories": [
+    1
+  ],
+  "record_date": "2010-06-25",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 25.6.2010",
+  "official_procedure_date": "25.6.2010",
+  "proposer": "Zajednička komisija za nadzor nad radom Obavještajno - sigurnosne agencije Bosne i Hercegovine",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=773",
+  "source_sha256": "ed7f54cdc38a25ed62ba318db26d8d9471571bf708819a5d654e5810625c604f",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=4484edbc-cac0-4429-b566-de21ccbdb0f8&langTag=bs",
+      "label": "Prijedlog zakona o parlamentarnom nadzoru u oblasti odbrane, sigurnosti i obavještajno - sigurnosnih poslova",
+      "sha256": "dff8829c646900ac8ffc59375eefe54dd73ea32b88d9c05a948825ed8720f301",
+      "pages": 26,
+      "source_images": 26,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "empty_pages": [],
+      "text_status": "text held: image-bearing document requires image review"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
