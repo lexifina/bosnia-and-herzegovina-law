@@ -1,0 +1,31 @@
+{
+  "id": "768",
+  "title": "Prijedlog zakona o dopuni Krivičnog zakona Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "pending",
+  "source_categories": [
+    1
+  ],
+  "record_date": "2010-07-15",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 15.7.2010",
+  "official_procedure_date": "15.7.2010",
+  "proposer": "poslanik Drago Kalabić - srpski jezik",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=768",
+  "source_sha256": "2ef1c77d32dec7342ad99b2ec3fd2e62261ee0dbe8c5f438f7c7e8ec71b87a41",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=a6bf848c-4e4a-4c7a-a598-ccf9901d58ae&langTag=bs",
+      "label": "Prijedlog zakona o dopuni Krivičnog zakona Bosne i Hercegovine",
+      "sha256": "272f050a4ef264dcd9ef55311b5d6040afca4588eaeee4e8fef26d1efb392441",
+      "pages": 5,
+      "source_images": 5,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "empty_pages": [],
+      "text_status": "text held: image-bearing document requires image review"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
