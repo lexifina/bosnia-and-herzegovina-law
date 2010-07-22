@@ -1,0 +1,31 @@
+{
+  "id": "767",
+  "title": "Prijedlog zakona o izmjenama Zakona o Centralnoj banci Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "pending",
+  "source_categories": [
+    1
+  ],
+  "record_date": "2010-07-22",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 22.7.2010",
+  "official_procedure_date": "22.7.2010",
+  "proposer": "poslanik Sefer Halilović",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=767",
+  "source_sha256": "e5a2f7ed71b2f7fa4d185bd2dc7d4276e8aebf6758d34bf57be888f69f4e12fd",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=a933f06e-cf25-4ca4-bda0-a09a4bd68f49&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama Zakona o Centralnoj banci Bosne i Hercegovine",
+      "sha256": "2232514c3bdb7141b2806bbc8dc2f5ee3c7138cd3f759c5f959868e40d60fbf5",
+      "pages": 4,
+      "source_images": 17,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "empty_pages": [],
+      "text_status": "text held: image-bearing document requires image review"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
