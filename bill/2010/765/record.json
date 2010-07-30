@@ -1,0 +1,31 @@
+{
+  "id": "765",
+  "title": "Prijedlog zakona o dopuni Zakona o porezu na dodatu vrijednost",
+  "kind": "bill",
+  "is_law": false,
+  "status": "pending",
+  "source_categories": [
+    1
+  ],
+  "record_date": "2010-07-30",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 30.7.2010",
+  "official_procedure_date": "30.7.2010",
+  "proposer": "poslanik Sadik Bahtić",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=765",
+  "source_sha256": "4af788cf83d23c66c67a50040107040fd216bfc4635a1ff1a229f05fcc349a43",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=187b5042-477f-40ce-9743-adaf9c21ae59&langTag=bs",
+      "label": "Prijedlog zakona o dopuni Zakona o porezu na dodatu vrijednost",
+      "sha256": "379b27f2161289a56ba020141777f7b225134833ea83d0916712b538a027ce89",
+      "pages": 4,
+      "source_images": 4,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "empty_pages": [],
+      "text_status": "text held: image-bearing document requires image review"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
