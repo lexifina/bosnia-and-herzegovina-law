@@ -1,0 +1,1 @@
+Na osnovu člana 2.9 stav (1) tačka 2., a u vezi s članom 17.3 i 17.4 Izbornog zakona Bosne i Hercegovine ("Službeni glasnik BiH" br. 23/01, 7/02, 9/02, 20/02, 25/02, 4/04, 20/04, 25/05,52/05, 65/05, 77/05, 11/06, 24/06, 32/07, 33/08, 37/08 i 32/10), Centralna izborna komisija Bosne i Hercegovine je, na 34. sjednici održanoj 22. jula 2010. godine, donijela
