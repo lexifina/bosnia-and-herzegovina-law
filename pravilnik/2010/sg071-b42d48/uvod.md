@@ -1,0 +1,1 @@
+Na osnovu člana 18. Poslovnika Centralne izborne komisije Bosne i Hercegovine ("Službeni glasnik BiH", broj 50/07 i 33/09), Centralna izborna komisija Bosne i Hercegovine je, na 43. sjednici održanoj 12. augusta 2010. godine, donijela
