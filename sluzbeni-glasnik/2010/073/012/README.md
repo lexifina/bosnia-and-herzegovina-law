@@ -1,0 +1,13 @@
+# ODLUKU O UTVRĐIVANJU KRITERIJA ZA IZBOR I IMENOVANJE DIREKTORA JEDINICE ZA IMPLEMENTACIJU PROJEKTA IZGRADNJE ZAVODA ZA IZVRŠENJE KRIVIČNIH SANKCIJA, PRITVORA I DRUGIH MJERA BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O UTVRĐIVANJU KRITERIJA ZA IZBOR I IMENOVANJE DIREKTORA JEDINICE ZA IMPLEMENTACIJU PROJEKTA IZGRADNJE ZAVODA ZA IZVRŠENJE KRIVIČNIH SANKCIJA, PRITVORA I DRUGIH MJERA BOSNE I HERCEGOVINE
+
+Donosilac: MINISTARSTVO PRAVDE BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 73/10 (6.9.2010.), akt 12 od 23 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/MnLSohz4nh78h774isU6k=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/E1rsw7nRYYI=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
