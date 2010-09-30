@@ -1,0 +1,1 @@
+Na osnovu člana 10. stav 5. Zakona o veterinarstvu u Bosni i Hercegovini ("Službeni glasnik BiH", broj 34/02) i Poglavlja I Odjeljka E. tačke 3. Naredbe o mjerama kontrole zaraznih i parazitarnih bolesti životinja, njihovom provođenju i finansiranju u 2010. godini ("Službeni glasnik BiH", broj 19/10), Ured za veterinarstvo Bosne i Hercegovine donio je
