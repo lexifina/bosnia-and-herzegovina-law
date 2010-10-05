@@ -1,0 +1,1 @@
+Na osnovu člana 4.2. Zakona o prijenosu, regulatoru i operatoru sistema električne energije u Bosni i Hercegovini ("Službeni glasnik BiH", broj 7/02) i člana 36. Poslovnika o radu Državne regulatorne komisije za električnu energiju ("Službeni glasnik BiH" broj 2/05), Državna regulatorna komisija za električnu energiju, na sjednici održanoj 2. septembra 2010. godine, donijela je
