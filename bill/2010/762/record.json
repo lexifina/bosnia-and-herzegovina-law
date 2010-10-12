@@ -1,0 +1,31 @@
+{
+  "id": "762",
+  "title": "Prijedlog zakona o usvajanju Zakona o izmjenama i dopunama Zakona o državljanstvu Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "pending",
+  "source_categories": [
+    1
+  ],
+  "record_date": "2010-10-12",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 12.10.2010",
+  "official_procedure_date": "12.10.2010",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=762",
+  "source_sha256": "3417d76a53622bd2ea3505334a521d82970e2edb12d3e02340cbbe956e9db710",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=85f0e7c3-ef8c-4a56-b820-ad27993c692d&langTag=bs",
+      "label": "Prijedlog zakona o usvajanju Zakona o izmjenama i dopunama Zakona o državljanstvu Bosne i Hercegovine",
+      "sha256": "316c0d5bf06ee9af309bed60e8489bd92743472d97d53f24c7472951f9ecb668",
+      "pages": 8,
+      "source_images": 37,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "empty_pages": [],
+      "text_status": "text held: image-bearing document requires image review"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
