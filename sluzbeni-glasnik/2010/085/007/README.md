@@ -1,0 +1,13 @@
+# ODLUKU O IMENOVANJU ZIADA ISSA ZA POČASNOG KONZULA BOSNE I HERCEGOVINE U REPUBLICI LIBAN I DAVANJU SAGLASNOSTI ZA OTVARANJE POČASNOG KONZULATA BOSNE I HERCEGOVINE U REPUBLICI LIBAN SA SJEDIŠTEM U BEJRUTU
+
+Naslov: ODLUKU O IMENOVANJU ZIADA ISSA ZA POČASNOG KONZULA BOSNE I HERCEGOVINE U REPUBLICI LIBAN I DAVANJU SAGLASNOSTI ZA OTVARANJE POČASNOG KONZULATA BOSNE I HERCEGOVINE U REPUBLICI LIBAN SA SJEDIŠTEM U BEJRUTU
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 85/10 (18.10.2010.), akt 7 od 34 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/jy1TfAW1eoo=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/qr79CUtnA7k=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
