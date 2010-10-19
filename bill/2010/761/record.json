@@ -1,0 +1,25 @@
+{
+  "id": "761",
+  "title": "Prijedlog Zakona o izmjenama i dopunama Zakona o državljanstvu Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2010-10-19",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 19.10.2010",
+  "official_procedure_date": "19.10.2010",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=761",
+  "source_sha256": "848792e7093ea965b6c2c69bfbab2f2e9c492463d194a38f7a44ab74a70eb1f2",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=89029a33-b0d9-4b0a-9f4a-f7a538374293&langTag=bs",
+      "label": "Prijedlog Zakona o izmjenama i dopunama Zakona o državljanstvu Bosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
