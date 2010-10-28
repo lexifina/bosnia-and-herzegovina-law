@@ -1,0 +1,25 @@
+{
+  "id": "759",
+  "title": "Prijedlog zakona o izmjeni i dopuni Zakona o ministarstvima i drugim organima uprave Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2010-10-28",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 28.10.2010",
+  "official_procedure_date": "28.10.2010",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=759",
+  "source_sha256": "3583104776900861de6e084bfa1d34dbfb74d4cfc979bbc1fc97b68c1ed26a92",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=12826952-6f81-4d3e-a869-62951f5aa7e9&langTag=bs",
+      "label": "Prijedlog zakona o izmjeni i dopuni Zakona o ministarstvima i drugim organima uprave Bosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
