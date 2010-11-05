@@ -1,0 +1,25 @@
+{
+  "id": "757",
+  "title": "Prijedlog zakona o neradnim danima u vrijeme vjerskih praznika Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2010-11-05",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 5.11.2010",
+  "official_procedure_date": "5.11.2010",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=757",
+  "source_sha256": "67747c39372bc979b5b92f5191d34022d73af6f8c82882ddec791ad73a22fe38",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=d90f1d46-bb36-45d5-a0c5-3b1def7da4be&langTag=bs",
+      "label": "Prijedlog zakona o neradnim danima u vrijeme vjerskih praznika Bosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
