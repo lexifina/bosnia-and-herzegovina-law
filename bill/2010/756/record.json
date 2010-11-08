@@ -1,0 +1,25 @@
+{
+  "id": "756",
+  "title": "Prijedlog zakona o putnim ispravama Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2010-11-08",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 8.11.2010",
+  "official_procedure_date": "8.11.2010",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=756",
+  "source_sha256": "0ae98ec1f8e776d88b08cab23805f777315e643f59950e126866468cfefa4830",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=7c4c94d6-555d-4e8f-94a2-2ed9ecafc37d&langTag=bs",
+      "label": "Prijedlog zakona o putnim ispravama Bosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
