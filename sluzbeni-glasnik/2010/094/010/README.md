@@ -1,0 +1,13 @@
+# ODLUKU O ODOBRAVANJU PROJEKTA KAPITALNIH ULAGANJA U 2010. GODINI - KUPOVINA, ADAPTACIJA I OPREMANJE OBJEKATA ZA DIPLOMATSKO-KONZULARNA PREDSTAVNIŠTVA BOSNE I HERCEGOVINE U BERLINU, BEOGRADU I ZAGREBU
+
+Naslov: ODLUKU O ODOBRAVANJU PROJEKTA KAPITALNIH ULAGANJA U 2010. GODINI - KUPOVINA, ADAPTACIJA I OPREMANJE OBJEKATA ZA DIPLOMATSKO-KONZULARNA PREDSTAVNIŠTVA BOSNE I HERCEGOVINE U BERLINU, BEOGRADU I ZAGREBU
+
+Donosilac: VISOKI PREDSTAVNIK ZA BOSNU I HERCEGOVINU.
+
+Službeni glasnik BiH broj 94/10 (15.11.2010.), akt 10 od 17 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ej24gztz5k76kjn45hxk3WfY=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/Sl5nExohz4nh78h77CVr4=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
