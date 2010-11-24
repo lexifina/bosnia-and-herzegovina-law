@@ -1,0 +1,3 @@
+# Član 15a.
+(Nepotpuna prijava)
+Nepotpuna prijava za postupak izvoza može se koristiti u slučajevima kada u trenutku podnošenja te prijave deklarant ne može dati konačne podatke vezane za carinsku vrijednost iz razloga što mu podaci o tome nisu poznati (npr. u kupoprodajnom ugovoru je naznačena klauzula da će se cijena prodate robe utvrditi prema cijeni na berzi određenog dana a roba se isporučuje prije naznačenog dana, ili je ugovoreno kvalitativno ili kvantitativno preuzimanja robe i slično). Deklarant je dužan u nepotpunoj prijavi navesti privremene podatke o vrijednosti robe kojima raspolaže.
