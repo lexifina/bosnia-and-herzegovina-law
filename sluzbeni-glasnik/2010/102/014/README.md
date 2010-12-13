@@ -1,0 +1,13 @@
+# RJEŠENJE O IMENOVANJU DVA ČLANA UPRAVNOG ODBORA CENTRA ZA INFORMIRANJE I PRIZNAVANJE DOKUMENATA IZ OBLASTI VISOKOG OBRAZOVANJA, PO JEDNOG IZ REDA HRVATA I PRIPADNIKA NACIONALNIH MANJINA
+
+Naslov: RJEŠENJE O IMENOVANJU DVA ČLANA UPRAVNOG ODBORA CENTRA ZA INFORMIRANJE I PRIZNAVANJE DOKUMENATA IZ OBLASTI VISOKOG OBRAZOVANJA, PO JEDNOG IZ REDA HRVATA I PRIPADNIKA NACIONALNIH MANJINA
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 102/10 (13.12.2010.), akt 14 od 40 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/vrJCp0V3ML8=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/3oNHPaRCsfM=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
