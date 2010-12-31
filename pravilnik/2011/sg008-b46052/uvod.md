@@ -1,0 +1,1 @@
+Na osnovu člana 6. stav 2. Zakona o kontroli vanjskotrgovinskog prometa roba i usluga od strateške važnosti za sigurnost Bosne i Hercegovine ("Službeni glasnik BiH", broj 103/09), ministar sigurnosti donosi
