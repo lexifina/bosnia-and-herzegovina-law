@@ -1,0 +1,1 @@
+Na osnovu člana 7. st 1. i 6. Zakona o vanjskotrgovinskoj politici Bosne i Hercegovine ("Službeni glasnik BiH", br. 7/98, 35/04) i člana 17. Zakona o Vijeću ministara Bosne i Hercegovine ("Službeni glasnik BiH", br. 30/03, 42/03, 81/06, 76/07, 81/07, 94/07 i 24/08), Vijeće ministara Bosne i Hercegovine, na 140. sjednici, održanoj 28. decembra 2010. godine, donijelo je
