@@ -1,0 +1,1 @@
+Na osnovu člana 57. Zakona o carinskoj politici Bosne i Hercegovine ("Službeni glasnik BiH", br. 57/04, 51/06 i 93/08), člana 61. stav 2. Zakona o upravi ("Službeni glasnik BiH", br. 32/02 i 102/09) i člana 15. Zakona o Upravi za indirektno oporezivanje ("Službeni glasnik BiH", broj 89/05), direktor Uprave za indirektno oporezivanje donosi
