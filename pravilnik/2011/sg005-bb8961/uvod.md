@@ -1,0 +1,1 @@
+Na osnovu člana 21. i 22. stav (2) Zakona Bosne i Hercegovine o izvršenju krivičnih sankcija, pritvora i drugih mjera - Prečišćeni tekst ("Službeni glasnik BiH", broj 12/10), ministar pravde Bosne i Hercegovine donosi
