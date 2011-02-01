@@ -1,0 +1,1 @@
+Na osnovu člana 27. stav 10. Zakona o veterinarstvu u Bosni i Hercegovini ("Službeni glasnik BiH", broj 34/02), te člana 61. stav 2. Zakona o upravi ("Službeni glasnik BiH", br. 32/02 i 102/09), Ministarstvo vanjske trgovine i ekonomskih odnosa, na prijedlog Ureda za veterinarstvo Bosne i Hercegovine, donosi
