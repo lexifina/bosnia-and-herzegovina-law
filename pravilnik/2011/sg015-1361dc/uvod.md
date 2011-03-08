@@ -1,0 +1,1 @@
+- obnovljeno krdo se podvrgava kliničkom i serološkom pregledu u skladu sa zahtjevima nadležnog veterinarskog inspektora. Ovaj se pregled obavlja najranije 28 dana nakon dolaska posljednjih svinja.
