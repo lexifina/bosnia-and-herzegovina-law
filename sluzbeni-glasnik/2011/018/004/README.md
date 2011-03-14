@@ -1,0 +1,13 @@
+# ODLUKU O ODOBRAVANJU IZVEDBENOG PROJEKTA JEDINSTVENOG IZBORNOG INFORMACIONOG SISTEMA BOSNE I HERCEGOVINE KOJI ĆE SE UVRSTITI U PROGRAM VIŠEGODIŠNJIH KAPITALNIH ULAGANJA ZA PERIOD 2010.-2012. GODINE
+
+Naslov: ODLUKU O ODOBRAVANJU IZVEDBENOG PROJEKTA JEDINSTVENOG IZBORNOG INFORMACIONOG SISTEMA BOSNE I HERCEGOVINE KOJI ĆE SE UVRSTITI U PROGRAM VIŠEGODIŠNJIH KAPITALNIH ULAGANJA ZA PERIOD 2010.-2012. GODINE
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 18/11 (14.3.2011.), akt 4 od 10 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ZGJQs0WdLYk=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/JlE8P8KUEfk=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
