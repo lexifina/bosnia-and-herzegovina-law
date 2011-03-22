@@ -1,0 +1,1 @@
+Na osnovu člana 184. Zakona o krivičnom postupku Bosne i Hercegovine ("Službeni glasnik BiH", broj 36/03, 26/04, 63/04, 13/05, 48/05, 46/06, 76/06, 29/07, 32/07, 53/07, 76/07, 15/08, 12/09, 16/09 i 93/09), ministar pravde Bosne i Hercegovine donosi
