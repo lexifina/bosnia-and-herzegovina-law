@@ -1,0 +1,1 @@
+Na osnovu člana 255. stav (2) Zakona o krivičnom postupku Bosne i Hercegovine ("Službeni glasnik BiH", br. 3/03, 32/03, 36/03, 26/04, 63/04, 13/05, 48/05, 46/06, 76/06, 29/07, 32/07, 3/07, 76/07, 15/08, 58/08, 12/09 i 16/09), ministar pravde donosi
