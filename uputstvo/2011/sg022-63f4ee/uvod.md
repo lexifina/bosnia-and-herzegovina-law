@@ -1,0 +1,1 @@
+Na osnovu člana 61. stav (2) Zakona o upravi ("Službeni glasnik BiH", br. 32/02 i 102/09) i člana 74. Zakona o sprečavanju pranja novca i finansiranja terorističkih aktivnosti ("Službeni glasnik BiH", broj 53/09), ministar sigurnosti Bosne i Hercegovine donosi
