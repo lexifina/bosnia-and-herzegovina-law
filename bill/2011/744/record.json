@@ -1,0 +1,25 @@
+{
+  "id": "744",
+  "title": "Prijedlog zakona o izmjenama i dopunama Zakona o plaćama i drugim naknadama u sudskim i tužilačkim institucijama na nivou Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2011-03-31",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 31.3.2011",
+  "official_procedure_date": "31.3.2011",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=744",
+  "source_sha256": "3fce6695d8d18f4e586f88ac35bad745b2b80dd6810ca31ee0b13fe7f13d2c65",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=6a5675da-bfb2-4445-85b4-c455044409f1&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Zakona o plaćama i drugim naknadama u sudskim i tužilačkim institucijama na nivou Bosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
