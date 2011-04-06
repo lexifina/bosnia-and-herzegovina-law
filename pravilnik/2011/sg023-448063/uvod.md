@@ -1,0 +1,1 @@
+Na osnovu člana 124. stav (3) Zakona o lijekovima i medicinskim sredstvima ("Službeni glasnik BiH", broj 58/08) i na osnovu člana 99. st. (1) i (2) Zakona o upravi ("Službeni glasnik BiH", br. 32/02 i 102/09), ministar civilnih poslova Bosne i Hercegovine, na prijedlog direktora Agencije za lijekove i medicinska sredstva Bosne i Hercegovine, donosi
