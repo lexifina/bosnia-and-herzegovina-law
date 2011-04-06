@@ -1,0 +1,1 @@
+Na osnovu člana 94. i člana 123. Zakona o lijekovima i medicinskim sredstvima ("Službeni glasnik BiH", broj 58/08), ministar civilnih poslova Bosne i Hercegovine, na prijedlog Stručnog vijeća Agencije za lijekove i medicinska sredstva Bosne i Hercegovine, donosi
