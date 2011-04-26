@@ -1,0 +1,1 @@
+Na osnovu člana 219. stav (4) Zakona o osnovama sigurnosti saobraćaja na cestama u Bosni i Hercegovini ("Službeni glasnik BiH", br. 6/06, 75/06, 44/07, 84/09 i 48/10), ministar komunikacija i prometa Bosne i Hercegovine, u saradnji sa organima nadležnim za unutrašnje poslove, donosi
