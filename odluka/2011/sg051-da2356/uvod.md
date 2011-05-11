@@ -1,0 +1,1 @@
+Na osnovu člana 17. Zakona o Vijeću ministara Bosne i Hercegovine ("Službeni glasnik BiH", br. 30/3, 42/03, 81/06, 76/07, 81/07, 94/07 i 24/08) i člana 16. Zakona o sprečavanju i suzbijanju zloupotrebe opojnih droga ("Službeni glasnik BiH", broj8/06), Vijeće ministara Bosne i Hercegovine, na 150. sjednici održanoj 11. maja 2011. godine, donijelo je
