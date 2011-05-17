@@ -1,0 +1,25 @@
+{
+  "id": "741",
+  "title": "Prijedlog zakona o Budžetu institucija BiH i međunarodnih obaveza Bosne i Hercegovine za 2011. godinu",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2011-05-17",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 17.5.2011",
+  "official_procedure_date": "17.5.2011",
+  "proposer": "Predsjedništvo BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=741",
+  "source_sha256": "7ee1f22a3177d73317fdb02ed20e8ab75f8e46d9d37395c90d20a8a8a02be8b5",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=c2e8e1e7-f346-4692-9218-c81dfd4466ac&langTag=bs",
+      "label": "Prijedlog zakona o Budžetu institucija BiH i međunarodnih obaveza Bosne i Hercegovine za 2011. godinu",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
