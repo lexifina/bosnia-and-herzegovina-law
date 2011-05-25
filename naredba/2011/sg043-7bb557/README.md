@@ -1,0 +1,9 @@
+# NAREDBU O ZABRANI UPOTREBE 2,2-BIS (4-HIDROKSIFENIL) PROPANA, OPĆENITO POZNATOG KAO BISFENOL A (BPA), U PROIZVODNJI PLASTIČNIH FLAŠICA ZA HRANJENJE DOJENČADI, STAVLJANJA NA TRŽIŠTE I UVOZA U BOSNU I HERCEGOVINU PLASTIČNIH MATERIJALA I PREDMETA NAMIJENJENIH DA DOĐU U KONTAKT SA HRANOM KOJI NISU U SKLADU SA ODREDBAMA OVE NAREDBE
+
+As enacted · in force from 2011-05-25 · <https://www.sluzbenilist.ba/page/akt/nVcY1RKWZiY=>
+
+One source-text file, including textual annexes. Later amendments are not consolidated.
+
+| Provision | File |
+| --- | --- |
+| Tekst propisa | [tekst.md](tekst.md) |
