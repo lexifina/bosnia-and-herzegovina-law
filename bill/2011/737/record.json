@@ -1,0 +1,25 @@
+{
+  "id": "737",
+  "title": "Prijedlog Zakona o izmjenama i dopunama Zakona o javnim nabavkama\r\nBosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2011-05-30",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 30.5.2011",
+  "official_procedure_date": "30.5.2011",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=737",
+  "source_sha256": "ac059823e2c02a86b890f9861786d713c643a7d0074889b2ed673fe115e7d12e",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=f95e45b7-6a72-4f1a-9a7c-8a859796cbbc&langTag=bs",
+      "label": "Prijedlog Zakona o izmjenama i dopunama Zakona o javnim nabavkama\r\nBosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
