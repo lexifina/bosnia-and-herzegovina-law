@@ -1,0 +1,25 @@
+{
+  "id": "736",
+  "title": "Prijedlog zakona o izmjenama i dopunama Zakona o Agenciji za unapređenje\r\nstranih investicija u Bosni i Hercegovini",
+  "kind": "bill",
+  "is_law": false,
+  "status": "withdrawn",
+  "source_categories": [
+    5
+  ],
+  "record_date": "2011-05-31",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 31.5.2011",
+  "official_procedure_date": "31.5.2011",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=736",
+  "source_sha256": "0f44cbb4e58323ac7d1f01e72e13e3ee88905b32aa4867b71b82db63ad997082",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=955c8008-f9bc-472f-8c34-97e57e4eb6d0&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Zakona o Agenciji za unapređenje\r\nstranih investicija u Bosni i Hercegovini",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
