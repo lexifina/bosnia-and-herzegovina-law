@@ -1,0 +1,1 @@
+Na osnovu člana 16. Zakona o upravi ("Službeni glasnik BiH", broj 32/02 i 102/09) i člana 129. Zakona o policijskim službenicima Bosne i Hercegovine ("Službeni glasnik BiH", broj 27/04, 63/04, 5/06, 33/06, 58/06, 15/08, 63/08, i 35/09), na prijedlog rukovodioca policijskog organa, ministar Ministarstva sigurnosti Bosne i Hercegovine donosi
