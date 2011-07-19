@@ -1,0 +1,1 @@
+Na osnovu ovlaštenja iz člana 8. a u vezi sa članom 25. stav 2.b Zakona o željeznicama Bosne i Hercegovine ("Službeni glasnik BiH", broj 52/05) i u skladu sa Direktivom o sigurnosti na željeznicama 2004/49/EC, direktor Regulatornog odbora željeznica Bosne i Hercegovine donosi
