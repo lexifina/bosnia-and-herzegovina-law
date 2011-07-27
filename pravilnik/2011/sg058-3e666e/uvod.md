@@ -1,0 +1,1 @@
+Na osnovu člana 29. Zakona o duhanu ("Službeni glasnik BiH", broj 32/10), člana 9. Zakona o ministarstvima i drugim organima uprave ("Službeni glasnik BiH", br. 5/03, 42/03, 26/04, 42/04, 45/06, 88/07, 35/09, 59/09 i 103/09) i člana 16. Zakona o upravi Bosne i Hercegovine ("Službeni glasnik BiH", br. 32/02 i 102/09), ministar vanjske trgovine i ekonomskih odnosa donosi
