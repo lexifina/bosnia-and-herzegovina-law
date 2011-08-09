@@ -1,0 +1,1 @@
+Na osnovu člana 7. stava (1), tačka g) i člana 10. stav (4) tačka b) Zakona o poljoprivredi, ishrani i ruralnom razvoju ("Službeni glasnik BiH", broj 50/08), Ministarstvo vanjske trgovine i ekonomskih odnosa, na prijedlog Ureda za veterinarstvo Bosne i Hercegovine, donijelo je
