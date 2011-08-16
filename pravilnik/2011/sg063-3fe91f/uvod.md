@@ -1,0 +1,1 @@
+Na osnovu člana 24., a u vezi sa članom 5. Zakona o sudskoj policiji Bosne i Hercegovine ("Službeni glasnik BiH", broj 3/03 i 21/03) i člana 4. Zakona o zaštiti ličnih podataka ("Službeni glasnik BiH", broj 49/06), ministar pravde Bosne i Hercegovine donosi
