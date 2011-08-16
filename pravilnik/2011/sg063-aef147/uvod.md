@@ -1,0 +1,1 @@
+Na osnovu članova 20. stav (1) i (4), 21. stav (3), 22. stav (2), 23. stav (2), 43. stav (6), 44. stav (4), 45. stav (2), 49. stav (2) i 50. stav (2) Zakona o zaštiti zdravlja bilja Bosne i Hercegovine ("Službeni glasnik BiH", broj 23/03), Uprava Bosne i Hercegovine za zaštitu zdravlja bilja donosi
