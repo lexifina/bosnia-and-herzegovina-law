@@ -1,0 +1,1 @@
+Na osnovu člana 17. stav (1) tačka c) Zakona o sukobu interesa u institucijama vlasti Bosne i Hercegovine ("Službeni glasnik BiH", br. 16/02, 14/03, 12/04 i 63/08), Centralna izborna komisija Bosne i Hercegovine je, na 53. sjednici održanoj 18. augusta 2011. godine, donijela
