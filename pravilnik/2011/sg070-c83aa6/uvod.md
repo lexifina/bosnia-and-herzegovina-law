@@ -1,0 +1,1 @@
+Na osnovu člana 14. stav (1) Zakona o finansiranju političkih stranaka ("Službeni glasnik BiH", br. 22/00, 102/09 i 54/10) i člana 18. Poslovnika Centralne izborne komisije Bosne i Hercegovine ("Službeni glasnik BiH", br. 50/07 i 33/09), Centralna izborna komisija Bosne i Hercegovine je, na 53. sjednici održanoj 18. augusta 2011. godine, utvrdila
