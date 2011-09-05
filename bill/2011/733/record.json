@@ -1,0 +1,25 @@
+{
+  "id": "733",
+  "title": "Prijedlog zakona o zabrani negiranja, minimiziranja, opravdavanja ili odobravanja holokausta, zločina genocida i zločina protiv čovječnosti",
+  "kind": "bill",
+  "is_law": false,
+  "status": "suspended",
+  "source_categories": [
+    6
+  ],
+  "record_date": "2011-09-05",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 5.9.2011",
+  "official_procedure_date": "5.9.2011",
+  "proposer": "poslanici Azra Hadžiahmetović i Beriz Belkić",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=733",
+  "source_sha256": "1b8c57f1f34e3d4c51a952061ba7458f7124dfd1574bb060adbab861e143171c",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=e1c4fd4d-b68b-4014-a837-5b97065776b1&langTag=bs",
+      "label": "Prijedlog zakona o zabrani negiranja, minimiziranja, opravdavanja ili odobravanja holokausta, zločina genocida i zločina protiv čovječnosti",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
