@@ -1,0 +1,25 @@
+{
+  "id": "731",
+  "title": "Prijedlog zakona o sistemu državne pomoći u Bosni i Hercegovini",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2011-09-08",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 8.9.2011",
+  "official_procedure_date": "8.9.2011",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=731",
+  "source_sha256": "5dfc3e34cc6fb76d547ccba5a137ae370209f4dadc44566091d4b58fbac3ff18",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=a5d59f38-bb66-4c9f-92f4-0c5266058e6b&langTag=bs",
+      "label": "Prijedlog zakona o sistemu državne pomoći u Bosni i Hercegovini",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
