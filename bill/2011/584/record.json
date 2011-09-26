@@ -1,0 +1,31 @@
+{
+  "id": "584",
+  "title": "Prijedlog zakona o usvajanju Zakona o izmjenama i dopunama Zakona o Sudu BiH - (u proceduri od 26.09.2011. godine)",
+  "kind": "bill",
+  "is_law": false,
+  "status": "pending",
+  "source_categories": [
+    1
+  ],
+  "record_date": "2011-09-26",
+  "in_force": null,
+  "date_basis": "Official title: u proceduri od 26.09.2011. godine",
+  "official_procedure_date": "30.11.2014",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=584",
+  "source_sha256": "515f83ae1017323fe1bec9d6b442596ffccceaa9d37c3d6c37d5d1f8f6ad2e1c",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=aae3bbdc-bc52-4bc4-830d-42718ce36dd8&langTag=bs",
+      "label": "Prijedlog zakona o usvajanju Zakona o izmjenama i dopunama Zakona o Sudu BiH - (u proceduri od 26.09.2011. godine)",
+      "sha256": "b6719798669db678eae8ad4b471510afdf9c680c2f5fe34daec6527cfe7aa55e",
+      "pages": 6,
+      "source_images": 14,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "empty_pages": [],
+      "text_status": "text held: image-bearing document requires image review"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
