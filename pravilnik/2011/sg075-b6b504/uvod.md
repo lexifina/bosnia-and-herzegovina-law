@@ -1,0 +1,1 @@
+Na osnovu člana 36. stav (1), člana 37. stav (6), člana 41. stav (5) i člana 44. stav (6) Zakona o lijekovima i medicinskim sredstvima ("Službeni glasnik BiH", broj 58/08), ministar civilnih poslova Bosne i Hercegovine, na prijedlog Stručnog vijeća Agencije za lijekove i medicinska sredstva Bosne i Hercegovine, donosi
