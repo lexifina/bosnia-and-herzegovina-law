@@ -1,0 +1,13 @@
+# ODLUKU O IMENOVANJU ČLANOVA RADNE GRUPE ZA KOORDINACIJU I PRAĆENJE PROVOĐENJA AKCIONOG PLANA ZA PROVOĐENJE STRATEGIJE BOSNE I HERCEGOVINE ZA BORBU PROTIV ORGANIZOVANOG KRIMINALA ZA PERIOD 2009. - 2012. GODINE
+
+Naslov: ODLUKU O IMENOVANJU ČLANOVA RADNE GRUPE ZA KOORDINACIJU I PRAĆENJE PROVOĐENJA AKCIONOG PLANA ZA PROVOĐENJE STRATEGIJE BOSNE I HERCEGOVINE ZA BORBU PROTIV ORGANIZOVANOG KRIMINALA ZA PERIOD 2009. - 2012. GODINE
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 81/11 (11.10.2011.), akt 3 od 14 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/JYOGx1WXt5I=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/fHZx7qp5OvQ=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
