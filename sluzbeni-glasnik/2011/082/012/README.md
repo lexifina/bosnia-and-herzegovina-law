@@ -1,0 +1,13 @@
+# ODLUKU O PRERASPODJELI DIJELA SREDSTAVA INSTITUTA ZA NESTALE OSOBE BOSNE I HERCEGOVINE U KORIST TUŽILAŠTVA BOSNE I HERCEGOVINE ZA EKSHUMACIJE I IDENTIFIKACIJE POSMRTNIH OSTATAKA ŽRTAVA RATA
+
+Naslov: ODLUKU O PRERASPODJELI DIJELA SREDSTAVA INSTITUTA ZA NESTALE OSOBE BOSNE I HERCEGOVINE U KORIST TUŽILAŠTVA BOSNE I HERCEGOVINE ZA EKSHUMACIJE I IDENTIFIKACIJE POSMRTNIH OSTATAKA ŽRTAVA RATA
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 82/11 (17.10.2011.), akt 12 od 20 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ohB3D2Upxco=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/2XXr3FtAS4I=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
