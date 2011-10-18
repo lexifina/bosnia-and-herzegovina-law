@@ -1,0 +1,1 @@
+Na osnovu člana 16. Zakona o Upravi ("Službeni glasnik BiH", br. 32/02, 102/09) i člana 57. stav (4) Zakona o upravi za indirektno oporezivanje ("Službeni glasnik BiH" broj 89/05), direktor Uprave za indirektno oporezivanje donosi
