@@ -1,0 +1,25 @@
+{
+  "id": "728",
+  "title": "Prijedlog zakona o izmjenama i dopunama Zakona o sprečavanju i suzbijanju zloupotrebe opojnih droga",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2011-11-09",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 9.11.2011",
+  "official_procedure_date": "9.11.2011",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=728",
+  "source_sha256": "461723ec1a15f06f8824bf84880237a62a3faa1040756148797387eecd33d085",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=5bf520cc-6017-47af-b885-f53aa5cb080b&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Zakona o sprečavanju i suzbijanju zloupotrebe opojnih droga",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
