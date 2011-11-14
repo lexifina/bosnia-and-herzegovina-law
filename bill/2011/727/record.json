@@ -1,0 +1,25 @@
+{
+  "id": "727",
+  "title": "Prijedlog zakona o dopunama Zakona o porezu na dodatu vrijednost",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2011-11-14",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 14.11.2011",
+  "official_procedure_date": "14.11.2011",
+  "proposer": "poslanik Aleksandra Pandurević - srpski jezik",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=727",
+  "source_sha256": "e89cfc2b7549e80581f2ed2113b7d8bf376f1731b8e97d26e682bc9a7085a31c",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=ced83617-1f85-4b11-b56e-4c5edbf080f5&langTag=bs",
+      "label": "Prijedlog zakona o dopunama Zakona o porezu na dodatu vrijednost",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
