@@ -1,0 +1,1 @@
+Na osnovu člana 17. Zakona o Vijeću ministara Bosne i Hercegovine ("Službeni glasnik BiH", br. 30/03, 42/03, 81/06, 76/07, 81/07, 94/07 i 24/08) i člana 7. Sporazuma o uspostavljanju Vijeća za opće obrazovanje u Bosni i Hercegovini ("Službeni glasnik BiH", br. 22/09 i 32/10), Vijeće ministara Bosne i Hercegovine, na 163. sjednici održanoj 10. oktobra 2011. godine, donijelo je
