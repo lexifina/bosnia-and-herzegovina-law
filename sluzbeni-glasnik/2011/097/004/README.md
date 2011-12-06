@@ -1,0 +1,13 @@
+# ODLUKU O IMENOVANJU ČLANOVA INTERPARLAMENTARNIH GRUPA PRIJATELJSTVA PARLAMENTARNE SKUPŠTINE BOSNE I HERCEGOVINE ZA BILATERALNU SARADNJU S PARLAMENTARNIM TIJELIMA DRUGIH ZEMALJA
+
+Naslov: ODLUKU O IMENOVANJU ČLANOVA INTERPARLAMENTARNIH GRUPA PRIJATELJSTVA PARLAMENTARNE SKUPŠTINE BOSNE I HERCEGOVINE ZA BILATERALNU SARADNJU S PARLAMENTARNIM TIJELIMA DRUGIH ZEMALJA
+
+Donosilac: PARLAMENTARNA SKUPŠTINA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 97/11 (6.12.2011.), akt 4 od 11 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/LNjC8fRCB2w=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/pillYXhWRoU=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
