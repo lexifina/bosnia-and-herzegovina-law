@@ -1,0 +1,1 @@
+Na osnovu člana 17. Zakona o Vijeću ministara Bosne i Hercegovine ("Službeni glasnik BiH", br. 30/03, 42/03, 81/06, 76/07, 81/07, 94/07 i 24/08), a u vezi s članom 50. Zakona o radu u institucijama Bosne i Hercegovine ("Službeni glasnik BiH", br. 26/04, 7/05, 48/05 i 60/10), Vijeće ministara Bosne i Hercegovine, na 169. sjednici održanoj 21. decembra 2011. godine, donijelo je
