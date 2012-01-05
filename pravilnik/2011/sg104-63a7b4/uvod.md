@@ -1,0 +1,1 @@
+Na osnovu člana 16. stav (5) Zakona o zaštiti zdravlja bilja (�Slu�beni glasnik BiH�, broj 23/03) i člana 61. stav (2) Zakona o upravi (�Slu�beni glasnik BiH�, br. 32/02 i 102/09) Uprava Bosne i Hercegovine za zaštitu zdravlja bilja donosi
