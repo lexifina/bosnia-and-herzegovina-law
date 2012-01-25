@@ -1,0 +1,1 @@
+Na osnovu člana 50. stav (7) Zakona o Upravi za indirektno oporezivanje ("Službeni glasnik BiH", broj 89/05), na prijedlog direktora Uprave za indirektno/neizravno oporezivanje, Upravni odbor, na 118. sjednici održanoj dana 01.12.2011. godine, donosi
