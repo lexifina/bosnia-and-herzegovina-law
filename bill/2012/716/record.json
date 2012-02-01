@@ -1,0 +1,25 @@
+{
+  "id": "716",
+  "title": "Prijedlog Zakona o prestanku važenja Zakona o Sudu Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "suspended",
+  "source_categories": [
+    6
+  ],
+  "record_date": "2012-02-01",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 1.2.2012",
+  "official_procedure_date": "1.2.2012",
+  "proposer": "poslanici Drago Kalabić i Darko Babalj - srpski jezik",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=716",
+  "source_sha256": "f654f2fa9ec5c3fcbc1ef8d8600d0f406e2cd96dad62c3ecc953fe2005684d55",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=cb4a9d6a-4226-4c94-b582-e0dd27df609a&langTag=bs",
+      "label": "Prijedlog Zakona o prestanku važenja Zakona o Sudu Bosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
