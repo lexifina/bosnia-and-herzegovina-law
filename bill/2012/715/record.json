@@ -1,0 +1,25 @@
+{
+  "id": "715",
+  "title": "Prijedlog Zakona o izmjenama i dopunama Zakona o prebivalištu i boravištu državljana\r\nBosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2012-02-02",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 2.2.2012",
+  "official_procedure_date": "2.2.2012",
+  "proposer": "Vijeće ministara BiH - (datum ulaska u proceduru 11.10.2010. godine)",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=715",
+  "source_sha256": "f0097d5026a4f601a1c32f71fdc62f9661fa6e822d1643ee0c9793747c802797",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=fd5a7b6f-da09-4cf4-8405-2c7275f094a0&langTag=bs",
+      "label": "Prijedlog Zakona o izmjenama i dopunama Zakona o prebivalištu i boravištu državljana\r\nBosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
