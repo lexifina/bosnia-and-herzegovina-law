@@ -1,0 +1,1 @@
+Na osnovu člana 17. Zakona o Vijeću ministara Bosne i Hercegovine ("Službeni glasnik BiH", br. 30/03, 42/03, 81/06, 76/07, 81/07, 94/07 i 24/08), a u vezi s tačkom 6. Državne strategije za rad na predmetima ratnih zločina, Vijeće ministara Bosne i Hercegovine, na 3. sjednici održanoj 07.02.2012. godine, donijelo je
