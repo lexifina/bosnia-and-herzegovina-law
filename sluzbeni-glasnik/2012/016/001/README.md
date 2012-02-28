@@ -1,0 +1,13 @@
+# ODLUKU O RAZRJEŠENJU I IMENOVANJU ČLANA INTERPARLAMENTARNE GRUPE PRIJATELJSTVA PARLAMENTARNE SKUPŠTINE BiH ZA BILATERALNU SARADNJU SA PARLAMENTARNIM TIJELIMA DRUGIH ZEMALJA
+
+Naslov: ODLUKU O RAZRJEŠENJU I IMENOVANJU ČLANA INTERPARLAMENTARNE GRUPE PRIJATELJSTVA PARLAMENTARNE SKUPŠTINE BiH ZA BILATERALNU SARADNJU SA PARLAMENTARNIM TIJELIMA DRUGIH ZEMALJA
+
+Donosilac: PREDSTAVNIČKI DOM PARLAMENTARNE SKUPŠTINE BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 16/12 (28.2.2012.), akt 1 od 8 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/g4yHAv9jwUM=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/peTqYRQR1pg=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
