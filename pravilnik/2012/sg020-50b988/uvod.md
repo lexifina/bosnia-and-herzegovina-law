@@ -1,0 +1,1 @@
+Na osnovu člana 146. i 159. Zakona Bosne i Hercegovine o izvršenju krivičnih sankcija, pritvora i drugih mjera - Prečišćeni tekst ("Službeni glasnik BiH", broj 12/10), ministar pravde Bosne i Hercegovine donosi
