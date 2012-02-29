@@ -1,0 +1,1 @@
+Na osnovu člana 61. Zakona o upravi ("Službeni glasnik BiH", broj 30/02 i 102/09) i odredaba Zakona o udruženjima i fondacijama Bosne i Hercegovine ("Službeni glasnik BiH", broj 32/01, 42/03, 63/08 i 76/11), ministar Ministarstva pravde Bosne i Hercegovine donosi
