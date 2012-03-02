@@ -1,0 +1,1 @@
+Na osnovu člana 16. Zakona o sistemu indirektnog oporezivanja u Bosni i Hercegovini ("Službeni glasnik BiH", br. 44/03, 52/04, 32/07, 4/08 i 49/09), na 119. sjednici održanoj 02.03.2012. godine, Upravni odbor Uprave za indirektno oporezivanje donio je
