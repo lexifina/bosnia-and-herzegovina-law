@@ -1,0 +1,1 @@
+Na osnovu člana 18. Zakona o poljoprivredi, ishrani i ruralnom razvoju Bosne i Hercegovine ("Službeni glasnik BiH", broj 50/08), člana 17. i člana 22. stav 1. Zakona o Vijeću ministara Bosne i Hercegovine ("Službeni glasnik BiH", br. 30/03, 42/03, 81/06, 76/07, 81/07, 94/07 i 24/08), Vijeće ministara Bosne i Hercegovine, na 4. sjednici održanoj 21. marta 2012. godine, donijelo je
