@@ -1,0 +1,1 @@
+Na osnovu člana 99. stav 1. i člana 10. stav 1. tačke 3. Zakona o upravi ("Službeni glasnik BiH", broj 32/02) i člana 35. stav 1. Zakona Bosne i Hercegovine o izvršenju krivičnih sankcija, pritvora i drugih mjera - Prečišćeni tekst ("Službeni glasnik BiH", broj 12/10), ministar pravde Bosne i Hercegovine donosi
