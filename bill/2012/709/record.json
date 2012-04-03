@@ -1,0 +1,25 @@
+{
+  "id": "709",
+  "title": "Prijedlog zakona o izmjeni Zakona o jedinstvenom matičnom broju",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2012-04-03",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 3.4.2012",
+  "official_procedure_date": "3.4.2012",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=709",
+  "source_sha256": "ab1e4fba2fccd14d6279ebccc97b90cfd08f40787ba3a0218ca5271ddea85bd8",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=d679a254-fdd9-4e3d-95f9-ab74d94d4a57&langTag=bs",
+      "label": "Prijedlog zakona o izmjeni Zakona o jedinstvenom matičnom broju",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
