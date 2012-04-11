@@ -1,0 +1,1 @@
+Na osnovu člana IV. 3. b) Ustava Bosne i Hercegovine i člana 164. Poslovnika Predstavničkog doma ("Službeni glasnik BiH", br. 33/06, 41/06, 81/06, 91/06, 91/07 i 87/09), Predstavnički dom Parlamentarne skupštine Bosne i Hercegovine je, na 25. sjednici održanoj 29. 3. 2012. godine, usvojio
