@@ -1,0 +1,1 @@
+Na osnovu člana 80. stav (2) Zakona o sjemenu i sadnom materijalu poljoprivrednih biljaka Bosne i Hercegovine ("Službeni glasnik BiH", broj 3/05) i člana 61. stav 2. Zakona o upravi ("Službeni glasnik BiH", br. 32/02 i 102/09), Uprava Bosne i Hercegovine za zaštitu zdravlja bilja donosi
