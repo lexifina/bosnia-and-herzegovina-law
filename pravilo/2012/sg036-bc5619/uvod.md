@@ -1,0 +1,1 @@
+Na osnovu člana 7. stav 2, člana 37. stav 1. tačka a), člana 38. i člana 39. stav 1. Zakona o komunikacijama ("Službeni glasnik BiH", br. 31/03, 75/06, 33/10), Vjeće Regulatorne agencije za komunikacje, na 55. sjednici održanoj u Sarajevu, dana 17. 04. 2012. godine, donosi
