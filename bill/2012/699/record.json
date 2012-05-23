@@ -1,0 +1,25 @@
+{
+  "id": "699",
+  "title": "Prijedlog zakona o izmjenama i dopunama Zakona o službi u Oružanim snagama BiH - (dostupno samo na srpskom jeziku)",
+  "kind": "bill",
+  "is_law": false,
+  "status": "suspended",
+  "source_categories": [
+    6
+  ],
+  "record_date": "2012-05-23",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 23.5.2012",
+  "official_procedure_date": "23.5.2012",
+  "proposer": "poslanik Milorad Živković",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=699",
+  "source_sha256": "37cd25d4689494b6d42e66218eeef563bc457ae607e9032642234b9f4233264d",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=19d9e74f-c591-43dc-b48f-b698e1f356c1&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Zakona o službi u Oružanim snagama BiH - (dostupno samo na srpskom jeziku)",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
