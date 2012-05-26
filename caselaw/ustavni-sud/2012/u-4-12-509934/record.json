@@ -1,0 +1,16 @@
+{
+  "id": "509934",
+  "case_number": "U-4/12",
+  "date": "2012-05-26T00:00:00",
+  "decision_type": "Odluka o meritumu",
+  "item_type": "U",
+  "source": "https://www.ustavnisud.ba/uploads/odluke/_bs/U-4-12-509934.pdf",
+  "official_decision": "https://www.ustavnisud.ba/uploads/odluke/_bs/U-4-12-509934.pdf",
+  "listing_source": "https://www.ustavnisud.ba/bs/api/odluke?submit=1&vp%5B%5D=2&sp=DatumAsc",
+  "record_type": "decision-text",
+  "date_basis": "Own decision PDF sitting date; official database date retained separately",
+  "source_sha256": "89797b3407ff9cbf7016f06a24249be2322a18e496931a22842d6b706de1a3bb",
+  "decision_date": "2012-05-26",
+  "database_date": "2012-05-25T00:00:00",
+  "date_source_quote": "sjednici održanoj 26. maja 2012"
+}
