@@ -1,0 +1,13 @@
+# ODLUKU O KRITERIJIMA ZA USPOSTAVLJANJE JEDINICA INTERNE REVIZIJE U INSTITUCIJAMA BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O KRITERIJIMA ZA USPOSTAVLJANJE JEDINICA INTERNE REVIZIJE U INSTITUCIJAMA BOSNE I HERCEGOVINE
+
+Donosilac: MINISTARSTVO FINANSIJA I TREZORA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 49/12 (26.6.2012.), akt 3 od 4 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/87GY7HnG094=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/iiUu3iNihxM=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
