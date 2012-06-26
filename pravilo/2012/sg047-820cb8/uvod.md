@@ -1,0 +1,1 @@
+Na osnovu člana 39. stav 1. Zakona o komunikacijama ("Službeni glasnik BiH", broj 31/03, 75/06 i 32/10) i tačke 2.1 b) 4. Odluke o politici sektora telekomunikacija Bosne i Hercegovine za period 2008-2012. godine ("Službeni glasnik BiH", broj 8/09), Vijeće Regulatorne agencije za komunikacije, na sjednici održanoj 29.05.2012. godine, donosi
