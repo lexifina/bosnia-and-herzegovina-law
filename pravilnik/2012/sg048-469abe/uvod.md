@@ -1,0 +1,1 @@
+Na osnovu člana 14. Zakona o sistemu indirektnog oporezivanja u Bosni I Hercegovini ("Službeni glasnik BiH", br. 44/03, 52/04, 34/07 i 4/08), člana 11. i člana 43. Zakona o akcizama u Bosni i Hercegovini ("Službeni glasnik BiH", broj 49/09), Upravni odbor Uprave za indirektno oporezivanje, na sjednici održanoj dana 05.06.2012. godine, donio je
