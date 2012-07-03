@@ -1,0 +1,13 @@
+# ODLUKU O IZMJENAMA ODLUKE O IMENOVANJU ČLANOVA DRŽAVNE KOMISIJE ZA SARADNJU BOSNE I HERCEGOVINE SA ORGANIZACIJOM UJEDINJENIH NARODA ZA OBRAZOVANJE, NAUKU I KULTURU(UNESCO) I VISINI NOVČANE NAKNADE
+
+Naslov: ODLUKU O IZMJENAMA ODLUKE O IMENOVANJU ČLANOVA DRŽAVNE KOMISIJE ZA SARADNJU BOSNE I HERCEGOVINE SA ORGANIZACIJOM UJEDINJENIH NARODA ZA OBRAZOVANJE, NAUKU I KULTURU(UNESCO) I VISINI NOVČANE NAKNADE
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 51/12 (3.7.2012.), akt 5 od 20 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/88atsOzswU8=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/41YOAsfS7uA=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
