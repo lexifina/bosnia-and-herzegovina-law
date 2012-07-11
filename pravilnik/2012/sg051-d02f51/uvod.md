@@ -1,0 +1,1 @@
+Na osnovu člana 11. stav 3. Zakona o zaštiti ličnih podataka ("Službeni glasnik BiH", br. 49/06, 76/11 i 89/11) i člana 16. Zakona o upravi ("Službeni glasnik BiH" br. 32/02 i 102/09), direktor Uprave za indirektno oporezivanje donosi
