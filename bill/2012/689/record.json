@@ -1,0 +1,25 @@
+{
+  "id": "689",
+  "title": "Prijedlog zakona o izmjenama i dopunama Zakona o sportu u Bosni i Hercegovini",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2012-07-16",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 16.7.2012",
+  "official_procedure_date": "16.7.2012",
+  "proposer": "zamjenik predsjedavajućeg Predstavničkog doma dr. Denis Bećirović",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=689",
+  "source_sha256": "25489b0197db9ada3b759c02c9d384d909fe965a1ba7f3bb3b9946dc5ea85c1c",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=1201a197-d20d-4d04-b7b7-9cf2c405d188&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Zakona o sportu u Bosni i Hercegovini",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
