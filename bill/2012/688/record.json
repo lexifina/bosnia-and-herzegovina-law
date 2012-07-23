@@ -1,0 +1,25 @@
+{
+  "id": "688",
+  "title": "Prijedlog zakona o besplatnoj pravnoj pomoći",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2012-07-23",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 23.7.2012",
+  "official_procedure_date": "23.7.2012",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=688",
+  "source_sha256": "0254c70264bfb86294b6b65f82f5feca9c9d4dd4dd2bad00ba03f2577ca31ef7",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=edfd1e28-9b01-4903-9d8f-a7e179d28dc5&langTag=bs",
+      "label": "Prijedlog zakona o besplatnoj pravnoj pomoći",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
