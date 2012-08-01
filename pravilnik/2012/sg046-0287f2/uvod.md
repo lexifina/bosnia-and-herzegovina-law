@@ -1,0 +1,1 @@
+Na osnovu člana 252. tačka 26), a u vezi sa članom 179. stav (4) Zakona o osnovama sigurnosti saobraćaja na cestama u Bosni i Hercegovini ("Službeni glasnik BiH", br. 6/06,75/06, 44/07, 84/09 i 48/10), ministar komunikacija i prometa, u saradnji sa organima nadležnim za obrazovanje, donosi
