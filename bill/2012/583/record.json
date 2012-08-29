@@ -1,0 +1,31 @@
+{
+  "id": "583",
+  "title": "Prijedlog amandmana na Ustav Bosne i Hercegovine - (u proceduri od 29.08.2012. godine)",
+  "kind": "bill",
+  "is_law": false,
+  "status": "pending",
+  "source_categories": [
+    1
+  ],
+  "record_date": "2012-08-29",
+  "in_force": null,
+  "date_basis": "Official title: u proceduri od 29.08.2012. godine",
+  "official_procedure_date": "30.11.2014",
+  "proposer": "poslanici Božo Ljubić, Niko Lozančić, Dragan Vrankić, Mato Franjičević i delegati Dragan Čović, Borjana Krišto i Martin Raguž",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=583",
+  "source_sha256": "b3b479439db55345a279741d60010bceb9dd813b471c35aa4c46c0a28a9e53c1",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=668dc3bf-a32d-407e-84bb-e59aaf0122eb&langTag=bs",
+      "label": "Prijedlog amandmana na Ustav Bosne i Hercegovine - (u proceduri od 29.08.2012. godine)",
+      "sha256": "dd5bd7a774ed66969fe40acb1f5b3e2e63426700dff1eee479d7f6eeaf532350",
+      "pages": 7,
+      "source_images": 15,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "empty_pages": [],
+      "text_status": "text held: image-bearing document requires image review"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
