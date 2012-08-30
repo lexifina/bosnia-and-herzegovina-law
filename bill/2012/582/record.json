@@ -1,0 +1,31 @@
+{
+  "id": "582",
+  "title": "Prijedlog amandmana na Ustav Bosne i Hercegovine - (u proceduri od 30.08.2012. godine)",
+  "kind": "bill",
+  "is_law": false,
+  "status": "pending",
+  "source_categories": [
+    1
+  ],
+  "record_date": "2012-08-30",
+  "in_force": null,
+  "date_basis": "Official title: u proceduri od 30.08.2012. godine",
+  "official_procedure_date": "30.11.2014",
+  "proposer": "poslanik Milorad Živković i delegat Ognjen Tadić",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=582",
+  "source_sha256": "2cde30d1d46bec0bd92b69c564d957d950a704d2b67631e619aa68a184acdaae",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=aad6a70a-b936-445c-b882-c18cbd145d97&langTag=bs",
+      "label": "Prijedlog amandmana na Ustav Bosne i Hercegovine - (u proceduri od 30.08.2012. godine)",
+      "sha256": "c74c998a2c22d95de20f29a57d37ebc950d091c81c0dd4f1868feecc72cc6426",
+      "pages": 4,
+      "source_images": 10,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "empty_pages": [],
+      "text_status": "text held: image-bearing document requires image review"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
