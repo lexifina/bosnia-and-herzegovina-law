@@ -1,0 +1,31 @@
+{
+  "id": "580",
+  "title": "Prijedlog amandmana na Ustav Bosne i Hercegovine - (u proceduri od 31.08.2012. godine)",
+  "kind": "bill",
+  "is_law": false,
+  "status": "pending",
+  "source_categories": [
+    1
+  ],
+  "record_date": "2012-08-31",
+  "in_force": null,
+  "date_basis": "Official title: u proceduri od 31.08.2012. godine",
+  "official_procedure_date": "30.11.2014",
+  "proposer": "poslanik i predsjednik Kluba SDA Asim Sarajlić",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=580",
+  "source_sha256": "ee9e32e6a2dd7a1451feb0caa73b314f3ac724b1aed6de8a520c58a973bb8838",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=eb35207f-2271-4f3a-a273-a88bc5cdce24&langTag=bs",
+      "label": "Prijedlog amandmana na Ustav Bosne i Hercegovine - (u proceduri od 31.08.2012. godine)",
+      "sha256": "c0ff2a8417e7f5c26f7ddbbbc4c82cc2d77a0384d49fc265aa33c03237fbe046",
+      "pages": 5,
+      "source_images": 11,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "empty_pages": [],
+      "text_status": "text held: image-bearing document requires image review"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
