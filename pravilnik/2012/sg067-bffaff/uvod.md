@@ -1,0 +1,1 @@
+Na osnovu člana 61. stav (2) Zakona o upravi ("Službeni glasnik BiH", br. 32/02 i 102/09), te člana 10. stav (2) Pravilnika o maksimalno dozvoljenim količinama farmakološki aktivnih supstanci u proizvodima životinjskog porijekla ("Službeni glasnik BiH", broj 61/11), Ured za veterinarstvo Bosne i Hercegovine donosi
