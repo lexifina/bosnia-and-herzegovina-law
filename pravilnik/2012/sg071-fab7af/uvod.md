@@ -1,0 +1,1 @@
+Na osnovu člana 61. stav (2) Zakona u upravi ("Službeni glasnik Bosne i Hercegovine", br. 32/02 i 102/09), člana 106. stav (5) i člana 112. stav (3) Zakona o lijekovima i medicinskim sredstvima ("Službeni glasnik BiH", broj 58/08), ministar civilnih poslova Bosne i Hercegovine, na prijedlog Stručnog vijeća Agencije za lijekove i medicinska sredstva Bosne i Hercegovine, donosi
