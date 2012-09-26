@@ -1,0 +1,1 @@
+Na osnovu čl. 103. stav (4) i čl. 129. stav (1) Zakona o policijskim službenicima Bosne i Hercegovine ("Službeni glasnik BiH", br. 27/04, 63/04, 5/06, 33/06, 58/06, 15/08, 63/08 i 35/09), ministar sigurnosti donosi
