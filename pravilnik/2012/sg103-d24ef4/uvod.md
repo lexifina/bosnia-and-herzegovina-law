@@ -1,0 +1,1 @@
+Na osnovu člana 10. stav 5. Zakona o veterinarstvu u Bosni i Hercegovini ("Službeni glasnik BiH", broj 34/02), člana 5. Pravilnika za kontrolu salmonela i drugih određenih uzročnika zoonoza koji se prenose hranom ("Službeni glasnik BiH", broj 46/10) i člana 61. stav 2. Zakona o upravi ("Službeni glasnik BiH", br. 32/02 i 102/09), Ured za veterinarstvo Bosne i Hercegovine donosi
