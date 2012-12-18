@@ -1,0 +1,1 @@
+Na osnovu člana 9. stav (3), člana 10. stav (5), člana 12. stav (3) i člana 41. stav (4) Zakona o zaštiti zdravlja bilja ("Službeni glasnik BiH", broj 23/03) i člana 61. stav (2) Zakona o upravi ("Službeni glasnik BiH", br. 32/02 i 102/09), Uprava Bosne i Hercegovine za zaštitu zdravlja bilja donosi
