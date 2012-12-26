@@ -1,0 +1,1 @@
+Na osnovu člana 203. stav 3., a u vezi sa članom 252. Zakona o osnovama sigurnosti saobraćaja na cestama u Bosni i Hercegovini ("Službeni glasnik BiH", br. 6/06, 75/06, 44/07, 84/09 i 48/10), ministar komunikacija i prometa, u saradnji sa entitetskim ministarstvima unutrašnjih poslova u Bosni i Hercegovini i Policijom Brčko Distrikta Bosne i Hercegovine, donosi
