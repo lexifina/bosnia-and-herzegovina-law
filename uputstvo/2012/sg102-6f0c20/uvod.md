@@ -1,0 +1,1 @@
+Na osnovu člana 40. stav (2) tačka e), a u vezi sa članom 6. stav (2) Zakona o ličnoj karti državljana Bosne i Hercegovine ("Službeni glasnik BiH", br. 32/01, 16/02, 32/07, 53/07, 56/08 i 18/12), ministar civilnih poslova donosi
