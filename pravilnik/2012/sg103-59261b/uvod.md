@@ -1,0 +1,1 @@
+Na osnovu člana 18. stav (4) Zakona o graničnoj kontroli ("Službeni glasnik BiH", br. 53/09 i 54/10) i člana 61. stav (2) Zakona o upravi ("Službeni glasnik BiH", br. 32/02 i 102/09), ministar komunikacija i prometa Bosne i Hercegovine donosi
