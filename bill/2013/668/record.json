@@ -1,0 +1,25 @@
+{
+  "id": "668",
+  "title": "Prijedlog zakona o izbjeglicama iz Bosne i Hercegovine, raseljenim osobama i povratnicima",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2013-01-10",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 10.1.2013",
+  "official_procedure_date": "10.1.2013",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=668",
+  "source_sha256": "8ee16a8258f3cbbf7a2837cae8ff44adf6be98acdcb2a2d042c6e4987dfb57f9",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=b8f84e3c-d77c-4914-8751-84adfafc82e9&langTag=bs",
+      "label": "Prijedlog zakona o izbjeglicama iz Bosne i Hercegovine, raseljenim osobama i povratnicima",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
