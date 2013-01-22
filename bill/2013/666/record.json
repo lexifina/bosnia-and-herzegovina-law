@@ -1,0 +1,25 @@
+{
+  "id": "666",
+  "title": "Prijedlog zakona o izmjenama i dopunama Krivičnog zakona Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2013-01-22",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 22.1.2013",
+  "official_procedure_date": "22.1.2013",
+  "proposer": "Zajednička komisija za ljudska prava, prava djeteta, mlade, imigraciju, izbjeglice, azil i etiku",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=666",
+  "source_sha256": "71b0560fb7cd3bc4d25fcd15fa31b120d943b3bf24a5c39238eee77bdd12eb66",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=d3dc00a1-3000-4eab-bcd9-fa4155bbb8c8&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Krivičnog zakona Bosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
