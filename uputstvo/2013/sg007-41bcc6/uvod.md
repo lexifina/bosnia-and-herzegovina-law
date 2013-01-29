@@ -1,0 +1,1 @@
+Na osnovu člana 48. stav (4) tač. e) i h) Zakona o javnim nabavkama Bosne i Hercegovine ("Službeni glasnik BiH", br. 49/04, 19/05, 52/05, 8/06, 24/06, 70/06, 12/09 i 60/10), uz prethodnu saglasnost Odbora Agencije, direktor Agencije za javne nabavke donosi
