@@ -1,0 +1,16 @@
+{
+  "id": "545884",
+  "case_number": "U-7/12",
+  "date": "2013-01-30T00:00:00",
+  "decision_type": "Odluka o meritumu",
+  "item_type": "U",
+  "source": "https://www.ustavnisud.ba/uploads/odluke/_bs/U-7-12-545884.pdf",
+  "official_decision": "https://www.ustavnisud.ba/uploads/odluke/_bs/U-7-12-545884.pdf",
+  "listing_source": "https://www.ustavnisud.ba/bs/api/odluke?submit=1&vp%5B%5D=2&sp=DatumAsc",
+  "record_type": "decision-text",
+  "date_basis": "Own decision PDF sitting date; official database date retained separately",
+  "source_sha256": "1328d829cc3d276ae6a96ee0caefa9f9b048d24432660fac7264529265d459bd",
+  "decision_date": "2013-01-30",
+  "database_date": "2013-01-31T00:00:00",
+  "date_source_quote": "sjednici održanoj 30. januara 2013"
+}
