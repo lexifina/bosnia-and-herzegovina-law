@@ -1,0 +1,13 @@
+# ODLUKU O FORMIRANJU INTERRESORNE RADNE GRUPE ZA IZRADU I PRAĆENJE PROVOĐENJA AKCIONOG PLANA ZA IZVRŠENJE GENERALNIH MJERA PO PRESUDI EVROPSKOG SUDA ZA LJUDSKA PRAVA U PREDMETU HADŽIĆ I SULJIĆ PROTIV BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O FORMIRANJU INTERRESORNE RADNE GRUPE ZA IZRADU I PRAĆENJE PROVOĐENJA AKCIONOG PLANA ZA IZVRŠENJE GENERALNIH MJERA PO PRESUDI EVROPSKOG SUDA ZA LJUDSKA PRAVA U PREDMETU HADŽIĆ I SULJIĆ PROTIV BOSNE I HERCEGOVINE
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 8/13 (4.2.2013.), akt 4 od 17 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Mrw02cLwleo=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/Rohz4nh78h772Pw6zohz4nh78h77UXA=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
