@@ -1,0 +1,13 @@
+# ODLUKU O ODOBRAVANJU "PROJEKTA IZGRADNJE BAZE ZA SMJEŠTAJ I OBUKU JEDINICE ZA SPECIJALNU PODRŠKU DRŽAVNE AGENCIJE ZA ISTRAGE I ZAŠTITU" KOJI ĆE SE UVRSTITI U PROGRAM VIŠEGODIŠNJIH KAPITALNIH ULAGANJA ZA PERIOD 2012.-2016. GODINE
+
+Naslov: ODLUKU O ODOBRAVANJU "PROJEKTA IZGRADNJE BAZE ZA SMJEŠTAJ I OBUKU JEDINICE ZA SPECIJALNU PODRŠKU DRŽAVNE AGENCIJE ZA ISTRAGE I ZAŠTITU" KOJI ĆE SE UVRSTITI U PROGRAM VIŠEGODIŠNJIH KAPITALNIH ULAGANJA ZA PERIOD 2012.-2016. GODINE
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 8/13 (4.2.2013.), akt 3 od 17 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Mrw02cLwleo=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/ewYU6r2uNXg=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
