@@ -1,0 +1,1 @@
+Na osnovu člana V. 2 (a) Ustava Bosne i Hercegovine, te na osnovu člana 57. Poslovnika o radu Predsjedništva BiH, Predsjedništvo Bosne i Hercegovine, na 31. redovnoj sjednici održanoj 23. januara 2013. godine, usvojilo je
