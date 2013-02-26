@@ -1,0 +1,25 @@
+{
+  "id": "660",
+  "title": "Prijedlog zakona o izmjenama Izbornog zakona Bosne i Hercegovine (dostupno na srpskom jeziku)",
+  "kind": "bill",
+  "is_law": false,
+  "status": "withdrawn",
+  "source_categories": [
+    5
+  ],
+  "record_date": "2013-02-26",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 26.2.2013",
+  "official_procedure_date": "26.2.2013",
+  "proposer": "delegat Krstan Simić",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=660",
+  "source_sha256": "624617bf4f6a2691fdec9e1d784a6ddd07b724a56c84904c204e203c90d9ae08",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=b5c3ee1c-78f5-4a3d-9195-6a17f4219a9f&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama Izbornog zakona Bosne i Hercegovine (dostupno na srpskom jeziku)",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
