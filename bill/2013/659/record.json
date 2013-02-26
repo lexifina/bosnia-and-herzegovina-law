@@ -1,0 +1,25 @@
+{
+  "id": "659",
+  "title": "Prijedlog zakona o izmjeni Zakona o jedinstvenom matičnom broju (dostupno na srpskom jeziku)",
+  "kind": "bill",
+  "is_law": false,
+  "status": "withdrawn",
+  "source_categories": [
+    5
+  ],
+  "record_date": "2013-02-26",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 26.2.2013",
+  "official_procedure_date": "26.2.2013",
+  "proposer": "delegat Krstan Simić",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=659",
+  "source_sha256": "3a7ede95210bee8b3c73e30e772f3c50c53b163fb3e869468c967d980ec6ea45",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=17d7020a-322b-4a28-875b-6ac9b2da637e&langTag=bs",
+      "label": "Prijedlog zakona o izmjeni Zakona o jedinstvenom matičnom broju (dostupno na srpskom jeziku)",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
