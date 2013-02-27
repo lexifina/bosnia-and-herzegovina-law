@@ -1,0 +1,25 @@
+{
+  "id": "658",
+  "title": "Prijedlog zakona o izmjeni i dopuni Zakona o jedinstvenom matičnom broju",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2013-02-27",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 27.2.2013",
+  "official_procedure_date": "27.2.2013",
+  "proposer": "poslanici Saša Magazinović, Senad Šepić, Mirsad Đugum, Mladen Ivanković-Lijanović i Beriz Belkić",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=658",
+  "source_sha256": "86d4a436ae9f1b3a2d36aca4b3c39672f5ce7180e4513dfa6b8feabd206d2e2c",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=ed7ab146-11de-4d5d-aaf0-bccf4383d154&langTag=bs",
+      "label": "Prijedlog zakona o izmjeni i dopuni Zakona o jedinstvenom matičnom broju",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
