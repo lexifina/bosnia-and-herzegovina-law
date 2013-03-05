@@ -1,0 +1,1 @@
+Na osnovu člana 15. tačka a) Zakona o odbrani ("Službeni glasnik BiH", broj 88/05) i člana 20. stav 1. Zakona o službi u Oružanim snagama Bosne i Hercegovine ("Službeni glasnik BiH", broj 88/05, 53/07, 59/09, 74/10 i 42/12), ministar odbrane donosi
