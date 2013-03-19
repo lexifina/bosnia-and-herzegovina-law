@@ -1,0 +1,25 @@
+{
+  "id": "656",
+  "title": "Prijedlog zakona o izmjeni i dopuni Zakona o jedinstvenom matičnom broju",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2013-03-19",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 19.3.2013",
+  "official_procedure_date": "19.3.2013",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=656",
+  "source_sha256": "81d45717a9859dd1ede7f06b406d8658cc73955c414cbadfd616e744c61c9153",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=cd98c7e8-234b-4cd0-bd17-2594d8fb1d03&langTag=bs",
+      "label": "Prijedlog zakona o izmjeni i dopuni Zakona o jedinstvenom matičnom broju",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
