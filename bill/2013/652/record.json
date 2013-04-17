@@ -1,0 +1,25 @@
+{
+  "id": "652",
+  "title": "Prijedlog zakona o izmjenama i dopunama Zakona o plaćama i naknadama u institucijama Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "withdrawn",
+  "source_categories": [
+    5
+  ],
+  "record_date": "2013-04-17",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 17.4.2013",
+  "official_procedure_date": "17.4.2013",
+  "proposer": "poslanik Mirsad Đugum",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=652",
+  "source_sha256": "e8a5cacfd27c78afcdb8d24e5f2e104cbaa0829e227c61e27bb63459f7098b18",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=97a2262b-d32f-4d67-8541-148f3fe01409&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Zakona o plaćama i naknadama u institucijama Bosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
