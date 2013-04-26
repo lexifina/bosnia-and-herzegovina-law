@@ -1,0 +1,1 @@
+Na osnovu člana 4. i člana 12. stav (1) alineja 13. Zakona o ministarstvima i drugim organima uprave Bosne i Hercegovine ("Službeni glasnik BiH", br. 5/03, 42/03, 26/04, 42/04, 45/06, 88/07, 35/09, 59/09, 103/09 i 87/12) i na osnovu člana 99. st. 1 i 2 i člana 16. Zakona o upravi ("Službeni glasnik BiH", br. 32/02 i 102/09), ministar za ljudska prava i izbjeglice BiH donosi
