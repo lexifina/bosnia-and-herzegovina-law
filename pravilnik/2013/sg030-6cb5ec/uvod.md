@@ -1,0 +1,1 @@
+Na osnovu člana 39. stav 1. Zakona o Visokom sudskom i tužilačkom vijeću Bosne i Hercegovine ("Službeni glasnik BiH", br. 25/04, 93/05, 48/07 i 15/08) i člana 12. Poslovnika Visokog sudskog i tužilačkog vijeća BiH ("Službeni glasnik BiH", br. 44/09, 28/10 i 58/10), Visoko sudsko i tužilačko vijeće Bosne i Hercegovine, na sjednici održanoj 5. marta 2013. godine, usvojilo je
