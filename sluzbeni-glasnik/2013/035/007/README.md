@@ -1,0 +1,13 @@
+# ODLUKU O ODOBRAVANJU VIŠEGODIŠNJEG KAPITALNOG PROJEKTA 2013.-2015. GODINA "IZGRADNJA PRVE FAZE MULTIFUNKCIONALNOG ATRIJA U UNUTRAŠNJEM DVORIŠTU"
+
+Naslov: ODLUKU O ODOBRAVANJU VIŠEGODIŠNJEG KAPITALNOG PROJEKTA 2013.-2015. GODINA "IZGRADNJA PRVE FAZE MULTIFUNKCIONALNOG ATRIJA U UNUTRAŠNJEM DVORIŠTU"
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 35/13 (7.5.2013.), akt 7 od 20 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/wSJ4Fgztz5k76kjn45hnCt74=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/HYcNuCr72Ws=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
