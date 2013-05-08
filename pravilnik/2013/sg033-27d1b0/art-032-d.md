@@ -1,0 +1,4 @@
+# Član 32d.
+(Ostali uslovi za skladišta)
+(1) Skladište amonijum-nitratnih đubriva mora da ispunjava uslove u skladu sa propisom kojim se uređuju tehnički normativi za rukovanje i skladištenje đubriva u čvrstom stanju koja sadrže amonij-nitrat.
+(2) Ako se u skladištu zatvorenog tipa, pored sredstava za ishranu bilja, skladište i materije koje su zapaljive ili koje mogu reagirati sa mineralnim đubriva (npr. pamuk, sve vrste tekstila, vlakna bilo koje vrste, životinjska biljna ulja i masti, riblje brašno, uljane pogače, brašno, hrana za životinje, piljevina, fitofarmaceutska sredstva, hlorati, hipohloriti, kiseline, cement, kreč, soda, motorna goriva i ulja), to skladište mora da ima zid otporan na požar 2 h, kako bi se osiguralo odvajanje tih materija od mineralnih đubriva, pri čemu te materije moraju biti udaljene od zida najmanje dva metra."
