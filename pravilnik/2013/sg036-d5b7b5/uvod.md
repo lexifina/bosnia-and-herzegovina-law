@@ -1,0 +1,1 @@
+Na osnovu člana 71. stav (7) Zakona o lijekovima i medicinskim sredstvima ("Službeni glasnik BiH", broj 58/08), na prijedlog Stručnog vijeća Agencije za lijekove i medicinska sredstva Bosne i Hercegovine, ministar civilnih poslova Bosne i Hercegovine donosi
