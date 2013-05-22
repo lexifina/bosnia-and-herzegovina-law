@@ -1,0 +1,1 @@
+Na osnovu člana 61. Zakona o upravi ("Službeni glasnik BiH". br. 30/02 i 102/09) i člana 19. Zakona o registraciji pravnih subjekata koje osnivaju institucije Bosne i Hercegovine ("Službeni glasnik BiH", br. 37/03 i 76/11), ministar pravde Bosne i Hercegovine donosi
