@@ -1,0 +1,1 @@
+Na osnovu člana 13. stav 2. Zakona o putnim ispravama Bosne i Hercegovine ("Službeni glasnik BiH", br. 4/97, 1/99, 9/99, 27/00, 32/00, 19/01, 47/04, 53/07, 15/08, 33/08 i 39/08) i člana 98. stav 1. Zakona o upravi ("Službeni glasnik BiH", br. 32/02 i 102/09), ministar vanjskih poslova donosi
