@@ -1,0 +1,1 @@
+Na osnovu člana 17. Zakona o Vijeću ministara Bosne i Hercegovine ("Službeni glasnik BiH", br. 30/03, 42/03, 81/06, 76/07, 81/07, 94/07 i 24/08), i člana 39. stav (2) a u vezi sa članom 75. stav (2) tačka k) Zakona o zaštiti tajnih podataka ("Službeni glasnik BiH", br. 54/05 i 12/09), Vijeće ministara Bosne i Hercegovine, na 52. sjednici održanoj 05.06.2013. godine, donijelo je
