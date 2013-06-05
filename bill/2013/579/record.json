@@ -1,0 +1,31 @@
+{
+  "id": "579",
+  "title": "Prijedlog Zakona o izmjenama i dopunama Zakona o zaštiti i dobrobiti životinja - (u proceduri od 05.06.2013. godine)",
+  "kind": "bill",
+  "is_law": false,
+  "status": "pending",
+  "source_categories": [
+    1
+  ],
+  "record_date": "2013-06-05",
+  "in_force": null,
+  "date_basis": "Official title: u proceduri od 05.06.2013. godine",
+  "official_procedure_date": "30.11.2014",
+  "proposer": "poslanik Nermina Zaimović - Uzunović",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=579",
+  "source_sha256": "c03d8d0227e47fb8a1fff6ba2ba19517170ea9f4900918655480ff3ce0eed325",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=26087e10-16d0-49d6-9fbe-c749c3ac9023&langTag=bs",
+      "label": "Prijedlog Zakona o izmjenama i dopunama Zakona o zaštiti i dobrobiti životinja - (u proceduri od 05.06.2013. godine)",
+      "sha256": "0ec4ba2d9d3a8993a5bcf35c99f6fcb696456f430d8715feadcd9051041a71f4",
+      "pages": 12,
+      "source_images": 27,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "empty_pages": [],
+      "text_status": "text held: image-bearing document requires image review"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
