@@ -1,0 +1,25 @@
+{
+  "id": "643",
+  "title": "Prijedlog zakona o izmjeni i dopuni Zakona o jedinstvenom matičnom broju  (dostupno na srpskom jeziku)",
+  "kind": "bill",
+  "is_law": false,
+  "status": "withdrawn",
+  "source_categories": [
+    5
+  ],
+  "record_date": "2013-06-06",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 6.6.2013",
+  "official_procedure_date": "6.6.2013",
+  "proposer": "Klub poslanika SDS i Klub poslanika SNSD",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=643",
+  "source_sha256": "0d3fdf4cc87c5b9bbaa263a1fb58908da996f32914398c8b6ba9cdff402c6169",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=e3f64004-9438-4e99-93da-03ae82cd4aa5&langTag=bs",
+      "label": "Prijedlog zakona o izmjeni i dopuni Zakona o jedinstvenom matičnom broju  (dostupno na srpskom jeziku)",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
