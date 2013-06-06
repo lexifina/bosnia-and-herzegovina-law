@@ -1,0 +1,25 @@
+{
+  "id": "644",
+  "title": "Prijedlog zakona o izmjeni i dopuni Zakona o jedinstvenom matičnom broju",
+  "kind": "bill",
+  "is_law": false,
+  "status": "withdrawn",
+  "source_categories": [
+    5
+  ],
+  "record_date": "2013-06-06",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 6.6.2013",
+  "official_procedure_date": "6.6.2013",
+  "proposer": "poslanice Danijela Martinović, Nermina Zaimović - Uzunović, Nermina Ćemalović",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=644",
+  "source_sha256": "7b2ea9ad69d852bd416be35855223b3f0df036ccb5acfe3fc0a04eee25275293",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=e5724085-2305-4abd-9739-ff8c7aa63346&langTag=bs",
+      "label": "Prijedlog zakona o izmjeni i dopuni Zakona o jedinstvenom matičnom broju",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
