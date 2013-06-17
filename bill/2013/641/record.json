@@ -1,0 +1,25 @@
+{
+  "id": "641",
+  "title": "Prijedlog zakona o izmjenama i dopunama Izbornog zakona Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "suspended",
+  "source_categories": [
+    6
+  ],
+  "record_date": "2013-06-17",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 17.6.2013",
+  "official_procedure_date": "17.6.2013",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=641",
+  "source_sha256": "8c76e5948f5e59f1d0fdeb5eeb8502db19c0ed51b2bc858aa2f632b2b1263ae0",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=994d2ff3-3ede-4165-b611-d4391e86db00&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Izbornog zakona Bosne i Hercegovine",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
