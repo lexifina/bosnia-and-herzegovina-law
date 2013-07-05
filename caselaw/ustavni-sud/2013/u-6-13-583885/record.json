@@ -1,0 +1,13 @@
+{
+  "id": "583885",
+  "case_number": "U-6/13",
+  "date": "2013-07-05T00:00:00",
+  "decision_type": "Odluka o dopustivosti",
+  "item_type": "U",
+  "source": "https://www.ustavnisud.ba/bs/api/odluke?submit=1&vp%5B%5D=2&sp=DatumAsc",
+  "official_decision": "https://www.ustavnisud.ba/uploads/odluke/U-6-13-583885.pdf",
+  "listing_source": "https://www.ustavnisud.ba/bs/api/odluke?submit=1&vp%5B%5D=2&sp=DatumAsc",
+  "record_type": "metadata-only",
+  "date_basis": "Official Court database decision date",
+  "source_sha256": "15175fb59d79631d5175a1b98ce8dcd0cd982eb824f78e78fb5f1968da380b80"
+}
