@@ -1,0 +1,1 @@
+Na osnovu člana 8. Zakona o veterinarstvu u Bosni i Hercegovini, člana 61. stav 2. Zakona o upravi ("Službeni glasnik BiH", br. 32/02 i 102/09) i člana 4. stav (7) Pravilnika o organizaciji službenih kontrola proizvoda životinjskog porijekla namijenih ishrani ljudi ("Službeni glasnik BiH", broj 103/12), Ured za veterinarstvo Bosne i Hercegovine donosi
