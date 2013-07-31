@@ -1,0 +1,1 @@
+Na osnovu člana 8. Zakona o veterinarstvu u Bosni i Hercegovini ("Službeni glasnik BiH", broj 34/02) i člana 61. stav 2. Zakona o upravi ("Službeni glasnik BiH", br. 32/02 i 102/09), Ured za veterinarstvo Bosne i Hercegovine donosi
