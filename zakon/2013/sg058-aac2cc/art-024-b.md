@@ -1,0 +1,11 @@
+# Član 24b.
+(Kontrolirane isporuke)
+(1) Strani pravosudni organ može, posredstvom Ministarstva pravde Bosne i Hercegovine ili neposredno nadležnom tužilaštvu u Bosni i Hercegovini ako je to predviđeno međunarodnim ugovorom, podnijeti zahtjev za dozvolu kontrolirane isporuke - nadzirani prijevoz i isporuka predmeta krivičnog djela na teritoriju Bosne i Hercegovine.
+(2) Kada dobije zahtjev, nadležno tužilaštvo u Bosni i Hercegovini ispitat će:
+a) da li zahtjev sadrži sve relevantne podatke koji su potrebni da bi se, u skladu s krivičnim zakonodavstvom Bosne i Hercegovine, mogao podnijeti nadležnom sudu prijedlog za određivanje posebne istražne radnje - nadzirani prijevoz i isporuka predmeta krivičnog djela;
+b) da li se zahtjev odnosi na krivične istrage za krivična djela za koja se, u skladu s krivičnim zakonodavstvom Bosne i Hercegovine, može odrediti posebna istražna radnja - nadzirani prijevoz i isporuka predmeta krivičnog djela.
+(3) Ako nadležno tužilaštvo ustanovi da zahtjev ne sadrži sve relevantne podatke da bi se o zahtjevu moglo odlučiti, o tome će obavijestiti nadležni strani pravosudni organ koji može naknadno dostaviti zahtijevane potrebne podatke.
+(4) Ako nadležno tužilaštvo ustanovi da zahtjev ne ispunjava uslove iz stava (2) ovog člana, odbit će zahtjev i o tome obavijestiti nadležni strani pravosudni organ.
+(5) Ako zahtjev ispunjava sve neophodne uslove navedene u stavu (2) ovog člana, tužilac nadležnog tužilaštva u Bosni i Hercegovini sačinit će prijedlog za određivanje posebne istražne radnje - nadzirani prijevoz i isporuka predmeta krivičnog djela i uputiti ga nadležnom sudu u skladu s krivičnim zakonodavstvom Bosne i Hercegovine.
+(6) Nadležni sud će, u skladu s krivičnim zakonodavstvom Bosne i Hercegovine, odlučiti da li su ispunjeni uslovi za usvajanje prijedloga i donošenje naredbe kojom se određuje izvršenje posebne istražne radnje. Naredba suda predstavlja odobrenje. O odluci suda nadležno tužilaštvo obavijestit će strani pravosudni organ.
+(7) Izvršenje, upravljanje i kontroliranje posebne istražne radnje iz stava (1) ovog člana obavljat će agencije za provođenje zakona Bosne i Hercegovine u skladu s krivičnim zakonodavstvom Bosne i Hercegovine.

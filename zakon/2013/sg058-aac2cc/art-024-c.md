@@ -1,0 +1,13 @@
+# Član 24c.
+(Tajne istrage)
+(1) Nadležno tužilaštvo u Bosni i Hercegovini i nadležni strani pravosudni organ, posredstvom Ministarstva pravde Bosne i Hercegovine ili na neposredni pismeni zahtjev bilo koje od strana, ako je takva mogućnost predviđena međunarodnim ugovorom, mogu se dogovoriti da pomažu jedni drugima u konkretnom krivičnom predmetu koji pripadnici organa unutrašnjih poslova vode pod tajnim ili lažnim identitetom.
+(2) Kada dobije zahtjev, nadležno tužilaštvo u Bosni i Hercegovini ispitat će:
+a) da li zahtjev sadrži sve relevantne podatke koji su potrebni da bi se, u skladu s krivičnim zakonodavstvom Bosne i Hercegovine, nadležnom sudu mogao podnijeti prijedlog za određivanje posebne istražne radnje - korištenje prikrivenih istražitelja i informatora;
+b) da li se zahtjev odnosi na krivične istrage za krivična djela za koja se, u skladu s krivičnim zakonodavstvom Bosne i Hercegovine, može odrediti posebna istražna radnja - korištenje prikrivenih istražitelja i informatora.
+(3) Ako nadležno tužilaštvo ustanovi da zahtjev ne sadrži sve relevantne podatke, o tome će obavijestiti nadležni strani pravosudni organ, koji može naknadno dostaviti potrebne podatke.
+(4) Ako nadležno tužilaštvo ustanovi da zahtjev ne ispunjava uslove iz stava (2) ovog člana, odbit će zahtjev i o tome obavijestiti nadležni strani pravosudni organ.
+(5) Ako zahtjev ispunjava uslove iz stava (2) ovog člana, tužilac nadležnog tužilaštva u Bosni i Hercegovini sačinit će prijedlog za određivanje posebne istražne radnje - korištenje prikrivenih istražitelja i korištenje informatora i uputiti ga nadležnom sudu u skladu s krivičnim zakonodavstvom Bosne i Hercegovine.
+(6) Nadležni sud će, u skladu s krivičnim zakonodavstvom Bosne i Hercegovine, odlučiti o tome da li su ispunjeni uslovi za usvajanje prijedloga i donošenje naredbe kojom se određuje izvršenje posebne istražne radnje. O odluci suda nadležno tužilaštvo obavijestit će strani pravosudni organ.
+(7) Izvršenje, upravljanje i kontroliranje posebne istražne radnje - korištenje stranih prikrivenih istražitelja i korištenje stranih informatora obavljat će se u skladu s krivičnim zakonodavstvom Bosne i Hercegovine.
+(8) Nadležno tužilaštvo u Bosni i Hercegovini i nadležni strani pravosudni organ koji učestvuju u istrazi dogovorit će se o trajanju tajne istrage, detaljima, uslovima i pravnom statusu službenih lica za vrijeme tajne istrage uz poštovanje zakonodavstva i procedura u Bosni i Hercegovini, te će sarađivati u pripremi i nadzoru tajne istrage, kao i u osiguravanju zaštite službenih lica koja djeluju pod tajnim ili lažnim identitetom.
+(9) O postignutim saglasnostima iz stava (8) ovog člana sačinjava se pismeni sporazum koji potpisuju ugovorne strane.
