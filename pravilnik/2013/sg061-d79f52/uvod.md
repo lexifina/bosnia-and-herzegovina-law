@@ -1,0 +1,1 @@
+Na osnovu člana 61. Zakona o upravi ("Službeni glasnik BiH", broj 32/02 i 102/09), člana 5. stav 7. Zakona o Službi za poslove sa strancima ("Službeni glasnik BiH", broj 54/05 i 36/08), ministar sigurnosti Bosne i Hercegovine donosi
