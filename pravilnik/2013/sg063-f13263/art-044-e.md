@@ -1,0 +1,5 @@
+# Član 44e.
+(Izdavanje, zamjena i poništavanje izbjegličkog kartona i kartona o supsidijarnoj zaštiti)
+(1) Izdavanje, zamjenu i poništavanje izbjegličkog kartona i kartona o supsidijarnoj zaštiti vrši Sektor za azil.
+(2) Punoljetno lice, odnosno staratelj, zakonski zastupnik ili punomoćnik lica iz člana 44a. stav (1) tačke a) i b) ovog Pravilnika, dužno je zamijeniti karton u slučaju promjene mjesta boravka ili promjene bilo kojeg podatka sadržanog u obrascu kartona, oštećenja kartona, kao i u slučaju bitne izmjene lika, nastale kao posljedica fizičkog ili hemijskog dejstva, bolesti ili biološkog procesa, u roku od 30 dana od dana kada je navedena promjena nastupila.
+(3) U slučaju da lice iz člana 44a. stav (1) tačke a) i b) ovog Pravilnika izgubi karton dužno je, najkasnije u roku od tri dana od saznanja za navedenu činjenicu, prijaviti gubitak najbližoj organizacionoj jedinici Službe ili policiji, na čijoj teritoriji je uočeno gubljenje kartona. Nadležni organ licu koje je prijavilo gubitak kartona izdaje potvrdu o gubitku kartona koja se, zajedno sa zahtjevom za izdavanje novog kartona, dostavlja Sektoru za azil radi izdavanja novog kartona.
