@@ -1,0 +1,25 @@
+{
+  "id": "631",
+  "title": "Prijedlog zakona o izmjenama i dopunama Zakona o krivičnom postupku Bosne i Hercegovine -  (dostupno na srpskom jeziku)",
+  "kind": "bill",
+  "is_law": false,
+  "status": "suspended",
+  "source_categories": [
+    6
+  ],
+  "record_date": "2013-09-12",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 12.9.2013",
+  "official_procedure_date": "12.9.2013",
+  "proposer": "delegati Krstan Simić i Dragutin Rodić",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=631",
+  "source_sha256": "89b62c69d1c5c911357b2cb8d32df46be26e1d9ff81223a9e9ced5744ef51071",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=d3be525b-7ee3-45bd-b13d-63f7c777641e&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Zakona o krivičnom postupku Bosne i Hercegovine -  (dostupno na srpskom jeziku)",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
