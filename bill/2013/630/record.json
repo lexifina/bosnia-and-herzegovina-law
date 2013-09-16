@@ -1,0 +1,61 @@
+{
+  "id": "630",
+  "title": "Prijedlog zakona o izmjenama i dopunama Krivičnog zakona Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2013-09-16",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 16.9.2013",
+  "official_procedure_date": "16.9.2013",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=630",
+  "source_sha256": "66629f5fb1b183302de2ed35bfba38bb68ba987f4a8fd21f15f481d56510678b",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=3162ead0-1339-423f-b24a-1311e8f16d9d&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Krivičnog zakona Bosne i Hercegovine",
+      "sha256": "27411de28d0dcbf41d8f9522299cf036deb3f19d52e2914bb991d26bc2185dc5",
+      "pages": 29,
+      "source_images": 29,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "empty_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "text_status": "text held: pages need OCR (OCR disabled)"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
