@@ -1,0 +1,1 @@
+# A) OPŠTE ODREDBE
