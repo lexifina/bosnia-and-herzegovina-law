@@ -1,0 +1,37 @@
+{
+  "id": "627",
+  "title": "Prijedlog zakona o dopuni Izbornog zakona Bosne i Hercegovine -  (dostupno na srpskom jeziku)",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2013-10-09",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 9.10.2013",
+  "official_procedure_date": "9.10.2013",
+  "proposer": "Klub poslanika SDS",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=627",
+  "source_sha256": "aeddfdccd093d470eb078999199c8fd5a17e5f4faef1bc6fcd35b21a5ef3d926",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=a7299175-2f62-4539-94bf-e7ee6c10f12b&langTag=bs",
+      "label": "Prijedlog zakona o dopuni Izbornog zakona Bosne i Hercegovine -  (dostupno na srpskom jeziku)",
+      "sha256": "a96f29a2e2932f00401e630a63f9788f5c07fdca1c9e13b11726fd135e6ebf6d",
+      "pages": 5,
+      "source_images": 5,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "empty_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "text_status": "text held: pages need OCR (OCR disabled)"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
