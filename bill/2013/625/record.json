@@ -1,0 +1,25 @@
+{
+  "id": "625",
+  "title": "Prijedlog zakona o pravima žrtava torture",
+  "kind": "bill",
+  "is_law": false,
+  "status": "suspended",
+  "source_categories": [
+    6
+  ],
+  "record_date": "2013-11-05",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 5.11.2013",
+  "official_procedure_date": "5.11.2013",
+  "proposer": "poslanici Azra Hadžiahmetović i Beriz Belkić",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=625",
+  "source_sha256": "84b9c964e1fc71faf4142a77ba23dbee40e165d9d0ba0034f9a34ab6606d4660",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=d0ae7f7c-0743-4827-8b2e-f24cd656f739&langTag=bs",
+      "label": "Prijedlog zakona o pravima žrtava torture",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
