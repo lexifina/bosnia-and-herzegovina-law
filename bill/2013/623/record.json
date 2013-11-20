@@ -1,0 +1,25 @@
+{
+  "id": "623",
+  "title": "Prijedlog zakona o sprečavanju pranja novca i finansiranja terorističkih aktivnosti",
+  "kind": "bill",
+  "is_law": false,
+  "status": "suspended",
+  "source_categories": [
+    6
+  ],
+  "record_date": "2013-11-20",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 20.11.2013",
+  "official_procedure_date": "20.11.2013",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=623",
+  "source_sha256": "9ef35e646a912ac71e636166234719552a61989bcf46830ad4b73a5b17494526",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=31608b82-eb47-4878-9bbf-bd48367f3414&langTag=bs",
+      "label": "Prijedlog zakona o sprečavanju pranja novca i finansiranja terorističkih aktivnosti",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
