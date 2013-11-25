@@ -1,0 +1,40 @@
+{
+  "id": "622",
+  "title": "Prijedlog zakona o praznicima Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2013-11-25",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 25.11.2013",
+  "official_procedure_date": "25.11.2013",
+  "proposer": "﻿poslanik Denis Bećirović",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=622",
+  "source_sha256": "c271e8f5f779c48dff65cfd72e8c894da8658f67017347817ccfa9b8849211d1",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=a15421e4-dc53-4afd-9ec5-9da3104a4b43&langTag=bs",
+      "label": "Prijedlog zakona o praznicima Bosne i Hercegovine",
+      "sha256": "051ef4748a5867406a0709ec43b0dedbc698e700603984b365a538b80dd34c73",
+      "pages": 8,
+      "source_images": 320,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "empty_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "text_status": "text held: pages need OCR (OCR disabled)"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
