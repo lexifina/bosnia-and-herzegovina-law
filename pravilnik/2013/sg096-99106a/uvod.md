@@ -1,0 +1,1 @@
+Na osnovu člana 15.1 stav (1) Izbornog zakona Bosne i Hercegovine ("Službeni glasnik BiH", br. 23/01, 7/02, 9/02, 20/02, 25/02, 4/04, 20/04, 25/05, 52/05, 65/05, 77/05, 11/06, 24/06, 32/07, 33/08, 37/08, 32/10 i 18/13), Centralna izborna komisija Bosne i Hercegovine, na 47. sjednici, održanoj 18. 11. 2013. godine, donijela je
