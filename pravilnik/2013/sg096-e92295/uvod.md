@@ -1,0 +1,1 @@
+Na osnovu člana 12. stav (3) Zakona o finansiranju političkih stranaka ("Službeni glasnik BiH", broj 95/12), Centralna izborna komisija Bosne i Hercegovine je, na 47. sjednici održanoj 18.11.2013. godine, donijela
