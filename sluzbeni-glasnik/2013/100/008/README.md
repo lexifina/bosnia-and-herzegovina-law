@@ -1,0 +1,13 @@
+# ODLUKU O POTVRĐIVANJU ODLUKE PREDSJEDNIŠTVA BOSNE I HERCEGOVINE O POSTAVLJENJU PROFESIONALNIH VOJNIH LICA NA FORMACIJSKA MJESTA U MINISTARSTVU ODBRANE I ORUŽANIM SNAGAMA BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O POTVRĐIVANJU ODLUKE PREDSJEDNIŠTVA BOSNE I HERCEGOVINE O POSTAVLJENJU PROFESIONALNIH VOJNIH LICA NA FORMACIJSKA MJESTA U MINISTARSTVU ODBRANE I ORUŽANIM SNAGAMA BOSNE I HERCEGOVINE
+
+Donosilac: PARLAMENTARNA SKUPŠTINA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 100/13 (23.12.2013.), akt 8 od 49 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/XOtxkxRsHjI=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/7NysJ4eaTNc=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
