@@ -1,0 +1,31 @@
+{
+  "id": "614",
+  "title": "Prijedlog zakona o raspolaganju nepokretnom vojnom  imovinom",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2013-12-27",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 27.12.2013",
+  "official_procedure_date": "27.12.2013",
+  "proposer": "poslanik Mirsad Đugum",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=614",
+  "source_sha256": "ab586e1dd16f5a56334dda737a1a3610b0afe2923ab326d5a2446cf667e39b64",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=c3ccd83d-a003-4e2e-8560-143b7a4fff5b&langTag=bs",
+      "label": "Prijedlog zakona o raspolaganju nepokretnom vojnom  imovinom",
+      "sha256": "5b19d9cfc365363dec056c8422ce4741ff0d1f9646e716104e15c3e1295b8f71",
+      "pages": 10,
+      "source_images": 30,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "empty_pages": [],
+      "text_status": "text held: image-bearing document requires image review"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
