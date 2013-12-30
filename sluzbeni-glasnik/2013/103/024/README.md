@@ -1,0 +1,13 @@
+# ZAKLJUČAK O OBUSTAVLJANJU POSTUPKA
+
+Naslov: ZAKLJUČAK O OBUSTAVLJANJU POSTUPKA
+
+Donosilac: KONKURENCIJSKO VIJEĆE BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 103/13 (30.12.2013.), akt 24 od 29 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/NuZFG6lWMmw=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/6kZvIwhVjEA=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
