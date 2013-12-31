@@ -1,0 +1,1 @@
+# Dio prvi - Opće odredbe
