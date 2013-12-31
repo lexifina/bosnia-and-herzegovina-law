@@ -1,0 +1,3 @@
+# Član 158b.
+(Ograničenja za odobravanje pogodnosti lica kojima je oduzeto državljanstvo Bosne i Hercegovine ili koja su proglašena opasnim po nacionalnu sigurnost)
+Licu kojem je oduzeto državljanstvo Bosne i Hercegovine ili koje je proglašeno opasnim za nacionalnu sigurnost Bosne i Hercegovine za vrijeme izdržavanja kazne zatvora ili druge mjere izrečene u skladu sa zakonom neće se odobravati pogodnosti van kruga zavoda za vrijeme trajanja navedenih pravnih stanja ili pravnih situacija, odnosno nekog drugog sličnog pravnog statusa određenog na osnovu posebnog zakona ili drugog odgovarajućeg propisa."

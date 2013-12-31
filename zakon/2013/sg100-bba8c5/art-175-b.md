@@ -1,0 +1,5 @@
+# Član 175b.
+(Informacije o rezultatima koji su postignuti u procesu izvršenja uslovnog otpusta)
+(1) Organ socijalne zaštite, policije ili drugi određeni državni organ, odnosno pravno lice, dužni su Sudu, drugom sudu u Bosni i Hercegovini kada je na njega Sud prenio vođenje postupka ili drugom tijelu, u skladu sa Zakonom ili međunarodnim ugovorom, i Komisiji za uslovni otpust, najmanje jednom u šest mjeseci, odnosno na njihov zahtjev i češće, dati informacije o rezultatima koji su postignuti u procesu izvršenja uslovnog otpusta.
+(2) Za osuđena lica za koja je izrečena mjera nadzora, zabrane ili ograničenja prilikom odobravanja uslovnog otpusta organ policije dužan je informacije iz stava (1) ovog člana dostaviti sudu i Komisiji.
+(3) Nadležni organ socijalne zaštite ili drugi određeni organ dužan je, u roku od 15 dana od dana prijema rješenja Komisije za uslovni otpust kao i dokumentacije i podataka od zavoda, uslovno otpušteno lice kome je određena mjera ispunjenja određene obaveze ili drugih oblika zbrinjavanja upoznati s radnjama pomoći koje može preduzeti, ali ga i poučiti o njegovim obavezama u toku trajanja uslovnog otpusta."

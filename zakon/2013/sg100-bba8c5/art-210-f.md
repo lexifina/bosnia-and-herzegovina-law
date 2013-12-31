@@ -1,0 +1,10 @@
+# Član 210f.
+(Zaštita i unapređivanje zdravlja lica sa izrečenom mjerom sigurnosti)
+Zaštita i unapređivanje zdravlja lica sa izrečenom mjerom sigurnosti ostvaruje se:
+a) omogućavanjem odgovarajuće dijagnostičke obrade i psihijatrijskog liječenja i liječenja od ovisnosti,
+b) naučnim istraživanjima u oblasti zaštite i unapređivanja zdravlja lica sa izrečenom mjerom sigurnosti i njihovom zaštitom od medicinskih i naučnih istraživanja bez njihovog pristanka ili pristanka njihovih zastupnika ili ako je to suprotno zakonu ili drugom propisu ili međunarodnim sporazumima iz oblasti medicine, biomedicine, psihijatrije ili drugih srodnih medicinskih oblasti,
+c) uključivanjem lica sa izrečenom mjerom sigurnosti u obrazovne programe,
+d) oporavkom lica sa izrečenom mjerom sigurnosti, njihovim uključivanjem u porodicu i radnu i društvenu sredinu,
+e) adekvatno osposobljenim kadrom koji se bavi zdravstvenom zaštitom lica sa izrečenom mjerom sigurnosti i unapređenjem njihovog zdravlja,
+f) poticanjem udruživanja lica sa izrečenom mjerom sigurnosti, s ciljem ostvarivanja njihovih prava, samopomoći i pomoći,
+g) kao i drugim oblicima zaštite i unapređenja zdravlja, u skladu s posebnim zakonom ili drugim odgovarajućim propisima.

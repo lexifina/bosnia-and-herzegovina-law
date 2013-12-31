@@ -1,0 +1,5 @@
+# Član 127b.
+(Zamjena kazne zatvora)
+(1) Kazna zatvora do jedne godine koja je izrečena osuđenom licu može se, na njegov zahtjev, zamijeniti novčanom kaznom koja se plaća u jednokratnom iznosu u roku do 30 dana pod uslovima određenim Krivičnim zakonom.
+(2) Osuđenom licu kojem je kazna zatvora do jedne godine zamijenjena novčanom kaznom i koja je plaćena u jednokratnom iznosu u roku od 30 dana od dana pravosnažnosti navedene sudske odluke sud će izdati potvrdu o izvršenoj kazni i o tome obavijestiti organ unutrašnjih poslova nadležan za vođenje kaznene evidencije.
+(3) Ako se novčana kazna ne plati u roku iz stava (1) ovog člana, sud će donijeti odluku o izvršenju kazne zatvora. Ako se novčana kazna plati samo djelimično, izvršit će se kazna zatvora srazmjerno iznosu koji nije plaćen."
