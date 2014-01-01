@@ -1,0 +1,1 @@
+Na osnovu člana 17. tačka 23. Zakona o Visokom sudskom i tužilačkom vijeću Bosne i Hercegovine ("Službeni glasnik BiH", br. 25/04, 93/05, 48/07, 15/08), Visoko sudsko i tužilačko vijeće Bosne i Hercegovine, na sjednici održanoj 27.11.2013. godine, donijelo je
