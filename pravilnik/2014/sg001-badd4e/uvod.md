@@ -1,0 +1,1 @@
+Na osnovu člana 16. Zakona o upravi ("Službeni glasnik BiH" broj 32/02 i 102/09) i člana 24. stav (1) tačka l) i člana 26. stav (2) tačka a) Zakona o Direkciji za koordinaciju policijskih tijela i o agencijama za podršku policijskoj strukturi Bosne i Hercegovine ("Službeni glasnik BiH", broj 36/08), direktor Agencije za policijsku podršku donosi
