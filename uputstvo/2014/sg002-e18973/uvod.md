@@ -1,0 +1,1 @@
+Na osnovu člana 15. Zakona o Upravi za indirektno oporezivanje (''Službeni glasnik BiH'', broj 89/05), člana 61. stav 2. Zakona o upravi (''Službeni glasnik BiH'', br. 32/02 i 102/09), člana 23. stav (3) Zakona o postupku prinudne naplate indirektnih poreza (''Službeni glasnik BiH'', br. 89/05 i 62/11), direktor Uprave za indirektno oporezivanje, donosi
