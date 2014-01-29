@@ -1,0 +1,1 @@
+Na osnovu čl. 33c. i 43b., a u vezi sa odredbama čl. 33a. i 33b. Zakona o državljanstvu Bosne i Hercegovine ("Službeni glasnik BiH", br. 4/97, 13/99, 41/02, 6/03, 14/03, 82/05, 43/09, 76/09 i 87/13), ministar civilnih poslova Bosne i Hercegovine donosi
