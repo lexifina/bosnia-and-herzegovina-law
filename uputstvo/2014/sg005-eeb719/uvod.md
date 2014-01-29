@@ -1,0 +1,1 @@
+Na osnovu člana 15. stav (1) Zakona o upravi za indirektno oporezivanje ("Službeni glasnik BiH", broj 89/05) i člana 149. stav (2) drugi podstav Odluke o provedbenim propisima Zakona o carinskoj politici Bosne i Hercegovine ("Službeni glasnik BiH", broj 63a/04, 60/06 i 57/08), direktor Uprave za indirektno oporezivanje donosi
