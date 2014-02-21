@@ -1,0 +1,1 @@
+Na osnovu člana 11. Zakona o sistemu državne pomoći u Bosni i Hercegovini ("Službeni glasnik BiH", broj 10/12), Vijeće za državnu pomoć Bosne i Hercegovine, na 16. sjednici održanoj 21. februara 2014. godine, usvojilo je
