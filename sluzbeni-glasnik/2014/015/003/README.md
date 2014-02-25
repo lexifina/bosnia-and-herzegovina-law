@@ -1,0 +1,13 @@
+# ODLUKU O IZMJENAMA I DOPUNI ODLUKE O NASTAVKU RADA EKSPERTNOG TIMA RADI IZRADE CJELOVITOG PRIJEDLOGA U VEZI PRIMJENE I PROVOĐENJA SPORAZUMA O PRAVNOM POLOŽAJU SNAGA (PfP/NATO SOFA)
+
+Naslov: ODLUKU O IZMJENAMA I DOPUNI ODLUKE O NASTAVKU RADA EKSPERTNOG TIMA RADI IZRADE CJELOVITOG PRIJEDLOGA U VEZI PRIMJENE I PROVOĐENJA SPORAZUMA O PRAVNOM POLOŽAJU SNAGA (PfP/NATO SOFA)
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 15/14 (25.2.2014.), akt 3 od 14 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/1juggztz5k76kjn45hgztz5k76kjn45hbgZ1Y=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/vmXYGzjqW2w=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
