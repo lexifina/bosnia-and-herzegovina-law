@@ -1,0 +1,31 @@
+{
+  "id": "608",
+  "title": "Prijedlog zakona o dopuni Zakona o porezu na dodanu vrijednost -  (dostupno na srpskom jeziku)",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2014-03-04",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 4.3.2014",
+  "official_procedure_date": "4.3.2014",
+  "proposer": "Klub poslanika SDS-a",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=608",
+  "source_sha256": "b84c2b145e7c62fa6a01543ab87d19817f9e9366cd33fd13271e4213710fe0fc",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=6760deff-fd29-4d97-acbf-b1afe7d2a9e3&langTag=bs",
+      "label": "Prijedlog zakona o dopuni Zakona o porezu na dodanu vrijednost -  (dostupno na srpskom jeziku)",
+      "sha256": "6b6735845ffa9cd07610f63b87adfb0d73e1d92f030bed2e201b30dc2fa61457",
+      "pages": 4,
+      "source_images": 12,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "empty_pages": [],
+      "text_status": "text held: image-bearing document requires image review"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
