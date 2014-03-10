@@ -1,0 +1,25 @@
+{
+  "id": "607",
+  "title": "Prijedlog zakona o izmjenama i dopunama Izbornog zakona Bosne i Hercegovine (dostupno na srpskom jeziku)",
+  "kind": "bill",
+  "is_law": false,
+  "status": "withdrawn",
+  "source_categories": [
+    5
+  ],
+  "record_date": "2014-03-10",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 10.3.2014",
+  "official_procedure_date": "10.3.2014",
+  "proposer": "poslanik Mladen Bosić",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=607",
+  "source_sha256": "4cceefb3e261342b275178ebc8c66030b811d22241c3f08d8b6a117f99f33a89",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=7c1768d4-3cee-4802-9d2a-be5e1b83d900&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Izbornog zakona Bosne i Hercegovine (dostupno na srpskom jeziku)",
+      "text_status": "text held: linked document review pending"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
