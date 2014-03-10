@@ -1,0 +1,45 @@
+{
+  "id": "606",
+  "title": "Prijedlog zakona o izmjenama i dopunama Izbornog zakona Bosne i Hercegovine -  (dostupno na srpskom jeziku)",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2014-03-10",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 10.3.2014",
+  "official_procedure_date": "10.3.2014",
+  "proposer": "delegat Ognjen Tadić",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=606",
+  "source_sha256": "912c729b495bfc2a95a8f708ddb8c991da660b6792d8041249eaa81622a0c327",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=2be73acc-6a21-4cfd-a91a-d90afdb49b88&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Izbornog zakona Bosne i Hercegovine -  (dostupno na srpskom jeziku)",
+      "sha256": "0c41c577ce71356b77b3240c06be4ddcd29b5fe145141abf9a7ce0d487f4027a",
+      "pages": 13,
+      "source_images": 520,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "empty_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "text_status": "text held: pages need OCR (OCR disabled)"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
