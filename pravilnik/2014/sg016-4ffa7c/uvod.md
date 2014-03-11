@@ -1,0 +1,1 @@
+Na osnovu člana 16. stav (1) i člana 61. stav (2) Zakona o upravi ("Službeni glasnik BiH", broj 32/02 i 102/09) i člana 14. stav (3) Zakona o zrakoplovstvu Bosne i Hercegovine, generalni direktor Direkcije za civilno zrakoplovstvo Bosne i Hercegovine donosi
