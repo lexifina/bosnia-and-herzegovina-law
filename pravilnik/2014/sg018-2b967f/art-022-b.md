@@ -1,0 +1,10 @@
+# Član 22b.
+Povjerenik koji obavlja neposredni nadzor nad izvršavanjem rada za opće dobro može biti zamjenjen:
+1) na lični zahtjev;
+2) zbog nastale iznenadne spriječenosti povjerenika da obavlja navedene poslove; i
+3) zbog osnovane sumnje u nepristrasnost povjerenika ili postojanja okolnosti koji ukazuju na mogući sukob interesa.
+Ukoliko povjerenik ne obavlja savjesno i u skladu sa propisima neposredni nadzor nad izvršavanjem rada za opće dobro, ministar pravde može razriješiti povjerenika i imenovati drugog povjerenika na prijedlog rukovodioca pravnog lica kod kojeg se izvršava navedena sankcija.
+Protiv rješenja iz stava (2) ovog člana, povjerenik ima pravo žalbe Ministarstvu pravde u roku od tri dana od dana prijema rješenja.
+Žalba na rješenje ne zadržava izvršenje rješenja.
+Rješenje doneseno po žalbi je konačno i protiv njega se ne može pokrenuti upravni spor.
+Rješenje iz stava (2) ovog člana upisuje se u knjigu evidencije povjerenika koju vodi Ministarstvo pravde shodno članu 18. ovog Pravilnika u vezi sa članom 11. Pravilnika o izboru, načinu rada, odgovornosti, obučavanju i evidenciji povjerenika za izvršenje krivične sankcija rad za opće dobro na slobodi ("Službeni glasnik BiH," br. 54/07 i 41/10).".
