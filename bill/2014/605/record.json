@@ -1,0 +1,31 @@
+{
+  "id": "605",
+  "title": "Prijedlog zakona o dopuni Krivičnog zakona Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2014-03-18",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 18.3.2014",
+  "official_procedure_date": "18.3.2014",
+  "proposer": "poslanik Denis Bećirović",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=605",
+  "source_sha256": "47e92a1071ae74c09dbf42422d449b3ad50c73d88c84d4818083280b81b7d024",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=97f5e8ea-3542-4d9d-b085-51194af8b601&langTag=bs",
+      "label": "Prijedlog zakona o dopuni Krivičnog zakona Bosne i Hercegovine",
+      "sha256": "99dc5b8fc92289aafab9d36f185ad4885d86f3407494aa2235dc874661294639",
+      "pages": 4,
+      "source_images": 8,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "empty_pages": [],
+      "text_status": "text held: image-bearing document requires image review"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
