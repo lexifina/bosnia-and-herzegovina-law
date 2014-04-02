@@ -1,0 +1,37 @@
+{
+  "id": "604",
+  "title": "Prijedlog okvirnog zakona o ograničenjima u raspolaganju javnim sredstvima u Bosni i Hercegovini - (dostupno  na hrvatskom jeziku)",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2014-04-02",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 2.4.2014",
+  "official_procedure_date": "2.4.2014",
+  "proposer": "poslanik Niko Lozančić",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=604",
+  "source_sha256": "eb50688bd850fbc22a3fc5103c1eb50284b63a3964b302526a3e29a004e7e050",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=b3705798-6e1f-406f-8781-faab4add5417&langTag=bs",
+      "label": "Prijedlog okvirnog zakona o ograničenjima u raspolaganju javnim sredstvima u Bosni i Hercegovini - (dostupno  na hrvatskom jeziku)",
+      "sha256": "42ec00e93403465171078289385590f63c8f1d74dc13f5ce0a38844adff93245",
+      "pages": 5,
+      "source_images": 11,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "empty_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "text_status": "text held: pages need OCR (OCR disabled)"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
