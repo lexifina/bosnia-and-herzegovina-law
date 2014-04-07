@@ -1,0 +1,36 @@
+{
+  "id": "602",
+  "title": "Prijedlog zakona o izmjenama i dopunama Zakona o porezu na dodatu vrijednost - (dostupno na hrvatskom jeziku)",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2014-04-07",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 7.4.2014",
+  "official_procedure_date": "7.4.2014",
+  "proposer": "poslanik Niko Lozančić",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=602",
+  "source_sha256": "60ee06a55762f13b06b2e5bce38eb77e264b2acbe02488bc088354b6a66083d8",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=23b7af9f-3f11-4008-8bfc-512adc488af1&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Zakona o porezu na dodatu vrijednost - (dostupno na hrvatskom jeziku)",
+      "sha256": "22b26755756b141f3d3c2686955915198b50a9905423dc8ce4c51c7ded2b007a",
+      "pages": 4,
+      "source_images": 9,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "empty_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "text_status": "text held: pages need OCR (OCR disabled)"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
