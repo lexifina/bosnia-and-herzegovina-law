@@ -1,0 +1,38 @@
+{
+  "id": "601",
+  "title": "Prijedlog zakona o izmjenama i dopunama Zakona o postupku indirektnog oporezivanja - dostupno na hrvatskom jeziku)",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2014-04-07",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 7.4.2014",
+  "official_procedure_date": "7.4.2014",
+  "proposer": "poslanik Niko Lozančić",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=601",
+  "source_sha256": "792bc37a9306e8e3d4455b49fbe2b7810403ee3298659f294ecde804bcae5ee7",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=5bc7b7d7-b79a-4b80-8792-dc2a11e02542&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Zakona o postupku indirektnog oporezivanja - dostupno na hrvatskom jeziku)",
+      "sha256": "0fc9cc4022868de66503a2bb434437aac159db737db28a8e35251e046faf5359",
+      "pages": 6,
+      "source_images": 19,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "empty_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "text_status": "text held: pages need OCR (OCR disabled)"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
