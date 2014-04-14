@@ -1,0 +1,42 @@
+{
+  "id": "598",
+  "title": "Prijedlog zakona o izmjenama i dopunama Zakona o Javnom radiotelevizijskom sistemu Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2014-04-14",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 14.4.2014",
+  "official_procedure_date": "14.4.2014",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=598",
+  "source_sha256": "d23bbe565e2877631b2a2517c9d0d09691c84df1f704df598025ac0a710a3783",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=c6a9ac93-b746-4c26-91e7-5d14776fc08d&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Zakona o Javnom radiotelevizijskom sistemu Bosne i Hercegovine",
+      "sha256": "68de20c7d80a960164b267c6b478c2ca69b9254ff36d2353a428c0d0e9abfb2d",
+      "pages": 10,
+      "source_images": 28,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "empty_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "text_status": "text held: pages need OCR (OCR disabled)"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
