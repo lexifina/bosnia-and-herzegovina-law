@@ -1,0 +1,38 @@
+{
+  "id": "595",
+  "title": "Prijedlog zakona o neradnim danima u vrijeme vjerskih praznika u Bosni i Hercegovini - (dostupno na hrvatskom jeziku)",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2014-05-08",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 8.5.2014",
+  "official_procedure_date": "8.5.2014",
+  "proposer": "poslanik Mato Franjičević",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=595",
+  "source_sha256": "0d8bfaa142f4f44483f7e701a86ed5ff144e54819429cb4647f95b2d70639f03",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=0631c945-6177-40c6-9764-0e517c61b99d&langTag=bs",
+      "label": "Prijedlog zakona o neradnim danima u vrijeme vjerskih praznika u Bosni i Hercegovini - (dostupno na hrvatskom jeziku)",
+      "sha256": "6caf4d3c7566d352d253db993ff932958215203e35e98ff67ca8e35b704addf7",
+      "pages": 6,
+      "source_images": 15,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "empty_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "text_status": "text held: pages need OCR (OCR disabled)"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
