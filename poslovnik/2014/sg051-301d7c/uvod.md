@@ -1,0 +1,1 @@
+Na osnovu člana 9. Zakona o izmjenama i dopunama Zakona o sukobu interesa u institucijama vlasti Bosne i Hercegovine ("Službeni glasnik BiH", broj 87/13), Komisija za odlučivanje o sukobu interesa je na 2. sjednici, održanoj 12. 5. 2014., donijela
