@@ -1,0 +1,46 @@
+{
+  "id": "594",
+  "title": "Prijedlog zakona o izmjenama i dopunama Zakona o finansiranju institucija Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2014-05-15",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 15.5.2014",
+  "official_procedure_date": "15.5.2014",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=594",
+  "source_sha256": "6276bc41b9e27ccf153d39cbae5f6bd8c2296dfa0eb34b478a1b0288d14662c1",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=3f4d713e-f80b-4972-bf6e-9b1e83a76a28&langTag=bs",
+      "label": "Prijedlog zakona o izmjenama i dopunama Zakona o finansiranju institucija Bosne i Hercegovine",
+      "sha256": "8704f5ba495c21c88cc8759f05d658fad978db3b498600456af1500715bfca90",
+      "pages": 14,
+      "source_images": 31,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "empty_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "text_status": "text held: pages need OCR (OCR disabled)"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
