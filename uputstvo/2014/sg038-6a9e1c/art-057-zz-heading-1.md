@@ -1,0 +1,1 @@
+# Odjeljak A. Provjere kandidata
