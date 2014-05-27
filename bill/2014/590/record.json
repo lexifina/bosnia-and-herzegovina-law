@@ -1,0 +1,40 @@
+{
+  "id": "590",
+  "title": "Prijedlog zakona o dopuni Zakona o Visokom sudskom i tužilačkom vijeću Bosnei Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2014-05-27",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 27.5.2014",
+  "official_procedure_date": "27.5.2014",
+  "proposer": "Vijeće ministara BiH",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=590",
+  "source_sha256": "28cfedea4173b442092a00b2735d7ca6f3f078a6feca63eab5387e9e6fb53f19",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=3e85055e-2674-475e-bb6c-995ec28d8271&langTag=bs",
+      "label": "Prijedlog zakona o dopuni Zakona o Visokom sudskom i tužilačkom vijeću Bosnei Hercegovine",
+      "sha256": "44fab804efae65fc676314b0649066464013932982b7a44c9b89d7a661450420",
+      "pages": 8,
+      "source_images": 22,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "empty_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "text_status": "text held: pages need OCR (OCR disabled)"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
