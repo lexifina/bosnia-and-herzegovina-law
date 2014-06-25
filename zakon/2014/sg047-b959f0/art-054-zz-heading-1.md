@@ -1,0 +1,1 @@
+# POGLAVLJE VIII. ZADACI I NADLEŽNOSTI FOO-a Odjeljak A. Postupanje FOO-a
