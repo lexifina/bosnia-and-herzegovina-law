@@ -1,0 +1,1 @@
+Na osnovu člana 65. stav (2) Zakona o lijekovima i medicinskim sredstvima ("Službeni glasnik BiH", broj 58/08) i člana 61. stav (2) Zakona o upravi ("Službeni glasnik BiH", br. 32/02 i 102/09), ministar civilnih poslova Bosne i Hercegovine, na prijedlog Stručnog vijeća Agencije za lijekove i medicinska sredstva Bosne i Hercegovine, donosi
