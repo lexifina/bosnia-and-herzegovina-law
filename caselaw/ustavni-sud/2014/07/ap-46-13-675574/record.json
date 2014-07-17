@@ -1,0 +1,13 @@
+{
+  "id": "675574",
+  "case_number": "AP-46/13",
+  "date": "2014-07-17T00:00:00",
+  "decision_type": "Odluka o dopustivosti",
+  "item_type": "AP",
+  "source": "https://www.ustavnisud.ba/bs/api/odluke?submit=1&sp=DatumAsc&dos=01.01.2014.&doe=31.12.2014.",
+  "official_decision": "https://www.ustavnisud.ba/uploads/odluke/AP-46-13-675574.pdf",
+  "listing_source": "https://www.ustavnisud.ba/bs/api/odluke?submit=1&sp=DatumAsc&dos=01.01.2014.&doe=31.12.2014.",
+  "record_type": "metadata-only",
+  "date_basis": "Official Court database decision date",
+  "source_sha256": "96ec8971d0e259fb4439cdf0974054aa4fc4400226dbe902ec362213061413a2"
+}
