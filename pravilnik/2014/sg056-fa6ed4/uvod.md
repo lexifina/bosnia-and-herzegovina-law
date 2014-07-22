@@ -1,0 +1,1 @@
+Na osnovu člana 17a. stav (4) Zakona o sukobu interesa u institucijama vlasti Bosne i Hercegovine ("Službeni glasnik BiH", br. 16/02, 14/03, 12/04, 63/08, 18/12 i 87/13) i člana 16. Poslovnika Komisije za odlučivanje o sukobu interesa ("Službeni glasnik BiH", broj 51/14), Komisija za odlučivanje o sukobu interesa je na 2. sjednici, održanoj 12.5.2014. godine, donijela
