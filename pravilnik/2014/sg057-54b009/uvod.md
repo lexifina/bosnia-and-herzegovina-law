@@ -1,0 +1,1 @@
+Na osnovu člana 10. stav (5) tačke b. Zakona o poštama Bosne i Hercegovine ("Službeni glasnik BiH", broj 33/05) i člana 11. Statuta Agencije za poštanski promet Bosne i Hercegovine ("Službeni glasnik BiH", broj 92/07), Vijeće Agencije za poštanski promet Bosne i Hercegovine na 94. sjednici, održanoj dana 07. 07. 2014. godine, donosi
