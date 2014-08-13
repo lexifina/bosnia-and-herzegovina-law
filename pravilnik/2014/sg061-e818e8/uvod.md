@@ -1,0 +1,1 @@
+Na osnovu člana 34. stava 2. Zakona o zaštiti tajnih podataka ("Službeni glasnik BiH", broj 54/05 i 12/09), i člana 61. stava 2. Zakona o upravi ("Službeni glasnik BiH", broj 32/02), zamjenik ministra sigurnosti donosi
