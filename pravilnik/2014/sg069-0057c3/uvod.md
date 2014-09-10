@@ -1,0 +1,1 @@
+Na osnovu člana 28. stav (2) Zakona o lijekovima i medicinskim sredstva ("Službeni glasnik BiH", broj 58/08), na prijedlog direktora Agencije za lijekove i medicinska sredstva Bosne i Hercegovine, Stručno vijeće Agencije za lijekove i medicinska sredstva Bosne i Hercegovine, na 21. sjednici održanoj dana 14.04.2014. godine, donijelo je
