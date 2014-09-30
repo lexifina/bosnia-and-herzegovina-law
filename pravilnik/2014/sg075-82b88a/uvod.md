@@ -1,0 +1,1 @@
+Na temelju člana 9. Zakona o osnivanju Instituta za mjeriteljstvo Bosne i Hercegovine ("Službeni glasnik BiH", broj 43/04), a u vezi člana 4. stav 2. Zakona o mjeriteljstvu Bosne i Hercegovine ("Službeni glasnik BiH", broj 19/01), direktor Instituta za mjeriteljstvo Bosne i Hercegovine donosi
