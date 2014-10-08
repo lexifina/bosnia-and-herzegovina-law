@@ -1,0 +1,1 @@
+Na osnovu člana 15. stav (2) Odluke o upravljanju tarifnim kvotama za poljoprivredne proizvode ("Službeni glasnik BiH", broj 56/14), i člana 61. stav (2) Zakona o upravi ("Službeni glasnik BiH", broj 32/02), Ministar vanjske trgovine i ekonomskih odnosa Bosne i Hercegovine donosi
