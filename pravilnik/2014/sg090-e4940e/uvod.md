@@ -1,0 +1,1 @@
+Na osnovu člana 16. Zakona o upravi ("Službeni glasnik BiH", broj 32/02 i 102/09), člana 13. stav (2) i člana 15. stav (1) tačka a) Zakona o odbrani Bosne i Hercegovine ("Službeni glasnik BiH", broj 88/05), ministar odbrane donosi
