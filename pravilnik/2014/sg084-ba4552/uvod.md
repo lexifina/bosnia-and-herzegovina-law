@@ -1,0 +1,1 @@
+Na osnovu člana 16 stav (1), člana 17 i člana 18 Zakona o radijacijskoj i nuklearnoj sigurnosti u Bosni i Hercegovini ("Službeni glasnik BiH", broj 88/07), direktor Državne regulatorne agencije za radijacijsku i nuklearnu sigurnost donosi
