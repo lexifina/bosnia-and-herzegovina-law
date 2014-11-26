@@ -1,0 +1,1 @@
+Na osnovu člana 63. stav (5) i člana 92. stav (6) Zakona o javnim nabavkama ("Službeni glasnik BiH", broj 39/14), uz saglasnost Odbora Agencije za javne nabavke Bosne i Hercegovine, direktor Agencije za javne nabavke Bosne i Hercegovine donosi
