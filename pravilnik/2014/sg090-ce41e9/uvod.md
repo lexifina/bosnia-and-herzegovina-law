@@ -1,0 +1,1 @@
+Na osnovu člana 61. stav (1) Zakona o upravi ("Službeni glasnik BiH", br. 32/02 i 102/09) i člana 61. stav (6) Zakona o javnim nabavkama ("Službeni glasnik BiH" broj 39/14), uz saglasnost Odbora Agencije za javne nabavke Bosne i Hercegovine, direktor Agencije za javne nabavke Bosne i Hercegovine donosi
