@@ -1,0 +1,13 @@
+# PRAVILNIK O IZDAVANJU RESURSA STACIONARNIH KOMUNIKACIJSKIH ČVORIŠTA
+
+Naslov: PRAVILNIK O IZDAVANJU RESURSA STACIONARNIH KOMUNIKACIJSKIH ČVORIŠTA
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 92/14 (1.12.2014.), akt 4 od 20 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/oJvTZ0XdolM=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/RE5yXX3qBoM=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
