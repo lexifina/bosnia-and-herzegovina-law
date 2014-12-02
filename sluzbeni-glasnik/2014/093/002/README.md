@@ -1,0 +1,13 @@
+# ODLUKA O ODOBRAVANJU DUGOROČNOG PLANA RAZVOJA PRIJENOSNE MREŽE ZA PERIOD 2014. - 2023. GODINA
+
+Naslov: ODLUKA O ODOBRAVANJU DUGOROČNOG PLANA RAZVOJA PRIJENOSNE MREŽE ZA PERIOD 2014. - 2023. GODINA
+
+Donosilac: DRŽAVNA REGULATORNA KOMISIJA ZA ELEKTRIČNU ENERGIJU - DERK.
+
+Službeni glasnik BiH broj 93/14 (2.12.2014.), akt 2 od 9 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ojgUgztz5k76kjn45h2NnwYg=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/zuEMSUw2zc0=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
