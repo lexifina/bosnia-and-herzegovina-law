@@ -1,0 +1,13 @@
+# ODLUKU O ZAKLJUČIVANJU I POTVRĐIVANJU IZVODA IZ CENTRALNOG BIRAČKOG SPISKA ZA PRVE IZBORE ZA ODBORNIKE U SKUPŠTINI OPĆINE STANARI I NAČELNIKA OPĆINE STANARI SA STANJEM NA DAN 01.12.2014. GODINE U 24,00 SATA
+
+Naslov: ODLUKU O ZAKLJUČIVANJU I POTVRĐIVANJU IZVODA IZ CENTRALNOG BIRAČKOG SPISKA ZA PRVE IZBORE ZA ODBORNIKE U SKUPŠTINI OPĆINE STANARI I NAČELNIKA OPĆINE STANARI SA STANJEM NA DAN 01.12.2014. GODINE U 24,00 SATA
+
+Donosilac: CENTRALNA IZBORNA KOMISIJA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 96/14 (15.12.2014.), akt 8 od 12 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/rcW4ohz4nh78h77RKVI8Y=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/1B69MNZJAQM=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
