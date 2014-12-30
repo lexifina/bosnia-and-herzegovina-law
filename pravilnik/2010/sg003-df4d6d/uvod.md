@@ -1,1 +1,0 @@
-Na osnovu člana 31. stav 3. Zakona o graničnoj kontroli ("Službeni glasnik BiH", broj 53/09) i člana 15. stav 2. tačka a). Zakona o Graničnoj policiji Bosne i Hercegovine ("Službeni glasnik BiH", br. 50/04, 27/07 i 59/09) direktor Granične policije Bosne i Hercegovine, donosi
