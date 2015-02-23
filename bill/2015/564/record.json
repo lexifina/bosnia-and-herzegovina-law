@@ -1,0 +1,31 @@
+{
+  "id": "564",
+  "title": "Prijedlog zakona o dopuni Izbornog zakona Bosne i Hercegovine",
+  "kind": "bill",
+  "is_law": false,
+  "status": "rejected",
+  "source_categories": [
+    4
+  ],
+  "record_date": "2015-02-23",
+  "in_force": null,
+  "date_basis": "Official detail field Datum ulaska u proceduru: 23.2.2015",
+  "official_procedure_date": "23.2.2015",
+  "proposer": "poslanik Damir Arnaut",
+  "source_url": "https://www.parlament.ba/law/LawDetails?lawId=564",
+  "source_sha256": "ebf03b9bb87b01f821b21994a2ac5199f8397f8d36c7a7535579bd86c5337564",
+  "documents": [
+    {
+      "url": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=34b448c8-a9dc-46fd-a7c8-6271039e1475&langTag=bs",
+      "label": "Prijedlog zakona o dopuni Izbornog zakona Bosne i Hercegovine",
+      "sha256": "7ab9832fca957ddb2e5acabe9f3f5a2faf66abc65db78847299f085b52cc2808",
+      "pages": 4,
+      "source_images": 21,
+      "referenced_images": 0,
+      "omitted_images": 0,
+      "empty_pages": [],
+      "text_status": "text held: image-bearing document requires image review"
+    }
+  ],
+  "text_status": "official-metadata-only; linked document text deferred"
+}
