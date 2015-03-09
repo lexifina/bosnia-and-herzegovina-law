@@ -1,0 +1,1 @@
+Na osnovu čl. 53. stav (3), 55., 57., 58., 66., 67. i 88. Zakona o javnim nabavkama ("Službeni glasnik BiH", broj 39/14), uz prethodnu saglasnost Odbora Agencije Bosne i Hercegovine datu na XIV sjednici, održanoj 09.02.2015. godine, direktor Agencije za javne nabavke Bosne i Hercegovine donosi
