@@ -1,0 +1,13 @@
+# ODLUKU O ODOBRAVANJU PROJEKTA NABAVKE I IZGRADNJE OBJEKATA ZA REGIONALNE CENTRE I SREDIŠNJI URED UPRAVE ZA INDIREKTNO OPOREZIVANJE BOSNE I HERCEGOVINE I IZGRADNJE I REKONSTRUKCIJE GRANIČNIH PRIJELAZA
+
+Naslov: ODLUKU O ODOBRAVANJU PROJEKTA NABAVKE I IZGRADNJE OBJEKATA ZA REGIONALNE CENTRE I SREDIŠNJI URED UPRAVE ZA INDIREKTNO OPOREZIVANJE BOSNE I HERCEGOVINE I IZGRADNJE I REKONSTRUKCIJE GRANIČNIH PRIJELAZA
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 20/15 (9.3.2015.), akt 3 od 11 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/kCihyy1TTUY=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/iaspivxBtohz4nh78h77A=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
