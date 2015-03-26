@@ -1,0 +1,16 @@
+{
+  "id": "734880",
+  "case_number": "U-20/14",
+  "date": "2015-03-26T00:00:00",
+  "decision_type": "Odluka o meritumu",
+  "item_type": "U",
+  "source": "https://www.ustavnisud.ba/uploads/odluke/_bs/U-20-14-734880.pdf",
+  "official_decision": "https://www.ustavnisud.ba/uploads/odluke/_bs/U-20-14-734880.pdf",
+  "listing_source": "https://www.ustavnisud.ba/bs/api/odluke?submit=1&vp%5B%5D=2&sp=DatumAsc",
+  "record_type": "decision-text",
+  "date_basis": "Own decision PDF sitting date; official database date retained separately",
+  "source_sha256": "1e0642b95e4b6bf64c59aec7238a73fe006fadd8d4c3464d074329197cb3ac32",
+  "decision_date": "2015-03-26",
+  "database_date": "2015-03-27T00:00:00",
+  "date_source_quote": "sjednici održanoj 26. marta 2015"
+}
