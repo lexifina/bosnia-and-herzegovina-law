@@ -1,0 +1,1 @@
+Na osnovu člana 15. Zakona o Upravi za indirektno oporezivanje ("Službeni glasnik BiH", broj 89/05) i člana 18. stav (7) Pravilnika o registraciji i upisu u Jedinstveni registar obveznika indirektnih poreza ("Službeni glasnik BiH", broj 51/12), direktor Uprave za indirektno oporezivanje donosi
