@@ -1,0 +1,1 @@
+Na osnovu člana 62. stav 2. Zakona o dopunskim pravima boraca - branitelja Bosne i Hercegovine ("Službene novine Kantona Sarajevo", br. 45/12 - Prečišćeni tekst i 26/14), ministar za boračka pitanja donosi
