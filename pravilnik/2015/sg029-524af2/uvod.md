@@ -1,0 +1,1 @@
+Na osnovu člana 99. Zakona o upravi ("Službeni glasnik BiH", broj 32/02 i 102/09), Zakona o javnim nabavkama BiH ("Službeni glasnik BiH", br. 39/14), ministar vanjskih poslova Bosne i Hercegovine donosi
