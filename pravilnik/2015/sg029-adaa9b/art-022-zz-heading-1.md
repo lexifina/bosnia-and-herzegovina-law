@@ -1,0 +1,1 @@
+# V. STUPANJE NA SNAGU
