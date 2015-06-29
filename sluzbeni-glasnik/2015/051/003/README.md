@@ -1,0 +1,13 @@
+# ODLUKU O IMENOVANJU ČLANOVA INTERPARLAMENTARNIH GRUPA PRIJATELJSTVA PARLAMENTARNE SKUPŠTINE BOSNE I HERCEGOVINE ZA BILATERALNU SARADNJU S PARLAMENTARNIM TIJELIMA DRUGIH ZEMALJA
+
+Naslov: ODLUKU O IMENOVANJU ČLANOVA INTERPARLAMENTARNIH GRUPA PRIJATELJSTVA PARLAMENTARNE SKUPŠTINE BOSNE I HERCEGOVINE ZA BILATERALNU SARADNJU S PARLAMENTARNIM TIJELIMA DRUGIH ZEMALJA
+
+Donosilac: PARLAMENTARNA SKUPŠTINA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 51/15 (29.6.2015.), akt 3 od 6 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/PYohz4nh78h77MbnSX2Lg=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/3K69ohz4nh78h77OzzTP0=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
