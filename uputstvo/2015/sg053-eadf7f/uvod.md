@@ -1,0 +1,1 @@
+Na osnovu člana 55. stav (1) tačka d) Zakona o javnim nabavkama ("Službeni glasnik BiH", broj 39/14), uz prethodnu saglasnost Odbora Agencije za javne nabavke Bosne i Hercegovine, direktorAgencije za javne nabavke Bosne i Hercegovine donosi
