@@ -1,0 +1,1 @@
+Na osnovu člana 39, a u vezi s članom 3. stav (3) tačka a) i članom 10. Zakona o komunikacijama ("Službeni glasnik BiH", br. 31/03, 75/06, 32/10 i 98/12), Vijeće Regulatorne agencije za komunikacije Bosne i Hercegovine, na 15. sjednici održanoj 11. 6. 2015. godine, donijelo je
