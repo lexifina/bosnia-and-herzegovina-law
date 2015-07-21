@@ -1,0 +1,1 @@
+Na osnovu člana 23. stav (2) tačka b) Zakona o Agenciji za identifikacione dokumente, evidenciju i razmjenu podataka Bosne i Hercegovine ("Službeni glasnik BiH", broj 56/08) i date saglasnosti Vijeća ministara Bosne i Hercegovine, na 10. sjednici održanoj 10.06.2015. godine, direktor Agencije za identifikacione dokumente, evidenciju i razmjenu podataka Bosne i Hercegovine donosi
