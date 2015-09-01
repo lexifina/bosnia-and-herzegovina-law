@@ -1,0 +1,1 @@
+Na osnovu čl. 16. i 99. Zakona o upravi ("Službeni glasnik BiH" br. 32/02 i 102/09) i člana 4. stav (1), člana 7. stav (1) i člana 12. Zakona o Sudskoj policiji Bosne i Hercegovine ("Službeni glasnik BiH", br. 21/03 i 18/13), ministar pravde Bosne i Hercegovine, donosi
