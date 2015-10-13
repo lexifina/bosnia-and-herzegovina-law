@@ -1,0 +1,1 @@
+Na osnovu člana 12 a. stav (2) Zakona o putnim ispravama Bosne i Hercegovine ("Službeni glasnik BiH", br. 4/97, 1/99, 9/99, 27/00, 32/00, 19/01, 47/04, 53/07, 15/08, 33/08, 39/08 i 60/13), Ministarstvo civilnih poslova Bosne i Hercegovine donijelo je
