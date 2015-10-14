@@ -1,0 +1,1 @@
+Na osnovu člana 61. Zakona o upravi ("Službeni glasnik BiH", broj 32/02 i 102/09) i člana 7a. Zakona o prebivalištu i boravištu državljana Bosne i Hercegovine ("Službeni glasnik BiH", broj 32/01, 56/08 i 58/15), direktor Agencije za identifikacione dokumente, evidenciju i razmjenu podataka Bosne i Hercegovine donosi
