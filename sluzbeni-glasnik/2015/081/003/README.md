@@ -1,0 +1,13 @@
+# ZAKLJUČAK O IMENOVANJU PREDSTAVNIKA PARLAMENTARNE SKUPŠTINE BiH U RADNU GRUPU ZA PRAĆENJE STANJA I AKTIVNOSTI U VEZI S MOGUĆOM IZGRADNJOM ODLAGALIŠTA NUKLEARNOG OTPADA NA LOKACIJI TRGOVSKA GORA, OPĆINA DVOR
+
+Naslov: ZAKLJUČAK O IMENOVANJU PREDSTAVNIKA PARLAMENTARNE SKUPŠTINE BiH U RADNU GRUPU ZA PRAĆENJE STANJA I AKTIVNOSTI U VEZI S MOGUĆOM IZGRADNJOM ODLAGALIŠTA NUKLEARNOG OTPADA NA LOKACIJI TRGOVSKA GORA, OPĆINA DVOR
+
+Donosilac: PARLAMENTARNA SKUPŠTINA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 81/15 (19.10.2015.), akt 3 od 13 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ohz4nh78h77MtZZxoelms=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/WZJ02uEAVVg=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
