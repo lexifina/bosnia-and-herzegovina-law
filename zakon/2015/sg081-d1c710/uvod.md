@@ -1,0 +1,1 @@
+Na osnovu člana IV. 4. tačka a) Ustava Bosne i Hercegovine, Parlamentarna skupština Bosne i Hercegovine, na 17. sjednici Predstavničkog doma, održanoj 16. septembra 2015. godine, i na 10. sjednici Doma naroda, održanoj 14. oktobra 2015. godine, usvojila je
