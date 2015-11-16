@@ -1,0 +1,13 @@
+# ODLUKU O ODOBRAVANJU SREDSTAVA BUDŽETSKE REZERVE IZ BUDŽETA INSTITUCIJA BOSNE I HERCEGOVINE I MEĐUNARODNIH OBAVEZA BOSNE I HERCEGOVINE ZA 2015. GODINU PARLAMENTARNOJ SKUPŠTINI BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O ODOBRAVANJU SREDSTAVA BUDŽETSKE REZERVE IZ BUDŽETA INSTITUCIJA BOSNE I HERCEGOVINE I MEĐUNARODNIH OBAVEZA BOSNE I HERCEGOVINE ZA 2015. GODINU PARLAMENTARNOJ SKUPŠTINI BOSNE I HERCEGOVINE
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 87/15 (16.11.2015.), akt 8 od 24 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/yJDMRrc65to=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/o4SEZRTGRPg=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
