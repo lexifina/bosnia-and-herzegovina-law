@@ -1,0 +1,1 @@
+# Odjeljak G. Otkaz boravka
