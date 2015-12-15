@@ -1,0 +1,1 @@
+Na osnovu člana 5. Pravilnika o uslovima uvoza i provoza živih životinja, sirovina, proizvoda i nusproizvoda životinjskog porijekla, veterinarskih lijekova i hrane za životinje u Bosnu i Hercegovinu ("Službeni glasnik BiH", broj 57/12), Ured za veterinarstvo Bosne i Hercegovine donosi
