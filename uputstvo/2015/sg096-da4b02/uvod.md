@@ -1,0 +1,1 @@
+Na osnovu člana 61. stav (1) Zakona o upravi ("Službeni glasnik BiH", br. 32/02 i 102/09) i člana 71. stav (3) Uputstva o načinu vršenja uredskog poslovanja u institucijama Bosne i Hercegovine ("Službeni glasnik BiH", broj 30/15), ministar pravde Bosne i Hercegovine donosi
