@@ -1,0 +1,1 @@
+Na osnovu člana 16. i člana 72. Zakona o upravi ("Službeni glasnik BiH", broj 32/02 i 102/09), a u vezi sa članom 34. i članom 46. Zakona Bosne i Hercegovine o izvršenju krivičnih sankcija, pritvora i drugih mjera ("Službeni glasnik BiH", broj 12/10 i 100/13), ministar pravde Bosne i Hercegovine donosi
