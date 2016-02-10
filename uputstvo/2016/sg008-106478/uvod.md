@@ -1,0 +1,1 @@
+Na osnovu člana 64, a u vezi sa čl. 18, 19, 20, 21. i 22. Zakona o zaduživanju dugu i garancijama BiH ("Službeni glasnik BiH", br. 52/05 i 103/09), Ministarstvo finansija i trezora Bosne i Hercegovine donosi
