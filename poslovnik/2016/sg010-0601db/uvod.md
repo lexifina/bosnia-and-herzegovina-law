@@ -1,0 +1,1 @@
+Na osnovu člana 2.5 stav (5) Izbornog zakona BiH ("Službeni glasnik BiH", br. 23/01, 7/02, 9/02, 20/02, 25/02, 4/04, 20/04, 25/04, 52/05, 65/05, 77/05, 11/06, 24/06, 32/07, 33/08, 37/08, 32/10, 18/13 i 7/14), Komisija za izbor i imenovanje na 2. sjednici, održanoj 08.02.2016. godine, usvojila je
