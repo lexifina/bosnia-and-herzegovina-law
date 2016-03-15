@@ -1,0 +1,1 @@
+Na osnovu člana 7. tačke b. Zakona o Centralnoj banci Bosne i Hercegovine ("Službeni glasnik BiH", broj 1/97, 29/02, 13/03, 14/03, 9/05, 76/06 i 32/07) i člana 49. stav (2) Pravilnika Centralne banke Bosne i Hercegovine, UV-104-01-1-116/15 od 28. decembra 2015. godine, Upravno vijeće Centralne banke Bosne i Hercegovine, na 2. sjednici od 15. i 16. februara 2016. godine, donosi
