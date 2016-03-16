@@ -1,0 +1,1 @@
+Na osnovu člana 8., stav 1. Zakona o računovodstvu i reviziji Bosne i Hercegovine ("Službeni glasnik BiH", broj 42/04) i Statuta Komisije za računovodstvo i reviziju Bosne i Hercegovine, Komisija za računovodstvo i reviziju Bosne i Hercegovine na sjednici od 25.2.2016. godine, u Mostaru, donosi
