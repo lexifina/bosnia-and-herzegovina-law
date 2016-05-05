@@ -1,0 +1,1 @@
+Na osnovu člana 2.9. tačka 2, 5.22, 5.24 i 5.29 Izbornog zakona Bosne i Hercegovine ("Službeni glasnik BiH", br. 23/01, 7/02, 9/02, 20/02, 25/02, 4/04, 20/04, 25/05, 52/05, 65/05, 77/05, 11/06, 24/06, 32/07, 33/08, 37/08, 32/10, 18/13, 7/14 i 31/16), Centralna izborna komisija Bosne i Hercegovine je na 20. sjednici, održanoj 28.04.2016. godine, donijela
