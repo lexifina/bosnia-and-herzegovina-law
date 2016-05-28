@@ -1,0 +1,1 @@
+Na osnovu člana 61. stav 2. Zakona o upravi ("Službeni glasnik BiH", br. 32/02 i 102/09) i člana 24. stav 3. Zakona o službi u Oružanim snagama Bosne i Hercegovine ("Službeni glasnik BiH", br. 88/05, 53/07, 59/09, 74/10 i 42/12), Ministrica odbrane Bosne i Hercegovine donosi
