@@ -1,0 +1,13 @@
+# INSTRUKCIJU O POSTUPKU NAPLATE NAKNADE ZA KORIŠTENJE CARINSKOG TERMINALA I KONTROLA POŠTIVANJA UGOVORA
+
+Naslov: INSTRUKCIJU O POSTUPKU NAPLATE NAKNADE ZA KORIŠTENJE CARINSKOG TERMINALA I KONTROLA POŠTIVANJA UGOVORA
+
+Donosilac: BOSNA I HERCEGOVINA UPRAVA ZA INDIREKTNO OPOREZIVANJE.
+
+Službeni glasnik BiH broj 42/16 (7.6.2016.), akt 4 od 10 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/DvE8H5fYa10=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/cn9zWyxOaAY=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
