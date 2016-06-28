@@ -1,0 +1,13 @@
+# ODLUKU IZMJENI I DOPUNI ODLUKE O IZBORU PRIORITETNIH PROJEKATA OBNOVE KOMUNALNE I SOCIJALNE INFRASTRUKTURE NA PROSTORIMA GDJE ŽIVE RASELJENE OSOBE I POVRATNICI, BROJ: K-10-1-50-4752/14 OD 15.1.2014.
+
+Naslov: ODLUKU IZMJENI I DOPUNI ODLUKE O IZBORU PRIORITETNIH PROJEKATA OBNOVE KOMUNALNE I SOCIJALNE INFRASTRUKTURE NA PROSTORIMA GDJE ŽIVE RASELJENE OSOBE I POVRATNICI, BROJ: K-10-1-50-4752/14 OD 15.1.2014.
+
+Donosilac: KOMISIJA ZA IZBJEGLICE I RASELJENE OSOBE BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 48/16 (28.6.2016.), akt 8 od 12 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/9j21eCnxiLY=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/Ku364rH68lI=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
