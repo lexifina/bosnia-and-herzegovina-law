@@ -1,0 +1,1 @@
+Na osnovu člana 10. stav (3) i člana 11. stav (3) Zakona o kolektivnom ostvarivanju autorskog i srodnih prava ("Službeni glasnik BiH", broj 63/10), direktor Instituta za intelektualno vlasništvo Bosne i Hercegovine donosi
