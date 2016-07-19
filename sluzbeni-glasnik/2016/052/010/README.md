@@ -1,0 +1,13 @@
+# ODLUKU O IMENOVANJU ČLANOVA KOORDINACIONOG VIJEĆA ZA PRAĆENJE REALIZACIJE STRATEGIJE ZA PRIHVAT I INTEGRACIJU BH DRŽAVLJANA KOJI SE VRAĆAJU PO OSNOVU SPORAZUMA O READMISIJI I AKCIONOG PLANA ZA PERIOD 2015-2018. GODINA
+
+Naslov: ODLUKU O IMENOVANJU ČLANOVA KOORDINACIONOG VIJEĆA ZA PRAĆENJE REALIZACIJE STRATEGIJE ZA PRIHVAT I INTEGRACIJU BH DRŽAVLJANA KOJI SE VRAĆAJU PO OSNOVU SPORAZUMA O READMISIJI I AKCIONOG PLANA ZA PERIOD 2015-2018. GODINA
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 52/16 (19.7.2016.), akt 10 od 22 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Gzp3qkOx5dE=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/8nohz4nh78h77OYuumS4o=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
