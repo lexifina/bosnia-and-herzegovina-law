@@ -1,0 +1,1 @@
+Na osnovu člana 86. stav 2., a u vezi sa članom 57., članom 76. i članom 77. Zakona o zaštiti zdravlja bilja ("Službeni glasnik BiH", broj 23/03) i člana 61. stav (2) Zakona o upravi ("Službeni glasnik BiH", brој 32/02 i 102/09), Uprava Bosne i Hercegovine za zaštitu zdravlja bilja donosi
