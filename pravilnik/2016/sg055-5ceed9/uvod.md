@@ -1,0 +1,1 @@
+Na osnovu člana 121. stav (1) i člana 141. stav (5) Zakona o strancima ("Službeni glasnik BiH", broj 88/15) i člana 17. Zakona o Vijeću ministara Bosne i Hercegovine ("Službeni glasnik BiH", br. 30/03, 42/03, 81/06, 76/07, 81/07 i 24/08), na prijedlog Ministarstva sigurnosti, Vijeće ministara Bosne i Hercegovine, na 61. sjednici održanoj 20. juna 2016. godine, donijelo je
