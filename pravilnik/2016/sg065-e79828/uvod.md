@@ -1,0 +1,1 @@
+Na osnovu člana 81. stav (2) Zakona o azilu ("Službeni glasnik BiH", br. 11/16 i 16/16), nakon provedenih konsultacija sa Ministarstvom sigurnosti Bosne i Hercegovine, br. 07-2/02-1-4147-1/16 od 14. juna 2016. godine, Ministarstvo civilnih poslova Bosne i Hercegovine, je donijelo
