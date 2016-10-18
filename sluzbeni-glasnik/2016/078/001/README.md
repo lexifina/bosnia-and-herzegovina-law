@@ -1,0 +1,13 @@
+# ODLUKU O IZMJENI I DOPUNI ODLUKE O PROJEKTIMA ELEKTRIFIKACIJE STAMBENIH JEDINICA RASELJENIH OSOBA I POVRATNIKA ZA FINANSIRANJE IZ SREDSTAVA ZA 2012. I 2013. GODINU, BROJ K-06-50-2652-4/13 OD 20.3.2015. GODINE
+
+Naslov: ODLUKU O IZMJENI I DOPUNI ODLUKE O PROJEKTIMA ELEKTRIFIKACIJE STAMBENIH JEDINICA RASELJENIH OSOBA I POVRATNIKA ZA FINANSIRANJE IZ SREDSTAVA ZA 2012. I 2013. GODINU, BROJ K-06-50-2652-4/13 OD 20.3.2015. GODINE
+
+Donosilac: KOMISIJA ZA IZBJEGLICE I RASELJENE OSOBE BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 78/16 (18.10.2016.), akt 1 od 2 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/yFPGXoNXNGk=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/sysgztz5k76kjn45hLyyHFJo=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
