@@ -1,0 +1,1 @@
+Na osnovu člana 159. stav (6) Zakona o osnovama sigurnosti saobraćaja na cestama u Bosni i Hercegovini ("Službeni glasnik BiH", br. 6/06, 75/06, 44/07, 84/09, 48/10 i 18/13) ministar komunikacija i prometa Bosne i Hercegovine, u saradnji sa organima nadležnim za zdravstvo i organima nadležnim za unutrašnje poslove, donosi
