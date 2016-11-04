@@ -1,0 +1,13 @@
+# ODLUKU O RASPISIVANJU JAVNOG POZIVA ZA TAKMIČENJE ZA DODJELU RASPOLOŽIVIH FREKVENCIJSKIH RESURSA ZA RADIJSKO EMITOVANJE KOJE SE VRŠI PUTEM ZEMALJSKE RADIODIFUZIJE U VHF OPSEGU 87.5-108 MHz (LISTE: LRF-R-1/16 I LRF-BHR2-2/16)
+
+Naslov: ODLUKU O RASPISIVANJU JAVNOG POZIVA ZA TAKMIČENJE ZA DODJELU RASPOLOŽIVIH FREKVENCIJSKIH RESURSA ZA RADIJSKO EMITOVANJE KOJE SE VRŠI PUTEM ZEMALJSKE RADIODIFUZIJE U VHF OPSEGU 87.5-108 MHz (LISTE: LRF-R-1/16 I LRF-BHR2-2/16)
+
+Donosilac: REGULATORNA AGENCIJA ZA KOMUNIKACIJE BIH.
+
+Službeni glasnik BiH broj 83/16 (4.11.2016.), akt 12 od 14 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/vHrbfoohz4nh78h77juQE=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/Fohz4nh78h774gftbWfa8=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
