@@ -1,0 +1,1 @@
+Na osnovu člana 8. stav (1) tačke b), d) i f), čl. 16, 20 i 21 Zakona o radijacijskoj i nuklearnoj sigurnosti u Bosni i Hercegovini ("Službeni glasnik BiH", broj 88/07) i člana 61. stav 2. Zakona o upravi ("Službeni glasnik BiH", br. 32/02 i 102/09), direktor Državne regulatorne agencije za radijacijsku i nuklearnu sigurnost donosi
