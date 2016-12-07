@@ -1,0 +1,1 @@
+Na osnovu člana 252. tačka 17), a u vezi sa članom 198. Zakona o osnovama sigurnosti saobraćaja na cestama u Bosni i Hercegovini ("Službeni glasnik BIH", br. 06/06, 75/06, 44/07, 84/09, 48/10 i 18/13), ministar komunikacija i prometa Bosne i Hercegovine, u saradnji sa organom nadležnim za zdravstvo, donosi
