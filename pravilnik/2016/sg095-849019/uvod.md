@@ -1,0 +1,1 @@
+Na osnovu člana 20. stav 2. tačka a) Zakona o kontroli kretanja oružja i vojne opreme ("Službeni glasnik BiH", br. 53/09 i 22/16) uz saglasnost Ministarstva unutrašnjih poslova Republike Srpske, kantonalnih ministarstava unutrašnjih poslova i Policije Brčko Distrikta BiH, ministar sigurnosti, donosi
