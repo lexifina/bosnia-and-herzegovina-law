@@ -1,0 +1,23 @@
+Službeni glasnik BiH, broj 6/17
+Na osnovu člana 17. Zakona o Vijeću ministara Bosne i Hercegovine ("Službeni glasnik BiH", br. 30/03, 42/03, 81/06, 76/07, 81/07, 94/07 i 24/08) i Odluke o usvajanju politike sektora emitiranja u Bosni i Hercegovini ("Službeni glasnik BiH", broj 18/07), u skladu sa Završnim aktima Regionalne konferencije za radio-veze za planiranje digitalnog zemaljskog radiodifuznog servisa u dijelovima Regiona 1 i 3, u frekvencijskom opsegu od 174-230 MHz i 470-862 MHz (RRC-06) ("Službeni glasnik BiH - Međunarodni ugovori", broj 9/08), Zaključcima i preporukama Konferencije "Strategija prelaska na digitalno emitiranje u Bosni i Hercegovini" održane u Sarajevu 22. maja 2008. godine, Vijeće ministara Bosne i Hercegovine, na 86. sjednici, održanoj 20. decembra 2016. godine, donijelo je
+ODLUKU
+O DOPUNI ODLUKE O USVAJANJU STRATEGIJE PRELASKA S ANALOGNE NA DIGITALNU ZEMALJSKU RADIODIFUZIJU U FREKVENCIJSKIM OPSEZIMA 174-230 MHz I 470-862 MHz U BOSNI I HERCEGOVINI
+Član 1.
+U Strategiji prelaska s analogne na digitalnu zemaljsku radiodifuziju u frekvencijskim opsezima 174-230 MHz i 470-862 MHz u Bosni i Hercegovini, koja je sastavni dio Odluke o usvajanju Strategije prelaska s analogne na digitalnu zemaljsku radiodifuziju u frekvencijskim opsezima 174-230 MHz i 470-862 MHz u Bosni i Hercegovini ("Službeni glasnik BiH", br 59/09 i 51/12) u dijelu IX DINAMIČKI PLAN PRELASKA, u 4. pasusu iza tačke II dodaje se nova tačka III koja glasi: "III - Aktivnosti nakon 17.6.2015. godine
+- Ministarstvo komunikacija i prometa Bosne i Hercegovine, javni RTV servisi Bosne i Hercegovine i Regulatorna agencija za komunikacije Bosne i Hercegovine će u postupku realizacije procesa digitalizacije u Bosni i Hercegovini primijeniti standard DVB-T2;
+- Ministarstvo komunikacija i prometa Bosne i Hercegovine će u saradnji sa Regulatornom agencijom za komunikacije Bosne i Hercegovine izraditi Prijedlog odluke o usvajanju minimalnih tehničkih uvjeta koje TV prijemnici moraju ispunjavati za prijem signala u DVB-T2 standardu, i isti dostaviti Vijeću ministara Bosne i Hercegovine do 31.3.2017. godine radi razmatranja i usvajanja;
+- Regulatorna agencija za komunikacije Bosne i Hercegovine će donijeti odluku o korištenju MUX A za potrebe zemaljskog digitalnog emitiranja u Bosni i Hercegovini, kojom će se definirati upotreba MUX A za javne RTV servise Bosne i Hercegovine i ostale RTV stanice u Bosni i Hercegovini za koje Regulatorna agencija za komunikacije Bosne i Hercegovine izda posebnu saglasnost, vodeći računa da se ukupan kapacitet MUX A koristi racionalno, ne ugrožavajući funkcije javnih RTV servisa;
+- Regulatorna agencija za komunikacije Bosne i Hercegovine će izdati posebnu saglasnost za digitalno zemaljsko emitiranje TV stanicama u Bosni i Hercegovini koje trpe smetnje zbog početka digitalnog TV emitiranja u Bosni i Hercegovini, ukoliko je to tehnički moguće i istovremeno opravdano sa stanovišta očuvanja funkcija radiotelevizijskih stanica u Bosni i Hercegovini;
+- Javni RTV servisi Bosne i Hercegovine će izvršiti potrebne izmjene i specifikaciju neophodne opreme u cilju prilagođavanja projektne dokumentacije u skladu sa promjenom standarda i načina korištenja MUX A;
+- Obračun troškova za ostale radiotelevizijske stanice u Bosni i Hercegovini koje ulaze u MUX A, odnosno održavanje opreme MUX A, visinu naknade i način plaćanja za prijenos i emitiranje u digitalnoj mreži MUX A donosi Odbor Sistema javnih RTV servisa Bosne i Hercegovine, uz saglasnost Regulatorne agencije za komunikacije Bosne i Hercegovine;
+- Da bi se osigurali potrebni kapaciteti za javne RTV servise Bosne i Hercegovine i ostale radiotelevizijske stanice u Bosni i Hercegovini i stvorili uvjeti za rad prijenosne i emisione mreže, njeno upravljanje i održavanje u cilju uvođenja novih tehnologija dodjeljuje se MUX B javnim RTV servisima Bosne i Hercegovine;
+- Odbor Sistema javnih RTV servisa Bosne i Hercegovine će u roku od 30 dana od stupanja na snagu ove Odluke registrirati tijelo u skladu sa Zakonom o javnom RTV sistemu Bosne i Hercegovine koje će osigurati koordinaciju korištenja i upravljanja tehničkim resursima prijenosne i emisione infrastrukture MUX A i MUX B;
+- Ministarstvo komunikacija i prometa Bosne i Hercegovine izvještava Vijeće ministara Bosne i Hercegovine o realizaciji zadataka u definiranim rokovima iz ove tačke i po potrebi predlaže njene izmjene i dopune."
+Član 2.
+Ova Odluka stupa na snagu danom donošenja i objavljuje se u "Službenom glasniku BiH".
+VM broj 312/16
+20. decembra 2016. godine
+Sarajevo
+Predsjedavajući
+Vijeća ministara BiH
+Dr. Denis Zvizdić, s. r.
