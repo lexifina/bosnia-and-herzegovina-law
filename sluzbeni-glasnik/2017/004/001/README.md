@@ -1,0 +1,13 @@
+# ODLUKU O IZBORU PREDSJEDNICE CENTRALNE IZBORNE KOMISIJE BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O IZBORU PREDSJEDNICE CENTRALNE IZBORNE KOMISIJE BOSNE I HERCEGOVINE
+
+Donosilac: CENTRALNA IZBORNA KOMISIJA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 4/17 (17.1.2017.), akt 1 od 11 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ohz4nh78h77sP7qzsVAQ0=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/igi4YamjawY=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
