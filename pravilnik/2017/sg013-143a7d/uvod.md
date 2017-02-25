@@ -1,0 +1,1 @@
+Na osnovu člana 18. Poslovnika Centralne izborne komisije Bosne i Hercegovine ("Službeni glasnik BiH", br. 50/07, 33/09, 24/13 i 32/14), Centralna izborna komisija Bosne i Hercegovine je, na 9. sjednici održanoj 16.02.2017. godine, donijela
