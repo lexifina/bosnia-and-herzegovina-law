@@ -1,0 +1,1 @@
+Na osnovu člana 28. tačka d) Zakona o kontroli vanjskotrgovinskog prometa roba dvojne namjene ("Službeni glasnik BiH", broj 53/16) i člana 61. stav 2. Zakona o upravi ("Službeni glasnik BiH", br. 32/02 i 102/09), ministar vanjske trgovine i ekonomskih odnosa donosi
