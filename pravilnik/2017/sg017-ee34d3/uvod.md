@@ -1,0 +1,1 @@
+Na osnovu člana 49. stav (1) Pravilnika o Centralnoj banci Bosne i Hercegovine, UV-104-01-1-116/15 od 28. decembra 2015. godine, Upravno vijeće Centralne banke Bosne i Hercegovine, na 1. sjednici od 31. januara 2017. godine, donosi
