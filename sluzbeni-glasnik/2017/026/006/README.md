@@ -1,0 +1,13 @@
+# ODLUKU BROJ 146 PROŠIRENE KOMISIJE EVROPSKE ORGANIZACIJE ZA SIGURNOST ZRAČNE NAVIGACIJE "EUROCONTROL" O UVOĐENJU KAMATE NA ZAKAŠNJELA PLAĆANJA RUTNIH NAKNADA ZA PERIOD PRIMJENE KOJI POČINJE 1. JANUARA 2017. GODINE
+
+Naslov: ODLUKU BROJ 146 PROŠIRENE KOMISIJE EVROPSKE ORGANIZACIJE ZA SIGURNOST ZRAČNE NAVIGACIJE "EUROCONTROL" O UVOĐENJU KAMATE NA ZAKAŠNJELA PLAĆANJA RUTNIH NAKNADA ZA PERIOD PRIMJENE KOJI POČINJE 1. JANUARA 2017. GODINE
+
+Donosilac: MINISTARSTVO KOMUNIKACIJA I PROMETA BIH.
+
+Službeni glasnik BiH broj 26/17 (11.4.2017.), akt 6 od 9 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Ai3jBUYYPsI=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/tYc6A9sru0k=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
