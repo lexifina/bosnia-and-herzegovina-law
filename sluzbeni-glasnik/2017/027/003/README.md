@@ -1,0 +1,13 @@
+# ZAKLJUČAK O OSNIVANJU PRIVREMENE ISTRAŽNE KOMISIJE DOMA NARODA PARLAMENTARNE SKUPŠTINE BOSNE I HERCEGOVINE ZA PRIBAVLJANJE INFORMACIJA O VANJSKOPOLITIČKOM STATUSU BOSNE I HERCEGOVINE
+
+Naslov: ZAKLJUČAK O OSNIVANJU PRIVREMENE ISTRAŽNE KOMISIJE DOMA NARODA PARLAMENTARNE SKUPŠTINE BOSNE I HERCEGOVINE ZA PRIBAVLJANJE INFORMACIJA O VANJSKOPOLITIČKOM STATUSU BOSNE I HERCEGOVINE
+
+Donosilac: PARLAMENTARNA SKUPŠTINA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 27/17 (14.4.2017.), akt 3 od 18 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/kNGohz4nh78h77ZhNN2nI=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/Pxp3Cc2X9oM=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
