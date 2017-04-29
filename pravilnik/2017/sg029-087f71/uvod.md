@@ -1,0 +1,1 @@
+Na osnovu člana 72. stav (4) Zakona o zaštiti tajnih podataka ("Službeni glasnik BiH", broj 54/05 i 12/09) i člana 61. stav (2) Zakona o upravi BiH ("Službeni glasnik BiH", broj 32/02 i 102/09), ministar sigurnosti, donosi
