@@ -1,0 +1,3 @@
+# Article 246r. Joining the Enemy and Surrender to the Enemy
+(1) A military person who joins an enemy's army during the state of war or the state of emergency or when an order for the engagement and employment of the Armed Forces of Bosnia and Herzegovina is issued, shall be punished by imprisonment for a term not less than five years.
+(2) A military person who, before all means and ways have been exhausted, surrenders to an enemy's army during the state of war or the state of emergency or when an order for the engagement and employment of the Armed Forces of Bosnia and Herzegovina is issued, shall be punished by imprisonment for a term between one and ten years.

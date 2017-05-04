@@ -1,0 +1,5 @@
+# Article 246e. Coercion against a Military Person Discharging Official Duty
+(1) Whoever, by force or threat of immediate use of force, prevents a military person in the execution of official duty, or coerces a military person in the same way to execute an official duty, shall be punished by imprisonment for a term not exceeding three years.
+(2) Whoever, in the perpetration of criminal offence referred to in paragraph (1) of this Article, seriously offends a military person, or inflicts a slight bodily injury upon a military person, shall be punished by imprisonment for a term between three months and three years.
+(3) Whoever in the perpetration of criminal offence referred to in paragraph (1) and (2) of this Article uses arms, shall be punished by imprisonment for a term between six months and five years.
+(4) The perpetrator of criminal offence referred to in paragraph (1) of this Article, who is provoked by the illegal or irregular conduct of the military person, may be punished less severely or released from punishment.

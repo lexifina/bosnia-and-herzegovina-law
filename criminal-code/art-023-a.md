@@ -1,0 +1,2 @@
+# Article 23a. Insignificant offence
+An offence shall not be considered criminal, although it contains elements of a criminal offence prescribed under the law if, due to the nature and the gravity of the offence, or manner of perpetration of the offence, or minor or inexistent harmful consequences, or the acquired material gain and low degree of culpability on the part of the perpetrator, it amounts to an insignificant offence.

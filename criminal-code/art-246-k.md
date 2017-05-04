@@ -1,0 +1,7 @@
+# Article 246k. Irregular or Careless Attitude toward Entrusted Arms or Military Equipment
+(1) Whoever irregularly or carelessly keeps, stores or handles arms or military equipment entrusted to him and belonging to a military unit or military institution, and thereby causes substantial damage to these items or their destruction or disappearance, shall be punished by a fine or imprisonment for a term not exceeding one year.
+(2) A person in charge of a depot of means of combat, arms or military equipment who fails to take measures towards their protection or maintenance, causing thereby substantial damage, destruction or disappearance of these items, shall be punished by imprisonment for a term between six months and five years.
+(3) If, by the criminal offence referred to in paragraph (2) of this Article, the extensive damage to property is caused, the perpetrator shall be punished by imprisonment for a term between two and eight years.
+(4) A person referred to in paragraph (2) who perpetrates the criminal offence referred to in paragraph (2) of this Article by negligence, shall be punished by a fine or imprisonment for a term not exceeding three years.
+(6) If, by the criminal offence referred to in paragraph (4) of this Article, the consequence referred to in paragraph
+(3) of this Article is caused, the perpetrator shall be punished by imprisonment for a term between three moths and three years.

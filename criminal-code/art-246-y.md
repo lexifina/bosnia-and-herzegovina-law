@@ -1,0 +1,3 @@
+# Article 246y. Failure to Inform Military Authorities
+(1) Whoever during the state of war or the state of emergency or when an order for the engagement and employment of the Armed Forces of Bosnia and Herzegovina is issued fails to inform the superior or senior officer or headquarters about an incident that manifestly requires military actions without delay, shall be punished by imprisonment for a term not exceeding two years.
+(2) If, by the criminal offence referred to in paragraph (1) of this Article extremely serious consequences are caused, the perpetrator shall be punished by imprisonment for a term between one and eight years.

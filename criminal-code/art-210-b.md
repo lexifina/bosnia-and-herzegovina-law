@@ -1,0 +1,3 @@
+# Article 210b. Unauthorised storage of goods
+(1) Whoever stores goods taxable pursuant to the tax legislation of Bosnia and Herzegovina on the premises not registered for that purpose in accordance with the law, or whoever allows that goods be stored on his premises not registered for such purposes, shall be punished by a fine or imprisonment for a term not exceeding three years.
+(2) The punishment referred to in paragraph (1) of this Article shall be imposed on whoever stores goods taxable pursuant to the tax legislation of Bosnia and Herzegovina on the premises registered for that purpose in accordance with the legislation on the storage of goods, if such goods are not accompanied by the prescribed documentation on the origin of goods and the taxes paid.
