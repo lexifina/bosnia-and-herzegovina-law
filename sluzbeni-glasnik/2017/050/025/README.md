@@ -1,0 +1,13 @@
+# ODLUKU O IMENOVANJU SUDIJE U KANTONALNI SUD U ŠIROKOM BRIJEGU
+
+Naslov: ODLUKU O IMENOVANJU SUDIJE U KANTONALNI SUD U ŠIROKOM BRIJEGU
+
+Donosilac: VISOKO SUDSKO I TUŽILAČKO VIJEĆE BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 50/17 (11.7.2017.), akt 25 od 49 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/2Bl36Wc2Jt0=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/3WgrrCTPg8M=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
