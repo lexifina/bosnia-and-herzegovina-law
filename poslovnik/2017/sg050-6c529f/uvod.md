@@ -1,0 +1,1 @@
+Na osnovu člana 16. stav 8. Zakona o sistemu indirektnog oporezivanja u Bosni i Hercegovini ("Službeni glasnik BiH", br. 44/03, 52/04, 34/07, 4/08, 49/09 i 32/13), uvažavajući zaključak Vijeća ministara Bosne i Hercegovine sa 86. sjednice, Upravni odbor Uprave za indirektno oporezivanje je, na 21. sjednici održanoj dana 19.06.2017. godine, donio
