@@ -1,0 +1,13 @@
+{
+  "id": "1086784",
+  "case_number": "AP-2240/17",
+  "date": "2017-07-18T00:00:00",
+  "decision_type": "Odluka o dopustivosti",
+  "item_type": "AP",
+  "source": "https://www.ustavnisud.ba/bs/api/odluke?submit=1&sp=DatumAsc&dos=01.01.2017.&doe=31.12.2017.",
+  "official_decision": "https://www.ustavnisud.ba/uploads/odluke/AP-2240-17-1086784.pdf",
+  "listing_source": "https://www.ustavnisud.ba/bs/api/odluke?submit=1&sp=DatumAsc&dos=01.01.2017.&doe=31.12.2017.",
+  "record_type": "metadata-only",
+  "date_basis": "Official Court database decision date",
+  "source_sha256": "972f3a2bb1c0b497020ee96d0c2df120ffe06eced075b102b00d2da26afb86da"
+}
