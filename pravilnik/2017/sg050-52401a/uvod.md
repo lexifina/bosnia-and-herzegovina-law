@@ -1,0 +1,1 @@
+Na osnovu člana 42. stav (2) Zakona o Upravi za indirektno oporezivanje (''Službeni glasnik BiH'', broj 89/05), Upravni odbor, na prijedlog direktora Uprave za indirektno oporezivanje, na 21. sjednici održanoj dana 19.06.2017. godine, donio je
