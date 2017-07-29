@@ -1,0 +1,1 @@
+Na osnovu člana 8. stav 4., člana 11. stav 1., i člana 39. stav 1, a u vezi s članom 4. stav 2, tačke c), d) i e) i članom 7. stav 1. Zakona o komunikacijama ("Službeni glasnik BiH", br. 31/03, 75/06, 32/10 i 98/12), Vijeće Regulatorne agencije za komunikacije, na 32. sjednici održanoj 27.06.2017. godine, donosi
