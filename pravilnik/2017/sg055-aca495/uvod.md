@@ -1,0 +1,1 @@
+Na osnovu člana 15i. Zakona o zaštiti tajnih podataka ("Službeni glasnik BiH" br. 54/05 i 12/09) i člana 17. Zakona o Vijeću ministara Bosne i Hercegovine ("Službeni glasnik BiH", br. 30/03, 42/03, 81/06, 76/07, 81/07, 94/07 i 24/08), Vijeće ministara Bosne i Hercegovine, na 106. sjednici održanoj 22. juna 2017. godine, donijelo je
