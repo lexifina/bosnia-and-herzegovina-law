@@ -1,0 +1,13 @@
+# RJEŠENJE O IMENOVANJU ZAMJENIKA DIREKTORA AGENCIJE ZA UNAPREĐENJE STRANIH INVESTICIJA U BOSNI I HERCEGOVINI
+
+Naslov: RJEŠENJE O IMENOVANJU ZAMJENIKA DIREKTORA AGENCIJE ZA UNAPREĐENJE STRANIH INVESTICIJA U BOSNI I HERCEGOVINI
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 64/17 (5.9.2017.), akt 1 od 5 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/lXHF3aHdUl4=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/YXfWxwss3qQ=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
