@@ -1,0 +1,13 @@
+# ODLUKU O ZAKLJUČIVANJU I POTVRĐIVANJU BROJA BIRAČA UPISANIH U IZVOD IZ CENTRALNOG BIRAČKOG SPISKA ZA BIRAČE KOJI GLASAJU PUTEM MOBILNOG TIMA ZA PRIJEVREMENE IZBORE ZA NAČELNIKA OPĆINE TRNOVO KOJI ĆE SE ODRŽATI 24.09.2017. GODINE
+
+Naslov: ODLUKU O ZAKLJUČIVANJU I POTVRĐIVANJU BROJA BIRAČA UPISANIH U IZVOD IZ CENTRALNOG BIRAČKOG SPISKA ZA BIRAČE KOJI GLASAJU PUTEM MOBILNOG TIMA ZA PRIJEVREMENE IZBORE ZA NAČELNIKA OPĆINE TRNOVO KOJI ĆE SE ODRŽATI 24.09.2017. GODINE
+
+Donosilac: CENTRALNA IZBORNA KOMISIJA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 70/17 (29.9.2017.), akt 8 od 9 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/X6QTDf2wrxw=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/yMNEieyPohz4nh78h77eQ=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
