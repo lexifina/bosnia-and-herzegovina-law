@@ -1,0 +1,1 @@
+Na osnovu člana 28. stav (7) Zakona o graničnoj kontroli ("Službeni glasnik BiH", br. 53/09, 54/10 i 47/14) i člana 15. stav (2) tačka a) Zakona o Graničnoj policiji Bosne i Hercegovine ("Službeni glasnik BiH", br. 50/04, 27/07 i 59/09), direktor Granične policije Bosne i Hercegovine donosi
