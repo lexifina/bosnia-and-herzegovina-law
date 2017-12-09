@@ -1,0 +1,1 @@
+Na osnovu člana 20. stav (6) Zakona o graničnoj kontroli ("Službeni glasnik BiH", br. 53/09 i 54/10) i člana 15. stav (2) tačka a) Zakona o Graničnoj policiji Bosne i Hercegovine ("Službeni glasnik BiH", br. 50/04, 27/07 i 59/09), direktor Granične policije Bosne i Hercegovine donosi
