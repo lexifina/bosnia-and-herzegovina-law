@@ -1,0 +1,1 @@
+Na osnovu člana 61. Zakona o upravi ("Službeni glasnik BiH", br. 32/02 i 102/09) i člana 19., a u vezi sa članom 22. Zakona o finansiranju institucija Bosne i Hercegovine ("Službeni glasnik BiH", br. 61/04, 49/09, 42/12, 87/12 i 32/13), ministar finansija i trezora Bosne i Hercegovine donosi
