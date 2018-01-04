@@ -1,0 +1,56 @@
+Službeni glasnik BiH, broj 14/18
+Na osnovu člana 17. Zakona o Vijeću ministara Bosne i Hercegovine ("Službeni glasnik BiH", br. 30/03, 42/03, 81/06, 76/07, 81/07, 94/07 i 24/08), a u vezi sa Okvirnim sporazumom između Bosne i Hercegovine i Evropske komisije o aranžmanima za provođenje finansijske pomoći Unije Bosni i Hercegovini u okviru Instrumenta pretpristupne pomoći (IPA II) ("Službeni glasnik BiH - Međunarodni ugovori", broj 6/15), na prijedlog Direkcije za evropske integracije Vijeća ministara Bosne i Hercegovine, Vijeće ministara Bosne i Hercegovine na 127. sjednici održanoj 4. 1. 2018. godine, donijelo je
+ODLUKU
+O UTVRĐIVANJU FUNKCIJA, STRUKTURA I TIJELA BOSNE I HERCEGOVINE NADLEŽNIH ZA PROVOĐENJE PROGRAMA TERITORIJALNE SARADNJE U OKVIRU INSTRUMENTA PRETPRISTUPNE POMOĆI (IPA II) 2014. - 2020.
+Član 1.
+(Predmet Odluke)
+Ovom Odlukom utvrđuju se funkcije, strukture i tijela u Bosni i Hercegovini i njihove nadležnosti u provođenju programa teritorijalne saradnje u okviru Instrumenta pretpristupne pomoći (IPA II) 2014. - 2020., u ispunjavanju obaveza iz Okvirnog sporazuma između Bosne i Hercegovine i Evropske komisije o aranžmanima za provođenje finansijske pomoći Unije Bosni i Hercegovini u okviru Instrumenta pretpristupne pomoći (IPA II) ("Službeni glasnik BiH - Međunarodni ugovori", broj 6/15) (u daljnjem tekstu: Okvirni sporazum), i obaveza iz relevantnih odredbi svih šest programskih dokumenata/operativnih programa usvojenih od strane Evropske komisije kao i obaveza iz određenih međunarodnih sporazuma koji se zaključuju na nivou pojedinih programa.
+Član 2.
+(Definicije)
+(1) Instrument pretpristupne pomoći (IPA II) je finansijski instrument EU koji podržava strategiju proširenja EU kroz pružanje pomoći zemljama kandidatima i potencijalnim kandidatima u procesu pristupanja EU.
+(2) Okvirni sporazum je sporazum zaključen između Bosne i Hercegovine i Evropske komisije o aranžmanima za provođenje finansijske pomoći Unije Bosni i Hercegovini u okviru Instrumenta pretpristupne pomoći (IPA II).
+(3) Operativna struktura je tijelo, odnosno skup tijela iz javne uprave zemlje korisnice uspostavljena s ciljem pripreme, provođenja i upravljanja programima prekogranične saradnje.
+(4) Rukovodilac operativne strukture je imenovani rukovodeći državni službenik sa odgovarajućim ovlaštenjima i obavezama za koordinaciju i nadzor rada Operativne strukture za programe prekogranične saradnje između zemalja IPA korisnica - direktni i indirektni sistem upravljanja, i predstavlja Bosnu i Hercegovinu u zvaničnim kontaktima sa operativnim strukturama partnerskih zemalja.
+(5) Tijelo za prekograničnu saradnju je organizaciona jedinica u okviru administracije zemlje korisnice Instrumenta pretpristupne pomoći (IPA II) nadležna za učešće u pripremi programa prekogranične saradnje i nadzor nad provođenjem tih programa, u saradnji sa nadležnim institucijama partnerskih zemalja i Zajedničkim odborom za praćenje datog programa.
+(6) Kontrolno tijelo je organizaciona jedinica u okviru administracije zemlje korisnice Instrumenta pretpristupne pomoći (IPA II) koje vrši kontrolu troškova partnera iz BiH u projektima odobrenim za finansiranje u okviru programa koji se provode u indirektnom i podijeljenom sistemu upravljanja.
+(7) Državna kontakt-tačka je državni službenik u Direkciji za evropske integracije koja ima funkciju Državnog nadležnog tijela za učestvovanje Bosne i Hercegovine u programima transnacionalne saradnje. Državna kontakt-tačka na tehničkoj i stručnoj osnovi sarađuje sa relevantnim programskim strukturama u vodećoj zemlji članici EU (Upravljačko tijelo, Zajednički tehnički sekretarijat) i ostalim kontakt-tačkama iz svih partnerskih zemalja programa te kroz korištenje dijela programskih sredstava za tehničku pomoć, odnosno provođenje projekta tehničke pomoći u BiH, radi na jačanju kapaciteta aplikanata i korisnika u BiH, praćenju provođenja projekata te provođenju mjera vidljivosti programa u BiH.
+(8) Zajednički odbor za praćenje/Odbor za praćenje uspostavljaju zemlje učesnice za svaki program. Odbor, zajedno sa operativnim strukturama/državnim nadležnim tijelima, prati i obezbjeđuje kvalitetno provođenje programa. Zavisno od sistema upravljanja (direktni, indirektni ili podijeljeni), nadležnosti Odbora se u jednom dijelu razlikuju. U direktnom i indirektnom sistemu upravljanja, Odbor između ostalog utvrđuje tematske prioritete, i konkretne ciljeve, odnosno fokus svakog poziva za dostavljanje prijedloga projekata koje potvrđuje Komisija, pruža savjetodavno mišljenje o listi projekata za finansiranje izabranih putem poziva za dostavljanje prijedloga projekata, odobrava godišnje i završne izvještaje o provođenju programa i prijedloge za revidiranje programa prekogranične saradnje. U podijeljenom sistemu upravljanja, Odbor ne djeluje samo savjetodavno već ima ključnu ulogu po svim relevantnim pitanjima vezanim za implementaciju programa uključujući i nadležnost za odobravanje projekata za finansiranje kao i značajnijih izmjena projekata tokom implementacije.
+(9) Zajednički tehnički sekretarijat/Tehnički sekretarijat je stručno tijelo koje se uspostavlja na nivou svakog programa radi pružanja tehničke podrške nadležnim institucijama kao i potencijalnim aplikantima i korisnicima u projektima odobrenim za finanasiranje.
+Član 3.
+(Operativna struktura u programima prekogranične saradnje između zemalja IPA)
+(1) Operativna struktura uspostavlja se za programe prekogranične saradnje između zemalja IPA korisnica koji se provode u direktnom i indirektnom sistemu upravljanja.
+(2) Operativnu strukturu u programu koji se provodi u direktnom sistemu upravljanja (IPA II Program prekogranične saradnje Bosna i Hercegovina - Crna Gora 2014. - 2020.) čine:
+a) Rukovodilac operativne strukture,
+b) Tijelo za prekograničnu saradnju.
+(3) Operativnu strukturu u programu koji se provodi u indirektnom sistemu upravljanja od strane državnih struktura u vodećoj partnerskoj zemlji, akreditovanih od strane Evropske komisije (IPA II Program prekogranične saradnje Srbija-Bosna i Hercegovina 2014. - 2020.) čine:
+a) Rukovodilac operativne strukture,
+b) Tijelo za prekograničnu saradnju,
+c) Kontrolno tijelo - definisano Odlukom o uspostavi sistema kontrole za programe teritorijalne saradnje ("Službeni glasnik BiH", broj 55/16).
+Član 4.
+(Struktura u programima koji uključuju zemlje članice EU)
+Programi u kojima učestvuju i zemlje članice EU provode se u podijeljenom sistemu upravljanja i zahtijevaju postojanje sljedećih struktura:
+a) Državno nadležno tijelo Bosne i Hercegovine (koje u programima transnacionalne saradnje uključuje i funkciju državne kontakt-tačke),
+b) Kontrolno tijelo - definisano Odlukom o uspostavi sistema kontrole za programe teritorijalne saradnje ("Službeni glasnik BiH", broj 55/16).
+Član 5.
+(Rukovodilac operativne strukture)
+(1) Rukovodilac operativne strukture je ovlašten da predstavlja Bosnu i Hercegovinu u zvaničnim kontaktima sa operativnim strukturama partnerskih zemalja u cilju bliske saradnje u ispunjavanju obaveza od zajedničkog interesa u skladu sa članom 76. Okvirnog sporazuma.
+(2) Rukovodilac operativne strukture odgovoran je za koordinaciju rada i nadzor nad radom tijela koje čine Operativnu strukturu iz člana 3. ove Odluke u skladu sa članom 4. c) Dodatka A Okvirnog sporazuma.
+(3) Rukovodilac operativne strukture obezbjeđuje Državnom koordinatoru za IPA II (u daljnjem tekstu: DIPAK) sve neophodne informacije o provođenju IPA II Programa prekogranične saradnje u kojima Bosna i Hercegovina učestvuje u cilju podnošenja godišnjeg izvještaja o implementaciji IPA II pomoći Evropskoj komisiji od strane DIPAK-a u skladu sa članom 58. Okvirnog sporazuma.
+(4) Za program koji se provodi u indirektnom sistemu upravljanja (IPA II Program prekogranične saradnje Srbija - Bosna i Hercegovina 2014. - 2020.), odnosi između Rukovodioca operativne strukture i tijela u sastavu Operativne strukture te njihove pojedinačne odgovornosti i zadaci bit će regulisani posebnim međuinstitucionalnim sporazumom.
+(5) Funkciju Rukovodioca operativne strukture vrši pomoćnik direktora u Sektoru za opće i zajedničke poslove u Direkciji za evropske integracije.
+Član 6.
+(Tijelo za prekograničnu saradnju)
+(1) Funkciju Tijela za prekograničnu saradnju u BiH (u oba sistema upravljanja: direktnom i indirektnom) vrši Odsjek za prekogranične, međunarodne i posebne programe pomoći Evropske unije Bosni i Hercegovini u Sektoru za koordinaciju programa pomoći EU, Direkcije za evropske integracije, koji je nadležan za učešće u pripremi programa prekogranične saradnje i izmjenama programa, učešće u pripremi bilateralnih sporazuma sa partnerskim zemljama, uspostavljanje, regulisanje rada Zajedničkih odbora za praćenje kao i predsjedavanje sastancima Zajedničkog odbora za praćenje (u programu koji se provodi u indirektnom sistemu upravljanja), nadzor nad provođenjem programa u saradnji sa nadležnim institucijama partnerskih zemalja i Zajedničkim odborima za praćenje, uspostavljanje i nadzor nad radom Zajedničkih tehničkih sekretarijata te uz njihovu podršku i upravljanje programskim sredstvima za tehničku pomoć, jačanje kapaciteta aplikanata i korisnika, provođenje mjera vidljivosti programa, uspostavljanje sistema i provođenje monitoringa projekata i izvještavanje o implementaciji programa i učešće u evaluaciji. Za sve poslove iz ovog stava odgovoran je rukovodilac Odsjeka za prekogranične, međunarodne i posebne programe pomoći Evropske unije Bosni i Hercegovini.
+(2) Tijelo za prekograničnu saradnju će godišnje, a po potrebi i češće, izvještavati Vijeće ministara BiH o napretku u implementaciji programa teritorijalne saradnje iz svoje nadležnosti.
+Član 7.
+(Državno nadležno tijelo)
+Funkciju Državnog nadležnog tijela Bosne i Hercegovine u programima teritorijalne saradnje koji se provode u podijeljenom sistemu upravljanja vrši Direkcija za evropske integracije, u okviru koje je i funkcija državne kontakt-tačke za transnacionalne programe i to u Odsjeku za prekogranične, međunarodne i posebne programe pomoći EU Sektora za koordinaciju programa pomoći EU. Nadležnosti i odgovornosti Direkcije za evropske integracije kao Državnog nadležnog tijela u ovim programima (INTERREG trilateralni program prekogranične saradnje Hrvatska - Bosna i Hercegovina - Crna Gora i tri INTERREG transnacionalna programa: Dunavski, MED i ADRION) uključuju učešće u pripremi operativnih programa i drugih programskih dokumenata i izmjenama istih, koordinaciju javnih konsultacija u Bosni i Hercegovini u fazi programiranja i strateškoj procjeni utjecaja na okoliš (SEA), učešće u pripremi multilateralnih sporazuma sa partnerskim zemljama, učešće u radu Odbora za praćenje i nadzor nad provođenjem programa u Bosni i Hercegovini, učešće u izvještavanju o implementaciji programa, a u ulozi državne kontakt-tačke i korištenje dijela programskih sredstava za tehničku pomoć za svrhu jačanja kapaciteta aplikanata i korisnika u Bosni i Hercegovini, praćenje provođenja projekata te provođenje mjera vidljivosti programa u Bosni i Hercegovini.
+Član 8.
+(Stupanje na snagu)
+Ova Odluka stupa na snagu danom donošenja i objavljuje se u "Službenom glasniku BiH".
+VM broj 19/18
+4. januara 2018. godine
+Sarajevo
+Predsjedavajući
+Vijeća ministara BiH
+Dr. Denis Zvizdić, s. r.
