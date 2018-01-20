@@ -1,0 +1,1 @@
+Na osnovu člana 8. Zakona o željeznicama Bosne i Hercegovine ("Službeni glasnik BiH", br. 52/05) i odredbi Instrukcije za sigurnost i interoperabilnost željezničkog sistema ("Službeni glasnik BiH", br. 11/12), a u skladu sa tehničkim dodacima APTU i ATMF Konvencije COTIF 1999, Regulatorni odbor željeznica Bosne i Hercegovine donosi
