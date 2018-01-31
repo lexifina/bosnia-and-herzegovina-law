@@ -1,0 +1,9 @@
+# Odluka o dopustivosti AP-192/18
+
+Ustavni sud Bosne i Hercegovine.
+
+Datum odluke: 2018-01-31 (službena baza odluka).
+
+[Objavljena odluka](https://www.ustavnisud.ba/uploads/odluke/AP-192-18-1114380.pdf)
+
+Metadata and official link only; full text withheld pending confirmation that private persons are anonymised.
