@@ -1,0 +1,1 @@
+Na osnovu člana 13. stav (3) Okvirnog zakona o osnovama naučnoistraživačke djelatnosti i koordinaciji unutrašnje i međunarodne naučnoistraživačke saradnje Bosne i Hercegovine ("Službeni glasnik BiH", broj 43/09), na preporuku Vijeća za nauku Bosne i Hercegovine, ministar civilnih poslova, donio je
