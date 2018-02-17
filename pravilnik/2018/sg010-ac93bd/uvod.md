@@ -1,0 +1,1 @@
+Na osnovu čl. 16. i 107. stav (2) Zakona o upravi ("Službeni glasnik BiH", br. 32/02, 102/09 i 72/17), a u vezi s članom 13. Zakona o ministarstvima i drugim tijelima uprave Bosne i Hercegovine ("Službeni glasnik BiH", br. 5/03, 42/03, 26/04, 42/04, 45/06, 88/07, 35/09, 59/09, 103/09, 87/12 i 6/13), ministar pravde Bosne i Hercegovine donosi
