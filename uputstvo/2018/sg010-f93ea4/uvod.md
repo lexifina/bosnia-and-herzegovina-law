@@ -1,0 +1,1 @@
+Na osnovu člana 15. stav (1) Zakona o Upravi za indirektno oporezivanje ("Službeni glasnik BiH", broj 89/05) i člana 57. stav (4) Zakona o porezu na dodatu vrijednost ("Službeni glasnik BiH", br. 09/05, 35/05, 100/08 i 33/17), direktor Uprave za indirektno oporezivanje donosi
