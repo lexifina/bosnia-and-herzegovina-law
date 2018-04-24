@@ -1,0 +1,13 @@
+# ODLUKU O INTERVENTNOM KORIŠTENJU SREDSTAVA TEKUĆE REZERVE
+
+Naslov: ODLUKU O INTERVENTNOM KORIŠTENJU SREDSTAVA TEKUĆE REZERVE
+
+Donosilac: PREDSJEDNIŠTVO BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 26/18 (24.4.2018.), akt 5 od 29 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Q3Ss7lVZl6Q=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/5gDkC2cZ0PU=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
