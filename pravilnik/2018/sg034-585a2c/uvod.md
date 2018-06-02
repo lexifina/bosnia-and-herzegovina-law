@@ -1,0 +1,1 @@
+Na osnovu člana 16. i 61. Zakona o upravi ("Službeni glasnik BiH", br. 32/02, 102/09 i 72/17) i člana 13. stav (1) tačka bb), 16. tačka c) i 44. stav (1) i (2) Zakona o odbrani Bosne i Hercegovine ("Službeni glasnik BiH", br. 88/05), donosim
