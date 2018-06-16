@@ -1,0 +1,1 @@
+Na osnovu člana IV. 4. a) Ustava Bosne i Hercegovine, Parlamentarna skupština Bosne i Hercegovine, na 61. sjednici Predstavničkog doma, održanoj 17. maja 2018. godine, i na 40. sjednici Doma naroda, održanoj 5. juna 2018. godine, usvojila je
