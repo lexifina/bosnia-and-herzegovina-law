@@ -1,0 +1,13 @@
+# ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O PROGLAŠENJU HISTORIJSKOG PODRUČJA – NEKROPOLA SA STEĆCIMA NA LOKALITETU CRNAČ U DONJEM KOTORCU, OPĆINA ISTOČNA ILIDŽA, NACIONALNIM SPOMENIKOM BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O PROGLAŠENJU HISTORIJSKOG PODRUČJA – NEKROPOLA SA STEĆCIMA NA LOKALITETU CRNAČ U DONJEM KOTORCU, OPĆINA ISTOČNA ILIDŽA, NACIONALNIM SPOMENIKOM BOSNE I HERCEGOVINE
+
+Donosilac: KOMISIJA ZA OČUVANJE NACIONALNIH SPOMENIKA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 41/18 (19.6.2018.), akt 28 od 32 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/f0RIWXx8WQo=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/5PhAqHb6wp0=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
