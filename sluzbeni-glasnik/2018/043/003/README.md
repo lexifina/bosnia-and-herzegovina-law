@@ -1,0 +1,13 @@
+# ODLUKU O ODOBRAVANJU SREDSTAVA TEKUĆE BUDŽETSKE REZERVE BUDŽETA INSTITUCIJA BOSNE I HERCEGOVINE I MEĐUNARODNIH OBAVEZA BOSNE I HERCEGOVINE ZA 2018. GODINU MINISTARSTVU SIGURNOSTI BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O ODOBRAVANJU SREDSTAVA TEKUĆE BUDŽETSKE REZERVE BUDŽETA INSTITUCIJA BOSNE I HERCEGOVINE I MEĐUNARODNIH OBAVEZA BOSNE I HERCEGOVINE ZA 2018. GODINU MINISTARSTVU SIGURNOSTI BOSNE I HERCEGOVINE
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 43/18 (26.6.2018.), akt 3 od 9 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Wz1gztz5k76kjn45hgh4ohz4nh78h77QAg=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/V3o21fITAZk=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
