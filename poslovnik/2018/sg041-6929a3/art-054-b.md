@@ -1,0 +1,10 @@
+# Član 54b.
+(Raspon bodova za predsjednika suda)
+(1) U ukupnom broju bodova koje kandidat za poziciju predsjednika suda može ostvariti na razgovoru, kriteriji iz člana 46. stav (2), tač. c) - g), učestvuju u sljedećem omjeru:
+a) do 5 bodova za sposobnost kandidata da odgovorno, nezavisno i nepristrasno obavlja funkciju za koju se prijavio, profesionalnu nepristrasnost i ugled, te ponašanje van posla;
+b) do 10 bodova za dosadašnje radno iskustvo kandidata;
+c) do 5 bodova za edukaciju i usavršavanje, objavljivanje naučnih radova, te druge aktivnosti u struci;
+d) do 5 bodova za komunikativnost;
+e) do 10 bodova za rukovodne vještine i iskustvo te sposobnost upravljanja ljudskim potencijalima.
+(2) Prilikom bodovanja kandidata po kriteriju iz stava (1) tačka e) ovog člana u obzir se uzima i izloženi program rada.
+(3) U skladu sa Zakonom, za poziciju predsjednika suda može se prijaviti samo kandidat koji je sudija tog suda.
