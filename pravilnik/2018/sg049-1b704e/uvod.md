@@ -1,0 +1,1 @@
+Na osnovu člana 23. tač. a), b), c), d), e), g) i h) Zakona o obilježavanju malog oružja, lakog naoružanja i pripadajuće municije ("Službeni glasnik BiH", broj 83/16) i člana 61. stav 2. Zakona o upravi ("Službeni glasnik BiH", br. 32/02 i 102/09), ministar vanjske trgovine i ekonomskih odnosa Bosne i Hercegovine donosi
