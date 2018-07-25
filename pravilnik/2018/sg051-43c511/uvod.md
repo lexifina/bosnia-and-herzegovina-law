@@ -1,0 +1,1 @@
+Na osnovu člana 40., a u vezi sa članom 23. stav (8) Zakona o radnom vremenu, obaveznim odmorima mobilnih radnika i uređajima za bilježenje u cestovnom prijevozu ("Službeni glasnik BiH", br. 48/10 i 66/16), ministar komunikacija i prometa Bosne i Hercegovine donosi
