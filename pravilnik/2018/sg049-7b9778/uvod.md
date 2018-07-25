@@ -1,0 +1,1 @@
+Na osnovu člana 16. stav (1) pod f) Zakona o lijekovima i medicinskim sredstvima ("Službeni glasnik BiH", broj 58/08), a na prijedlog direktora Agencije za lijekove i medicinska sredstva Bosne i Hercegovine, Stručno vijeće Agencije za lijekove i medicinska sredstva Bosne i Hercegovine na 2. sjednici održanoj dana 14.06.2018. godine donijelo je
