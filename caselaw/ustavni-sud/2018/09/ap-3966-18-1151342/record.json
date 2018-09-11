@@ -1,0 +1,13 @@
+{
+  "id": "1151342",
+  "case_number": "AP-3966/18",
+  "date": "2018-09-11T00:00:00",
+  "decision_type": "Odluka o dopustivosti",
+  "item_type": "AP",
+  "source": "https://www.ustavnisud.ba/bs/api/odluke?submit=1&sp=DatumAsc&dos=01.01.2018.&doe=31.12.2018.",
+  "official_decision": "https://www.ustavnisud.ba/uploads/odluke/AP-3966-18-1151342.pdf",
+  "listing_source": "https://www.ustavnisud.ba/bs/api/odluke?submit=1&sp=DatumAsc&dos=01.01.2018.&doe=31.12.2018.",
+  "record_type": "metadata-only",
+  "date_basis": "Official Court database decision date",
+  "source_sha256": "d21f685d53d8797b6fc1ab9b25644919bf39b77723a028722a6a7c022fbc35d3"
+}
