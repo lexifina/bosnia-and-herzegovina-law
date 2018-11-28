@@ -1,1 +1,0 @@
-Na osnovu člana 26. stav 3. Zakona Bosne i Hercegovine o izvršenju krivičnih sankcija, pritvora i drugih mjera - Prečišćeni tekst ("Službeni glasnik BiH", broj 12/10- u daljnjem tekstu: Zakon), ministar pravde Bosne i Hercegovine donosi
