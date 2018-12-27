@@ -1,0 +1,13 @@
+# ODLUKU O DODJELI SREDSTAVA IZ TEKUĆEG GRANTA "SUFINANSIRANJE PROJEKATA INSTITUCIJA KULTURE U BOSNI I HERCEGOVINI" ZA 2018. GODINU
+
+Naslov: ODLUKU O DODJELI SREDSTAVA IZ TEKUĆEG GRANTA "SUFINANSIRANJE PROJEKATA INSTITUCIJA KULTURE U BOSNI I HERCEGOVINI" ZA 2018. GODINU
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 93/18 (27.12.2018.), akt 3 od 20 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/xjpLec1dytw=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/VPJKOBohz4nh78h77JLgA=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
