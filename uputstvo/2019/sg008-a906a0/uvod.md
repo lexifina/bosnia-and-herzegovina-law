@@ -1,0 +1,1 @@
+Na osnovu člana 61. stav 2. Zakona o upravi ("Službeni glasnik BiH", br. 32/02, 102/09 i 72/17), a u vezi sa provođenjem odredbi člana 92. Odluke o uvjetima i postupku ostvarivanja prava na oslobađanje od plaćanja uvoznih i izvoznih dažbina ("Službeni glasnik BiH", broj 24/18), ministar civilnih poslova Bosne i Hercegovine donio je
