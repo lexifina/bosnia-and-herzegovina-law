@@ -1,0 +1,1 @@
+Na osnovu člana 174. stav (1) Zakona o službi u Oružanim snagama Bosne i Hercegovine ("Službeni glasnik BiH", broj 88/05, 53/07, 59/09, 74/10, 42/12, 41/16 i 38/18) i člana 61. Zakona o upravi ("Službeni glasnik BiH", broj 32/02 i 102/09), donosim
