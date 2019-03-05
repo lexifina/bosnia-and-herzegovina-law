@@ -1,0 +1,1 @@
+Na osnovu člana 61. Zakona o upravi ("Službeni glasnik BiH", br. 30/02 i 102/09) i člana 25. stav (4) Zakona o pružanju besplatne pravne pomoći ("Službeni glasnik BiH", broj 83/16), ministar pravde Bosne i Hercegovine donosi
