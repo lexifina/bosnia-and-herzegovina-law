@@ -1,0 +1,1 @@
+Na osnovu člana 16. i člana 61. stav (2) Zakona o upravi ("Službeni glasnik BiH", broj 32/02, 102/09 i 72/17) i člana 2. i člana 8. tačka b) Zakona o željeznicama Bosne i Hercegovine ("Službeni glasnik BiH", broj 52/05), direktor Regulatornog odbora željeznica Bosne i Hercegovine donosi
