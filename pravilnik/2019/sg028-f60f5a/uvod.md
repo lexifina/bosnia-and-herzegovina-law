@@ -1,0 +1,2 @@
+EI
+Na temelju člana 27. stav 11. Zakona o veterinarstvu u Bosni i Hercegovini ("Službeni glasnik BiH", broj 34/02) i člana 17. Zakona o Vijeću ministara Bosne i Hercegovine ("Službeni glasnik BiH", br. 30/03, 42/03, 81/06, 76/07, 81/07, 94/07 i 24/08), Vijeće ministara Bosne i Hercegovine, na prijedlog Ureda za veterinarstvo Bosne i Hercegovine, na 167. sjednici, održanoj 26. februara 2019. godine, donijelo je
