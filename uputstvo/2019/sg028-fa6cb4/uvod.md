@@ -1,0 +1,1 @@
+Na osnovu člana 61. stav (2) Zakona o upravi ("Službeni glasnik BiH", br. 32/02 i 102/09) i člana 20. stav (1) Zakona o slobodi vjere i pravnom položaju crkava i vjerskih zajednica u Bosni i Hercegovini ("Službeni glasnik BiH", broj 5/04), ministrica za ljudska prava i izbjeglice Bosne i Hercegovine donosi
