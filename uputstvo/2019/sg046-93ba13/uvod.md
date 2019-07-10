@@ -1,0 +1,1 @@
+Na osnovu člana 205. Zakona o osnovama sigurnosti prometa na cestama u Bosni i Hercegovini ("Službeni glasnik BiH", br. 6/06, 75/06, 44/07, 84/09, 48/10, 18/13, 8/17, 89/17 i 9/18) i člana 7. Pravilnika o homologaciji vozila, dijelova uređaja i opreme vozila ("Službeni glasnik BiH", broj 41/08), zamjenik ministra komunikacija i prometa Bosne i Hercegovine donosi
