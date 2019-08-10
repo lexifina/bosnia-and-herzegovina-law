@@ -1,0 +1,1 @@
+# V - OSTALE ODREDBE
