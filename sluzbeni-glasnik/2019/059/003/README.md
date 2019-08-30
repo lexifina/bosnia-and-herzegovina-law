@@ -1,0 +1,13 @@
+# ODLUKU О IMENOVANJU ŽALBENOG VIJEĆA ZA RJEŠAVANJE PO ŽALBI NA ODLUKU O ODABIRU NAJPOVOLJNIJEG PONUĐAČA ZA JAVNU NABAVKU KONSULTANTSKE USLUGE "NADZOR NAD IZGRADNJOM MEĐUDRŽAVNOG MOSTA PREKO RIJEKE SAVE KOD GRADIŠKE"
+
+Naslov: ODLUKU О IMENOVANJU ŽALBENOG VIJEĆA ZA RJEŠAVANJE PO ŽALBI NA ODLUKU O ODABIRU NAJPOVOLJNIJEG PONUĐAČA ZA JAVNU NABAVKU KONSULTANTSKE USLUGE "NADZOR NAD IZGRADNJOM MEĐUDRŽAVNOG MOSTA PREKO RIJEKE SAVE KOD GRADIŠKE"
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 59/19 (30.8.2019.), akt 3 od 14 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/cHrDx5WsjOw=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/O1jB7JDlF5s=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
