@@ -1,0 +1,13 @@
+# ZAKLJUČAK KOJIM SE POTVRĐUJE DA JE DODJELJIVANJE KREDITA EVROPSKE INVESTICIONE BANKE INTESA SANPAOLO BANCI D.D. BiH U SKLADU SA OKVIRNIM SPORAZUMOM IZMEĐU BOSNE I HERCEGOVINE I EVROPSKE INVESTICIONE BANKE
+
+Naslov: ZAKLJUČAK KOJIM SE POTVRĐUJE DA JE DODJELJIVANJE KREDITA EVROPSKE INVESTICIONE BANKE INTESA SANPAOLO BANCI D.D. BiH U SKLADU SA OKVIRNIM SPORAZUMOM IZMEĐU BOSNE I HERCEGOVINE I EVROPSKE INVESTICIONE BANKE
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 76/19 (19.11.2019.), akt 4 od 17 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/azPRejY8Ubs=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/r7aK07gzlG0=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
