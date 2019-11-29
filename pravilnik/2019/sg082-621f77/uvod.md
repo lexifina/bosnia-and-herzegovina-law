@@ -1,0 +1,1 @@
+Na osnovi člana VII Aneksa 8. Općeg okvirnog sporazuma za mir u Bosni i Hercegovini i člana 29. Poslovnika o radu Komisije za očuvanje nacionalnih spomenika ("Službeni glasnik BiH", broj 47/16), Komisija za očuvanje nacionalnih spomenika donosi
