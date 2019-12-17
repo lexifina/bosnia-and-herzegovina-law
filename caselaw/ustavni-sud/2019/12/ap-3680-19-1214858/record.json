@@ -1,0 +1,13 @@
+{
+  "id": "1214858",
+  "case_number": "AP-3680/19",
+  "date": "2019-12-17T00:00:00",
+  "decision_type": "Odluka o dopustivosti",
+  "item_type": "AP",
+  "source": "https://www.ustavnisud.ba/bs/api/odluke?submit=1&sp=DatumAsc&dos=01.01.2019.&doe=31.12.2019.",
+  "official_decision": "https://www.ustavnisud.ba/uploads/odluke/AP-3680-19-1214858.pdf",
+  "listing_source": "https://www.ustavnisud.ba/bs/api/odluke?submit=1&sp=DatumAsc&dos=01.01.2019.&doe=31.12.2019.",
+  "record_type": "metadata-only",
+  "date_basis": "Official Court database decision date",
+  "source_sha256": "627daf1d53271849351368eaf6726166bfc57e607788a2a9b7be96dd85cc810c"
+}
