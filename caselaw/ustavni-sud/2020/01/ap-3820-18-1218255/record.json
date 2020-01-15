@@ -1,0 +1,13 @@
+{
+  "id": "1218255",
+  "case_number": "AP-3820/18",
+  "date": "2020-01-15T00:00:00",
+  "decision_type": "Odluka o meritumu",
+  "item_type": "AP",
+  "source": "https://www.ustavnisud.ba/bs/api/odluke?submit=1&sp=DatumAsc&dos=01.01.2020.&doe=31.12.2020.",
+  "official_decision": "https://www.ustavnisud.ba/uploads/odluke/AP-3820-18-1218255.pdf",
+  "listing_source": "https://www.ustavnisud.ba/bs/api/odluke?submit=1&sp=DatumAsc&dos=01.01.2020.&doe=31.12.2020.",
+  "record_type": "metadata-only",
+  "date_basis": "Official Court database decision date",
+  "source_sha256": "983d4584b1294eeb9fecd0cbd35082632dd274cccb72ad6dee6443b6b5e847bd"
+}
