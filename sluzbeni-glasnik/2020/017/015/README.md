@@ -1,0 +1,13 @@
+# PREGLED POSTAVLJENIH DRŽAVNIH SLUŽBENIKA PO JAVNIM OGLASIMA ZA FEBRUAR 2020. GODINE
+
+Naslov: PREGLED POSTAVLJENIH DRŽAVNIH SLUŽBENIKA PO JAVNIM OGLASIMA ZA FEBRUAR 2020. GODINE
+
+Donosilac: AGENCIJA ZA DRŽAVNU SLUŽBU BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 17/20 (13.3.2020.), akt 15 od 18 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/NnsVSohz4nh78h77gztz5k76kjn45hkCGU=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/VTohz4nh78h77yycPA2IM=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
