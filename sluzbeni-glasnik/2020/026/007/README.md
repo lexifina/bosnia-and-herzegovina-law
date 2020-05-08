@@ -1,0 +1,13 @@
+# ODLUKU O DAVANJU OVLAŠTENJA MINISTRU FINANSIJA I TREZORA BOSNE I HERCEGOVINE ZA IZDAVANJE PROMISORNE NOTE ZA POVLAČENJE SREDSTAVA INSTRUMENTA ZA BRZO FINANSIRANJE (RFI) OD MEĐUNARODNOG MONETARNOG FONDA (MMF)
+
+Naslov: ODLUKU O DAVANJU OVLAŠTENJA MINISTRU FINANSIJA I TREZORA BOSNE I HERCEGOVINE ZA IZDAVANJE PROMISORNE NOTE ZA POVLAČENJE SREDSTAVA INSTRUMENTA ZA BRZO FINANSIRANJE (RFI) OD MEĐUNARODNOG MONETARNOG FONDA (MMF)
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 26/20 (8.5.2020.), akt 7 od 13 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/avGiRM8U0zs=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/wci65bOaiFM=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
