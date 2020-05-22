@@ -1,0 +1,13 @@
+# ODLUKU O ODOBRAVANJU PRIVREMENOG OTVARANJA MEĐUNARODNOG GRANIČNOG PRELAZA U VAZDUŠNOM SAOBRAĆAJU ZA PROMET PUTNIKA - AERODROM TUZLA, RADI ODLASKA DRŽAVLJANA BOSNE I HERCEGOVINE NA RAD U KRALJEVINU BELGIJU
+
+Naslov: ODLUKU O ODOBRAVANJU PRIVREMENOG OTVARANJA MEĐUNARODNOG GRANIČNOG PRELAZA U VAZDUŠNOM SAOBRAĆAJU ZA PROMET PUTNIKA - AERODROM TUZLA, RADI ODLASKA DRŽAVLJANA BOSNE I HERCEGOVINE NA RAD U KRALJEVINU BELGIJU
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 28/20 (22.5.2020.), akt 4 od 9 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/U5cgztz5k76kjn45hXykh7CM=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/m22noEsW2Ig=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
