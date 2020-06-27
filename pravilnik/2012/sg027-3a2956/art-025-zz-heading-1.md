@@ -1,1 +1,0 @@
-# Odjeljak B. (Odgoda plaćanja)
