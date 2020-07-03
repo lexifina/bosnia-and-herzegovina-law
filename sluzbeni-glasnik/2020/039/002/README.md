@@ -1,0 +1,13 @@
+# ODLUKU O IMENOVANJU ČLANOVA INTERPARLAMENTARNIH GRUPA PRIJATELJSTVA PARLAMENTARNE SKUPŠTINE BOSNE I HERCEGOVINE ZA BILATERALNU SARADNJU S PARLAMENTARNIM TIJELIMA DRUGIH ZEMALJA
+
+Naslov: ODLUKU O IMENOVANJU ČLANOVA INTERPARLAMENTARNIH GRUPA PRIJATELJSTVA PARLAMENTARNE SKUPŠTINE BOSNE I HERCEGOVINE ZA BILATERALNU SARADNJU S PARLAMENTARNIM TIJELIMA DRUGIH ZEMALJA
+
+Donosilac: PARLAMENTARNA SKUPŠTINA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 39/20 (3.7.2020.), akt 2 od 11 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/NJ1IT8Ii0xg=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/gztz5k76kjn45hOEDgztz5k76kjn45h4tUmYc=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
