@@ -1,0 +1,13 @@
+# ODLUKU O IMENOVANJU ČLANOVA PARLAMENTARNE SKUPŠTINE BOSNE I HERCEGOVINE U PARLAMENTARNI ODBOR ZA STABILIZACIJU I PRIDRUŽIVANJE IZMEĐU PARLAMENTARNE SKUPŠTINE BiH I EVROPSKOG PARLAMENTA
+
+Naslov: ODLUKU O IMENOVANJU ČLANOVA PARLAMENTARNE SKUPŠTINE BOSNE I HERCEGOVINE U PARLAMENTARNI ODBOR ZA STABILIZACIJU I PRIDRUŽIVANJE IZMEĐU PARLAMENTARNE SKUPŠTINE BiH I EVROPSKOG PARLAMENTA
+
+Donosilac: PARLAMENTARNA SKUPŠTINA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 41/20 (10.7.2020.), akt 2 od 12 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/OzlOUSIGnI4=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/gUnVMi7DOfw=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
