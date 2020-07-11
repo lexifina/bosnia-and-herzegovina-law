@@ -1,0 +1,1 @@
+Na osnovu člana IV. 4. a) Ustava Bosne i Hercegovine, Parlamentarna skupština Bosne i Hercegovine, na 8. sjednici Predstavničkog doma, održanoj 15, 19. i 20. maja 2020. godine, i na 8. sjednici Doma naroda, održanoj 25. juna 2020. godine, usvojila je
