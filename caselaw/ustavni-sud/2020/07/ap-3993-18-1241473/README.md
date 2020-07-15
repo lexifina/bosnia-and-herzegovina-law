@@ -1,0 +1,9 @@
+# Odluka o dopustivosti AP-3993/18
+
+Ustavni sud Bosne i Hercegovine.
+
+Datum odluke: 2020-07-15 (službena baza odluka).
+
+[Objavljena odluka](https://www.ustavnisud.ba/uploads/odluke/AP-3993-18-1241473.pdf)
+
+Metadata and official link only; full text withheld pending confirmation that private persons are anonymised.
