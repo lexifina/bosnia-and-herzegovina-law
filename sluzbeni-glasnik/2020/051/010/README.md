@@ -1,0 +1,13 @@
+# ODLUKU O RASPODJELI FINANSIJSKIH SREDSTAVA PRIKUPLJENIH OD DOMAĆIH PRAVNIH I FIZIČKIH LICA ZA BORBU PROTIV COVID - 19 UPLAĆENIH NA NAMJENSKI PODRAČUN JEDINSTVENOG RAČUNA TREZORA BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O RASPODJELI FINANSIJSKIH SREDSTAVA PRIKUPLJENIH OD DOMAĆIH PRAVNIH I FIZIČKIH LICA ZA BORBU PROTIV COVID - 19 UPLAĆENIH NA NAMJENSKI PODRAČUN JEDINSTVENOG RAČUNA TREZORA BOSNE I HERCEGOVINE
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 51/20 (18.8.2020.), akt 10 od 14 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/vXPYZ7GCFJQ=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/4rf5OFy1LpA=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
