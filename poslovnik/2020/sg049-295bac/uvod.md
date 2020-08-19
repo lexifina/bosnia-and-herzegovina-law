@@ -1,0 +1,1 @@
+Na osnovu člana 9. stav (3) Pravilnika o Vijeću za sigurnost prometa ("Službeni glasnik BiH", broj 13/13) i člana 8. stav (1) Odluke o formiranju Vijeća za sigurnost prometa na cestama u Bosni i Hercegovini ("Službeni glasnik BiH", broj 79/19), Vijeće za sigurnost prometa donosi
