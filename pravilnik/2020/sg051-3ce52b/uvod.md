@@ -1,0 +1,1 @@
+Na osnovu člana 14. stav (1) Zakona o zrakoplovstvu Bosne i Hercegovine ("Službeni glasnik BiH", broj 39/09 i 25/18), vršitelj dužnosti generalnog direktora Direkcije za civilno zrakoplovstvo Bosne i Hercegovine donosi
