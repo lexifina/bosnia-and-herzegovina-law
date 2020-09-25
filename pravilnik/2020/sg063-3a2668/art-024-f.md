@@ -1,0 +1,5 @@
+# Član 24f.
+(Postupanje sa glasačkim materijalom)
+(1) Nakon što izvrši sve propisane zadatke posebni mobilni tim iz člana 24a. stav (5) ovog Pravilnika, pakuje glasački materijal, izvode i zapisnike ZPGL u skladu sa članom 58. ovog Pravilnika i prema shemi pakovanja koja je sastavni dio ovoga Pravilnika na svim vrećama ispisuje naziv i kod osnovne izborne jedinice i tekst: "Birači COVID-19" koja se sa posebnim izvodom iz člana 24c. ovog Pravilnika i ostalim izbornim materijalom dostavlja u izbornu komisiju.
+(2) Glasački materijal upakovan na način iz stava (1) ovog člana se odlaže na posebno odvojeno mjesto u skladištu izborne komisije, gdje se vrši dezinfekcija istog, a nakon čega u skladu sa planom transporta izbornog materijala, dostavlja u Glavni centar za brojanje.
+(3) Direktor Glavnog centra za brojanje propisuje proceduru postupanja sa materijalima iz stava (1) ovog člana u skladu sa odredbama Instrukcije o postupanju organa za provođenje izbora na izborni dan u uvjetima epidemije COVID-19."

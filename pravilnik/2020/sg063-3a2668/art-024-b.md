@@ -1,0 +1,5 @@
+# Član 24b.
+(Plan rada na terenu)
+(1) U svrhu ostvarivanja biračkog prava birača iz člana 24a. stav (1) ovog Pravilnika, izborna komisija na osnovu zaprimljene dokumentacije iz člana 24a. stav (2) ovog Pravilnika, sačinjava plan rada na terenu koji sadrži spisak birača pozitivnih na COVID-19 i/ili birača kojima je određena izolacija ili hospitalizacija sa njihovim adresama i kontakt telefonima.
+(2) Izborna komisija dužna je omogućiti akreditovanim posmatračima posmatranje rada posebnog mobilnog tima na terenu, a sve uz poštivanje preporuka iz Instrukcije o postupanju organa za provođenje izbora na izborni dan u uslovima epidemije COVID-19 ("Službeni glasnik BiH", broj 41/20).
+(3) U slučaju prijema zahtjeva za glasanje u roku iz člana 24a. stav (3) ovog Pravilnika izborna komisija, ukoliko je to moguće sačinjava dopunu plana rada cijeneći adresu birača, raniji plan rada posebnog mobilnog tima na terenu, kao i vrijeme rada posebnog mobilnog tima-do 19 sati, o čemu na pogodan način obavještava i akreditovane posmatrače.
