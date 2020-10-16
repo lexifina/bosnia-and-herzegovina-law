@@ -1,0 +1,13 @@
+# ODLUKU O OSNIVANJU AD HOC KOMISIJE PARLAMENTARNE SKUPŠTINE BOSNE I HERCEGOVINE ZA PROVOĐENJE POSTUPKA IMENOVANJA ČLANOVA VIJEĆA REGULATORNE AGENCIJE ZA KOMUNIKACIJE BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O OSNIVANJU AD HOC KOMISIJE PARLAMENTARNE SKUPŠTINE BOSNE I HERCEGOVINE ZA PROVOĐENJE POSTUPKA IMENOVANJA ČLANOVA VIJEĆA REGULATORNE AGENCIJE ZA KOMUNIKACIJE BOSNE I HERCEGOVINE
+
+Donosilac: PARLAMENTARNA SKUPŠTINA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 65/20 (16.10.2020.), akt 3 od 8 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/TQbH5DOb53E=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/b4dt0uHdsdc=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
