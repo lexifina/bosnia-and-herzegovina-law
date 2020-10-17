@@ -1,0 +1,1 @@
+Na osnovu člana 252. tačka 23), a u vezi sa članom 158. stav (7) Zakona o osnovama sigurnosti saobraćaja na putevima u Bosni i Hercegovini ("Službeni glasnik BiH", br. 6/06, 75/06, 44/07, 84/09, 48/10, 18/13, 8/17, 89/17 i 9/18), ministar komunikacija i prometa, u saradnji sa organima nadležnim za unutrašnje poslove, donosi
