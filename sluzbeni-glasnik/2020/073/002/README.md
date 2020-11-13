@@ -1,0 +1,13 @@
+# ODLUKU O ZAKLJUČIVANJU I POTVRĐIVANJU CENTRALNOG BIRAČKOG SPISKA ZA LOKALNE IZBORE 2020. GODINE U GRADU MOSTARU I OBJAVLJIVANJU BROJA BIRAČA ZA GRADSKU IZBORNU JEDINICU I IZBORNE JEDINICE GRADSKOG PODRUČJA
+
+Naslov: ODLUKU O ZAKLJUČIVANJU I POTVRĐIVANJU CENTRALNOG BIRAČKOG SPISKA ZA LOKALNE IZBORE 2020. GODINE U GRADU MOSTARU I OBJAVLJIVANJU BROJA BIRAČA ZA GRADSKU IZBORNU JEDINICU I IZBORNE JEDINICE GRADSKOG PODRUČJA
+
+Donosilac: CENTRALNA IZBORNA KOMISIJA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 73/20 (13.11.2020.), akt 2 od 21 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/qMumKvx2c0M=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/sKlmwqxB8fc=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
