@@ -1,0 +1,1 @@
+Na osnovu člana 6. stav (3) Zakona o osnovama sigurnosti prometa na cestama ("Službeni glasnik BiH", br. 6/06, 75/06, 44/07, 84/09, 48/10, 18/13, 8/17, 89/17 i 9/18), ministar komunikacija i prometa, u saradnji sa tijelom nadležnim za unutrašnje poslove, donosi
