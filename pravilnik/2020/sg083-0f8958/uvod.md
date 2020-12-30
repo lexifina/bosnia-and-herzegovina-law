@@ -1,0 +1,1 @@
+Na osnovu člana 252. stav (1) tačka 9), a u vezi sa članom 170. stav (3) Zakona o osnovama sigurnosti prometa na cestama u Bosni i Hercegovini ("Službeni glasnik BiH", broj 6/06, 75/06, 44/07, 84/09, 48/10, 18/13, 8/17, 89/17 i 9/18), ministar komunikacija i prometa Bosne i Hercegovine, u saradnji sa organima nadležnim za unutrašnje poslove, donosi
