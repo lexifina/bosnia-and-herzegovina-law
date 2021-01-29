@@ -1,0 +1,13 @@
+# ODLUKU O IZMJENI ODLUKE O ODOBRAVANJU VIŠEGODIŠNJEG PROJEKTA OSIGURANJE I UNAPRJEĐENJE OPERATIVNOSTI MOTORNIH VOZILA ORUŽANIH SNAGA BOSNE I HERCEGOVINE SA PERIODOM REALIZACIJE 2016.-2018. GODINA
+
+Naslov: ODLUKU O IZMJENI ODLUKE O ODOBRAVANJU VIŠEGODIŠNJEG PROJEKTA OSIGURANJE I UNAPRJEĐENJE OPERATIVNOSTI MOTORNIH VOZILA ORUŽANIH SNAGA BOSNE I HERCEGOVINE SA PERIODOM REALIZACIJE 2016.-2018. GODINA
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 6/21 (29.1.2021.), akt 8 od 18 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/cw2voyPJ4Uc=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/Y4lLcFXpwC0=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
