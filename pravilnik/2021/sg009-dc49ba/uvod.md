@@ -1,0 +1,1 @@
+Na osnovu člana 215. stav (3) Zakona o osnovama sigurnosti prometa na cestama u Bosni i Hercegovini ("Službeni glasnik BiH", br. 6/06, 75/06, 44/07, 84/09, 48/10, 18/13, 8/17, 89/17 i 9/18), ministar komunikacija i prometa Bosne i Hercegovine, u saradnji sa entitetskim ministarstvima unutrašnjih poslova u Bosni i Hercegovini i policijom Brčko distrikta Bosne i Hercegovine, donosi
