@@ -1,0 +1,1 @@
+Na osnovu člana 17. stav 8. i 9. Zakona o Visokom sudskom i tužilačkom vijeću Bosne i Hercegovine ("Službeni glasnik BiH", broj 25/04, 93/05, 48/07 i 15/08), Visoko sudsko i tužilačko vijeće Bosne i Hercegovine, na sjednici održanoj 24.3.2021. godine, donijelo je
