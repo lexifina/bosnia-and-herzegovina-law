@@ -1,0 +1,1 @@
+Na osnovu člana 61. stav 2. i člana 99. stav 2. Zakona o upravi ("Službeni glasnik BiH", br. 32/02, 102/09 i 72/17), a u vezi sa članom 12. Zakona o tehničkim zahtjevima za proizvode i ocjenjivanju usklađenosti ("Službeni glasnik BiH", broj 45/04), ministar vanjske trgovine i ekonomskih odnosa BiH, na prijedlog Komiteta za tehničke propise Bosne i Hercegovine donosi
