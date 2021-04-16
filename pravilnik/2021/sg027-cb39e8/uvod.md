@@ -1,0 +1,1 @@
+Na osnovu člana 37. stav (2), a u vezi s čl. 20. stav (5), 25. stav (3) i 28. stav (3) Zakona Bosne i Hercegovine o izvršenju krivičnih sankcija, pritvora i drugih mjera, Službeni prečišćeni tekst ("Službeni glasnik BiH", broj 22/16), ministar pravde Bosne i Hercegovine donosi
