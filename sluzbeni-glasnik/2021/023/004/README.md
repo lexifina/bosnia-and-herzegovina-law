@@ -1,0 +1,13 @@
+# ODLUKU O ODOBRAVANJU SREDSTAVA IZ TEKUĆE REZERVE BUDŽETA INSTITUCIJA BOSNE I HERCEGOVINE I MEĐUNARODNIH OBAVEZA BOSNE I HERCEGOVINE U SVRHU PLAĆANJA TROŠKOVA ZA ANGAŽMAN MEĐUNARODNE POMOĆI ZA ZAŠTITU I SPAŠAVANJE U GAŠENJU POŽARA
+
+Naslov: ODLUKU O ODOBRAVANJU SREDSTAVA IZ TEKUĆE REZERVE BUDŽETA INSTITUCIJA BOSNE I HERCEGOVINE I MEĐUNARODNIH OBAVEZA BOSNE I HERCEGOVINE U SVRHU PLAĆANJA TROŠKOVA ZA ANGAŽMAN MEĐUNARODNE POMOĆI ZA ZAŠTITU I SPAŠAVANJE U GAŠENJU POŽARA
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 23/21 (16.4.2021.), akt 4 od 11 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/xs5mWRLY8A4=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/xJ5sCmBohz4nh78h77gztz5k76kjn45hvA=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
