@@ -1,0 +1,13 @@
+# ODLUKU O DODJELI PROSTORA MINISTARSTVU SIGURNOSTI BOSNE I HERCEGOVINE U SVRHU USPOSTAVE ZAJEDNIČKE KONTAKT TAČKE ZA SARADNJU SA EUROPOLOM U PRIZEMLJU ZGRADE PRIJATELJSTVA IZMEĐU GRČKE I BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O DODJELI PROSTORA MINISTARSTVU SIGURNOSTI BOSNE I HERCEGOVINE U SVRHU USPOSTAVE ZAJEDNIČKE KONTAKT TAČKE ZA SARADNJU SA EUROPOLOM U PRIZEMLJU ZGRADE PRIJATELJSTVA IZMEĐU GRČKE I BOSNE I HERCEGOVINE
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 26/21 (27.4.2021.), akt 1 od 12 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/fQjT3ajUnKs=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/bIVqkFZDVX0=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
