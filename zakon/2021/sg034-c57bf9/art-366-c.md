@@ -1,0 +1,3 @@
+# Član 366c.
+(1) U parnici povodom ostvarivanja prava lica koje ima svojstvo svjedoka pod prijetnjom i ugroženog svjedoka ne primjenjuju se odredbe čl. 20. stav (5), 158. stav (2) i 274. stav (2) ovog zakona kojima se određuje obavezan sadržaj tužbe, podneska i presude u smislu navođenja imena i prezimena, prebivališta ili boravišta, te drugih podataka koji otkrivaju identitet tužioca.
+(2) U postupku iz stava (1) ovog člana tužilac se tokom parničnog postupka, uključujući sve podneske, odluke Suda, zapisnike i dokumente koji budu korišteni tokom postupka, označava onim pseudonimom koji mu je ranije određen u krivičnom postupku.
