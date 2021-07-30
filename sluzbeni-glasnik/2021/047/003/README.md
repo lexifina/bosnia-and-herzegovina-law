@@ -1,0 +1,13 @@
+# ODLUKU O IZMJENAMA ODLUKE O FORMIRANJU RADNE GRUPE ZA IZRADU IZMJENA I DOPUNA PRAVILNIKA O ČUVANJU I UNIŠTAVANJU ODUZETE OPOJNE DROGE, PSIHOTROPNIH TVARI, BILJAKA IZ KOJIH SE MOŽE DOBITI OPOJNA DROGA I PREKURSORA
+
+Naslov: ODLUKU O IZMJENAMA ODLUKE O FORMIRANJU RADNE GRUPE ZA IZRADU IZMJENA I DOPUNA PRAVILNIKA O ČUVANJU I UNIŠTAVANJU ODUZETE OPOJNE DROGE, PSIHOTROPNIH TVARI, BILJAKA IZ KOJIH SE MOŽE DOBITI OPOJNA DROGA I PREKURSORA
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 47/21 (30.7.2021.), akt 3 od 12 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/LJx1rh2djW8=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/gztz5k76kjn45hKAWsDmRgEw=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
