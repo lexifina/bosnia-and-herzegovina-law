@@ -1,0 +1,1 @@
+Na osnovu člana 40. stav (3) Zakona o strancima ("Službeni glasnik BiH", br. 88/15 i 34/21), ministrica vanjskih poslova Bosne i Hercegovine, uz pribavljeno mišljenje Ministarstva sigurnosti Bosne i Hercegovine, broj 06-50-4354-6/21 od 22.07.2021. godine, donosi
