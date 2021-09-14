@@ -1,0 +1,13 @@
+# RJEŠENJE O IMENOVANJU RUKOVODEĆEG DRŽAVNOG SLUŽBENIKA - POMOĆNIK MINISTRA U SEKTORU ZA KOMANDU, KONTROLU, KOMUNIKACIJE, KOMPJUTERE I UPRAVLJANJE INFORMACIJAMA U MINISTARSTVU ODBRANE BOSNE I HERCEGOVINE
+
+Naslov: RJEŠENJE O IMENOVANJU RUKOVODEĆEG DRŽAVNOG SLUŽBENIKA - POMOĆNIK MINISTRA U SEKTORU ZA KOMANDU, KONTROLU, KOMUNIKACIJE, KOMPJUTERE I UPRAVLJANJE INFORMACIJAMA U MINISTARSTVU ODBRANE BOSNE I HERCEGOVINE
+
+Donosilac: MINISTARSTVO ODBRANE BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 57/21 (14.9.2021.), akt 3 od 7 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/k1XQLUyTNn4=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/4apXpYaEemw=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
