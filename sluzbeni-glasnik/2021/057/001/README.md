@@ -1,0 +1,13 @@
+# RJEŠENJE
+
+Naslov: RJEŠENJE
+
+Donosilac: UPRAVA ZA INDIREKTNO OPOREZIVANJE – REGIONALNI CENTAR BANJA LUKA.
+
+Službeni glasnik BiH broj 57/21 (14.9.2021.), akt 1 od 7 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/k1XQLUyTNn4=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/ROERsaFrsGQ=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
