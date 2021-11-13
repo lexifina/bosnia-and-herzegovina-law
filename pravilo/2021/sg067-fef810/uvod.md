@@ -1,0 +1,1 @@
+Na osnovu člana 39. stav 1. Zakona o komunikacijama ("Službeni glasnik BiH", broj 31/03, 75/06, 32/10 i 98/12), Vijeće Regulatorne agencije za komunikacije Bosne i Hercegovine, na 68. sjednici, održanoj 25.10.2021. godine, donijelo je
