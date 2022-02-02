@@ -1,0 +1,6 @@
+court_id,case_number,case_name,date,folder,source_url,source_sha256,documents
+785,S1 1 K 016464 17 Kžž,Jasmin Čoloman,2014-07-18,sudska-praksa/sud-bih/2014/s1-1-k-016464-17-kzz-785,https://sudbih.gov.ba/Court/Case/785,fd394451fe2968718fab4b268a67f6cef3dd0e5f8d55d34f1191b0c92423fab2,5
+2194,S1 1 K 040854 21 Kri,Ljuban Babić,2016-09-06,sudska-praksa/sud-bih/2016/s1-1-k-040854-21-kri-2194,https://sudbih.gov.ba/Court/Case/2194,d8eea51e12b12a7d8d61885603984bbe69f78b3e2dbe5a7d5f311b8cea965d29,0
+2182,S1 1 K 032800 21 Kro,Dževad Avdičević i dr.,2022-01-05,sudska-praksa/sud-bih/2022/s1-1-k-032800-21-kro-2182,https://sudbih.gov.ba/Court/Case/2182,550c515f6c74cfefadfb013a7ceb9ab46491a45dab76f2ca33445da57079068b,0
+2184,S1 1 K 041879 21 Kro,Branislav Lasica i dr.,2022-01-12,sudska-praksa/sud-bih/2022/s1-1-k-041879-21-kro-2184,https://sudbih.gov.ba/Court/Case/2184,b344df5d995b03060454297fe9f57e9ff727d2bbe074089f2c175d80ca6798c9,0
+2217,S1 1 K 041911 21 Kro,Damir Miskin,2022-02-02,sudska-praksa/sud-bih/2022/s1-1-k-041911-21-kro-2217,https://sudbih.gov.ba/Court/Case/2217,aa1ed85eafed12c63eefb33f94f025cd3d57b51032c0602914732db41d9ba204,2
