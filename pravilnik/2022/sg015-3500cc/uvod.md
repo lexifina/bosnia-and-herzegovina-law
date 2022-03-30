@@ -1,0 +1,1 @@
+Na osnovu člana 2. i člana 8. Zakona o željeznicama Bosne i Hercegovine ("Službeni glasnik BiH", broj 52/05), člana 16. i člana 61. Zakona o upravi ("Službeni glasnik BiH", broj 32/02, 102/09 i 72/17), a u skladu sa tehničkim dodacima APTU Konvencije COTIF 1999, direktor Regulatornog odbora željeznica Bosne i Hercegovine donosi
