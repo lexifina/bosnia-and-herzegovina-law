@@ -1,0 +1,1 @@
+Na osnovu člana 99. stav (7), člana 100. stav (4), člana 106. stav (5) i člana 113. stav (4) Zakona o lijekovima i medicinskim sredstvima Bosne i Hercegovine ("Službeni glasnik BiH", broj 58/08), ministrica civilnih poslova Bosne i Hercegovine, na prijedlog Stručnog vijeća Agencije za lijekove i medicinska sredstva Bosne i Hercegovine, donosi
