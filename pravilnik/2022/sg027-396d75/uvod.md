@@ -1,0 +1,1 @@
+Na osnovu člana 16.18 Izbornog zakona Bosne i Hercegovine ("Službeni glasnik BiH", br. 23/01, 7/02, 9/02, 20/02, 25/02, 4/04, 20/04, 25/05, 52/05, 65/05, 77/05, 11/06, 24/06, 32/07, 33/08, 37/08, 32/10, 18/13, 7/14, 31/16 i 41/20), Centralna izborna komisija Bosne i Hercegovine je na 17. sjednici, održanoj 04.05.2022. godine, d o n i j e l a
