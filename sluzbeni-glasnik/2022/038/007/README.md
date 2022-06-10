@@ -1,0 +1,13 @@
+# ODLUKU O FORMIRANJU ZAJEDNIČKOG UPRAVNOG ODBORA IZMEĐU UJEDINJENIH NACIJA I BOSNE I HERCEGOVINE ZA PROVEDBU "OKVIRA SARADNJE ZA ODRŽIVI RAZVOJ IZMEĐU UJEDINJENIH NACIJA I BOSNE I HERCEGOVINE U PERIODU 2021-2025."
+
+Naslov: ODLUKU O FORMIRANJU ZAJEDNIČKOG UPRAVNOG ODBORA IZMEĐU UJEDINJENIH NACIJA I BOSNE I HERCEGOVINE ZA PROVEDBU "OKVIRA SARADNJE ZA ODRŽIVI RAZVOJ IZMEĐU UJEDINJENIH NACIJA I BOSNE I HERCEGOVINE U PERIODU 2021-2025."
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 38/22 (10.6.2022.), akt 7 od 45 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/TZ8WRouaA3o=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/ur9q4gztz5k76kjn45hrE8gztz5k76kjn45hQ=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
