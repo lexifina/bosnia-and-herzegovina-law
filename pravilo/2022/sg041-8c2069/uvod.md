@@ -1,0 +1,1 @@
+Na osnovu člana 38. i člana 39. stav (1), a u vezi sa čl. 31. i 37. stav 1) tač. a) i c) Zakona o komunikacijama ("Službeni glasnik BiH", br. 31/03, 75/06, 32/10 i 98/12), Vijeće Regulatorne agencije za komunikacije na 71. sjednici, održanoj 10. maja 2022. godine, donijelo je
