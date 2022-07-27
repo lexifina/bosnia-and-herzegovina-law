@@ -1,0 +1,1 @@
+Na osnovu člana 39. stav 1. Zakona o komunikacijama ("Službeni glasnik BiH", broj 31/03, 75/06, 32/10 i 98/12, Vijeće Regulatorne agencije za komunikacije na 72. sjednici, održanoj 8. juna 2022. godine, usvojilo je
