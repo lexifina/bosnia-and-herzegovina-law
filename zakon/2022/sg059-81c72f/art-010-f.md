@@ -1,0 +1,3 @@
+# Član 10f.
+(Posebna izuzeća za ugovore koji su proglašeni tajnim ili moraju biti popraćeni posebnim sigurnosnim mjerama)
+Ovaj zakon ne primjenjuje se ako su sklapanje i izvršenje ugovora o javnoj nabavci proglašeni tajnima ili moraju biti popraćeni posebnim sigurnosnim mjerama, u skladu sa Zakonom o zaštiti tajnih podataka, pod uslovom da je Bosna i Hercegovina utvrdila da bitne sigurnosne interese, koji su u skladu sa Zakonom o odbrani Bosne i Hercegovine ("Službeni glasnik BiH", broj 88/05) i ostalim važećim propisima kojima se reguliraju sigurnosni interesi BiH, nije moguće zaštititi manje drastičnim mjerama, poput onih iz člana 10e. ovog zakona."

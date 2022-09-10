@@ -1,0 +1,3 @@
+# Član 10e.
+(Nabavka s ciljem zaštite bitnih sigurnosnih interesa)
+Ovaj zakon ne primjenjuje se na sklapanje ugovora o javnoj nabavci koji nisu izuzeti u skladu s članom 10d. ovog zakona, u mjeri u kojoj se zaštita bitnih sigurnosnih interesa Bosne i Hercegovine, koji su u skladu sa Zakonom o odbrani Bosne i Hercegovine ("Službeni glasnik BiH", broj 88/05) i ostalim važećim propisima kojima se reguliraju sigurnosni interesi Bosne i Hercegovine, ne može garantirati s manje drastičnim mjerama, naprimjer određivanjem zahtjeva s ciljem zaštite tajnosti podataka koje ugovorni organ stavlja na raspolaganje u postupku javne nabavke kako je predviđeno ovim zakonom.
