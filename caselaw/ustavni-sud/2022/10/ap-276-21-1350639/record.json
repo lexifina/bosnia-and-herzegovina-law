@@ -1,0 +1,13 @@
+{
+  "id": "1350639",
+  "case_number": "AP-276/21",
+  "date": "2022-10-18T00:00:00",
+  "decision_type": "Odluka o dopustivosti",
+  "item_type": "AP",
+  "source": "https://www.ustavnisud.ba/bs/api/odluke?submit=1&sp=DatumAsc&dos=01.01.2022.&doe=31.12.2022.",
+  "official_decision": "https://www.ustavnisud.ba/uploads/odluke/AP-276-21-1350639.pdf",
+  "listing_source": "https://www.ustavnisud.ba/bs/api/odluke?submit=1&sp=DatumAsc&dos=01.01.2022.&doe=31.12.2022.",
+  "record_type": "metadata-only",
+  "date_basis": "Official Court database decision date",
+  "source_sha256": "bd57c9821a4de5899e0cee7c08ad5f96bc8a1d35f36512be498a0e9e610b5bbd"
+}
