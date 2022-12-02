@@ -1,0 +1,13 @@
+# RJEŠENJE
+
+Naslov: RJEŠENJE
+
+Donosilac: KONKURENCIJSKO VIJEĆE BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 78/22 (2.12.2022.), akt 51 od 55 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/HvzAohz4nh78h77nqJLR8=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/03dC2rgztz5k76kjn45hVlHw=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
