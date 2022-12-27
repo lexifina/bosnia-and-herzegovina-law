@@ -1,0 +1,13 @@
+# ODLUKU BROJ 22/174 PROŠIRENE KOMISIJE EVROPSKE ORGANIZACIJE ZA SIGURNOST ZRAČNE PLOVIDBE "EUROCONTROL" O STOPI ZATEZNE KAMATE RUTNIH NAKNADA ZA PERIOD PRIMJENE KOJI POČINJE 1. JANUARA 2023. GODINE
+
+Naslov: ODLUKU BROJ 22/174 PROŠIRENE KOMISIJE EVROPSKE ORGANIZACIJE ZA SIGURNOST ZRAČNE PLOVIDBE "EUROCONTROL" O STOPI ZATEZNE KAMATE RUTNIH NAKNADA ZA PERIOD PRIMJENE KOJI POČINJE 1. JANUARA 2023. GODINE
+
+Donosilac: MINISTARSTVO KOMUNIKACIJA I PROMETA BIH.
+
+Službeni glasnik BiH broj 85/22 (27.12.2022.), akt 19 od 28 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/pMP49kI8qgc=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/EALATAtVRos=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
