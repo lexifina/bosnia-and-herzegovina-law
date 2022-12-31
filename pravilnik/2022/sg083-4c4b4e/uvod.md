@@ -1,0 +1,1 @@
+Na osnovu člana 17. tačka (9) Zakona o Visokom sudskom i tužilačkom vijeću Bosne i Hercegovine ("Službeni glasnik BiH", br. 25/04, 93/05, 48/07, 15/08), Visoko sudsko i tužilačko vijeće Bosne i Hercegovine, na sjednici održanoj 30.11. i 1.12.2022. godine, donijelo je
