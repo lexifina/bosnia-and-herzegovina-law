@@ -1,0 +1,45 @@
+Službeni glasnik BiH, broj 12/23
+ODLUKA VISOKOG PREDSTAVNIKA
+-radni prijevod-
+Br. 08/23
+Koristeći se ovlaštenjima koja su visokom predstavniku data članom V Aneksa 10 (Sporazum o civilnoj implementaciji Mirovnog ugovora) Općeg okvirnog sporazuma za mir u Bosni i Hercegovini, prema kojem je visoki predstavnik konačni autoritet u zemlji u pogledu tumačenja pomenutog Sporazuma o civilnoj implementaciji Mirovnog ugovora; i posebno uzevši u obzir član II. 1. (d) gore navedenog Sporazuma, prema kojem visoki predstavnik "pruža pomoć, kada to ocijeni neophodnim, u iznalaženju rješenja za sve probleme koji se pojave u vezi sa civilnom implementacijom";
+Pozivajući se na stav XI. 2. Zaključaka Konferencije za implementaciju mira održane u Bonu 9. i 10. decembra 1997. godine, u kojem je Vijeće za implementaciju mira pozdravilo namjeru visokog predstavnika da iskoristi svoj konačni autoritet u zemlji u pogledu tumačenja Sporazuma o civilnoj implementaciji Mirovnog ugovora kako bi pomogao u iznalaženju rješenja za probleme, kako je prethodno rečeno, "donošenjem obavezujućih odluka, kada to bude smatrao neophodnim", u vezi sa određenim pitanjima, uključujući (u skladu sa tačkom (c) ovog stava) i "mjere u svrhu osiguranja implementacije Mirovnog sporazuma na čitavoj teritoriji Bosne i Hercegovine i njenih entiteta";
+Pozivajući se na stav 4 Rezolucije 1174 (1998) Vijeća sigurnosti Ujedinjenih naroda od 15. juna 1998. godine, prema kojem Vijeće sigurnosti, u skladu s poglavljem VII Povelje Ujedinjenih naroda "...ponavlja da je visoki predstavnik konačni autoritet za tumačenje Aneksa 10 o civilnoj implementaciji Mirovnog ugovora i da u slučaju spora može davati svoja tumačenja i preporuke, te donositi obavezujuće odluke, kako god ocijeni da je neophodno, o pitanjima koja je obrazložilo Vijeće za implementaciju mira u Bonu 9. i 10. decembra 1997. godine";
+Konstatirajući da su i međunarodni i domaći sudovi presudili da je u Srebrenici počinjen genocid;
+Prisjećajući se Odluke visokog predstavnika od 25. oktobra 2000. godine, kojom se trajno određuje zemljišna lokacija u Potočarima u opštini Srebrenica za mezarje i svetište na kojem će se podići spomen obilježje onima koji su stradali u julu 1995. godine u Potočarima/Srebrenici;
+Konstatirajući da je, prema navedenoj Odluci od 25. oktobra 2000. godine, visoki predstavnik, u skladu s važećim domaćim zakonodavstvom, namjeravao osnovati fondaciju ili udruženje u cilju trajnog upravljanja mezarjem i spomen obilježjem te osiguravanja njihovog prvobitnog finansiranja;
+Imajući u vidu da je Fondacija Srebrenica-Potočari Spomen obilježje i mezarje, ustanovljena Odlukom visokog predstavnika, br. 102/01 od 10. maja 2001. i upisana u Registar fondacija od javnog interesa, rješenjem Ministarstva civilnih poslova i komunikacija Bosne i Hercegovine br. 01/6-166-l-MP/02 od 11. decembra 2002. godine;
+Nadalje uzimajući u obzir Odluku visokog predstavnika od 25. juna 2007. godine, kojom se donosi Zakon o Memorijalnom centru Srebrenica-Potočari Spomen obilježje i mezarje za žrtve genocida iz 1995. godine, kojom je ustanovljen Memorijalni centar Srebrenica-Potočari Spomen obilježje i mezarje za žrtve genocida iz 1995. godine kao pravni slijednik Fondacije "Srebrenica-Potočari", Spomen obilježje i mezarje, i nadovezujući se na proces koji su inicirali moji prethodnici;
+Svjestan značaja koji uspostava mezarja i spomen obilježja ima u pogledu zatvaranja bolnog poglavlja za žrtve kao i u pogledu ostvarivanja pomirenja u Bosni i Hercegovini i u regionu, putem kojeg će se potom promovirati trajan mir;
+Potvrđujući, uz duboko žaljenje, da veliki broj žrtava ubijenih u Srebrenici/Potočarima i dalje ostaje da se pronađe i ekshumira sa još uvijek nepoznatih mjesta;
+Potvrđujući takođe da je na Bosni i Hercegovini da osigura da se konačno mjesto počinka i lokacija za spomen obilježje za one koji su nestali u navedenom genocidu utvrdi i da se njime dolično upravlja;
+Svjestan takođe neophodnosti stalnog podsjećanja na to da nijedan genocid nigdje i nikada ne bi smio biti počinjen protiv bilo kojeg naroda;
+Poštujući marljivo zalaganje u ostvarivanju pomirenja i obilježavanju sjećanja od strane onih koji su u genocidu izgubili svoje najmilije, svoje majke, očeve i djecu;
+S obzirom da se Memorijalni centar takođe finansira donacijama i prilozima donatora, te da su ta sredstva, koja su deponovana na računima kod komercijalnih banaka, prema članu 26. Odluke visokog predstavnika kojom se donosi Zakon o Memorijalnom centru Srebrenica-Potočari Spomen obilježje i mezarje za žrtve genocida iz 1995. godine od 25. juna 2007. godine, namijenjena isključivo u svrhu projekata ukopa i podizanja nišana;
+S obzirom takođe da, nakon pažljivog prosuđivanja i uzimajući u obzir veliki broj žrtava koje još uvijek nisu dostojanstveno sahranjene, Upravni odbor Memorijalnog centra Srebrenica-Potočari procjenjuje da je manje od polovine sredstava raspoloživih iz donacija neophodno rezervisati za potrebe projekata ukopa i podizanja nišana, a da su Memorijalnom centru Srebrenica-Potočari hitno potrebna i dodatna sredstva za druge namjene kako bi vršio svoj mandat i ispunjavao svoje ciljeve, uključujući između ostalog izgradnju i održavanje centra, aktivnosti saradnje sa sličnim centrima, fondacijama i udruženjima širom svijeta, kao i aktivnosti u provođenju njegove uloge u promoviranju istine o genocidu;
+Imajući u vidu to da bi, utoliko što je na samim donatorima da pristanu i izmijene namjenu svojih donacija, svaka intervencija u Odluci visokog predstavnika morala odražavati saglasnost donatora da izmijene namjenu svojih donacija i naknadnu preraspodjelu tih sredstava, čime se od Upravnog odbora Memorijalnog centra Srebrenica-Potočari zahtijeva da traži takvu saglasnost;
+Svjestan ključne uloge koju Memorijalni centar Srebrenica-Potočari Spomen obilježje i mezarje za žrtve genocida iz 1995. godine ima u procesu pomirenja u Bosni i Hercegovini i regionu kao i u educiranju mladih generacija o najvažnijoj potrebi da slijede zajedničko obećanje da se takvi događaji "nikad više" neće ponoviti;
+Uvjeren u potrebu daljnjeg djelovanja kako bi se nastavilo s razvijanjem i proširivanjem aktivnosti Memorijalnog centra Srebrenica-Potočari Spomen obilježje i mezarje za žrtve genocida iz 1995. "godine, i to posebno onih u vezi sa sjećanjem na genocid i žrtve s ciljem da se spriječi poricanje i revizionizam, osigura prevencija ponovne pojave kršenja ljudskih prava i doprinese pomirenju;
+Uz izraze zahvalnosti osoblju i volonterima Memorijalnog centra Srebrenica-Potočari Spomen obilježje i mezarje za žrtve genocida iz 1995. godine na organizaciji ukopa i na značajnom radu koji obavljaju kako bi doprinijeli pomirenju;
+Spreman da pomognem i podržim da se Memorijalni centar Srebrenica-Potočari Spomen obilježje i mezarje za žrtve genocida iz 1995. godine i dalje razvija;
+Pozivajući sve u Bosni i Hercegovini da zajedno rade na izgradnji bolje budućnosti za sve; Uzimajući u obzir, konstatirajući i imajući u vidu sve prethodno navedeno, ovim donosim sljedeću
+ODLUKU
+KOJOM SE DONOSI ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O MEMORIJALNOM CENTRU SREBRENICA-POTOČARI SPOMEN OBILJEŽJE I MEZARJE ZA ŽRTVE GENOCIDA IZ 1995. GODINE
+1. Zakon koji slijedi i čini sastavni dio ove Odluke stupa na snagu kako je predviđeno u članu 2. ovog zakona, na privremenoj osnovi, sve dok ga Parlamentarna skupština Bosne i Hercegovine ne usvoji u istom obliku, bez izmjena i dopuna i bez dodatnih uvjeta.
+2. Ova Odluka stupa na snagu odmah i odmah se objavljuje na službenim internetskim stranicama Ureda visokog predstavnika i u "Službenom glasniku BiH".
+Broj 08/23
+20. februara 2023. godine
+Sarajevo
+Visoki predstavnik
+Christian Schmidt, s. r.
+ZAKON
+O IZMJENAMA I DOPUNAMA ZAKONA O MEMORIJALNOM CENTRU SREBRENICA-POTOČARI SPOMEN OBILJEŽJE I MEZARJE ZA ŽRTVE GENOCIDA IZ 1995. GODINE
+U Zakonu o Memorijalnom centru Srebrenica-Potočari Spomen obilježje i mezarje za žrtve genocida iz 1995. godine ("Službeni glasnik BiH", brој 49/07), član 26. mijenja se i glasi:
+"Član 26.
+(Prenos vlasništva nad bankovnim računima)
+(1) Izuzetno od odredaba člana 22. ovog Zakona, sredstva Fondacije koja su namijenjena za projekte ukopa i podizanja nišana, a deponovana su na računima kod poslovnih banaka, ostaju na navedenim računima nakon prenosa Memorijalnom centru i u skladu sa stavom (2) ovog člana, sve dotle dok se navedeni projekti ne okončaju.
+(2) Pored toga, ova sredstva se uz prethodnu pisanu saglasnost relevantnog/relevantnih donatora o namjeni i iznosu sredstava mogu koristiti i za druge namjene pored projekata ukopa i podizanja nišana, s tim da su osigurana sredstava za sve buduće projekte ukopa i podizanja nišana. U druge namjene se u smislu ove odredbe naročito ubrajaju aktivnosti za promoviranje istine o genocidu."
+Član 2.
+(Stupanje na snagu)
+Ovaj Zakon stupa na snagu osmog dana od dana objavljivanja na službenoj internetskoj stranici Ureda visokog predstavnika, ili narednog dana od dana objavljivanja u "Službenom glasniku BiH", koji god od tih dana nastupi ranije.
+Član 1.
