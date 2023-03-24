@@ -1,0 +1,13 @@
+# ODLUKU O IZMJENI ODLUKE O IMENOVANJU PREDSTAVNIKA BOSNE I HERCEGOVINE U SASTAV MJEŠOVITE KOMISIJE ZA PRAĆENJE PROVOĐENJA SPORAZUMA IZMEĐU BOSNE I HERCEGOVINE I REPUBLIKE HRVATSKE O POGRANIČNOM SAOBRAĆAJU
+
+Naslov: ODLUKU O IZMJENI ODLUKE O IMENOVANJU PREDSTAVNIKA BOSNE I HERCEGOVINE U SASTAV MJEŠOVITE KOMISIJE ZA PRAĆENJE PROVOĐENJA SPORAZUMA IZMEĐU BOSNE I HERCEGOVINE I REPUBLIKE HRVATSKE O POGRANIČNOM SAOBRAĆAJU
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 20/23 (24.3.2023.), akt 1 od 47 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/p0tsdKoZ8YI=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/UNrLohz4nh78h77UspXbQ=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
