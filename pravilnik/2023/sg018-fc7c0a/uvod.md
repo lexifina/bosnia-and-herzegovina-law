@@ -1,0 +1,1 @@
+Na osnovu člana 25. Zakona o Upravi za indirektno oporezivanje ("Službeni glasnik BiH", broj 89/05), člana 5. stav (1) i člana 8. Zakona o uplatama na jedinstveni račun i raspodjeli prihoda ("Službeni glasnik BiH", br. 55/04, 34/07, 49/09 i 92/17), direktor Uprave za indirektno oporezivanje donosi
