@@ -1,0 +1,1 @@
+Na osnovu člana 37. stav 1. tač. a), b) i c), člana 40. stav 1. i člana 46. stav 3. tačka b) Zakona o komunikacijama ("Službeni glasnik BiH", br. 31/03, 75/06, 32/10 i 98/12), generalni direktor Regulatorne agencije za komunikacije, donosi:
