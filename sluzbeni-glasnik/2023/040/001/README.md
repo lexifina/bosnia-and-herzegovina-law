@@ -1,0 +1,13 @@
+# ODLUKU O IMENOVANJU ČLANOVA INTERPARLAMENTARNIH GRUPA PRIJATELJSTVA PARLAMENTARNE SKUPŠTINE BOSNE I HERCEGOVINE ZA BILATERALNU SARADNJU S PARLAMENTARNIM TIJELIMA DRUGIH ZEMALJA
+
+Naslov: ODLUKU O IMENOVANJU ČLANOVA INTERPARLAMENTARNIH GRUPA PRIJATELJSTVA PARLAMENTARNE SKUPŠTINE BOSNE I HERCEGOVINE ZA BILATERALNU SARADNJU S PARLAMENTARNIM TIJELIMA DRUGIH ZEMALJA
+
+Donosilac: PARLAMENTARNA SKUPŠTINA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 40/23 (2.6.2023.), akt 1 od 8 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/VzhLVzHyAS8=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/myWgztz5k76kjn45h88gztz5k76kjn45hBcPs=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
