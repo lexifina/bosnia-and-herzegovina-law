@@ -1,0 +1,3 @@
+# X - GLAVA DESETA - PRAVILA O VASPITNIM PREPORUKAMA, O VASPITNIM
+MJERAMA I O KAŽNjAVANjU MALOLjETNIKA
+Primjena posebnih krivičnih odredbi za maloljetnike

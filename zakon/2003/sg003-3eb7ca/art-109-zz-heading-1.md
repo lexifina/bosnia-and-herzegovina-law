@@ -1,0 +1,3 @@
+# XII - GLAVA DVANAESTA - ODUZIMANjE IMOVINSKE KORISTI PRIBAVLjENE
+KRIVIČNIM DJELOM I PRAVNE POSLjEDICE OSUDE
+Osnova oduzimanja imovinske koristi pribavljene krivičnim djelom
