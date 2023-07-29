@@ -1,0 +1,1 @@
+Na osnovu člana 5. Odluke o načinu polaganja javnog i stručnog ispita ("Službeni glasnik BiH" br. 96/07, 43/10, 103/12 i 56/19) i člana 16. Zakona o upravi ("Službeni glasnik BiH", br. 32/02, 102/09 i 72/17), Agencija za državnu službu donosi
