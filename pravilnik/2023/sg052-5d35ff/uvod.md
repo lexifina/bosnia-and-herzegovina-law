@@ -1,0 +1,1 @@
+Na osnovu člana 17. tačka 24. Zakona o Visokom sudskom i tužilačkom vijeću Bosne i Hercegovine ("Službeni glasnik BiH", br. 25/04, 93/05, 48/07, 15/08), Visoko sudsko i tužilačko vijeće Bosne i Hercegovine, na sjednici održanoj 5. i 6.7.2023. godine, donosi
