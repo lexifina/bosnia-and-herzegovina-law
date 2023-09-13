@@ -1,0 +1,1 @@
+Na osnovu člana IV. 4. a), a u vezi s članom II. 1. Ustava Bosne i Hercegovine, Parlamentarna skupština Bosne i Hercegovine, na 10. sjednici Predstavničkog doma, održanoj 22. augusta 2023. godine, i na 8. sjednici Doma naroda, održanoj 30. augusta 2023. godine, usvojila je
