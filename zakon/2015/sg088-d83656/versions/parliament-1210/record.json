@@ -1,0 +1,18 @@
+{
+  "parliament_law_id": "1210",
+  "title": "Zakon o strancima - Neslužbeni prečišćeni tekst (novembar 2023.) 2.11.2023",
+  "kind": "unofficial-consolidated",
+  "base_act_path": "zakon/2015/sg088-d83656",
+  "source": "https://www.parlament.ba/law/DownloadDocument?lawDocumentId=7ba8788c-a9c6-4356-a126-04713c8691c7&langTag=bs",
+  "source_sha256": "230d03bcdebcc2be29422b900b8d9d691f6f1316b9c6be0b2c6ad7da2ef11320",
+  "source_listing": "https://www.parlament.ba/law/Read?page=3&categoryId=3",
+  "source_detail": "https://www.parlament.ba/law/LawDetails?lawId=1210",
+  "latest_amendment_source": "https://www.sluzbenilist.ba/page/akt/0SqRdMx8RS0=",
+  "in_force": "2023-09-23",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "text_format": "full source PDF text layer, including source notes, page numbers and textual annexes"
+}
