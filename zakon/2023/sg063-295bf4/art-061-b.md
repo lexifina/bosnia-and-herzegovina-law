@@ -1,0 +1,8 @@
+# Član 61b.
+(Lista članova disciplinske komisije)
+(1) Sud Bosne i Hercegovine, Vrhovni sud Federacije Bosne i Hercegovine, Vrhovni sud Republike Srpske i Apelacioni sud Brčko Distrikta Bosne i Hercegovine na općoj sjednici predlažu po dvoje sudija za člana disciplinske komisije protiv člana Vijeća.
+(2) Tužilaštvo Bosne i Hercegovine, Federalno tužilaštvo Federacije Bosne i Hercegovine, Republičko javno tužilaštvo Republike Srpske i Tužilaštvo Brčko Distrikta Bosne i Hercegovine na kolegiju predlažu po dvoje tužilaca za člana disciplinske komisije protiv člana Vijeća.
+(3) Za člana disciplinske komisije može se predložiti sudija, odnosno tužilac koji nije disciplinski odgovarao i koji je ocijenjen ocjenom "izuzetno uspješno vrši funkciju" ili "uspješno vrši funkciju".
+(4) Na osnovu prijedloga dostavljenih od sudova i tužilaštava iz st. (1) i (2) ovog člana, Vijeće formira listu sudija i tužilaca, koji se imenuju za članove disciplinskih komisija. Formirana lista važi dvije godine pod uslovom da se završe započeti disciplinski postupci. Članovi disciplinske komisije nemaju pravo na ponovno imenovanje.
+(5) Član disciplinske komisije ne može biti iz suda ili tužilaštva iz koga je imenovan član Vijeća protiv koga se vodi disciplinski postupak.
+(6) Sudija odnosno tužilac s liste iz stava (4) ovog člana može biti imenovan za člana u najviše jednoj disciplinskoj komisiji, radi čega se lista po potrebi ažurira, a posebno u slučaju ostavke, prelaska predloženog člana u drugu instituciju, imenovanjem za člana Vijeća ili iz drugih razloga u skladu s uputstvom Vijeća o postupku predlaganja člana disciplinske komisije."

@@ -1,0 +1,3 @@
+# Član 86i.
+(Pravilnik u vezi sa izvještavanjem)
+Vijeće posebnim pravilnikom regulira dodatne detalje u vezi s oblikom obrasca izvještaja, uključujući i priloge koji se uz njega podnose, rokovima i postupcima podnošenja izvještaja, izuzecima od pristupanja podacima, operativnim aspektima rada Odjela unutar Sekretarijata uključujući i savjetodavnu ulogu stručnjaka, uspostavljanjem i vođenjem evidencije odnosno registra izvještaja, postupkom i dinamikom provjere izvještaja, te postupkom sklapanja sporazuma o saradnji s organima, institucijama i drugim pravnim licima iz člana 86c. stav (6) ovog zakona.
