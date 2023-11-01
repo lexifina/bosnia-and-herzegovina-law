@@ -1,0 +1,1 @@
+Na osnovu člana 11. stav (1) tačka e) Okvirnog zakona o osnovama naučno-istraživačke djelatnosti i koordinaciji unutrašnje i međunarodne naučno-istraživačke saradnje Bosne i Hercegovine ("Službeni glasnik BiH", broj 43/9), na prijedlog Vijeća za nauku Bosne i Hercegovine, ministrica civilnih poslova donijela je
