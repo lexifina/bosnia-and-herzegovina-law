@@ -1,0 +1,13 @@
+{
+  "id": "1373729",
+  "case_number": "AP-4163/22",
+  "date": "2023-11-30T00:00:00",
+  "decision_type": "Odluka o dopustivosti",
+  "item_type": "AP",
+  "source": "https://www.ustavnisud.ba/bs/api/odluke?submit=1&sp=DatumAsc&dos=01.01.2023.&doe=31.12.2023.",
+  "official_decision": "https://www.ustavnisud.ba/uploads/odluke/AP-4163-22-1373729.pdf",
+  "listing_source": "https://www.ustavnisud.ba/bs/api/odluke?submit=1&sp=DatumAsc&dos=01.01.2023.&doe=31.12.2023.",
+  "record_type": "metadata-only",
+  "date_basis": "Official Court database decision date",
+  "source_sha256": "782556d4ece89b9ffb91a329d2cf420c7e5250ae9a3402c098563fa31d679ef5"
+}
