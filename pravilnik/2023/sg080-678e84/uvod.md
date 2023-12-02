@@ -1,0 +1,2 @@
+EI
+Na osnovu člana 123. stava (2) Zakona o javnim nabavkama ("Službeni glasnik BiH", br. 39/14 i 59/22) i člana 17. Zakona o Vijeću ministara Bosne i Hercegovine ("Službeni glasnik BiH", br. 30/03, 42/03, 81/06, 76/07, 81/07, 94/07 i 24/08), na prijedlog Agencije za javne nabavke Bosne i Hercegovine, Vijeće ministara Bosne i Hercegovine na 25. sjednici održanoj dana 3. oktobra 2023. godine, donijelo je
