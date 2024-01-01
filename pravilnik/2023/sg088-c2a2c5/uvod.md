@@ -1,0 +1,1 @@
+Na osnovu člana 17. tačke 22., 25. i 26. Zakona o Visokom sudskom i tužilačkom vijeću Bosne i Hercegovine ("Službeni glasnik BiH", br. 25/04, 93/05, 48/07, 15/08 i 63/23), Visoko sudsko i tužilačko vijeće Bosne i Hercegovine, na sjednici održanoj 20. i 21.12.2023. godine, usvojilo je
