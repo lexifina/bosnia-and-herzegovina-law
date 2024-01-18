@@ -1,0 +1,13 @@
+{
+  "id": "1409521",
+  "case_number": "AP-3926/23",
+  "date": "2024-01-18T00:00:00",
+  "decision_type": "Odluka o dopustivosti",
+  "item_type": "AP",
+  "source": "https://www.ustavnisud.ba/bs/api/odluke?submit=1&sp=DatumAsc&dos=01.01.2024.&doe=31.12.2024.",
+  "official_decision": "https://www.ustavnisud.ba/uploads/odluke/AP-3926-23-1409521.pdf",
+  "listing_source": "https://www.ustavnisud.ba/bs/api/odluke?submit=1&sp=DatumAsc&dos=01.01.2024.&doe=31.12.2024.",
+  "record_type": "metadata-only",
+  "date_basis": "Official Court database decision date",
+  "source_sha256": "da4d064585010db55226d33425a6400e7c05bca7adc668b9c1d58d22c9554e87"
+}
