@@ -1,0 +1,13 @@
+# ODLUKU O IZMJENI I DOPUNI ODLUKE O NAČINU I PROCEDURAMA ODOBRAVANJA SREDSTAVA UDRUŽENIH U FOND ZA POVRATAK BiH NAMIJENJENIH ZA REALIZACIJU PRAVA IZ ANEKSA VII DEJTONSKOG MIROVNOG SPORAZUMA
+
+Naslov: ODLUKU O IZMJENI I DOPUNI ODLUKE O NAČINU I PROCEDURAMA ODOBRAVANJA SREDSTAVA UDRUŽENIH U FOND ZA POVRATAK BiH NAMIJENJENIH ZA REALIZACIJU PRAVA IZ ANEKSA VII DEJTONSKOG MIROVNOG SPORAZUMA
+
+Donosilac: MINISTARSTVO ZA LJUDSKA PRAVA I IZBJEGLICE BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 15/24 (27.2.2024.), akt 3 od 8 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/0JTpn4rSOc4=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/m9MMSTKBXno=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
