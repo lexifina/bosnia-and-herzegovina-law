@@ -1,0 +1,13 @@
+# ODLUKU O DOPUNAMA ODLUKE O IMENOVANJU EKSPERTSKOG TIMA ZA PRAĆENJE STANJA I AKTIVNOSTI U VEZI S PROBLEMATIKOM ODLAGANJA RADIOAKTIVNOG OTPADA I ISTROŠENOG NUKLEARNOG GORIVA NA LOKACIJI TRGOVSKE GORE
+
+Naslov: ODLUKU O DOPUNAMA ODLUKE O IMENOVANJU EKSPERTSKOG TIMA ZA PRAĆENJE STANJA I AKTIVNOSTI U VEZI S PROBLEMATIKOM ODLAGANJA RADIOAKTIVNOG OTPADA I ISTROŠENOG NUKLEARNOG GORIVA NA LOKACIJI TRGOVSKE GORE
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 21/24 (26.3.2024.), akt 1 od 6 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/rLV3lKyB060=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/heJZKs8mR9w=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
