@@ -1,0 +1,5 @@
+# Član 6a.
+(Rokovi za postupanje po prigovoru)
+(1) Birač i politički subjekt čije je pravo Izbornim zakonom BiH povrijeđeno, može nadležnoj izbornoj komisiji uložiti prigovor najkasnije u roku od 72 sata od učinjene povrede.
+(2) Izborna komisija dužna je razmotriti prigovor i donijeti odluku u roku od 48 sati nakon isteka roka od 24 sata za dostavljanje izjašnjenja strana navedenih u prigovoru. Izborna komisija o svojoj odluci odmah obavještava podnosioca prigovora, kao i druge strane.
+(3) Izuzetno, u posebno složenim slučajevima kada je za utvrđivanje činjenica i okolnosti od značaja za rješavanje stvari potrebno saslušati stranke i svjedoke, te steći uvid i pročitati veći broj materijalnih dokaza, Centralna izborna komisija BiH provest će postupak u roku od tri, а ne duže od pet dana nakon isteka roka od 24 sata za dostavljanje izjašnjenja strana navedenih u prigovoru.

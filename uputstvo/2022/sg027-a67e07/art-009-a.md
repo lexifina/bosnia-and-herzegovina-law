@@ -1,0 +1,5 @@
+# Član 9a.
+(Postupak po žalbi na odluku Centralne izborne komisije BiH)
+(1) Apelacioni odjel Suda Bosne i Hercegovine nadležan je da rješava po žalbama na odluke Centralne izborne komisije BiH.
+(2) Žalba na odluku Centralne izborne komisije BiH podnosi se, putem Centralne izborne komisije BiH, Apelacionom odjelu Suda Bosne i Hercegovine u roku od dva dana od dana prijema odluke Centralne izborne komisije BiH.
+(3) Apelacioni odjel Suda Bosne i Hercegovine, kada odlučuje o primjeni ovog zakona dužan je donijeti odluku po žalbi u roku od tri dana od dana prijema žalbe.
