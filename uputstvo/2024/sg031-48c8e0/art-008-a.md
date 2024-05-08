@@ -1,0 +1,3 @@
+# Član 8a.
+(Upotreba izraza u muškom i ženskom rodu)
+Izrazi koji su radi preglednosti, u ovom Uputstvu dati u jednom rodu, bez diskriminacije se odnose na muški i ženski rod.
