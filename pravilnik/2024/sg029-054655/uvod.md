@@ -1,0 +1,1 @@
+Na osnovu člana 4. stav (2) Zakona o javnim nabavkama ("Službeni glasnik BiH", br. 39/14 i 59/22) i člana 17. Zakona o Vijeću ministara Bosne i Hercegovine ("Službeni glasnik BiH", br. 30/03, 42/03, 81/06, 76/07, 81/07, 94/07 i 24/08) Vijeće ministara Bosne i Hercegovine na 42. sjednici održanoj 12. marta 2024.godine, donijelo je
