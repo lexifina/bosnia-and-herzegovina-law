@@ -1,0 +1,1 @@
+Na osnovu člana 131. stava (3) Zakona o strancima ("Službeni glasnik BiH", broj 88/15, 34/21 i 63/23) i člana 16. Zakona o upravi ("Službeni glasnik BiH" broj 32/02), Ministar vanjskih poslova Bosne i Hercegovine donosi
