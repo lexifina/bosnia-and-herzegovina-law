@@ -1,0 +1,1 @@
+Na osnovu člana 10. stav (1) Zakona o finansiranju političkih stranaka ("Službeni glasnik BiH", br. 95/12 i 41/16) i člana 18. Poslovnika Centralne izborne komisije Bosne i Hercegovine ("Službeni glasnik BiH", br. 32/23, Prečišćeni tekst), Centralna izborna komisija Bosne i Hercegovine je na 20. sjednici održanoj dana 03.05.2024. godine donijela
