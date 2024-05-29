@@ -1,0 +1,1 @@
+Na osnovu člana 18. stav (3) Zakona o slobodi pristupa informacijama na nivou institucija Bosne i Hercegovine ("Službeni glasnik BiH", broj 61/23) i člana 61. stav (2) Zakona o upravi ("Službeni glasnik BiH", br. 32/02, 102/09 i 72/17), ministar pravde Bosne i Hercegovine donosi
