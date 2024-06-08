@@ -1,0 +1,1 @@
+Na osnovu člana 3. stav (3) Zakona o organizaciji tržišta vina u Bosni i Hercegovini ("Službeni glasnik BiH", broj 63/23) i člana 17. Zakona o Vijeću ministara Bosne i Hercegovine ("Službeni glasnik BiH", br. 30/03, 42/03, 81/06, 76/07, 81/07, 94/07 i 24/08), Vijeće ministara Bosne i Hercegovine, na 46. sjednici održanoj 22.4.2024. godine, donijelo je
