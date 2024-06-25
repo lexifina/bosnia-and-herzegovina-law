@@ -1,0 +1,13 @@
+# ODLUKU O IZMJENI ODLUKE O IZBORU PROJEKATA OBNOVE I IZGRADNJE KOMUNALNE I SOCIJALNE INFRASTRUKTURE I ELEKTRIFIKACIJE NA PROSTORIMA GDJE ŽIVE RASELJENE OSOBE I POVRATNICI ZA 2023. GODINU
+
+Naslov: ODLUKU O IZMJENI ODLUKE O IZBORU PROJEKATA OBNOVE I IZGRADNJE KOMUNALNE I SOCIJALNE INFRASTRUKTURE I ELEKTRIFIKACIJE NA PROSTORIMA GDJE ŽIVE RASELJENE OSOBE I POVRATNICI ZA 2023. GODINU
+
+Donosilac: KOMISIJA ZA IZBJEGLICE I RASELJENE OSOBE BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 44/24 (25.6.2024.), akt 6 od 9 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/s5xTacUWLgw=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/FlGeky9f6FM=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
