@@ -1,0 +1,1 @@
+Na osnovu člana 4. stav (1) Odluke o osnivanju Državne komisije za granicu Bosne i Hercegovine ("Službeni glasnik BiH", broj 47/24), Državna komisija za granicu Bosne i Hercegovine, na sjednici održanoj 18.7.2024. godine, donijela je
