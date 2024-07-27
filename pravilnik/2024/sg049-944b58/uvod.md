@@ -1,0 +1,1 @@
+Na osnovu člana 16, člana 61. stav (2) i člana 99. Zakona o upravi ("Službeni glasnik Bosne i Hercegovine", broj: 32/02, 102/09 i 72/17) i člana 2. i člana 8. tačka b) Zakona o želјeznicama Bosne i Hercegovine ("Službeni glasnik Bosne i Hercegovine", broj 52/05), direktor Regulatornog odbora želјeznica Bosne i Hercegovine donosi
