@@ -1,0 +1,13 @@
+# ODLUKU O IZMJENI ODLUKE O IMENOVANJU PREDSTAVNIKA BOSNE I HERCEGOVINE U SASTAV MJEŠOVITE KOMISIJE ZA PRAĆENJE PROVOĐENJA SPORAZUMA IZMEĐU BOSNE I HERCEGOVINE I REPUBLIKE HRVATSKE O POGRANIČNOM SAOBRAĆAJU
+
+Naslov: ODLUKU O IZMJENI ODLUKE O IMENOVANJU PREDSTAVNIKA BOSNE I HERCEGOVINE U SASTAV MJEŠOVITE KOMISIJE ZA PRAĆENJE PROVOĐENJA SPORAZUMA IZMEĐU BOSNE I HERCEGOVINE I REPUBLIKE HRVATSKE O POGRANIČNOM SAOBRAĆAJU
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 54/24 (9.8.2024.), akt 2 od 18 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/kcS574g6N18=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/uhwfnWICwp0=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
