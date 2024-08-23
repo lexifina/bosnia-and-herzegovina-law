@@ -1,0 +1,1 @@
+Na osnovu člana 86i. u vezi s članom 16. Zakona o Visokom sudskom i tužilačkom vijeću Bosne i Hercegovine ("Službeni glasnik BiH", br. 25/04, 93/05, 48/07, 15/08, 63/23 i 9/24), Visoko sudsko i tužilačko vijeće Bosne i Hercegovine, na sjednici održanoj 17.7.2024. godine, usvojilo je
