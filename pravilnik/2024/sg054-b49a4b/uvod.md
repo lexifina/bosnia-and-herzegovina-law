@@ -1,0 +1,1 @@
+Na osnovu člana 61. stav (2) Zakona o upravi ("Službeni glasnik BiH", br. 32/02 i 102/09), člana 12. Zakona o ministarstvima i drugim organima uprave Bosne i Hercegovine ("Službeni glasnik BiH", br. 5/03, 42/03, 26/04, 42/04, 45/06, 88/07, 35/09, 59/09 i 103/09, 87/12 i 6/13), ministar za ljudska prava i izbjeglice Bosne i Hercegovine donosi
