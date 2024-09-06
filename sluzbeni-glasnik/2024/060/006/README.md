@@ -1,0 +1,13 @@
+# ODLUKU O VISINI NOVČANE NAKNADE ČLANOVIMA SAVJETODAVNOG ODBORA AGENCIJE ZA RAD I ZAPOŠLJAVANJE BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O VISINI NOVČANE NAKNADE ČLANOVIMA SAVJETODAVNOG ODBORA AGENCIJE ZA RAD I ZAPOŠLJAVANJE BOSNE I HERCEGOVINE
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 60/24 (6.9.2024.), akt 6 od 19 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Ca3vLWLGw3o=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/e6pzdQ75Prc=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
