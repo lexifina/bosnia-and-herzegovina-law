@@ -1,0 +1,1 @@
+Na osnovu člana 32a. stav 4. Zakona o državnoj službi u institucijama Bosne i Hercegovine ("Službeni glasnik BiH", br. 19/02, 35/03, 4/04 17/04, 26/04, 37/04, 48/05, 2/06, 32/07, 43/09, 8/10, 40/12, 93/17 i 18/24) i člana 98. i člana 99. st. 1. i 2. Zakona o upravi ("Službeni glasnik BiH", br. 32/02, 102/09 i 72/17), Agencija za državnu službu Bosne i Hercegovine donosi
