@@ -31,14 +31,14 @@ U navedenim slučajevima, potrebno je dostaviti sljedeću dokumentaciju:
 
 direktivama 98/79 EC od 25. maja 2017. godine i važio je na dan 26. maj 2022. godine i koji nije
 
-naknadno povučen (original ili ovjerena kopija)
+naknadno povučen ~~(original ili ovjerena kopija)~~
 
 2) Dokument izdat od strane Notifikacionog tijela (original ili ovjerena kopija), kojim se
 potvrđuje da je za medicinsko sredstvo proizvođač podnio zvaničnu prijavu ovlaštenom tijelu za
 ocjenjivanje usaglašenosti i da imenovano tijelo i proizvođač imaju potpisan pismeni sporazum u
 skladu sa Aneksom VII EU regulative (IVDR).
 
-3) Dokument izdat od strane proizvođača medicinskog sredstva (original ili ovjerena kopija),
+3) Dokument izdat od strane proizvođača medicinskog sredstva ~~(original ili ovjerena kopija)~~,
 kojim se potvrđuje:
 
 (1) da nema značajnih promjena u dizajnu i namjeni medicinskog sredstva;

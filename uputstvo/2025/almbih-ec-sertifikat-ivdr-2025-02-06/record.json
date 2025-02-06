@@ -10,5 +10,14 @@
   "text_status": "official source-dated instruction version; no consolidation inferred",
   "source_images": 0,
   "referenced_images": 0,
-  "omitted_images": 0
+  "omitted_images": 0,
+  "source_formatting": {
+    "strikethrough": "Preserved as Markdown deletion markup in documentation items 1 and 3; item 2 remains unstruck."
+  },
+  "correction": {
+    "corrects": "4bcaccc6b33f0309adbf02d0f75cef138ee3e218",
+    "reason": "Official source deletion formatting was lost in documentation items 1 and 3.",
+    "source_page": 1,
+    "source_version_date": "2025-02-06"
+  }
 }
