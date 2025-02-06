@@ -47,14 +47,14 @@ EU regulative (MDR).
 
 direktivama 90/385/EEC i 93/42/EEC od 25. maja 2017. godine i važio je na dan 26. maj 2021. godine
 
-i koji nije naknadno povučen (original ili ovjerena kopija)
+i koji nije naknadno povučen ~~(original ili ovjerena kopija)~~
 
 2) Dokument izdat od strane Notifikacionog tijela (original ili ovjerena kopija), kojim se
 potvrđuje da je za medicinsko sredstvo proizvođač podnio zvaničnu prijavu ovlaštenom tijelu za
 ocjenjivanje usaglašenosti i da imenovano tijelo i proizvođač imaju potpisan pismeni sporazum u
 skladu sa Aneksom VII EU regulative (MDR).
 
-3) Dokument izdat od strane proizvođača medicinskog sredstva (original ili ovjerena kopija),
+3) Dokument izdat od strane proizvođača medicinskog sredstva ~~(original ili ovjerena kopija)~~,
 kojim se potvrđuje:
 
 a) da nema značajnih promjena u dizajnu i namjeni medicinskog sredstva;
