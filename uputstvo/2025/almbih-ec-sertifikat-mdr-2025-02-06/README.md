@@ -1,0 +1,11 @@
+# Uputstvo o uslovima i načinu priznavanja sertifikata o usaglašenosti medicinskih sredstava (EC sertifikat) usljed prelaska EU direktiva (MDD AIMD) na EU regulativu (MDR)
+
+Official Medicines Agency administrative instruction, in its published version.
+
+Source document date: 2025-02-06
+
+Official agency instruction version dated "06.02.2025." in its own heading. No separate commencement clause is stated; the source document date identifies this published instruction version.
+
+Source: https://almbih.gov.ba/wp-content/uploads/2025/02/Uputstvo-o-uslovima-i-nacinu-priznavanja-sertifikata-o-usaglasenosti-medicinskih-sredstava-EC-sertifikat-usljed-prelaska-EU-direktiva-MDD-AIMD-na-EU-regulativu-MDR.pdf
+
+[Full source text](full-text.md). No source images.
