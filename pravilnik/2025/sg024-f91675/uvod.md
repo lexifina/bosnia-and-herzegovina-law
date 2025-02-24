@@ -1,0 +1,1 @@
+Na osnovu člana 61. stav (2) Zakona o upravi ("Službeni glasnik BiH", br. 32/02, 102/09 i 72/17) i člana 24. stav (4) Zakona o zabrani diskriminacije ("Službeni glasnik BiH", br. 59/09 i 66/16), ministar za ljudska prava i izbjeglice donosi
