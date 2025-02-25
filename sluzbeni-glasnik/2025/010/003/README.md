@@ -1,0 +1,13 @@
+# ODLUKU O IZMJENI I DOPUNI ODLUKE O IZBORU PROJEKATA OBNOVE I IZGRADNJE KOMUNALNE I SOCIJALNE INFRASTRUKTURE I ELEKTRIFIKACIJE NA PROSTORIMA GDJE ŽIVE RASELJENE OSOBE I POVRATNICI ZA 2024. GODINU
+
+Naslov: ODLUKU O IZMJENI I DOPUNI ODLUKE O IZBORU PROJEKATA OBNOVE I IZGRADNJE KOMUNALNE I SOCIJALNE INFRASTRUKTURE I ELEKTRIFIKACIJE NA PROSTORIMA GDJE ŽIVE RASELJENE OSOBE I POVRATNICI ZA 2024. GODINU
+
+Donosilac: KOMISIJA ZA IZBJEGLICE I RASELJENE OSOBE BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 10/25 (25.2.2025.), akt 3 od 4 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/K8LQrfwm9Sw=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/ohz4nh78h77IboNBzMexE=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
