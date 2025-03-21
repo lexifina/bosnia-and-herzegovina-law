@@ -1,0 +1,13 @@
+# ODLUKU O DOPUNI ODLUKE O FORMIRANJU VIJEĆA ZA DJECU BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O DOPUNI ODLUKE O FORMIRANJU VIJEĆA ZA DJECU BOSNE I HERCEGOVINE
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 17/25 (21.3.2025.), akt 3 od 11 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Ehz9fg8Vtqs=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/B3JoxAqaSJs=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
