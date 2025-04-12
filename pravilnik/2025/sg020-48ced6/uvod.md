@@ -1,0 +1,1 @@
+Na osnovu člana 15. stav (1) tačka a) Zakona o odbrani Bosne i Hercegovine ("Službeni glasnik BiH", br. 88/05), članova 16. i 61. Zakona o upravi Bosne i Hercegovine ("Službeni glasnik BiH", br. 32/02, 102/09 i 72/17), člana 11. Zakona o sportu u Bosni i Hercegovini ("Službeni glasnik BiH", br. 27/08, 102/09 i 66/16), ministar odbrane donosi
