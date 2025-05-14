@@ -1,0 +1,1 @@
+Na osnovu člana 25. i člana 40. stav (3) Statuta Vanjskotrgovinske komore Bosne i Hercegovine ("Službeni glasnik BiH", br. 52/14 i 19/18), Upravni odbor Vanjskotrgovinske komore Bosne i Hercegovine, na sjednici održanoj 18.3.2025. godine, donio je
