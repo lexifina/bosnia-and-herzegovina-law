@@ -1,0 +1,1 @@
+Na osnovu čl. 5. i 10. Zakona o uplatama na Jedinstveni račun i raspodjeli prihoda ("Službeni glasnik BiH", br. 55/04, 34/07, 49/09 i 92/17), Upravni odbor Uprave za indirektno oporezivanje, na sjednici održanoj dana 05.09.2025. godine, donio je
