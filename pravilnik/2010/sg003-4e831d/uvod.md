@@ -1,1 +1,0 @@
-Na osnovu člana 8. stav 3. Zakona o graničnoj kontroli ("Službeni glasnik BiH", broj 53/09), i člana 15. stav 2. tačka a) Zakona o graničnoj policiji Bosne i Hercegovine ("Službeni glasnik BiH", broj 54/04, 27/07, 59/09), direktor Granične policije Bosne i Hercegovine donosi
