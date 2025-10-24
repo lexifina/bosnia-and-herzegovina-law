@@ -1,0 +1,13 @@
+# ODLUKU O IMENOVANJU PREDSTAVNIKA BOSNE I HERCEGOVINE ZA ČLANOVE MEĐUDRŽAVNE KOMISIJE ZA PRAĆENJE PROVOĐENJA I PRIMJENU UGOVORA O PLOVIDBI PLOVNIM PUTEVIMA UNUTRAŠNJIH VODA I NJIHOVOM OBILJEŽAVANJU I ODRŽAVANJU
+
+Naslov: ODLUKU O IMENOVANJU PREDSTAVNIKA BOSNE I HERCEGOVINE ZA ČLANOVE MEĐUDRŽAVNE KOMISIJE ZA PRAĆENJE PROVOĐENJA I PRIMJENU UGOVORA O PLOVIDBI PLOVNIM PUTEVIMA UNUTRAŠNJIH VODA I NJIHOVOM OBILJEŽAVANJU I ODRŽAVANJU
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 63/25 (24.10.2025.), akt 3 od 6 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/nIyQcfpsCohz4nh78h77w=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/QKaV0ngztz5k76kjn45hPgog=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
