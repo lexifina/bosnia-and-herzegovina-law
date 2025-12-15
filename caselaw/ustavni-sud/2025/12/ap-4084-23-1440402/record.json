@@ -1,0 +1,13 @@
+{
+  "id": "1440402",
+  "case_number": "AP-4084/23",
+  "date": "2025-12-15T00:00:00",
+  "decision_type": "Odluka o dopustivosti",
+  "item_type": "AP",
+  "source": "https://www.ustavnisud.ba/bs/api/odluke?submit=1&sp=DatumAsc&dos=01.01.2025.&doe=31.12.2025.",
+  "official_decision": "https://www.ustavnisud.ba/uploads/odluke/AP-4084-23-1440402.pdf",
+  "listing_source": "https://www.ustavnisud.ba/bs/api/odluke?submit=1&sp=DatumAsc&dos=01.01.2025.&doe=31.12.2025.",
+  "record_type": "metadata-only",
+  "date_basis": "Official Court database decision date",
+  "source_sha256": "8838d3fdadefd7db66906f820ae44f6b04aa44f2514b77aa36944c310787768a"
+}
