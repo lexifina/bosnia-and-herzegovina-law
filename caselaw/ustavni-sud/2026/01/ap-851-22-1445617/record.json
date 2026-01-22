@@ -1,0 +1,13 @@
+{
+  "id": "1445617",
+  "case_number": "AP-851/22",
+  "date": "2026-01-22T00:00:00",
+  "decision_type": "Odluka o dopustivosti",
+  "item_type": "AP",
+  "source": "https://www.ustavnisud.ba/bs/api/odluke?submit=1&sp=DatumAsc&dos=01.01.2026.&doe=31.12.2026.",
+  "official_decision": "https://www.ustavnisud.ba/uploads/odluke/AP-851-22-1445617.pdf",
+  "listing_source": "https://www.ustavnisud.ba/bs/api/odluke?submit=1&sp=DatumAsc&dos=01.01.2026.&doe=31.12.2026.",
+  "record_type": "metadata-only",
+  "date_basis": "Official Court database decision date",
+  "source_sha256": "3cc3956731ac8a60e6b3a6e8f210c4904af3705064f1c0a17031a02d03c667c1"
+}
