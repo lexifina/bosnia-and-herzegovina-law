@@ -1,0 +1,1 @@
+Na osnovu člana 61. Zakona o upravi ("Službeni glasnik BiH", broj 32/02, 102/09 i 72/17), člana 15. stav (2) tačka a) Zakona o Graničnoj policiji Bosne i Hercegovine ("Službeni glasnik BiH", broj 54/04, 27/07, 59/09) i člana 31. stav (6) Zakona o graničnoj kontroli ("Službeni glasnik BiH", broj 7/25), direktor Granične policije Bosne i Hercegovine donosi
