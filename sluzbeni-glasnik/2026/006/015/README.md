@@ -1,0 +1,13 @@
+# ОDLUKU O IZMJENI ODLUKE O ODOBRAVANJU SREDSTAVA TEKUĆE REZERVE BUDŽETA INSTITUCIJA BOSNE I HERCEGOVINE I MEĐUNARODNIH OBAVEZA BOSNE I HERCEGOVINE U SVRHU NABAVKE NAMJENSKE OPREME ZA POŽARNE SEZONE
+
+Naslov: ОDLUKU O IZMJENI ODLUKE O ODOBRAVANJU SREDSTAVA TEKUĆE REZERVE BUDŽETA INSTITUCIJA BOSNE I HERCEGOVINE I MEĐUNARODNIH OBAVEZA BOSNE I HERCEGOVINE U SVRHU NABAVKE NAMJENSKE OPREME ZA POŽARNE SEZONE
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 6/26 (27.1.2026.), akt 15 od 29 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/gztz5k76kjn45hCKMPoGBM4Q=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/mVRf6TLDlXY=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
