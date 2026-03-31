@@ -1,0 +1,1 @@
+Na osnovu člana 35. i člana 37. stav (1) tačka e) Zakona o kontroli vanjskotrgovinskog prometa oružja, vojne opreme i robe posebne namjene ("Službeni glasnik BiH", broj 53/16) i člana 61. stav 2. Zakona o upravi ("Službeni glasnik BiH", br. 32/02, 102/09 i 72/17) ministar vanjske trgovine i ekonomskih odnosa Bosne i Hercegovine, donosi
