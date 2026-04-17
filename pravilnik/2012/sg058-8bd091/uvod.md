@@ -1,1 +1,0 @@
-Na osnovu člana 72. Zakona o lijekovima i medicinskim sredstvima ("Službeni glasnik BiH", broj 58/08), Stručno vijeće Agencije za lijekove i medicinska sredstva BiH, na prijedlog direktora Agencije za lijekove i medicinska sredstva BiH, donosi
