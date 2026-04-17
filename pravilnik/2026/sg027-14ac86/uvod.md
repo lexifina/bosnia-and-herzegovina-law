@@ -1,0 +1,1 @@
+Na temelju člana 72. stav (3) Zakona o lijekovima i medicinskim sredstvima ("Službeni glasnik BiH", broj 58/08), Stručni savjet Agencije za lijekove i medicinska sredstva Bosne i Hercegovine, na prijedlog direktora Agencije za lijekove i medicinska sredstva Bosne i Hercegovine, donosi
