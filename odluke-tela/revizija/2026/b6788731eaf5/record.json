@@ -1,0 +1,16 @@
+{
+  "title": "Agencija za forenzička ispitivanja i vještačenja",
+  "category": "finansijska revizija",
+  "audited_year": 2025,
+  "report_date": "2026-05-04",
+  "date_basis": "Sarajevo, 4. 5. 2026. godine",
+  "source": "https://www.revizija.gov.ba/app/uploads/2026/07/Agencija-za-forenzicka-ispitivanja-i-vjestacenja.pdf",
+  "source_sha256": "423469b92e4440d962353929f3701c76d1484066096d264f888ffa67a55a86ce",
+  "text_status": "metadata-and-official-link",
+  "law_status": "not-legislation",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
