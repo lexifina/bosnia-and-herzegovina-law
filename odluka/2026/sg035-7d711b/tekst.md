@@ -1,0 +1,944 @@
+Službeni glasnik BiH, broj 35/26
+Na osnovu člana 83. stav (1) u vezi sa članom 23. stav (2) Zakona o lijekovima i medicinskim sredstvima ("Službeni glasnik BiH", broj 58/08), i člana 17. Zakona o Vijeću ministara Bosne i Hercegovine ("Službeni glasnik BiH", br. 30/03, 42/03 , 81/06, 76/07, 81/07, 94/07 i 24/08), Vijeće ministara Bosne i Hercegovine, na prijedlog Stručnog vijeća Agencije za lijekove i medicinska sredstva Bosne i Hercegovine, uz prethodno pribavljenu saglasnost ministarstava zdravlja entiteta i Odjela za zdravstvo Brčko Distrikta Bosne i Hercegovine, na 106. sjednici održanoj 23.3.2026. godine, donijelo je
+ODLUKU
+O UTVRĐIVANJU LISTE ESENCIJALNIH LIJEKOVA U BOSNI I HERCEGOVINI
+Član 1.
+(Predmet Odluke)
+Ovom odlukom utvrđuje se lista esencijalnih lijekova u Bosni i Hercegovini.
+Član 2.
+(Definicija)
+Lijekovi sa liste esencijalnih lijekova u Bosni i Hercegovini su minimum lijekova koji se propisuju i izdaju na teret sredstava obaveznog zdravstvenog osiguranja, kao i minimum lijekova u bolničkoj zdravstvenoj zaštiti, u skladu sa članom 83. stav (2) Zakona o lijekovima i medicinskim sredstvima ("Službeni glasnik BiH", broj 58/08).
+Član 3.
+(Lista esencijalnih lijekova)
+(1) Lijekovi na listi esencijalnih lijekova u Bosni i Hercegovini koji se koriste/izdaju u zdravstvenim ustanovama su, kako slijedi:
+ATC
+klasifikacija
+Generički
+naziv (INN)
+A
+LIJEKOVI
+KOJI DJELUJU NA DIGESTIVNI TRAKT I METABOLIZAM
+A02
+LIJEKOVI
+ZA LIJEČENJE BOLESTI KOJE SU IZAZVANE POREMEĆAJEM ACIDITETA
+A02B
+LIJEKOVI
+ZA LIJEČENJE PEPTIČKOG ULKUSA I BOLESTI GASTROEZOFAGUSNOG REFLUKSA
+A02BC02
+pantoprazol
+A03BA01
+atropin
+A03
+LIJEKOVI
+KOJI REGULIŠU FUNKCIONALNE GASTROINTESTINALNE POREMEĆAJE
+A03F
+PROPULZIVI
+A03FA01
+metoklopramid
+A04
+ANTIEMETICI
+I LIJEKOVI ZA SUZBIJANJE MUČNINE
+A04A
+ANTIEMETICI
+I LIJEKOVI PROTIV ANEMIJE
+A04AA02
+granisetron
+A06
+LAKSATIVI
+A06A
+LIJEKOVI
+ZA KONSTIPACIJU
+A06AD11
+laktuloza
+A07
+ANTIDIAROICI
+I LIJEKOVI SA ANTIINFLAMATORNIM I ANTIINFEKTIVNIM DJELOVANJEM
+A07A
+INTESTINALNI
+ANTIINFEKTIVI
+A07AA02
+nistatin
+A07AX03
+nifuroksazid
+A07B
+INTESTINALNI
+ADSORBENSI
+A07BA01
+aktivni
+medicinski ugalj
+A07E
+INTESTINALNI
+ANTIINFLAMATORNI LIJEKOVI
+A07EC01
+sulfasalazin
+A07EC02
+mesalazin
+A10
+LIJEKOVI
+ZA LIJEČENJE ŠEĆERNE BOLESTI
+A10A
+INSULINI
+I ANALOZI
+A10AB
+inzulini
+i analozi brzog djelovanja
+A10AC
+inzulini
+i analozi srednje dugog djelovanja
+A10AD
+inzulini
+i analozi srednje ili dugog djelovanja u kombinaciji sa inzulinima brzog
+djelovanja
+A10AE
+inzulini
+i analozi dugog djelovanja
+A10B
+ORALNI
+ANTIDIJABETICI
+A10BA02
+metformin
+A10BB09
+gliklazid
+A11
+VITAMINI
+A11C
+VITAMIN
+A, VITAMIN D, UKLJUČUJUĆI I NJIHOVE KOMBINACIJE
+A11CC04
+kalcitriol
+A12
+MINERALI
+A12A
+KALCIJUM
+A12AA02
+kalcijum-glukonat
+A12C
+OSTALI
+MINERALI I SUPLEMENTI
+A12CC02
+Magnezijum-sulfat
+B
+LIJEKOVI
+KOJI DJELUJU NA KRV I KRVOTVORNE ORGANE
+B01
+ANTITROMBOTICI
+B01A
+ANTITROMBOTIČKA
+SREDSTVA (ANTIKOAGULANSI)
+B01AA07
+acenokumarol
+B01AB01
+heparin
+B01AB05
+enoksaparin
+B01AC04
+klopidogrel
+B01AD01
+streptokinaza
+B01AD02
+alteplaza
+B01AF01
+rivoraksaban
+B02
+ANTIHEMORAGICI
+B02B
+VITAMIN
+K I OSTALI HEMOSTATICI
+B02BA
+vitamin
+K
+B02BD02
+koagulacijski
+faktor VIII
+B02BD04
+koagulacijski
+faktor IX
+B03
+PREPARATI
+ZA LIJEČENJE ANEMIJA
+B03A
+PREPARATI
+ŽELJEZA
+B03AB05
+dekstriferon
+B03B
+VITAMIN
+B12 I FOLNA KISELINA
+B03BA03
+hidroksikobalamin
+B03BB01
+folna
+kiselina
+B05
+ZAMJENE
+ZA KRV I PERFUZIONI RASTVORI
+B05A
+KRV
+I SLIČNI PROIZVODI
+B05AA01
+albumin
+humani
+B05B
+RASTVORI
+ZA INTRAVENSKU PRIMJENU
+B05BA01
+aminokiseline
+B05BA02
+prečišćeno
+sojino ulje
+B05BA03
+glukoza
+B05BB01
+kalcij-hlorid,
+kalij-hlorid, natrij-hlorid
+B05BC01
+manitol
+B05X
+DODACI
+INTRAVENSKIM RASTVORIMA
+B05XA01
+kalij-hlorid
+B05XA02
+natrij-bikarbonat
+B05XA03
+natrij-hlorid
+C
+LIJEKOVI
+KOJI DJELUJU NA KARDIOVASKULARNI SISTEM
+C01
+LIJEKOVI
+S DJELOVANJEM NA SRCE
+C01A
+SRČANO
+AKTIVNI GLIKOZIDI
+C01AA05
+digoksin
+C01B
+ANTIARITMICI,
+GRUPA I i III
+C01BC03
+propafenon
+C01BD
+ANTIARITMICI
+GRUPA III
+C01BD01
+amiodaron
+C01C
+STIMULANSI
+SRČANOG RADA, ISKLJUČUJUĆI SRČANE GLIKLOZIDE
+C01CA04
+dopamin
+C01CA24
+adrenalin
+C01D
+VAZODILATATORI
+ZA LIJEČENJE BOLESTI SRCA
+C01DA02
+gliceril
+trinitrat
+C01DA14
+isosorbidmononitrat
+C03
+DIURETICI
+C03A
+SLABI
+DIURETICI, TIAZIDI
+C03AA03
+hidrohlortiazid
+C03CA
+SNAŽNI
+DIURETICI
+C03CA01
+furosemid
+C03D
+DIURETICI
+KOJI ŠTEDE KALIJ
+C03DA04
+spironolakton
+C07
+BLOKATORI
+BETA ADRENERGIČKIH RECEPTORA
+C07A
+BLOKATORI
+BETA ADERENERGIČKIH RECEPTORA
+C07AB03
+atenolol
+C07AG02
+karvedilol
+C08
+BLOKATORI
+KALCIJEVIH KANALA
+C08C
+SELEKTIVNI
+BLOKATORI KALCIJEVIH KANALA SA PRETEŽNO VASKULARNIM DJELOVANJEM
+C08CA01
+amlodipin
+C08D
+SELEKTIVNI
+BLOKATORI KALCIJEVIH KANALA SA DIREKTNIM DJELOVANJEM NA SRCE
+C08DA01
+verapamil
+C09
+LIJEKOVI
+KOJI DJELUJU NA RENIN-ANGIOTENZISKI SISTEM
+C09A
+ACE
+INHIBITORI, MONOKOMPONENTNI
+C09AA02
+enalapril
+C09C
+ANTAGONISTI
+RECEPTORA ANGIOTENZINA II, JEDNOSTAVNI
+C09CA01
+losartan
+D
+LIJEKOVI
+KOJI DJELUJU NA KOŽU - DERMATICI
+D06
+ANTIMIKROBICI
+I HEMOTERAPEUTICI - DERMATICI
+D06A
+ANTIBIOTICI
+ZA LOKALNU PRIMJENU
+D06AX
+bacitracin+neomicin
+D06B
+HEMIOTERAPEUTICI
+ZA LOKALNU PROMJENU
+D06BB03
+aciklovir
+D07
+KORTIKOSTEROIDI,
+DERMATOLOŠKI PREPARATI
+D07C
+KORTIKOSTEROIDI,
+KOMBINACIJE SA ANTIBIOTICIMA
+D07CC01
+betametazon+gentamicin
+D07X
+KORTIKOSTEROIDI,
+OSTALE KOMBINACIJE
+D07XC01
+betametazon+salicilna
+kiselina
+G
+LIJEKOVI
+KOJI DJELUJU NA UROGENITALNI SISTEM I SPOLNE HORMONE
+G01
+GINEKOLOŠKI
+ANTINFEKTIVI I ANTISEPTICI
+G01A
+ANTIINFEKTIVI
+I ANTISEPTICI, ISKLJUČUJUĆI KOMBINACIJU SA KORTIKOSTEROIDIMA
+G01AF01
+metronidazol
+G03
+SPOLNI
+HORMONI I OSTALI LIJEKOVI S DJELOVANJEM NA SPOLNI SISTEM
+G03B
+ANDROGENI
+G03BA03
+testosteron
+G03D
+PROGESTERONI
+G03DA03
+hidroksiprogesteron
+G03DB01
+didrogesteron
+H
+SISTEMSKI
+HORMONALNI LIJEKOVI, IZUZIMAJUĆI SPOLNE HORMONE
+H01
+HIPOFIZNI
+HIPOTALAMIČKI HORMONI
+H01C
+HORMONI
+HIPOTALAMUSA
+H01CB02
+oktreotid
+H02
+KORTIKOSTEROIDI
+ZA SISTEMSKU PRIMJENU
+H02A
+KORTIKOSTEROIDI
+ZA SISTEMSKU PRIMJENU, MONOKOMPONENTNI
+H02AB02
+deksametazon
+H02AB04
+metilprednizolon
+H02AB07
+prednizon
+H02AB09
+hidrokortizon
+H03
+LIJEKOVI
+ZA LIJEČENJE OBOLJENJA ŠTITNJAČE
+H03A
+PREPARATI
+TIROIDEJE
+H03AA01
+levotiroksin
+H03B
+ANTITIREOIDNI
+LIJEKOVI
+H03BA02
+propiltiouracil
+H03BB02
+tiamazol
+H04
+HORMONI
+GUŠTERAČE
+H04A
+GLIKOGENOLITIČKI
+HORMONI
+H04AA01
+glukagon
+J
+LIJEKOVI
+ZA LIJEČENJE SISTEMSKIH INFEKCIJA
+J01
+LIJEKOVI
+ZA LIJEČENJE BAKTERIJSKIH INFEKCIJA ZA SISTEMSKU PRIMJENU
+J01A
+TETRACIKLINI
+J01AA02
+doksiciklin
+J01C
+BETALAKTAMSKI
+ANTIMIKROBICI, PENICILINI
+J01CA04
+amoksicilin
+J01CE01
+benzilpenicilin
+J01D
+OSTALI
+BETA-LAKTAMSKI ANTIBAKTERIJSKI LIJEKOVI
+J01DB
+PRVA
+GENERACIJA CEFALOSPORINA
+J01DB01
+cefaleksin
+J01DB04
+cefazolin
+J01DC
+DRUGA
+GENERACIJA CEFALOSPORINA
+J01DC02
+cefuroksim
+J01DD
+TREĆA
+GENERACIJA CEFALOSPORINA
+J01DD01
+cefotaksim
+J01DD02
+ceftazidim
+J01DD04
+ceftriakson
+J01DH
+KARBAPENEMI
+J01DH51
+imipenem+cilastatin
+J01E
+SULFONAMIDI
+I TRIMETOPRIM
+J01EE
+KOMBINACIJA
+SULFONAMIDA I TRIMETOPRIMA
+J01EE01
+sulfametoksazol+trimetoprim
+J01F
+MAKROLIDI
+I LINKOZAMIDI
+J01FA01
+eritromicin
+J01FF01
+klindamicin
+J01G
+AMINOGLIKOZIDNI
+ANTIMIKROBICI
+J01GA
+streptomicin
+J01GB03
+gentamicin
+J01GB06
+amikacin
+J01M
+KINOLINSKI
+ANTIMIKROBICI
+J01MA02
+ciprofloksacin
+J01XA
+GLIKOPEPTIDNI
+ANTIMIKROBICI
+J01XA01
+vankomicin
+J01X
+OSTALI
+ANTIBAKTERIJSKI LIJEKOVI
+J01XD01
+metronidazol
+J02
+ANTIMIKOTICI
+ZA SISTEMSKU PRIMJENU
+J02A
+ANTIMIKOTICI
+ZA SISTEMSKU PRIMJENU
+J02AC01
+flukonazol
+J04
+LIJEKOVI
+ZA LIJEČENJE INFEKCIJA UZROKOVANIH MIKOBAKTERIJAMA
+J04A
+LIJEKOVI
+ZA TERAPIJU TUBERKULOZE
+J04AB02
+rifampicin
+J04AC01
+izoniazid
+J04AM03
+etambutol
++ izoniazid
+J04AM05
+isoniazid
++ rifampicin + pirazinamid
+J05
+PREPARATI
+ZA LIJEČENJE SISTEMSKIH VIRUSNIH INFEKCIJA
+J05A
+LIJEKOVI
+SA DIREKTNIM DJELOVANJEM NA VIRUSE
+J05AR01
+zidovudin+lamivudin
+J05AB01
+aciklovir
+J05AF05
+lamivudin
+M
+LIJEKOVI
+KOJI DJELUJU NA KOŠTANO-MIŠIĆNI SISTEM
+M01
+LIJEKOVI
+S PROTUUPALNIM I ANTIREUMATSKIM DJELOVANJEM
+M01A
+NESTEROIDNI
+ANTIINFLAMATORNI I ANTIREUMATSKI LIJEKOVI
+M01AB05
+diklofenak
+M01AE01
+ibuprofen
+M01AE03
+ketoprofen
+M03
+MIORELAKSANSI
+M03A
+MIORELAKSANSI
+SA PERIFERNIM DJELOVANJEM
+M03AC01
+pankuronij
+M04
+LIJEKOVI
+ZA TERAPIJU GIHTA
+M04A
+LIJEKOVI
+ZA TERAPIJU GIHTA
+M04AA01
+alopurinol
+N
+LIJEKOVI
+KOJI DJELUJU NA NERVNI SISTEM
+N01
+ANESTETICI
+N01A
+ANESTETICI,
+OPŠTI
+N01AB08
+sevofluran
+N01AF03
+tiopental
+N01B
+ANESTETICI,
+LOKALNI
+N01BB02
+lidokain
+N02
+ANALGETICI
+N02A
+OPIOIDI
+N02AA01
+morfin
+N02AB03
+fentanil
+N02AX02
+tramadol
+N02B
+OSTALI
+ANALGETICI I ANTIPIRETICI
+N02BA01
+Acetilsalicilna
+kiselina
+N02BE01
+Paracetamol
+N03
+ANTIEPILEPTICI
+N03A
+ANTIEPILEPTICI
+N03AA02
+fenobarbiton
+N03AF01
+karbamazepin
+N03AG01
+valproinska
+kiselina, natrij-valproat
+N03AX09
+lamotrigin
+N04
+ANTIPARKINSONICI
+N04A
+ANTIHOLINERGICI
+N04AA02
+biperiden
+N04B
+DOPAMINERGIČKI
+LIJEKOVI
+N04BA02
+levodopa+benzerazid
+N05
+PSIHOLEPTICI
+N05A
+ANTIPSIHOTICI
+N05AA02
+levomepromazin
+N05AA03
+promazin
+N05AB02
+flufenazin
+N05AD01
+haloperidol
+N05AH02
+klozapin
+N05AL01
+sulpirid
+N05AX08
+risperidon
+N05B
+ANKSIOLITICI
+N05BA01
+diazepam
+N06
+PSIHOANALEPTICI
+N06A
+ANTIDEPRESIVI
+N06AA09
+amitriptilin
+N06AB03
+fluoksetin
+N07
+OSTALI
+LIJEKOVI KOJI DJELUJU NA CNS
+N07A
+PARASIMPATOMIMETICI
+N07AA01
+neostigmin
+N07A
+LIJEKOVI
+ZA LIJEČENJE BOLESTI OVISNOSTI
+N07BC02
+metadon
+P02
+ANTIHELMINTICI
+P02A
+LIJEKOVI
+PROTIV NEMATODA
+P02CA01
+mebendazol
+R
+LIJEKOVI
+KOJI DJELUJU NA RESPIRATORNI SISTEM
+R03
+LIJEKOVI
+ZA LIJEČENJE ASTME
+R03A
+ANDRENERGICI,
+INHALACIONI
+R03AC02
+salbutamol
+R03B
+OSTALI
+LIJEKOVI ZA OPSTRUKTIVNE BOLESTI DISAJNIH PUTEVA, INHALACIONI
+R03BB
+ANTIHOLINERGICI
+R03BB04
+tiotropijum-bromid
+R03B
+OSTALI
+LIJEKOVI ZA LIJEČENJE OPSTRUKTIVNIH PLUĆNIH BOLESTI, INHALACIONI
+R03BA05
+flutikazon
+R03D
+OSTALI
+LIJEKOVI ZA SISTEMSKU PRIMJENU ZA LIJEČENJE OPSTRUKTIVNIH PLUĆNIH BOLESTI
+R03DA05
+aminofilin
+R06
+ANTIHISTAMINICI
+ZA SISTEMSKU PRIMJENU
+R06A
+ANTIHISTAMINICI
+ZA SISTEMSKU PRIMJENU
+R06AC03
+hlorpiramin
+S
+LIJEKOVI
+KOJI DJELUJU NA ČULA
+S01
+OFTALMICI
+S01A
+ANTIINFEKTIVI
+S01AA01
+hloramfenikol
+S01AD03
+aciklovir
+S01C
+ANTIINFLAMATORNI
+LIJEKOVI I ANTIINFEKTIVI U KOMBINACIJI
+S01CA01
+deksametazon
++ neomicin
+S01E
+LIJEKOVI
+ZA LIJEČENJE GLAUKOMA I MIOTICI
+S01ED01
+timolol
+V
+RAZNO
+V03AF01
+mesna
+V03AF03
+kalcijum-folinat
+V03AN
+MEDICINSKI
+GASOVI
+V03AN01
+Kiseonik
+(99,5 % v/v)
+V03A
+OSTALI
+TERAPEUTSKI PROIZVODI
+V03AB14
+Protamin-sulfat
+V03AB15
+nalokson
+V03AB25
+flumazenil
+V03AF03
+kalcijum-folinat
+V07
+OSTALI
+NETERAPEUTSKI PREPARATI
+V07A
+SVI
+OSTALI NETERAPEUTSKI PREPARATI
+V07AB
+voda
+za injekcije
+(2) Lijekovi na listi esencijalnih lijekova u Bosni i Hercegovini koji se koriste u zdravstvenim ustanovama koje se bave liječenjem onkoloških/hematoloških pacijenata su, kako slijedi:
+ATC
+klasifikacija
+Generički
+naziv (INN)
+L
+ANTINEOPLASTICI
+I IMUNOMODULATORI
+L01
+ANTINEOPLASTICI
+L01A
+ALKILIRAJUĆI
+CITOSTATICI
+L01AA01
+ciklofosfamid
+L01AX03
+temozolomid
+L01B
+ANTIMETABOLITI
+L01BA01
+metotreksat
+L01BB05
+fludarabin
+L01BC02
+fluorouracil
+L01BC05
+gemcitabin
+L01BC06
+kapecitabin
+L01C
+BILJNI
+ALKALOIDI I DRUGI PRIRODNI PROIZVODI
+L01CD01
+paklitaksel
+L01CA02
+vinkristin
+L01CB01
+etopozid
+L01CE01
+topotekan
+L01D
+CITOTOKSIČNI
+ANTIBIOTICI I SRODNE SUPSTANCE
+L01DB01
+doksorubicin
+L01DB03
+epirubicin
+L01DC01
+bleomicin
+L01E
+INHIBITORI
+PROTEIN KINAZE
+L01EB
+INHIBITORI
+TIROZIN KINAZNOG RECEPTORA EPIDERMALNOG FAKTORA RASTA
+L01EB02
+erlotinib
+L01X
+OSTALI
+ANTINEOPLASTICI
+L01XA01
+cisplatin
+L01XA02
+karboplatin
+L01XC02
+rituksimab
+L01XC03
+trastuzumab
+L01XC07
+inhibitor
+angiogeneze (npr. bevacizumab)
+L01XE01
+imatinib
+L01XX02
+asparaginase
+L02
+ENDOKRINOLOŠKA
+TERAPIJA
+L02A
+HORMONI
+I SRODNI LIJEKOVI
+L02AE02
+leuprorelin
+L02AE03
+goserelin
+L02B
+HORMONI
+ANTAGONISTI I SRODNI LIJEKOVI
+L01BA01
+tamoksifen
+L02BB03
+bikalutamid
+L02BG03
+anastrazol
+L02BG04
+letrozol
+L02BG06
+eksemestan
+L03
+IMUNOSTIMULANSI
+L03A
+IMUNOSTIMULANSI
+L03AA02
+filgrastim
+L04
+IMUNOSUPRESIVI
+L04A
+IMUNOSUPRESIVI
+L04AX
+OSTALI
+IMUNOSUPRESIVI
+L04AX02
+talidomid
+(3) Vakcine na listi esencijalnih lijekova u Bosni i Hercegovini koje se koriste u zdravstvenim ustanovama koje se bave imunizacijom stanovništva su, kako slijedi:
+ATC
+klasifikacija
+Generički
+naziv (INN)
+J06
+IMUNOSERUMI
+I IMUNOGLOBULINI
+J06A
+IMUNOSERUMI
+J06AA03
+antiserum
+protiv zmijskog ujeda
+J06A
+IMUNOGLOBULINI
+J06BB01
+anti-D
+(Rho) imunoglobulin (humani)
+J06BB02
+tetanus
+imunoglobulin
+J06BB05
+rabies
+imunoglobulin
+J06BB16
+palivizumab
+J07
+VAKCINE
+- CJEPIVA
+J07A
+BAKTERIJSKE
+VAKCINE - CJEPIVA
+J07AG01
+haemofilus
+influence B, prečišćen antigen konjugovani
+J07AJ52
+pertusis,
+prečišćeni antigen kombinacija sa toksoidima
+J07AM01
+tetanus
+toksoid
+J07AM51
+tetanus
+toksoid, toksoid difterije
+J07AN01
+vakcina
+protiv tuberkuloze, živa atenuisana
+J07B
+VIRUSNE
+VAKCINE - CJEPIVA
+J07BC01
+hepatitis
+B, prečišćeni antigen (za odrasle)
+hepatitis
+B, prečišćeni antigen (za djecu)
+J07BD52
+kombinovana
+vakcina protiv morbila, parotitisa i rubeole, živa atenuisana
+J07BF02
+vakcina
+protiv poliomijelitisa, oralna trovalentna, živa atenuisana
+J07BF03
+vakcina
+protiv poliomijelitisa, trovalentna, inaktivisana, cijeli virus
+J07BG01
+vakcina
+protiv rabiesa, inaktivisana, cijeli virus
+J07C
+BAKTERIJSKE
+I VIRUSNE VAKCINE, KOMBINACIJA
+J07CA
+BAKTERIJSKE
+I VIRUSNE VAKCINE, KOMBINACIJA
+J07CA02
+vakcina
+protiv difterije, pertusisa, poliomijelitisa, tetanusa
+J07CA06
+vakcina
+protiv difterije, hemofilus influence B, pertusisa, poliomijelitisa, tetanusa
+Član 4.
+(Stupanje na snagu i objava)
+Ova odluka stupa na snagu osmog dana od dana objavljivanja u "Službenom glasniku BiH", a objavit će se i u "Službenom glasniku Republike Srpske", "Službenim novinama Federacije BiH" i "Službenom glasniku Brčko Distrikta Bosne i Hercergovine".
+VM broj 80/26
+23. marta 2026. godine
+Sarajevo
+Predsjedavajuća
+Vijeća ministara BiH
+Borjana Krišto, s. r.
