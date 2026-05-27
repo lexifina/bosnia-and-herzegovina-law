@@ -1,1 +1,0 @@
-Na osnovu člana 14. stav (4) Zakona o graničnoj kontroli ("Službeni glasnik BiH", br. 53/09, 54/10 i 47/14) i člana 17. Zakona o Vijeću ministara Bosne i Hercegovine ("Službeni glasnik BiH", br. 30/03, 42/03, 81/06, 76/07, 81/07, 94/07 i 24/08), Vijeće ministara Bosne i Hercegovine na 98. sjednici održanoj 12.04.2017. godine, donijelo je
