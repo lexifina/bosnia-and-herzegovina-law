@@ -1,0 +1,1 @@
+Na osnovu člana IV. 4. a) Ustava Bosne i Hercegovine, Parlamentarna skupština Bosne i Hercegovine, na 39. sjednici Predstavničkog doma, održanoj 19. maja 2026. godine, i na 32. hitnoj sjednici Doma naroda, održanoj 11. juna 2026. godine, usvojila je
