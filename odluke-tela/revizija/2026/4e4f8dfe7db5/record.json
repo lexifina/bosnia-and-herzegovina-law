@@ -1,0 +1,16 @@
+{
+  "title": "Agencija za javne nabavke BiH",
+  "category": "finansijska revizija",
+  "audited_year": 2025,
+  "report_date": "2026-07-07",
+  "date_basis": "Sarajevo, 7.7.2026. godine",
+  "source": "https://www.revizija.gov.ba/app/uploads/2026/07/bs_Agencija-za-javne-nabavke-BiH.pdf",
+  "source_sha256": "297de8db9c1bd385effb0aac5a76362770c0b906403ed61ae097c500f8ba0f16",
+  "text_status": "metadata-and-official-link",
+  "law_status": "not-legislation",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
