@@ -1,0 +1,1 @@
+Na osnovu člana 13. stav 3., člana 21. stav 5. i člana 47. stav 1. tačka 3. i 7. i stav 2. Zakona o međunarodnom i međuentitetskom cestovnom prijevozu ("Službeni glasnik BiH", br. 1/02 i 14/03), ministar komunikacija i prometa Bosne i Hercegovine donosi
