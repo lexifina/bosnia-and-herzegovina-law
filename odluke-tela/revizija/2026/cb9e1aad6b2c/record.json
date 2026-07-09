@@ -1,0 +1,16 @@
+{
+  "title": "Agencija za državnu službu BiH",
+  "category": "finansijska revizija",
+  "audited_year": 2025,
+  "report_date": "2026-07-09",
+  "date_basis": "Sarajevo, 9.7.2026. godine",
+  "source": "https://www.revizija.gov.ba/app/uploads/2026/07/bs_Agencija_za_državnu_službu_BiH.pdf",
+  "source_sha256": "ff8ed177f3f67dcf64088d2f9d85a813fb092205bfcb3932a9702576afa86361",
+  "text_status": "metadata-and-official-link",
+  "law_status": "not-legislation",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
