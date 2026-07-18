@@ -1,0 +1,1 @@
+Na osnovu člana 7. tačka b) i članova 36., 57. i 70. Zakona o Centralnoj banci Bosne i Hercegovine ("Službeni glasnik BiH", br. 1/97, 29/02, 8/03, 13/03, 14/03, 9/05, 76/06 i 32/07), Upravno vijeće Centralne banke Bosne i Hercegovine, na 7. sjednici održanoj 10.7.2026. godine, donosi
