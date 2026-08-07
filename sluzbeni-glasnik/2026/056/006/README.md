@@ -1,0 +1,13 @@
+# ODLUKU O PRESTANKU VAŽENJA ODLUKE O ODREĐIVANJU PRIVREMENIH PRIHVATNIH CENTARA ZA SMJEŠTAJ MIGRANATA
+
+Naslov: ODLUKU O PRESTANKU VAŽENJA ODLUKE O ODREĐIVANJU PRIVREMENIH PRIHVATNIH CENTARA ZA SMJEŠTAJ MIGRANATA
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 56/26 (7.8.2026.), akt 6 od 24 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/x5QSM9kWiI4=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/S4Xc9VpSoDE=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
