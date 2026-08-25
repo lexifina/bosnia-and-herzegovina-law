@@ -1,0 +1,13 @@
+# ZAKLJUČAK
+
+Naslov: ZAKLJUČAK
+
+Donosilac: CENTRALNA IZBORNA KOMISIJA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 62/26 (25.8.2026.), akt 13 od 27 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/L5g9VPgztz5k76kjn45hRv48=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/Z8oocOrIzXA=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
