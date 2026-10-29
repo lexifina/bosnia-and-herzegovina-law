@@ -1,0 +1,1 @@
+Na osnovu člana 18. i 20. stav 2. tačka c) Zakona o kontroli kretanja oružja i vojne opreme ("Službeni glasnik BiH", br. 53/09 i 22/16), zamjenik ministra sigurnosti Bosne i Hercegovine donosi
