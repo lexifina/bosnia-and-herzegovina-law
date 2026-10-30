@@ -1,0 +1,33 @@
+{
+ "country": "BA",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Const.",
+   "title": "Constitution of Bosnia and Herzegovina",
+   "url": "https://www.ustavnisud.ba/public/down/USTAV_BOSNE_I_HERCEGOVINE_engl.pdf",
+   "versions": [
+    {
+     "from": "1995-12-14",
+     "units": 15,
+     "source_url": "https://www.ustavnisud.ba/public/down/USTAV_BOSNE_I_HERCEGOVINE_engl.pdf",
+     "sha256": "4420f0e0592fa8af999493b1be9351d8af7c76f77cf21803f5b13ed00d470317"
+    }
+   ]
+  },
+  {
+   "slug": "criminal-code",
+   "short": "CC BiH",
+   "title": "Criminal Code of Bosnia and Herzegovina",
+   "url": "https://www.tuzilastvobih.gov.ba/files/docs/zakoni/Criminal_Code_of_BH_-_Consolidated_text_47_14.pdf",
+   "versions": [
+    {
+     "from": "2017-05-04",
+     "units": 325,
+     "source_url": "https://www.tuzilastvobih.gov.ba/files/docs/zakoni/Criminal_Code_of_BH_-_Consolidated_text_47_14.pdf",
+     "sha256": "b125c27ee3b6a051268067c6da16c472049857be6ed6b722fd99f211fe0b7a8d"
+    }
+   ]
+  }
+ ]
+}
