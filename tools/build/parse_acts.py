@@ -7,7 +7,9 @@ writes corpus.d parts (SCHEMA.md in scripts/gitlaw_common). Deterministic: the s
     python -X utf8 parse_acts.py --src <folder with index.jsonl, fetched.jsonl, raw/> [--report holds.jsonl]
 
 Input formats: index.jsonl rows {"series", "issue", "yy", "date" (issue date), "issuer", "title", "akt"};
-fetched.jsonl rows {"akt", "sha256", "retrieved"}; raw/<sha1(akt)[:2]>/<sha1(akt)>.html.gz = the page's document part.
+fetched.jsonl rows {"akt", "sha256", "retrieved"}; raw/<sha1(akt)[:2]>/<sha1(akt)>.html.gz = the page's document part;
+optional unfetchable.json {akt: reason}: act links whose page the publisher does not serve (a server error on every
+attempt), so their text can never be read.
 
 What becomes an act here: a law the Parliamentary Assembly adopted (issuer PARLAMENTARNA SKUPŠTINA BOSNE I
 HERCEGOVINE, title beginning ZAKON), as published, one version, in force on the day its own final article names,
@@ -17,12 +19,17 @@ the title is kept as the preamble; the signatures below the text are not part of
 An act is held back, not published (the reason is written to the report), when:
 - a later act in the gazette index is titled as amending, repealing or correcting it (ZAKON O IZMJENI/IZMJENAMA/
   DOPUNI/DOPUNAMA ... ZAKONA O <its subject>, ZAKON O PRESTANKU VAŽENJA ..., ISPRAVKA ...);
-- a later text held cites it by name with its gazette number followed by later issues (its amendments), or a
-  Constitutional Court decision that finds provisions unconstitutional or strikes them cites it; for an amending law,
-  a later law or such a court decision citing the amending law itself, or a correction naming it;
+  (a title only similar to its own does not count when that amending text's citation of its target names another
+  act's gazette issue and never this one);
+- a later text held cites it by name with its gazette number followed by later issues (its amendments), or in a
+  sentence saying it ceases to be valid ("prestaje važiti ..."), or a Constitutional Court decision that finds
+  provisions unconstitutional or strikes them cites it; for an amending law, a later law or such a court decision
+  citing the amending law itself, or a correction naming it (unless the correction names another gazette issue);
 - its title is not of the form ZAKON O ... (codes such as KRIVIČNI ZAKON are amended under other names);
 - its own final article does not name a day this parser can read;
 - its articles do not split cleanly (none, a number twice, numbers not consecutive, an empty article).
+An act is judged only when every text that could change it and that the publisher serves is held; for a text listed
+as unfetchable only its title is checked.
 """
 from __future__ import annotations
 
@@ -34,6 +41,7 @@ import json
 import re
 from collections import defaultdict
 from datetime import date, timedelta
+from difflib import SequenceMatcher
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
@@ -97,6 +105,12 @@ def target_subject(title: str) -> str | None:
     return f"{stem(t.group(1))}:{subject(m.group(1)[t.end():])}" if t else None
 
 
+def code_target(title: str) -> str | None:
+    """An amending law of a code named without "ZAKON O" (ZAKON O IZMJENAMA ... IZBORNOG / KRIVIČNOG ZAKONA ...)."""
+    m = re.match(r"^ZAKON\s+O\s+(?:IZMJEN\w*|DOPUN\w*)(?:\s+I\s+(?:IZMJEN\w*|DOPUN\w*))*\s+(\w+\s+ZAKONA\b.*)$", norm(title).upper())
+    return f"zakon:{subject(m.group(1))}" if m else None
+
+
 def similar(a: str, b: str, n: int) -> bool:
     """Same kind of act, and one subject starts with the first n characters of the other."""
     ka, sa = a.split(":", 1)
@@ -129,8 +143,12 @@ def lines_of(fragment: str) -> list[str]:
     return out
 
 
-def split(page: str, word: str = "ZAKON") -> tuple[dict, str, str | None]:
-    """(units, title, adoption day) from the document part of the act page."""
+def split(page: str, word: str = "ZAKON", quoted: bool = False) -> tuple[dict, str, str | None]:
+    """(units, title, adoption day) from the document part of the act page.
+
+    quoted: an amending act whose centred article headings include the articles it inserts or rewrites. A heading
+    right after "... glasi:" / "... glase:", and the headings that follow it in sequence, belong to the article quoting
+    them; the act's own articles must then run 1, 2, 3 ... (a heading that could be either is held as ambiguous)."""
     end = page.find('<div class="col-md-3')
     main, tail = (page[:end], page[end:]) if end > 0 else (page, "")
     main = re.sub(r'<div class="row" style="display: none">.*?</div>\s*</div>\s*</div>', "", main, count=1, flags=re.S)
@@ -150,6 +168,7 @@ def split(page: str, word: str = "ZAKON") -> tuple[dict, str, str | None]:
     order: list[str] = []
     pending: list[str] = []
     cur = None
+    own_n, in_q, q_last = 0, False, None
     for kind, val in pieces:
         if kind == "text":
             ls = lines_of(val)
@@ -174,7 +193,32 @@ def split(page: str, word: str = "ZAKON") -> tuple[dict, str, str | None]:
             title_parts = strongs
             continue
         m = ART.match(strongs[0])
+        if m and title_parts and quoted and cur is not None:
+            n = int(m.group(1))
+            prev = (units[cur]["lines"] + pending)[-1]
+            intro = bool(re.search(r"\bgla(?:si|se)\s*:\s*\"?$", prev))
+            cont = in_q and n in (q_last, q_last + 1)
+            own_next = not m.group(2) and n == own_n + 1
+            named_nums = re.findall(r"\b(?:[Čč]lan\w*|čl\.)\s+(\d+)", prev) if intro else []
+            if intro and named_nums and str(n) not in named_nums:
+                # "... glasi:" naming other articles: this heading is not the one quoted (its text is missing from
+                # the page), so it must be the act's own next article
+                intro = False
+            elif intro and own_next and not named_nums:
+                raise Hold("article_numbers_ambiguous")  # "... glasi:" naming no article, then the own next number
+            if intro or cont:
+                if own_next and not intro:
+                    raise Hold("article_numbers_ambiguous")
+                units[cur]["lines"].extend(pending + strongs)  # the quoted heading (and caption) as lines
+                pending.clear()
+                in_q, q_last = True, n
+                continue
+            if not own_next:
+                raise Hold("article_numbers_not_consecutive")
+            in_q = False
         if m and title_parts:
+            if not m.group(2):
+                own_n = int(m.group(1))
             key = f"art-{int(m.group(1)):03d}" + (f"-{m.group(2)}" if m.group(2) else "")
             if key in units:
                 raise Hold(f"duplicate_unit:{key}")
@@ -189,7 +233,9 @@ def split(page: str, word: str = "ZAKON") -> tuple[dict, str, str | None]:
             cur = key
             continue
         joined = " ".join(strongs)
-        if not title_parts:
+        if quoted and in_q:
+            units[cur]["lines"].append(joined)  # a centred line of the quoted text
+        elif not title_parts:
             pre.append(joined)
         elif HEADING.match(joined) or (joined == joined.upper() and re.search(r"[A-ZČĆŽŠĐ]{3}", joined)):
             pending.append(joined)
@@ -224,7 +270,7 @@ def split(page: str, word: str = "ZAKON") -> tuple[dict, str, str | None]:
     return out, title, adopted
 
 
-def in_force(units: dict, published: str, adopted: str | None = None) -> tuple[str, str]:
+def in_force(units: dict, published: str, adopted: str | None = None, title: str | None = None) -> tuple[str, str]:
     arts = [u["text"].replace("\n", " ") for k, u in units.items() if u["kind"] == "art"]
     text = " ".join(arts)
     # This law's own clause: outside quotation marks (provisions quoted into another act are not its own), or in
@@ -233,14 +279,79 @@ def in_force(units: dict, published: str, adopted: str | None = None) -> tuple[s
     last = [m.group(1) for m in IN_FORCE.finditer(arts[-1]) if not arts[-1][:m.start()].rstrip().endswith('"')]
     if not clauses and last:
         clauses = last
+    full = None
     if not clauses:
-        raise Hold("in_force_clause_missing")
+        # The act names itself another way in its last article ("Zakon stupa ...", "Izmjene i dopune Pravilnika
+        # stupaju ...", "Ovaj Pravilnik, stupa ..."): a sentence of the last article, outside quotation marks.
+        clauses = own_clause(arts[-1], title)
+        if not clauses:
+            raise Hold("in_force_clause_missing")
+    else:
+        # the clause up to the end of its sentence, numeric dates included ("stupa na snagu 01.01.2015. godine")
+        m = list(IN_FORCE.finditer(text if clauses is not last else arts[-1]))
+        m = [x for x in m if x.group(1) == clauses[-1]]
+        if m:
+            full = (text if clauses is not last else arts[-1])[m[-1].start(1):m[-1].start(1) + 160]
     c = clauses[-1].strip()
+    try:
+        return read_day(c, published, adopted)
+    except Hold as h:
+        if not str(h).startswith("in_force_unreadable"):
+            raise
+        # Second reading, for clauses the first one cannot read: spelling variants and numeric dates.
+        return read_day(variants(full or c), published, adopted, second=True)
+
+
+def own_clause(last: str, title: str | None) -> list[str]:
+    """In-force clauses of the last article whose subject is the act itself, outside quotation marks."""
+    out = []
+    t = subject(title or "")
+    for m in re.finditer(r"(?:^|(?<=[.:]\s)|(?<=\)\s))([^.\"]{0,300}?)\s*,?\s+stupaj?u?\s+na\s+snagu\s+([^\"]*?(?:\"[^\"]*\"[^\".]*)*)(?=\.\s|\.$|$)", last):
+        if last.count('"', 0, m.start()) % 2:
+            continue
+        subj = re.sub(r"^#\s*Član\s+\d+\w?\.\s*", "", m.group(1)).strip()
+        subj = re.sub(r"^\([^)]*\)\s*", "", subj).strip()
+        s = subject(subj)
+        if re.fullmatch(r"(?:(?:ovaj|ovo|ova|ove|taj)\s+)?(?:pravilnika?|pravlnik|zakon|uputstvo|upustvo|poslovnik|pravilo)", s) or \
+                re.fullmatch(r"(?:ove?\s+|ova\s+)?(?:izmjen[ae]|dopun[ae])(?:\s+i\s+(?:izmjen[ae]|dopun[ae]))?\s+(?:pravilnika|zakona|uputstva|poslovnika|pravila)"
+                             r"(?:\s+o\s+.+)?", s) or \
+                (t and len(s) >= 20 and re.sub(r"^(?:ovaj|ovo|ova|ove|taj)\s+", "", s)[:40] == t[:40]):
+            out.append(m.group(2))
+    return out
+
+
+def variants(c: str) -> str:
+    """Spelling variants of an in-force clause, for the second reading only."""
+    c = c.replace("lј", "lj").replace("nј", "nj").replace("Ј", "J").replace("ođ", "od").strip()
+    c = re.sub(r"\bobavljivanja\b", "objavljivanja", c)
+    c = re.sub(r"\bobjave\b", "objavljivanja", c)
+    c = re.sub(r"^(\w+)\s*\(\s*(?:\d+|osam|osmi|osmog)\s*\)", r"\1", c)  # "osmog (8) dana", "8 (osam) dana"
+    c = re.sub(r"^(?:osam|osmi)\s+dana?\b", "osmog dana", c)
+    c = re.sub(r"^prvi\s+dan\b", "prvog dana", c)
+    c = re.sub(r"^dan\s+nakon\b", "prvog dana nakon", c)
+    c = re.sub(r"^prvog\s+narednog\s+dana\b", "narednog dana", c)
+    c = re.sub(r"\bdana\s+od\s+objavljivanja\b", "dana od dana objavljivanja", c)
+    c = re.sub(r"\bnakon\s+dana\s+objavljivanja\b", "nakon objavljivanja", c)
+    c = re.sub(r"^objavljivanjem\b", "danom objavljivanja", c)
+    # the day it was signed (the signature block's day), when no other condition or day is attached
+    if not re.search(r"saglasnost|\d{1,2}\.\s*\d{1,2}\.\s*\d{4}", c):
+        c = re.sub(r"^dan[ao]m\s+(?:potpisivanja|donošenja)\b", "danom donošenja", c)
+    return c
+
+
+def read_day(c: str, published: str, adopted: str | None, second: bool = False) -> tuple[str, str]:
     # matching only: some texts mix Cyrillic ј into Latin lj/nj, and say "objave" for "objavljivanja"
     c = c.replace("lј", "lj").replace("nј", "nj").replace("Ј", "J")
     c = re.sub(r"\bobjave\b", "objavljivanja", c)
     c = re.sub(r"^osam\s+dana", "osmog dana", c)
     p = date.fromisoformat(published)
+    if second:
+        # "narednog dana od dana donošenja": counted from the day it was made (signature block), not after publication
+        m = re.match(r"^(" + "|".join(ORD) + r")a?\s+dana\s+(?:od\s+dana|nakon|po|poslije)\s+(?:njegovog\s+)?donošenja\b", c)
+        if m:
+            if adopted and adopted <= published:
+                return (date.fromisoformat(adopted) + timedelta(days=ORD[m.group(1)])).isoformat(), "adoption_days"
+            raise Hold("in_force_on_adoption_day_unknown")
     if re.match(r"^(?:danom|na\s+dan|s\s+danom|sa\s+danom)\s+(?:njegovog\s+)?donošenja", c):
         # in force on the day it was made: that day comes from the signature block, and must not follow publication
         if adopted and adopted <= published:
@@ -260,6 +371,36 @@ def in_force(units: dict, published: str, adopted: str | None = None) -> tuple[s
         mo = MONTHS.get(m.group(2)) or int(m.group(2))
         return date(int(m.group(3)), mo, int(m.group(1))).isoformat(), "date"
     raise Hold("in_force_unreadable:" + c[:100])
+
+
+REPEAL = re.compile(r"\bprestaj[eu]\s+(?:da\s+)?važi(?:ti)?\b|\bprestaj[eu]\s+važnost|\bstavlja(?:ju)?\s+se\s+van\s+snage|"
+                    r"\bvan\s+snage\s+(?:se\s+)?stavlja")
+SENTENCE_END = re.compile(r"(?<=[a-zčćžšđ)\"])\.\s+(?=[A-ZČĆŽŠĐ])|\bČlan\s+\d+\w?\.\s")
+
+
+def repeals(flat: str, start: int, end: int) -> bool:
+    """The sentence holding a citation says that what it names ceases to be valid ("prestaje važiti ..."); not when
+    the citation names the event it is timed by ("... danom stupanja na snagu Zakona o ...")."""
+    if re.search(r"(?:stupanja|stupanjem)\s+na\s+snagu\s*$|primjen\w*\s*$", flat[max(0, start - 40):start]):
+        return False
+    a = max(0, start - 400)
+    b = min(len(flat), end + 200)
+    before = [m.end() for m in SENTENCE_END.finditer(flat, a, start)]
+    after = SENTENCE_END.search(flat, end, b)
+    return bool(REPEAL.search(flat[before[-1] if before else a: after.start() if after else b]))
+
+
+def same_name(cited: str, title: str) -> bool:
+    """A full name cited ("... o <name>") is this act's title: the same after their common start, or differing only
+    in a short tail (spelling); not two names that end in different words ("... političkih stranaka" / "...
+    nezavisnih kandidata")."""
+    a = re.sub(r"\W+", "", cited.lower())
+    b = re.sub(r"\W+", "", re.sub(r"^\w+\s+o\s+", "", norm(title).lower()))
+    p = 0
+    while p < min(len(a), len(b)) and a[p] == b[p]:
+        p += 1
+    ta, tb = a[p:], b[p:]
+    return not (len(ta) >= 8 and len(tb) >= 8 and SequenceMatcher(None, ta, tb).ratio() < 0.6)
 
 
 def raw_path(src: Path, akt: str) -> Path:
@@ -312,11 +453,17 @@ def main():
     rejects = json.loads(Path(a.rejects).read_text(encoding="utf-8")) if a.rejects and Path(a.rejects).exists() else {}
     rows = [r for r in rows if r.get("series") == "Službeni glasnik BiH"]
     # Later titles that amend, repeal or correct a subject.
-    named: dict[str, list[str]] = defaultdict(list)
+    named: dict[str, list[tuple[str, str | None]]] = defaultdict(list)
     for r in rows:
         ts = target_subject(r["title"])
         if ts:
-            named[ts].append(r["date"])
+            named[ts].append((r["date"], r.get("akt")))
+    # Each issue's acts by subject: to tell which act an amending text's citation points to.
+    at_issue: dict[tuple[int, int], list[tuple[str, str | None]]] = defaultdict(list)
+    for r in rows:
+        s = own_subject(r["title"])
+        if s:
+            at_issue[(r["issue"], 2000 + int(r["yy"]) if len(r["yy"]) == 2 else int(r["yy"]))].append((s, r.get("akt")))
     # Citations of (subject, issue) in every text held, with the citing act's date and whether it is a court decision.
     cites: dict[tuple[str, int, int], list[tuple[str, bool]]] = defaultdict(list)
     texts: dict[str, str] = {}
@@ -345,9 +492,12 @@ def main():
         kind = "court" if court else "law" if r["title"].upper().startswith("ZAKON") else "other"
         for m in CITE.finditer(flat):
             lst = issues_in(m.group(3))
+            # the full name repealed (subjects are cut at 80 characters, too short to tell some acts apart)
+            rep = kind != "court" and repeals(flat, m.start(), m.end()) and norm(m.group(2)).lower().strip(" .,;:")
             for k, iss in enumerate(lst):
-                # (citing day, citing kind, citing act, court struck something, issues listed after this one)
-                found.append([f"{stem(m.group(1))}:{subject(m.group(2))}", iss[0], iss[1], kind, r["akt"], struck, len(lst) - k - 1])
+                # (citing day, citing kind, citing act, court struck something, issues listed after this one,
+                #  the citing sentence repeals what it names)
+                found.append([f"{stem(m.group(1))}:{subject(m.group(2))}", iss[0], iss[1], kind, r["akt"], struck, len(lst) - k - 1, rep])
         new_cache[ck] = found
         for key, n_, y_, *rest in found:
             cites[(key, n_, y_)].append((r["date"], *rest))
@@ -360,14 +510,36 @@ def main():
             and (first_word(r) != "ZAKON" or r["issuer"].upper().startswith(ISSUER))]
     # Texts that can amend or strike a law (laws and Constitutional Court decisions): an act is judged only when every
     # such text published on or after its day is held, so a citation not yet read can never be missed.
+    # A text the publisher's page does not serve (listed in unfetchable.json) can never be read: the gate does not
+    # wait for it, and only its title counts (the amendment and repeal titles above); a text read later counts fully.
+    unfetchable = {}
+    if (src / "unfetchable.json").exists():
+        unfetchable = json.loads((src / "unfetchable.json").read_text(encoding="utf-8"))
     missing = defaultdict(list)
     for r in rows:
-        if r.get("akt") and r["akt"] not in texts:
+        if r.get("akt") and r["akt"] not in texts and r["akt"] not in unfetchable:
             for w in KINDS:
                 if w != "ZAKON" or first_word(r) == "ZAKON" or "USTAVNI SUD" in r["issuer"].upper():
                     missing[w].append(r["date"])
     complete_from = {w: max(missing[w], default="0000") for w in KINDS}
     missing_days = missing["ZAKON"]
+    cited_by: dict[str, set[tuple[str, int, int]]] = defaultdict(set)  # citing act -> (subject, issue) it cites
+    per_cite: dict[tuple[str, str], set[tuple[int, int]]] = defaultdict(set)
+    for (s, n, y), lst in cites.items():
+        for c in lst:
+            cited_by[c[2]].add((s, n, y))
+            per_cite[(s, c[2])].add((n, y))
+    multi = {k for k, v in per_cite.items() if len(v) > 1}  # (subject, citing act) cited with several issues
+
+    def other_act(x_akt: str | None, ts: str, subj: str, own: tuple[int, int], akt: str) -> bool:
+        """The amending text x (held) cites its target under issues that are another act of that subject, and never
+        this act's issue: its title names another act, not this one."""
+        if not x_akt or x_akt not in texts:
+            return False
+        iss = {(n, y) for s, n, y in cited_by.get(x_akt, ()) if similar(s, ts, 40)}
+        if not iss or own in iss:
+            return False
+        return any(similar(s2, ts, 40) and a2 != akt for i in iss for s2, a2 in at_issue.get(i, ()))
     seen_slugs = set()
     for r in sorted(laws, key=lambda x: (x["date"], x["issue"], x["akt"])):
         title = norm(r["title"])
@@ -383,39 +555,58 @@ def main():
             kslug, lkind = KINDS[word]
             if pub <= complete_from[word]:
                 raise Hold("awaiting_later_texts:" + complete_from[word])
-            amending = target_subject(title) is not None
+            ts = target_subject(title) or code_target(title)
+            amending = ts is not None
             subj = own_subject(title)
             if not amending and not subj:
                 raise Hold("title_form")
             if amending:
-                ts = target_subject(title)
+                # a correction titled with this law's name counts, unless it names another gazette issue ("(br. 17/24)")
                 corr = [x for x in rows if x["date"] >= pub and x is not r and x["title"].upper().startswith("ISPRAVK")
-                        and subject(x["title"]).find(re.sub(r"^\w+ o ", "", subject(title))[:60]) >= 0]
+                        and subject(x["title"]).find(re.sub(r"^\w+ o ", "", subject(title))[:60]) >= 0
+                        and not ((iss := issues_in(" ".join(re.findall(r"\(\s*br(?:oj|\.)\s*([^)]*)\)", x["title"], flags=re.I))))
+                                 and own not in iss)]
                 if corr:
                     raise Hold("correction_named")
                 # A later text citing this amending law itself by name and issue (not the principal law's list).
                 tk, tsub = ts.split(":", 1)
                 own_cites = [c for (s, n, y), lst in cites.items() if (n, y) == own and s.split(":", 1)[0] == stem(word)
                              and re.match(r"^(?:izmjen|dopun)", s.split(":", 1)[1]) and tsub[:40] in s for c in lst if c[2] != r["akt"] and c[0] >= pub
-                             and (c[1] == "law" or (c[1] == "court" and c[3]))]
+                             and (c[1] == "law" or (c[1] == "court" and c[3]))
+                             # a code's amending law: a citation listing several issues names the code, not this law
+                             and not (ts == code_target(title) and (s, c[2]) in multi)]
                 if own_cites:
                     raise Hold("amending_law_cited_later:" + ",".join(sorted({c[0] for c in own_cites})[:3]))
             else:
-                later = [d for d in named.get(subj, []) if d >= pub]
-                later += [d for s, lst in named.items() if s != subj and similar(s, subj, 50) for d in lst if d >= pub]
+                later = [d for d, _ in named.get(subj, []) if d >= pub]
+                # a similar title (not the same) counts unless that amending text's own citation shows another act
+                later += [d for s, lst in named.items() if s != subj and similar(s, subj, 50) for d, x in lst if d >= pub
+                          and not other_act(x, s, subj, own, r["akt"])]
                 if later:
                     raise Hold("named_as_amended:" + ",".join(sorted(set(later))[:3]))
                 # A later citation that lists issues after this one names its amendments; a court decision that
-                # strikes provisions changes it. A citation of this issue alone (a regulation's legal basis) does not.
+                # strikes provisions changes it; a sentence saying it ceases to be valid repeals it. A citation of this
+                # issue alone otherwise (a regulation's legal basis) does not.
                 by_cite = [c for (s, n, y), lst in cites.items() if (n, y) == own and similar(s, subj, 40)
                            for c in lst if c[2] != r["akt"] and c[0] >= pub and (c[4] > 0 or (c[1] == "court" and c[3]))]
                 if by_cite:
                     raise Hold("cited_later:" + ",".join(sorted({c[0] for c in by_cite})[:3]))
+                by_rep = [c for (s, n, y), lst in cites.items() if (n, y) == own and similar(s, subj, 40)
+                          for c in lst if c[2] != r["akt"] and c[0] >= pub and c[5] and same_name(c[5], title)]
+                if by_rep:
+                    raise Hold("repealed_later:" + ",".join(sorted({c[0] for c in by_rep})[:3]))
             page = gzip.decompress(raw_path(src, r["akt"]).read_bytes()).decode("utf-8")
-            units, text_title, adopted = split(page, word)
+            try:
+                units, text_title, adopted = split(page, word)
+            except Hold as h:
+                # an amending act whose centred headings include the articles it quotes: split again, quote-aware
+                if not (str(h).startswith(("article_numbers_not_consecutive", "duplicate_unit"))
+                        and re.search(r"\b(?:IZMJEN|DOPUN)", title.upper())):
+                    raise
+                units, text_title, adopted = split(page, word, quoted=True)
             if subject(text_title).replace(" ", "") != subject(title).replace(" ", ""):
                 raise Hold("title_mismatch:" + text_title[:100])
-            day, how = in_force(units, pub, adopted)
+            day, how = in_force(units, pub, adopted, title)
             if adopted and not (adopted <= pub <= (date.fromisoformat(adopted) + timedelta(days=90)).isoformat()):
                 raise Hold(f"adoption_day_inconsistent:{adopted}")
         except Hold as h:

@@ -1,0 +1,28 @@
+# Pravilnik o izmjenama i dopunama pravilnika o uslovima za stavljanje u promet, kvaliteti i kontroli kvalitete mineralnih gnojiva te skladištenju i rukovanju mineralnim đubrivima
+
+Pravilnik o izmjenama i dopunama pravilnika o uslovima za stavljanje u promet, kvaliteti i kontroli kvalitete mineralnih gnojiva te skladištenju i rukovanju mineralnim đubrivima · 1 versions, from 2013-05-08 (latest in force: 2013-05-08) · <https://www.sluzbenilist.ba/page/akt/74pwUAgztz5k76kjn45hqVVA=>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Član 1. | [art-001.md](art-001.md) | 0 |  |
+| Član 2. | [art-002.md](art-002.md) | 0 |  |
+| Član 3. | [art-003.md](art-003.md) | 0 |  |
+| Član 4. | [art-004.md](art-004.md) | 0 |  |
+| Član 5. | [art-005.md](art-005.md) | 0 |  |
+| Član 6. | [art-006.md](art-006.md) | 0 |  |
+| Član 32b. | [art-032-b.md](art-032-b.md) | 0 |  |
+| Član 32c. | [art-032-c.md](art-032-c.md) | 0 |  |
+| Član 32d. | [art-032-d.md](art-032-d.md) | 0 |  |
+| Član 32e. | [art-032-e.md](art-032-e.md) | 0 |  |
+| Član 32f. | [art-032-f.md](art-032-f.md) | 0 |  |
+| Član 32g. | [art-032-g.md](art-032-g.md) | 0 |  |
+| Uvod | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `pravilnik-2013-sg033-27d1b0` (tags `pravilnik-2013-sg033-27d1b0/<day>`; `python tools/on.py <day> pravilnik-2013-sg033-27d1b0`).
+
+## Decisions made by hand
+
+- A law of the Parliamentary Assembly is published here as published in Službeni glasnik BiH, in its Bosnian text; the enacting formula is kept as the preamble, the signatures below the text are cut.
+- Its one version takes effect on the day its own final article names, counted from the gazette issue date ("osmog dana od dana objavljivanja" = issue date + 8); a separate day of application is only noted.
+- A law is published only when no later act in the gazette index is titled as amending, repealing or correcting it and no later text held cites it by name and gazette number; an amending law only when no correction names it and no Constitutional Court decision cites it.
+- Articles follow the publisher's centred article headings (Član N.); a centred line directly under one is its caption.
