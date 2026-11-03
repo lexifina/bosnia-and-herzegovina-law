@@ -1,6 +1,6 @@
 # Every act in this repository
 
-556 acts, 556 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+577 acts, 577 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## constitution (1)
 
@@ -14,10 +14,11 @@
 | --- | --- | --- | ---: | --- | --- |
 | Criminal Code of Bosnia and Herzegovina | [`criminal-code/`](criminal-code/) | in force | 1 | 2017-05-04 | 2017-05-04 |
 
-## poslovnik (6, of which 3 amending acts)
+## poslovnik (7, of which 3 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| Poslovnik o radu vijeća za sigurnost prometa na cestama u bosni i hercegovini | [`poslovnik/2020/sg049-295bac/`](poslovnik/2020/sg049-295bac/) | in force | 1 | 2020-08-19 | 2020-08-19 |
 | Poslovnik o proceduri provedbe javne konkurencije i imenovanja članova centralne izborne komisije Bosne i Hercegovine | [`poslovnik/2021/sg014-f14dd6/`](poslovnik/2021/sg014-f14dd6/) | in force | 1 | 2021-03-03 | 2021-03-03 |
 | Poslovnik o dopunama poslovnika o radu upravnog odbora uprave za indirektno oporezivanje | [`poslovnik/2022/sg079-74b878/`](poslovnik/2022/sg079-74b878/) | amending act | 1 | 2022-11-30 | 2022-11-30 |
 | Poslovnik o izmjeni poslovnika visokog sudskog i tužilačkog vijeća Bosne i Hercegovine | [`poslovnik/2024/sg009-d53060/`](poslovnik/2024/sg009-d53060/) | in force | 1 | 2024-02-14 | 2024-02-14 |
@@ -25,10 +26,26 @@
 | Poslovnik o dopunama poslovnika visokog sudskog i tužilačkog vijeća Bosne i Hercegovine | [`poslovnik/2025/sg079-51fec1/`](poslovnik/2025/sg079-51fec1/) | amending act | 1 | 2025-12-30 | 2025-12-30 |
 | Poslovnik o izmjeni poslovnika visokog sudskog i tužilačkog vijeća Bosne i Hercegovine | [`poslovnik/2026/sg027-f8cac1/`](poslovnik/2026/sg027-f8cac1/) | in force | 1 | 2026-04-18 | 2026-04-18 |
 
-## pravilnik (258, of which 99 amending acts)
+## pravilnik (274, of which 104 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| Pravilnik o cjelovitosti i transparentnosti veleprodajnog tržišta električne energije | [`pravilnik/2020/sg028-6b272c/`](pravilnik/2020/sg028-6b272c/) | in force | 1 | 2020-05-30 | 2020-05-30 |
+| Pravilnik o izmjenama i dopunama pravilnika o tehničkim pregledima vozila | [`pravilnik/2020/sg029-2cc8ed/`](pravilnik/2020/sg029-2cc8ed/) | amending act | 1 | 2020-05-31 | 2020-05-31 |
+| Pravilnik o izmjeni i dopuni pravilnika o registriranju vozila | [`pravilnik/2020/sg029-53f4db/`](pravilnik/2020/sg029-53f4db/) | amending act | 1 | 2020-05-24 | 2020-05-24 |
+| Pravilnik o sprječavanju i zaštiti od diskriminacije u upravi za indirektno oporezivanje | [`pravilnik/2020/sg033-dbd79c/`](pravilnik/2020/sg033-dbd79c/) | in force | 1 | 2020-06-20 | 2020-06-20 |
+| Pravilnik o provođenju postupka prinudne naplate indirektnih poreza | [`pravilnik/2020/sg035-841549/`](pravilnik/2020/sg035-841549/) | in force | 1 | 2020-06-27 | 2020-06-27 |
+| Pravilnik o izmjenama i dopunama pravilnika o izdavanju diplomatskih pasoša | [`pravilnik/2020/sg036-98cfa6/`](pravilnik/2020/sg036-98cfa6/) | amending act | 1 | 2020-07-01 | 2020-07-01 |
+| Pravilnik o izmjeni pravilnika o upotrebi i izradi izvoda iz centralnog biračkog spiska | [`pravilnik/2020/sg038-ce80ec/`](pravilnik/2020/sg038-ce80ec/) | in force | 1 | 2020-07-01 | 2020-07-01 |
+| Pravilnik o stavljanјu van snage pravilnika o uspostavljanјu mreže i načinu rada zrakoplovnih meteoroloških stanica | [`pravilnik/2020/sg040-119c06/`](pravilnik/2020/sg040-119c06/) | in force | 1 | 2020-07-15 | 2020-07-15 |
+| Pravilnik o uspostavljanju okvira za stvaranje jedinstvenog evropskog neba | [`pravilnik/2020/sg040-46aecf/`](pravilnik/2020/sg040-46aecf/) | in force | 1 | 2020-07-15 | 2020-07-15 |
+| Pravilnik o stavlјanјu van snage pravilnika o radu zrakoplovne meteorološke službe Bosne i Hercegovine | [`pravilnik/2020/sg040-50788b/`](pravilnik/2020/sg040-50788b/) | in force | 1 | 2020-07-15 | 2020-07-15 |
+| Pravilnik o izmjenama i dopunama pravilnika o primjeni zakona o porezu na dodanu vrijednost | [`pravilnik/2020/sg044-5200ca/`](pravilnik/2020/sg044-5200ca/) | amending act | 1 | 2020-08-01 | 2020-08-01 |
+| Pravilnik o izmjeni pravilnika o službenoj legitimaciji za zaposlene u ministarstvu odbrane i oružanim snagama Bosne i Hercegovine | [`pravilnik/2020/sg045-763b33/`](pravilnik/2020/sg045-763b33/) | in force | 1 | 2020-07-15 | 2020-07-15 |
+| Pravilnik o uvjetima za izvođenje letačkih operacija dronovima | [`pravilnik/2020/sg051-3ce52b/`](pravilnik/2020/sg051-3ce52b/) | in force | 1 | 2020-08-26 | 2020-08-26 |
+| Pravilnik o izmjeni i dopuni pravilnika o uslovima nabavke i načinu korištenja službenih vozila u institucijama Bosne i Hercegovine | [`pravilnik/2020/sg054-0ceec3/`](pravilnik/2020/sg054-0ceec3/) | amending act | 1 | 2020-07-29 | 2020-07-29 |
+| Pravilnik o izmjenama pravilnika o brodarskoj i pomorskoj knjižici | [`pravilnik/2020/sg055-b84f9e/`](pravilnik/2020/sg055-b84f9e/) | in force | 1 | 2020-09-12 | 2020-09-12 |
+| Pravilnik o načinu prikupljanja i obradi statističkih podataka o saobraćajnim nezgodama | [`pravilnik/2020/sg063-f3169b/`](pravilnik/2020/sg063-f3169b/) | in force | 1 | 2020-10-17 | 2020-10-17 |
 | Pravilnik o izmjenama i dopunama pravilnika o kućnom redu zavoda za izvršenje krivičnih sankcija, pritvora i drugih mjera Bosne i Hercegovine | [`pravilnik/2020/sg065-c25a60/`](pravilnik/2020/sg065-c25a60/) | amending act | 1 | 2020-10-24 | 2020-10-24 |
 | Pravilnik o izmjenama i dopunama pravilnika o cemt dozvolama | [`pravilnik/2020/sg072-7941a9/`](pravilnik/2020/sg072-7941a9/) | amending act | 1 | 2020-11-18 | 2020-11-18 |
 | PRAVILNIK O PRIMJENI FUNKCIONALNIH I TEHNIČKIH ZAHTJEVA NA PODSISTEME U ŽS BiH (JTP GEN - B) | [`pravilnik/2020/sg079-1bbb14/`](pravilnik/2020/sg079-1bbb14/) | in force | 1 | 2020-12-16 | 2020-12-16 |
@@ -297,10 +314,14 @@
 | Pravilo o dopunama pravila 92/2020 o radioamaterskoj službi | [`pravilo/2022/sg041-8c2069/`](pravilo/2022/sg041-8c2069/) | amending act | 1 | 2022-07-02 | 2022-07-02 |
 | Pravilo o izmjenama i dopunama pravila 89/2018 o naknadama za dozvole regulatorne agencije za komunikacije | [`pravilo/2022/sg047-726931/`](pravilo/2022/sg047-726931/) | amending act | 1 | 2022-07-27 | 2022-07-27 |
 
-## uputstvo (103, of which 29 amending acts)
+## uputstvo (107, of which 29 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| Uputstvo o rokovima i redoslijedu izbornih aktivnosti za lokalne izbore 2020. godine koji će se održati u nedjelju 15. novembra 2020. godine | [`uputstvo/2020/sg029-97d74f/`](uputstvo/2020/sg029-97d74f/) | in force | 1 | 2020-05-23 | 2020-05-23 |
+| Uputstvo o stavljanju van snage uputstva za izradu vizuelnih i instrumentalnih procedura za letenje | [`uputstvo/2020/sg040-33327d/`](uputstvo/2020/sg040-33327d/) | in force | 1 | 2020-07-15 | 2020-07-15 |
+| Uputstvo o rokovima i redoslijedu izbornih aktivnosti za lokalne izbore 2020. godine u gradu mostaru, koji će se održati u nedjelju 20. decembra 2020. godine | [`uputstvo/2020/sg046-82ab39/`](uputstvo/2020/sg046-82ab39/) | in force | 1 | 2020-07-23 | 2020-07-23 |
+| Uputstvo o izmjeni uputstva za prenos i uručenje sudskih pisama putem javnih poštanskih operatera | [`uputstvo/2020/sg053-0557cf/`](uputstvo/2020/sg053-0557cf/) | in force | 1 | 2020-09-05 | 2020-09-05 |
 | Uputstvo o provođenju postupka povrata poreza na dodanu vrijednost stranim poreznim obveznicima | [`uputstvo/2020/sg078-83aa1d/`](uputstvo/2020/sg078-83aa1d/) | in force | 1 | 2020-12-12 | 2020-12-12 |
 | Uputstvo o izmjeni uputstva o izgledu i načinu ispunjavanja obrasca izjave o imovinskom stanju | [`uputstvo/2021/sg004-bb88e6/`](uputstvo/2021/sg004-bb88e6/) | in force | 1 | 2021-01-11 | 2021-01-11 |
 | Uputstvo o dopunama uputstva o popunjavanju carinske prijave i zbirne prijave | [`uputstvo/2021/sg011-036a15/`](uputstvo/2021/sg011-036a15/) | amending act | 1 | 2021-02-10 | 2021-02-10 |

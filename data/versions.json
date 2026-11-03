@@ -2747,6 +2747,21 @@
    ]
   },
   {
+   "slug": "poslovnik-2020-sg049-295bac",
+   "path": "poslovnik/2020/sg049-295bac",
+   "short": "Poslovnik o radu vijeća za sigurnost prometa na cestama u bosni i hercegovini",
+   "title": "Poslovnik o radu vijeća za sigurnost prometa na cestama u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/7FpSOVPzrpo=",
+   "versions": [
+    {
+     "from": "2020-08-19",
+     "units": 19,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/7FpSOVPzrpo=",
+     "sha256": "7ef59e4fffc46a113fcb6643ede15ebb6006b166f250f52cf34e6b1e39465b7f"
+    }
+   ]
+  },
+  {
    "slug": "poslovnik-2021-sg014-f14dd6",
    "path": "poslovnik/2021/sg014-f14dd6",
    "short": "Poslovnik o proceduri provedbe javne konkurencije i imenovanja članova centralne izborne komisije Bosne i Hercegovine",
@@ -2833,6 +2848,246 @@
      "units": 3,
      "source_url": "https://www.sluzbenilist.ba/page/akt/giWQT60oFaY=",
      "sha256": "2f28b430a1ad770c91e16e55012b09047afd85b3dac5c5b367a43643b504ce26"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sg028-6b272c",
+   "path": "pravilnik/2020/sg028-6b272c",
+   "short": "Pravilnik o cjelovitosti i transparentnosti veleprodajnog tržišta električne energije",
+   "title": "Pravilnik o cjelovitosti i transparentnosti veleprodajnog tržišta električne energije",
+   "url": "https://www.sluzbenilist.ba/page/akt/IuOvY48QHmQ=",
+   "versions": [
+    {
+     "from": "2020-05-30",
+     "units": 20,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/IuOvY48QHmQ=",
+     "sha256": "5c7f735870dddd785825ffbc4985012309c1d71a0d42078ccd10f98729329959"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sg029-2cc8ed",
+   "path": "pravilnik/2020/sg029-2cc8ed",
+   "short": "Pravilnik o izmjenama i dopunama pravilnika o tehničkim pregledima vozila",
+   "title": "Pravilnik o izmjenama i dopunama pravilnika o tehničkim pregledima vozila",
+   "url": "https://www.sluzbenilist.ba/page/akt/kJ2n9baqUuU=",
+   "versions": [
+    {
+     "from": "2020-05-31",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/kJ2n9baqUuU=",
+     "sha256": "089a875fa202e1abfb9778096aa845fe3182d4c2f04f7bb8e1fcd3acbd391153"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sg029-53f4db",
+   "path": "pravilnik/2020/sg029-53f4db",
+   "short": "Pravilnik o izmjeni i dopuni pravilnika o registriranju vozila",
+   "title": "Pravilnik o izmjeni i dopuni pravilnika o registriranju vozila",
+   "url": "https://www.sluzbenilist.ba/page/akt/gkRESLJysmw=",
+   "versions": [
+    {
+     "from": "2020-05-24",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/gkRESLJysmw=",
+     "sha256": "86f73981cbf60b844189553f1d0362100dba85f1d51971629627607c293599fd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sg033-dbd79c",
+   "path": "pravilnik/2020/sg033-dbd79c",
+   "short": "Pravilnik o sprječavanju i zaštiti od diskriminacije u upravi za indirektno oporezivanje",
+   "title": "Pravilnik o sprječavanju i zaštiti od diskriminacije u upravi za indirektno oporezivanje",
+   "url": "https://www.sluzbenilist.ba/page/akt/Qhohz4nh78h77XP0g5xKk=",
+   "versions": [
+    {
+     "from": "2020-06-20",
+     "units": 19,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/Qhohz4nh78h77XP0g5xKk=",
+     "sha256": "36420a5cddd12d91840fef5c3688fc7e1375d3154fbcf3f8d5fd3b4adf935454"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sg035-841549",
+   "path": "pravilnik/2020/sg035-841549",
+   "short": "Pravilnik o provođenju postupka prinudne naplate indirektnih poreza",
+   "title": "Pravilnik o provođenju postupka prinudne naplate indirektnih poreza",
+   "url": "https://www.sluzbenilist.ba/page/akt/9BsmhtZT82Y=",
+   "versions": [
+    {
+     "from": "2020-06-27",
+     "units": 138,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/9BsmhtZT82Y=",
+     "sha256": "10eb94e79590c126f0d9169fdfe43070f4bb3576ede4eb054dbe2fbda04cf543"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sg036-98cfa6",
+   "path": "pravilnik/2020/sg036-98cfa6",
+   "short": "Pravilnik o izmjenama i dopunama pravilnika o izdavanju diplomatskih pasoša",
+   "title": "Pravilnik o izmjenama i dopunama pravilnika o izdavanju diplomatskih pasoša",
+   "url": "https://www.sluzbenilist.ba/page/akt/M7JiebeihRA=",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/M7JiebeihRA=",
+     "sha256": "1bc7111fa3921f25b449b725bdb3c1508884cb7d8483bf9882d04bf70ee2f9e3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sg038-ce80ec",
+   "path": "pravilnik/2020/sg038-ce80ec",
+   "short": "Pravilnik o izmjeni pravilnika o upotrebi i izradi izvoda iz centralnog biračkog spiska",
+   "title": "Pravilnik o izmjeni pravilnika o upotrebi i izradi izvoda iz centralnog biračkog spiska",
+   "url": "https://www.sluzbenilist.ba/page/akt/pJjuukmxrcY=",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/pJjuukmxrcY=",
+     "sha256": "8befcc809722a8ef6c6bcdc28e0fc3979831a492b57f006dfec7fa39ef9e49b0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sg040-119c06",
+   "path": "pravilnik/2020/sg040-119c06",
+   "short": "Pravilnik o stavljanјu van snage pravilnika o uspostavljanјu mreže i načinu rada zrakoplovnih meteoroloških stanica",
+   "title": "Pravilnik o stavljanјu van snage pravilnika o uspostavljanјu mreže i načinu rada zrakoplovnih meteoroloških stanica",
+   "url": "https://www.sluzbenilist.ba/page/akt/dvW7auQQ5ohz4nh78h77o=",
+   "versions": [
+    {
+     "from": "2020-07-15",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/dvW7auQQ5ohz4nh78h77o=",
+     "sha256": "9c8c9297d64087ef99e4db4eae0871355e7f77f8022dd5c21ae0f215178c09f7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sg040-46aecf",
+   "path": "pravilnik/2020/sg040-46aecf",
+   "short": "Pravilnik o uspostavljanju okvira za stvaranje jedinstvenog evropskog neba",
+   "title": "Pravilnik o uspostavljanju okvira za stvaranje jedinstvenog evropskog neba",
+   "url": "https://www.sluzbenilist.ba/page/akt/8oAxwygztz5k76kjn45hiXYA=",
+   "versions": [
+    {
+     "from": "2020-07-15",
+     "units": 12,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/8oAxwygztz5k76kjn45hiXYA=",
+     "sha256": "e6b4bb598e19f02128baf701173e1684cea485b4adca22b65862e251267a659d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sg040-50788b",
+   "path": "pravilnik/2020/sg040-50788b",
+   "short": "Pravilnik o stavlјanјu van snage pravilnika o radu zrakoplovne meteorološke službe Bosne i Hercegovine",
+   "title": "Pravilnik o stavlјanјu van snage pravilnika o radu zrakoplovne meteorološke službe Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/AzZ5NNGQ2IU=",
+   "versions": [
+    {
+     "from": "2020-07-15",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/AzZ5NNGQ2IU=",
+     "sha256": "8d5cdfd4980a8f377ffbd271e00ff3827af7c120799f0f60af5ec6db45630559"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sg044-5200ca",
+   "path": "pravilnik/2020/sg044-5200ca",
+   "short": "Pravilnik o izmjenama i dopunama pravilnika o primjeni zakona o porezu na dodanu vrijednost",
+   "title": "Pravilnik o izmjenama i dopunama pravilnika o primjeni zakona o porezu na dodanu vrijednost",
+   "url": "https://www.sluzbenilist.ba/page/akt/ual56Gd8zMA=",
+   "versions": [
+    {
+     "from": "2020-08-01",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/ual56Gd8zMA=",
+     "sha256": "99924360a349237503d6a8807ab0d6a86c67343e4fc7ca44413a936a553b88b6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sg045-763b33",
+   "path": "pravilnik/2020/sg045-763b33",
+   "short": "Pravilnik o izmjeni pravilnika o službenoj legitimaciji za zaposlene u ministarstvu odbrane i oružanim snagama Bosne i Hercegovine",
+   "title": "Pravilnik o izmjeni pravilnika o službenoj legitimaciji za zaposlene u ministarstvu odbrane i oružanim snagama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/Jru7psgztz5k76kjn45hZzFo=",
+   "versions": [
+    {
+     "from": "2020-07-15",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/Jru7psgztz5k76kjn45hZzFo=",
+     "sha256": "487ce97a608ff30c4b968074d02854e6feb330c0feca38dc25bf4398e2825753"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sg051-3ce52b",
+   "path": "pravilnik/2020/sg051-3ce52b",
+   "short": "Pravilnik o uvjetima za izvođenje letačkih operacija dronovima",
+   "title": "Pravilnik o uvjetima za izvođenje letačkih operacija dronovima",
+   "url": "https://www.sluzbenilist.ba/page/akt/2yFM2KkWhf8=",
+   "versions": [
+    {
+     "from": "2020-08-26",
+     "units": 29,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/2yFM2KkWhf8=",
+     "sha256": "65fcfe489f08bafaf55b2e9a2d70e1b49f605869a6745563f9b7dc306703f1cd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sg054-0ceec3",
+   "path": "pravilnik/2020/sg054-0ceec3",
+   "short": "Pravilnik o izmjeni i dopuni pravilnika o uslovima nabavke i načinu korištenja službenih vozila u institucijama Bosne i Hercegovine",
+   "title": "Pravilnik o izmjeni i dopuni pravilnika o uslovima nabavke i načinu korištenja službenih vozila u institucijama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/PXhctEmbhUk=",
+   "versions": [
+    {
+     "from": "2020-07-29",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/PXhctEmbhUk=",
+     "sha256": "0190681f0d243a27c39792fa581072855a70dbaedc9120c2625f0c8a61c23fc2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sg055-b84f9e",
+   "path": "pravilnik/2020/sg055-b84f9e",
+   "short": "Pravilnik o izmjenama pravilnika o brodarskoj i pomorskoj knjižici",
+   "title": "Pravilnik o izmjenama pravilnika o brodarskoj i pomorskoj knjižici",
+   "url": "https://www.sluzbenilist.ba/page/akt/0MjV7GEXISE=",
+   "versions": [
+    {
+     "from": "2020-09-12",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/0MjV7GEXISE=",
+     "sha256": "df3112106cf6b7c4889cc861e62002348761cfa8b22e0ab73313f9d99b31c9f9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sg063-f3169b",
+   "path": "pravilnik/2020/sg063-f3169b",
+   "short": "Pravilnik o načinu prikupljanja i obradi statističkih podataka o saobraćajnim nezgodama",
+   "title": "Pravilnik o načinu prikupljanja i obradi statističkih podataka o saobraćajnim nezgodama",
+   "url": "https://www.sluzbenilist.ba/page/akt/b2aEFVn9ee8=",
+   "versions": [
+    {
+     "from": "2020-10-17",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/b2aEFVn9ee8=",
+     "sha256": "7f4ec642238a6073f8b0acf6565b6d7e9b3e33cf9c803b1b9bc3579b7ae074a1"
     }
    ]
   },
@@ -6763,6 +7018,66 @@
      "units": 8,
      "source_url": "https://www.sluzbenilist.ba/page/akt/2iZDYRMaHcg=",
      "sha256": "aad7fbe0fc096977a1d825ad31c20873d747c900124650e43ad9e0644181a1ab"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2020-sg029-97d74f",
+   "path": "uputstvo/2020/sg029-97d74f",
+   "short": "Uputstvo o rokovima i redoslijedu izbornih aktivnosti za lokalne izbore 2020. godine koji će se održati u nedjelju 15. novembra 2020. godine",
+   "title": "Uputstvo o rokovima i redoslijedu izbornih aktivnosti za lokalne izbore 2020. godine koji će se održati u nedjelju 15. novembra 2020. godine",
+   "url": "https://www.sluzbenilist.ba/page/akt/0uqVdFX1LNk=",
+   "versions": [
+    {
+     "from": "2020-05-23",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/0uqVdFX1LNk=",
+     "sha256": "37afd7f84e54ebf8cccbd595bf1691ae8d442a8b2af7318f93cf5b37d99c79f3"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2020-sg040-33327d",
+   "path": "uputstvo/2020/sg040-33327d",
+   "short": "Uputstvo o stavljanju van snage uputstva za izradu vizuelnih i instrumentalnih procedura za letenje",
+   "title": "Uputstvo o stavljanju van snage uputstva za izradu vizuelnih i instrumentalnih procedura za letenje",
+   "url": "https://www.sluzbenilist.ba/page/akt/PLSgztz5k76kjn45hqAO6gztz5k76kjn45h5o=",
+   "versions": [
+    {
+     "from": "2020-07-15",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/PLSgztz5k76kjn45hqAO6gztz5k76kjn45h5o=",
+     "sha256": "1776209df0b1294da4ff5e580ca3eb3e3354fd0532194c3e557e0b2f55d3aef0"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2020-sg046-82ab39",
+   "path": "uputstvo/2020/sg046-82ab39",
+   "short": "Uputstvo o rokovima i redoslijedu izbornih aktivnosti za lokalne izbore 2020. godine u gradu mostaru, koji će se održati u nedjelju 20. decembra 2020. godine",
+   "title": "Uputstvo o rokovima i redoslijedu izbornih aktivnosti za lokalne izbore 2020. godine u gradu mostaru, koji će se održati u nedjelju 20. decembra 2020. godine",
+   "url": "https://www.sluzbenilist.ba/page/akt/nkicgztz5k76kjn45h7O98vE=",
+   "versions": [
+    {
+     "from": "2020-07-23",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/nkicgztz5k76kjn45h7O98vE=",
+     "sha256": "a5d237d678e64a08646b6cd2494b1b8d600edbd18e602620b0df874506155979"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2020-sg053-0557cf",
+   "path": "uputstvo/2020/sg053-0557cf",
+   "short": "Uputstvo o izmjeni uputstva za prenos i uručenje sudskih pisama putem javnih poštanskih operatera",
+   "title": "Uputstvo o izmjeni uputstva za prenos i uručenje sudskih pisama putem javnih poštanskih operatera",
+   "url": "https://www.sluzbenilist.ba/page/akt/c738DEuvp0U=",
+   "versions": [
+    {
+     "from": "2020-09-05",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/c738DEuvp0U=",
+     "sha256": "7e6bd2f83ffc08ad8b4dba310535fc6804d49a0e1a8e27640c1ab0f0923cc8e4"
     }
    ]
   },
