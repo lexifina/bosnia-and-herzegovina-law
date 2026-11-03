@@ -2,6 +2,2526 @@
  "country": "BA",
  "acts": [
   {
+   "slug": "zakon-2010-sg008-756e56",
+   "path": "zakon/2010/sg008-756e56",
+   "short": "Zakon o izmjenama i dopunama krivičnog zakona Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama krivičnog zakona Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/Gzp3qkOx5dE=",
+   "versions": [
+    {
+     "from": "2010-05-03",
+     "units": 115,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/Gzp3qkOx5dE=",
+     "sha256": "573118082b71e24abddf16cf69ebea4c4ee0e41a6a8747391932c859047d3da0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sg008-8e11f0",
+   "path": "zakon/2010/sg008-8e11f0",
+   "short": "Zakon o izmjeni zakona o državnoj službi u institucijama Bosne i Hercegovine",
+   "title": "Zakon o izmjeni zakona o državnoj službi u institucijama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/FOAD4OJxjHA=",
+   "versions": [
+    {
+     "from": "2010-02-10",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/FOAD4OJxjHA=",
+     "sha256": "1743abfb93cefe865fee73b7db38d3046340382736afe0fa36825aa273d5c138"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sg032-1a60b6",
+   "path": "zakon/2010/sg032-1a60b6",
+   "short": "Zakon o izmjenama i dopunama zakona o javnom radiotelevizijskom servisu Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama zakona o javnom radiotelevizijskom servisu Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/PrPg4ISN0lw=",
+   "versions": [
+    {
+     "from": "2010-04-30",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/PrPg4ISN0lw=",
+     "sha256": "2b71218f6c102cdc8504003be4c74e257acbf3fd6722fc7c98f17746bef58524"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sg032-1d2909",
+   "path": "zakon/2010/sg032-1d2909",
+   "short": "Zakon o izmjenama i dopunama zakona o komunikacijama",
+   "title": "Zakon o izmjenama i dopunama zakona o komunikacijama",
+   "url": "https://www.sluzbenilist.ba/page/akt/0LsYLohz4nh78h779L7ic=",
+   "versions": [
+    {
+     "from": "2010-04-30",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/0LsYLohz4nh78h779L7ic=",
+     "sha256": "f27fa139c2ab14a5c73c75c963bd4e1fe690ce91f7aca1c1530f0436637305a9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sg032-29a475",
+   "path": "zakon/2010/sg032-29a475",
+   "short": "Zakon o izmjenama i dopunama zakona o komunikacijama",
+   "title": "Zakon o izmjenama i dopunama zakona o komunikacijama",
+   "url": "https://www.sluzbenilist.ba/page/akt/NlRxlVDo6QA=",
+   "versions": [
+    {
+     "from": "2010-04-30",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/NlRxlVDo6QA=",
+     "sha256": "12406fc80666db48d2adc9bbf154f86a20d08d3f769dd5d2b56c507a7de6f951"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sg032-2da633",
+   "path": "zakon/2010/sg032-2da633",
+   "short": "Zakon o izmjenama i dopunama zakona o javnom radiotelevizijskom servisu Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama zakona o javnom radiotelevizijskom servisu Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/kXjPbH815TY=",
+   "versions": [
+    {
+     "from": "2010-04-30",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/kXjPbH815TY=",
+     "sha256": "f549130c33fb54ae686c58d8b901a5ce7ef43d08eb0e70d5ee322428da90b6de"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sg032-60c02b",
+   "path": "zakon/2010/sg032-60c02b",
+   "short": "Zakon o duhanu Bosne i Hercegovine",
+   "title": "Zakon o duhanu Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/RPSHohz4nh78h77EwaY1g=",
+   "versions": [
+    {
+     "from": "2010-04-30",
+     "units": 60,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/RPSHohz4nh78h77EwaY1g=",
+     "sha256": "700ef856a3d18fddb0fba7e962ecb00388356ca215d4402dea00c9b38a283aa2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sg032-90a35b",
+   "path": "zakon/2010/sg032-90a35b",
+   "short": "Zakon o izmjenama i dopunama zakona o javnom radiotelevizijskom sistemu Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama zakona o javnom radiotelevizijskom sistemu Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/aaaHAMcDzLQ=",
+   "versions": [
+    {
+     "from": "2010-04-30",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/aaaHAMcDzLQ=",
+     "sha256": "681e8e61988258ca4f6ccc715e5cfe1e048e554e9d4ef8bb5c7d18381053c1ce"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sg032-c0a080",
+   "path": "zakon/2010/sg032-c0a080",
+   "short": "Zakon o izmjenama zakona o klasifikaciji djelatnosti u bosni i hercegovini",
+   "title": "Zakon o izmjenama zakona o klasifikaciji djelatnosti u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/fMqql8FQQgo=",
+   "versions": [
+    {
+     "from": "2010-04-30",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/fMqql8FQQgo=",
+     "sha256": "a36590e1106a2f884be41d1447935026c9fcddd55093c0d402da91f17a13d0e5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sg032-fe05fc",
+   "path": "zakon/2010/sg032-fe05fc",
+   "short": "Zakon o izmjenama zakona o klasifikaciji djelatnosti u bosni i hercegovini",
+   "title": "Zakon o izmjenama zakona o klasifikaciji djelatnosti u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/NeI4lN9I0gg=",
+   "versions": [
+    {
+     "from": "2010-04-30",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/NeI4lN9I0gg=",
+     "sha256": "ca3293501bd1a1f68e007d77b9ad68df92cc8581b6f894fff724993f80b2d65e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sg032-fed6ae",
+   "path": "zakon/2010/sg032-fed6ae",
+   "short": "Zakon o izmjenama i dopunama zakona o javnom radiotelevizijskom sistemu Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama zakona o javnom radiotelevizijskom sistemu Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/V9T8Y33TO7w=",
+   "versions": [
+    {
+     "from": "2010-04-30",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/V9T8Y33TO7w=",
+     "sha256": "974c474ef6a689520e435617b2f6640330d41ecfe0b49321c8eb61592c2c6d47"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sg048-ce70f5",
+   "path": "zakon/2010/sg048-ce70f5",
+   "short": "Zakon o izmjenama i dopunama zakona o politici direktnih stranih ulaganja u bosni i hercegovini",
+   "title": "Zakon o izmjenama i dopunama zakona o politici direktnih stranih ulaganja u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/7nYULQVY7ZE=",
+   "versions": [
+    {
+     "from": "2010-06-22",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/7nYULQVY7ZE=",
+     "sha256": "5d7f578b63d44ab9f7f80c86bb1da468c51c75ab34af5f0c0e76bd2b1f5f1600"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sg054-b9dbbf",
+   "path": "zakon/2010/sg054-b9dbbf",
+   "short": "Zakon o izmjeni i dopunama zakona o carinskoj politici Bosne i Hercegovine",
+   "title": "Zakon o izmjeni i dopunama zakona o carinskoj politici Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/tuKG6RQEgzw=",
+   "versions": [
+    {
+     "from": "2010-07-13",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/tuKG6RQEgzw=",
+     "sha256": "e7863d22223aec597958009b0ac4bf6edadf41da908fbce22a06770907e414d8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sg054-f339fe",
+   "path": "zakon/2010/sg054-f339fe",
+   "short": "Zakon o izmjenama i dopunama zakona o finansiranju političkih partija",
+   "title": "Zakon o izmjenama i dopunama zakona o finansiranju političkih partija",
+   "url": "https://www.sluzbenilist.ba/page/akt/igztz5k76kjn45hi8sGqvwqU=",
+   "versions": [
+    {
+     "from": "2010-07-13",
+     "units": 17,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/igztz5k76kjn45hi8sGqvwqU=",
+     "sha256": "c65ce99edcf6973d4cb6caed5247152b92392214f8406482631031805fa5cf0c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sg054-fa537a",
+   "path": "zakon/2010/sg054-fa537a",
+   "short": "Zakon o izmjenama i dopunama zakona o graničnoj kontroli",
+   "title": "Zakon o izmjenama i dopunama zakona o graničnoj kontroli",
+   "url": "https://www.sluzbenilist.ba/page/akt/02itoMmOY4o=",
+   "versions": [
+    {
+     "from": "2010-07-13",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/02itoMmOY4o=",
+     "sha256": "b05c195ed728c2d4aae962dbcb2bd6046b9d1e4b5569f356035186f2022239c9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sg060-61d2cf",
+   "path": "zakon/2010/sg060-61d2cf",
+   "short": "Zakon o izmjenama i dopunama zakona o radu u institucijama Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama zakona o radu u institucijama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/CS2tnHcaBzU=",
+   "versions": [
+    {
+     "from": "2010-08-03",
+     "units": 44,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/CS2tnHcaBzU=",
+     "sha256": "d710fe22b11f1345198407e31baba806aaed289ee6e6122b0117d3af76605aea"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sg060-e93a50",
+   "path": "zakon/2010/sg060-e93a50",
+   "short": "Zakon o izmjenama zakona o javnim nabavkama Bosne i Hercegovine",
+   "title": "Zakon o izmjenama zakona o javnim nabavkama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/qWTYgECrNNc=",
+   "versions": [
+    {
+     "from": "2010-08-03",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/qWTYgECrNNc=",
+     "sha256": "e027d5a5be1f98c57a53ed501df3468506523ff1c3582b09f8991d9a371c127b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sg063-6de9a3",
+   "path": "zakon/2010/sg063-6de9a3",
+   "short": "Zakon o autorskom i srodnim pravima",
+   "title": "Zakon o autorskom i srodnim pravima",
+   "url": "https://www.sluzbenilist.ba/page/akt/U4XQiuAywzo=",
+   "versions": [
+    {
+     "from": "2010-08-11",
+     "units": 236,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/U4XQiuAywzo=",
+     "sha256": "62448c041bf8315b2fbde411848fff85e2e6793d7760cb3162f0a8e623de81f8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sg074-96651f",
+   "path": "zakon/2010/sg074-96651f",
+   "short": "Zakon o izmjenama zakona o upravnim sporovima Bosne i Hercegovine",
+   "title": "Zakon o izmjenama zakona o upravnim sporovima Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/8JvlkTty3rg=",
+   "versions": [
+    {
+     "from": "2010-09-15",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/8JvlkTty3rg=",
+     "sha256": "0c90fabd990d8e41206575941972ee2276203f8566d6fa618c56d476d090327b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sg074-d481c9",
+   "path": "zakon/2010/sg074-d481c9",
+   "short": "Zakon o dopunama zakona o službi u oružanim snagama Bosne i Hercegovine",
+   "title": "Zakon o dopunama zakona o službi u oružanim snagama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/ohz4nh78h77KG7b5j2P5s=",
+   "versions": [
+    {
+     "from": "2010-09-08",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/ohz4nh78h77KG7b5j2P5s=",
+     "sha256": "a1ec7320c7dae2468fad5a7e6b59b7e0e21b8d54398b07f2919fc9d16a232139"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-sg062-3a7726",
+   "path": "zakon/2011/sg062-3a7726",
+   "short": "Zakon o izmjenama i dopunama zakona o polaganju pravosudnog ispita u bosni i hercegovini",
+   "title": "Zakon o izmjenama i dopunama zakona o polaganju pravosudnog ispita u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/0T2cGIZSZLM=",
+   "versions": [
+    {
+     "from": "2011-08-10",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/0T2cGIZSZLM=",
+     "sha256": "95b1643690134b13aa8acc3ac803ab21acebd314c774e6e00a5c069686041ece"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-sg062-7edf4e",
+   "path": "zakon/2011/sg062-7edf4e",
+   "short": "Zakon o izmjenama i dopunama zakona o pečatu institucija Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama zakona o pečatu institucija Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/qL9Pu6OLxsc=",
+   "versions": [
+    {
+     "from": "2011-08-10",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/qL9Pu6OLxsc=",
+     "sha256": "0dbb398c64c268cbf1055d6af52f942859dbaf3c1341a38ba090de6a4b5417c8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-sg062-c05c1f",
+   "path": "zakon/2011/sg062-c05c1f",
+   "short": "Zakon o izmjenama i dopunama zakona o postupku prinudne naplate indirektnih poreza",
+   "title": "Zakon o izmjenama i dopunama zakona o postupku prinudne naplate indirektnih poreza",
+   "url": "https://www.sluzbenilist.ba/page/akt/nPUAICqWacE=",
+   "versions": [
+    {
+     "from": "2011-08-10",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/nPUAICqWacE=",
+     "sha256": "544ef5e7c06ad1e344905309e7f28fe2fc9edd682683389feac34f464291d174"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-sg076-55bf31",
+   "path": "zakon/2011/sg076-55bf31",
+   "short": "Zakon o izmjenama i dopunama zakona o udruženjima i fondacijama Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama zakona o udruženjima i fondacijama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/zX3PQfQkc5U=",
+   "versions": [
+    {
+     "from": "2011-10-04",
+     "units": 30,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/zX3PQfQkc5U=",
+     "sha256": "f850891432dcf629156c037ea532ba59547d5542a672697f783878511553ef19"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-sg076-7ece0d",
+   "path": "zakon/2011/sg076-7ece0d",
+   "short": "Zakon o dopuni zakona o upotrebi i zaštiti naziva Bosne i Hercegovine",
+   "title": "Zakon o dopuni zakona o upotrebi i zaštiti naziva Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/GFl59ND5cH8=",
+   "versions": [
+    {
+     "from": "2011-10-04",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/GFl59ND5cH8=",
+     "sha256": "3f4ee5bb48ef756ad9d4d4b3c88c2d8ee42c550dcd176656256415c952a50418"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-sg076-94266c",
+   "path": "zakon/2011/sg076-94266c",
+   "short": "Zakon o izmjeni zakona o carinskoj politici Bosne i Hercegovine",
+   "title": "Zakon o izmjeni zakona o carinskoj politici Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/UZ5SIoiMVXU=",
+   "versions": [
+    {
+     "from": "2011-10-04",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/UZ5SIoiMVXU=",
+     "sha256": "e153c3597740cf0710510bfb4b4130dec0aca5be3bd48472031f7385ddc40a23"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-sg076-a50873",
+   "path": "zakon/2011/sg076-a50873",
+   "short": "Zakon o izmjenama i dopunama zakona o registraciji pravnih lica koja osnivaju institucije Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama zakona o registraciji pravnih lica koja osnivaju institucije Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/ckrtFhi0JD8=",
+   "versions": [
+    {
+     "from": "2011-10-04",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/ckrtFhi0JD8=",
+     "sha256": "00877c164411117cbc7186f4bfdd598a7c8dc6dae91683c22c6d63b1fef5544d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-sg076-b1d053",
+   "path": "zakon/2011/sg076-b1d053",
+   "short": "Zakon o izmjenama i dopunama zakona o mineralnim đubrivima",
+   "title": "Zakon o izmjenama i dopunama zakona o mineralnim đubrivima",
+   "url": "https://www.sluzbenilist.ba/page/akt/XVh3cNqz3XE=",
+   "versions": [
+    {
+     "from": "2011-10-04",
+     "units": 13,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/XVh3cNqz3XE=",
+     "sha256": "6a2e9c6d3709744333494407b80e800230451633c4374198e92235be77c595fd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-sg097-af81f4",
+   "path": "zakon/2011/sg097-af81f4",
+   "short": "Zakon o izmjeni zakona o izmirenju obaveza po osnovu računa stare devizne štednje",
+   "title": "Zakon o izmjeni zakona o izmirenju obaveza po osnovu računa stare devizne štednje",
+   "url": "https://www.sluzbenilist.ba/page/akt/ai3quCc3GVE=",
+   "versions": [
+    {
+     "from": "2011-12-07",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/ai3quCc3GVE=",
+     "sha256": "4a7d0b6843c38c98c7b559faeaad6aa96315b66c6f4cdd3d7859353a5cf0308e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-sg103-5f8184",
+   "path": "zakon/2011/sg103-5f8184",
+   "short": "Zakon o izmjenama i dopunama zakona o jedinstvenom matičnom broju",
+   "title": "Zakon o izmjenama i dopunama zakona o jedinstvenom matičnom broju",
+   "url": "https://www.sluzbenilist.ba/page/akt/AMmXTsL2lohz4nh78h77g=",
+   "versions": [
+    {
+     "from": "2012-01-04",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/AMmXTsL2lohz4nh78h77g=",
+     "sha256": "7f39f2cc66eaf8ee379d7dd235742bbbf29e91963db2dccbaf69a4e953c603be"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-sg007-8ba895",
+   "path": "zakon/2012/sg007-8ba895",
+   "short": "Zakon o izmjeni zakona o policijskim službenicima Bosne i Hercegovine",
+   "title": "Zakon o izmjeni zakona o policijskim službenicima Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/gFh3eVIv7nA=",
+   "versions": [
+    {
+     "from": "2012-02-07",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/gFh3eVIv7nA=",
+     "sha256": "c56fe3cbbe946b3eeed89aa3627f452123984b26226ea56db3e200c205c2c49b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-sg018-4709cf",
+   "path": "zakon/2012/sg018-4709cf",
+   "short": "Zakon o dopuni zakona o prekršajima",
+   "title": "Zakon o dopuni zakona o prekršajima",
+   "url": "https://www.sluzbenilist.ba/page/akt/SSSmbBErB9w=",
+   "versions": [
+    {
+     "from": "2012-03-14",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/SSSmbBErB9w=",
+     "sha256": "8409f9a753596db26d8dd3fcfd8592bc1bfcb1931845e2d8e41e1379cd34ff18"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-sg018-a48d07",
+   "path": "zakon/2012/sg018-a48d07",
+   "short": "Zakon o dopuni zakona o sukobu interesa u institucijama vlasti Bosne i Hercegovine",
+   "title": "Zakon o dopuni zakona o sukobu interesa u institucijama vlasti Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/y9ed3oDHjxo=",
+   "versions": [
+    {
+     "from": "2012-03-14",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/y9ed3oDHjxo=",
+     "sha256": "db10e923583304a7480142fc926922080c32d6fb07239c48b28133eef515193a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-sg018-fec1dc",
+   "path": "zakon/2012/sg018-fec1dc",
+   "short": "Zakon o izmjenama i dopunama zakona o ličnoj karti državljana Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama zakona o ličnoj karti državljana Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/hfkEF9hGhNc=",
+   "versions": [
+    {
+     "from": "2012-03-14",
+     "units": 14,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/hfkEF9hGhNc=",
+     "sha256": "eb6cd9ccfb0996b09b8e48e17adcffef5d47dd6ca800b65fcf99eb5b22456b1e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-sg032-34709c",
+   "path": "zakon/2012/sg032-34709c",
+   "short": "Zakon o dopunama zakona o plaćama i naknadama u institucijama Bosne i Hercegovine",
+   "title": "Zakon o dopunama zakona o plaćama i naknadama u institucijama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/1sLJqRVPL6Q=",
+   "versions": [
+    {
+     "from": "2012-05-02",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/1sLJqRVPL6Q=",
+     "sha256": "d90406da35971bbecc89f296223007d899bcc0ac9e9bef6e37c4524231b7e921"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-sg032-af44ec",
+   "path": "zakon/2012/sg032-af44ec",
+   "short": "Zakon o izmjenama zakona o internoj reviziji institucija Bosne i Hercegovine",
+   "title": "Zakon o izmjenama zakona o internoj reviziji institucija Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/aMl7oGgohz4nh78h77rEo=",
+   "versions": [
+    {
+     "from": "2012-05-02",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/aMl7oGgohz4nh78h77rEo=",
+     "sha256": "a198ba7167efa325e4d9d73a7248ff0b7821a428dab4079abfe0509f94ae9cd3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-sg040-14c751",
+   "path": "zakon/2012/sg040-14c751",
+   "short": "Zakon o izmjeni zakona o državnoj agenciji za istrage i zaštitu",
+   "title": "Zakon o izmjeni zakona o državnoj agenciji za istrage i zaštitu",
+   "url": "https://www.sluzbenilist.ba/page/akt/CS1SuPSMias=",
+   "versions": [
+    {
+     "from": "2012-06-05",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/CS1SuPSMias=",
+     "sha256": "0fac7c63b805657ab9b4d3cdb7e18670b0fcf3232b0b9aaf967dd30681cd1ec5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-sg040-9af703",
+   "path": "zakon/2012/sg040-9af703",
+   "short": "Zakon o izmjeni zakona o državnoj službi u institucijama Bosne i Hercegovine",
+   "title": "Zakon o izmjeni zakona o državnoj službi u institucijama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/QU8lINyxhHA=",
+   "versions": [
+    {
+     "from": "2012-06-05",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/QU8lINyxhHA=",
+     "sha256": "12c131a56c767f323f10c189b78159642f502995a89166c037b7b618f71d9899"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-sg042-0118e0",
+   "path": "zakon/2012/sg042-0118e0",
+   "short": "Zakon o dopunama zakona o plaćama i naknadama u institucijama Bosne i Hercegovine",
+   "title": "Zakon o dopunama zakona o plaćama i naknadama u institucijama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/Qqua4mpRSIk=",
+   "versions": [
+    {
+     "from": "2012-06-08",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/Qqua4mpRSIk=",
+     "sha256": "cf6f08d1d6ae9fb82a2fceaf3253fa316163206bea38ef6676c612d6c98af05b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-sg042-bbbdc3",
+   "path": "zakon/2012/sg042-bbbdc3",
+   "short": "Zakon o izmjenama i dopuni zakona o službi u oružanim snagama",
+   "title": "Zakon o izmjenama i dopuni zakona o službi u oružanim snagama",
+   "url": "https://www.sluzbenilist.ba/page/akt/xRa217zP2yo=",
+   "versions": [
+    {
+     "from": "2012-06-01",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/xRa217zP2yo=",
+     "sha256": "4814480228d12731a819ea14461dc40dff2e057ae5967f03ff73227a220325e2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-sg042-e119a6",
+   "path": "zakon/2012/sg042-e119a6",
+   "short": "Zakon o izmjenama i dopunama zakona o finansiranju institucijabosne i hercegovine",
+   "title": "Zakon o izmjenama i dopunama zakona o finansiranju institucijabosne i hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/TdnoSynQd5o=",
+   "versions": [
+    {
+     "from": "2012-06-08",
+     "units": 17,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/TdnoSynQd5o=",
+     "sha256": "4cde1620f6da519231658a5ffd27bf40e610ee3d65ff6f2c5d4f4724c7d780b4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-sg050-b9574c",
+   "path": "zakon/2012/sg050-b9574c",
+   "short": "Zakon o izmjenama i dopuni zakona o plaćama i naknadama u institucijama Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopuni zakona o plaćama i naknadama u institucijama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/jOm229ntCX8=",
+   "versions": [
+    {
+     "from": "2012-07-10",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/jOm229ntCX8=",
+     "sha256": "ae659f2ffc3e7ec8b7e080a76098eb1b8ce7f50f2404dbf7d67e06a653270bd4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-sg058-d3c9bb",
+   "path": "zakon/2012/sg058-d3c9bb",
+   "short": "Zakon o carinskoj tarifi",
+   "title": "Zakon o carinskoj tarifi",
+   "url": "https://www.sluzbenilist.ba/page/akt/Hc6eOEPqlbo=",
+   "versions": [
+    {
+     "from": "2012-08-07",
+     "units": 12,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/Hc6eOEPqlbo=",
+     "sha256": "726f4e427d15ef1648d4399fd07e627473c02c6c98b8914a71c6ce324fa9705c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-sg087-0bf99e",
+   "path": "zakon/2012/sg087-0bf99e",
+   "short": "Zakon o izmjenama i dopunama zakona o kretanju i boravku stranaca i azilu",
+   "title": "Zakon o izmjenama i dopunama zakona o kretanju i boravku stranaca i azilu",
+   "url": "https://www.sluzbenilist.ba/page/akt/MLutANYnbWE=",
+   "versions": [
+    {
+     "from": "2012-11-13",
+     "units": 70,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/MLutANYnbWE=",
+     "sha256": "db826bc152279aa94ef8a825bf416176a2a03bbca4b51d2ab7a9648143d3c80b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-sg087-bdba56",
+   "path": "zakon/2012/sg087-bdba56",
+   "short": "Zakon o dopunama zakona o finansiranju institucija Bosne i Hercegovine",
+   "title": "Zakon o dopunama zakona o finansiranju institucija Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/iv8PjJ38ldQ=",
+   "versions": [
+    {
+     "from": "2012-11-13",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/iv8PjJ38ldQ=",
+     "sha256": "51a92ac4b63501abe6a7ca71a324ea5bcb97a2da38b98b9d010b48944f0905f8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-sg087-e6a6e9",
+   "path": "zakon/2012/sg087-e6a6e9",
+   "short": "Zakon o izmjenama i dopunama zakona o ministarstvima i drugim organima uprave Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama zakona o ministarstvima i drugim organima uprave Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/ohz4nh78h77tpb9Aohz4nh78h778gXs=",
+   "versions": [
+    {
+     "from": "2012-11-13",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/ohz4nh78h77tpb9Aohz4nh78h778gXs=",
+     "sha256": "fbd754f64372cc1748dbca4daaf05b6243b8f8c6949f773a1b5fa4efe9dcdda8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-sg098-39e8d3",
+   "path": "zakon/2012/sg098-39e8d3",
+   "short": "Zakon o izmjeni i dopunama zakona o komunikacijama",
+   "title": "Zakon o izmjeni i dopunama zakona o komunikacijama",
+   "url": "https://www.sluzbenilist.ba/page/akt/vclwItzubYc=",
+   "versions": [
+    {
+     "from": "2012-12-18",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/vclwItzubYc=",
+     "sha256": "4544005265dfe1ba869df5c65551aeaee0e72a6cb650657b1fd3ae2bab06219e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-sg098-e7d93f",
+   "path": "zakon/2012/sg098-e7d93f",
+   "short": "Zakon o izmjenama i dopuni zakona o administrativnim taksama",
+   "title": "Zakon o izmjenama i dopuni zakona o administrativnim taksama",
+   "url": "https://www.sluzbenilist.ba/page/akt/PJ3Xohz4nh78h77F2a2yU=",
+   "versions": [
+    {
+     "from": "2012-12-11",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/PJ3Xohz4nh78h77F2a2yU=",
+     "sha256": "16bb216e4c2eded1b13d0c3fe7644ce3a1b8d43c7b1986a6aa2db685058a92c1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sg006-16386a",
+   "path": "zakon/2013/sg006-16386a",
+   "short": "Zakon o izmjeni zakona o ministarstvima i drugim organima uprave Bosne i Hercegovine",
+   "title": "Zakon o izmjeni zakona o ministarstvima i drugim organima uprave Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/vQFto2AGLtk=",
+   "versions": [
+    {
+     "from": "2013-02-05",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/vQFto2AGLtk=",
+     "sha256": "3adfc22a6db02fa1c615da4aa1abf76ff7c10f093de5b5ea0f2e1fc732870d01"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sg018-90853b",
+   "path": "zakon/2013/sg018-90853b",
+   "short": "Zakon o izmjenama zakona o popisu stanovništva, domaćinstava i stanova u bosni i hercegovini 2013. godine",
+   "title": "Zakon o izmjenama zakona o popisu stanovništva, domaćinstava i stanova u bosni i hercegovini 2013. godine",
+   "url": "https://www.sluzbenilist.ba/page/akt/6fQsZez8neM=",
+   "versions": [
+    {
+     "from": "2013-03-19",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/6fQsZez8neM=",
+     "sha256": "234e13abae503211ce8bdbff55ad695b0757efb49766ebd6b090639bce3026ea"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sg018-b4bd83",
+   "path": "zakon/2013/sg018-b4bd83",
+   "short": "Zakon o izmjenama i dopunama zakona o sudskoj policiji Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama zakona o sudskoj policiji Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/4Do7xFNmxiY=",
+   "versions": [
+    {
+     "from": "2013-03-19",
+     "units": 15,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/4Do7xFNmxiY=",
+     "sha256": "8c7c08c440d9b192aaee6cfa79a0ae28e118a4ad6d3d1bb680f073f71db3988e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sg032-2a7bab",
+   "path": "zakon/2013/sg032-2a7bab",
+   "short": "Zakon o izmjeni i dopunama zakona o postupku zaključivanja i izvršavanja međunarodnih ugovora",
+   "title": "Zakon o izmjeni i dopunama zakona o postupku zaključivanja i izvršavanja međunarodnih ugovora",
+   "url": "https://www.sluzbenilist.ba/page/akt/xUwOQaD6Opo=",
+   "versions": [
+    {
+     "from": "2013-05-07",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/xUwOQaD6Opo=",
+     "sha256": "604715c99e934e4ff639c13940ce8440464300744a07578140cb7b2bc1baa225"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sg032-4bf502",
+   "path": "zakon/2013/sg032-4bf502",
+   "short": "Zakon o izmjenama i dopunama zakona o zaštiti novih sorti bilja u bosni i hercegovini",
+   "title": "Zakon o izmjenama i dopunama zakona o zaštiti novih sorti bilja u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/aYP6TKcFnMA=",
+   "versions": [
+    {
+     "from": "2013-05-07",
+     "units": 15,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/aYP6TKcFnMA=",
+     "sha256": "8da99b1cbd79ce614f132c4ee98fca4597785f2d83c23d2e88a57f6989837eb1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sg032-643762",
+   "path": "zakon/2013/sg032-643762",
+   "short": "Zakon o izmjeni i dopuni zakona o plaćama i naknadama u institucijama Bosne i Hercegovine",
+   "title": "Zakon o izmjeni i dopuni zakona o plaćama i naknadama u institucijama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/50TzOY4gztz5k76kjn45hVLw=",
+   "versions": [
+    {
+     "from": "2013-05-07",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/50TzOY4gztz5k76kjn45hVLw=",
+     "sha256": "67e3caf99b4c28d26876376ce12d84bcf49d03e69851e4fcc40194fffbe23bbb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sg032-848ef1",
+   "path": "zakon/2013/sg032-848ef1",
+   "short": "Zakon o izmjeni i dopunama zakona o radu u institucijama Bosne i Hercegovine",
+   "title": "Zakon o izmjeni i dopunama zakona o radu u institucijama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/RKoh41uQOLE=",
+   "versions": [
+    {
+     "from": "2013-05-07",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/RKoh41uQOLE=",
+     "sha256": "00a6f8e41ca69149e4af1de7f8fb79da31eae764795d7b18a4128784474e90bf"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sg032-9894a0",
+   "path": "zakon/2013/sg032-9894a0",
+   "short": "Zakon o dopuni zakona o sistemu indirektnog oporezivanja u bosni i hercegovini",
+   "title": "Zakon o dopuni zakona o sistemu indirektnog oporezivanja u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/ogztz5k76kjn45hQ3w10fsfk=",
+   "versions": [
+    {
+     "from": "2013-05-07",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/ogztz5k76kjn45hQ3w10fsfk=",
+     "sha256": "bb7a5f255df1e67676d6627bf303fb673617bfec5c2c8b6165b66561283cad1d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sg032-d3cafa",
+   "path": "zakon/2013/sg032-d3cafa",
+   "short": "Zakon o izmjenama i dopunama zakona o finansiranju institucija Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama zakona o finansiranju institucija Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/fbjCEhtUaQM=",
+   "versions": [
+    {
+     "from": "2013-05-07",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/fbjCEhtUaQM=",
+     "sha256": "2ed5d63a68ba054144d1094384f5bfb6de1c194f10824504cfbc59abbfa10fda"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sg058-1d9325",
+   "path": "zakon/2013/sg058-1d9325",
+   "short": "Zakon o izmjenama i dopunama zakona o agenciji za prevenciju korupcije i koordinaciju borbe protiv korupcije",
+   "title": "Zakon o izmjenama i dopunama zakona o agenciji za prevenciju korupcije i koordinaciju borbe protiv korupcije",
+   "url": "https://www.sluzbenilist.ba/page/akt/bSRe0bhk0Cg=",
+   "versions": [
+    {
+     "from": "2013-07-31",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/bSRe0bhk0Cg=",
+     "sha256": "0d5064153eebfad91e7e00a6db7a1109bfa02c4da14888937c0db97cef75d246"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sg058-46c772",
+   "path": "zakon/2013/sg058-46c772",
+   "short": "Zakon o izmjenama i dopunama zakona o parničnom postupku pred sudom Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama zakona o parničnom postupku pred sudom Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/vYS89UDHibs=",
+   "versions": [
+    {
+     "from": "2013-07-31",
+     "units": 96,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/vYS89UDHibs=",
+     "sha256": "5c59264f9c2f3638bb4348806074e214fc58d5b4b5bce3733ef4872c6d356d5b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sg058-aac2cc",
+   "path": "zakon/2013/sg058-aac2cc",
+   "short": "Zakon o izmjenama i dopunama zakona o međunarodnoj pravnoj pomoći u krivičnim stvarima",
+   "title": "Zakon o izmjenama i dopunama zakona o međunarodnoj pravnoj pomoći u krivičnim stvarima",
+   "url": "https://www.sluzbenilist.ba/page/akt/3Lshtd1ntvI=",
+   "versions": [
+    {
+     "from": "2013-07-31",
+     "units": 47,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/3Lshtd1ntvI=",
+     "sha256": "83f38002b7b8f57b2971f3868f1ebb50e7741b42028f9e9a9cbf7b807dc44b46"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sg058-ae814b",
+   "path": "zakon/2013/sg058-ae814b",
+   "short": "Zakon o izmjenama i dopunama zakona o osiguranju depozita u bankama Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama zakona o osiguranju depozita u bankama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/8sbohz4nh78h77qRn4cSo=",
+   "versions": [
+    {
+     "from": "2013-07-31",
+     "units": 22,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/8sbohz4nh78h77qRn4cSo=",
+     "sha256": "81f700200ecb448a40e05557c1952667b2bb0a47be848b313bab976f6784496e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sg060-1993fd",
+   "path": "zakon/2013/sg060-1993fd",
+   "short": "Zakon o izmjenama i dopunama zakona o putnim ispravama Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama zakona o putnim ispravama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/ohz4nh78h7737BwlXGWNI=",
+   "versions": [
+    {
+     "from": "2013-08-07",
+     "units": 17,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/ohz4nh78h7737BwlXGWNI=",
+     "sha256": "9b7f9af992dad6aeec20f80205c20946f46a2d6959bcefd74d1dddaec099e8d5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sg060-a7a762",
+   "path": "zakon/2013/sg060-a7a762",
+   "short": "Zakon o izmjenama i dopunama zakona o osnivanju zavoda za izvršenje krivičnih sankcija, pritvora i drugih mjera Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama zakona o osnivanju zavoda za izvršenje krivičnih sankcija, pritvora i drugih mjera Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/svxcE9MbHg0=",
+   "versions": [
+    {
+     "from": "2013-08-07",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/svxcE9MbHg0=",
+     "sha256": "cb45119a283eab09cb504f8669db2ad490f4f9d19a2880897643dcb38cfa04b9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sg072-30a90c",
+   "path": "zakon/2013/sg072-30a90c",
+   "short": "Zakon o izmjenama i dopunama zakona o vanjskotrgovinskoj komori Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama zakona o vanjskotrgovinskoj komori Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/PyPOt0oLYnI=",
+   "versions": [
+    {
+     "from": "2013-09-25",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/PyPOt0oLYnI=",
+     "sha256": "9ad79345bfa6a531c19d0e3cce11e2370db3204dab96c6cb3298d7a9cd9257bd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sg072-fd600b",
+   "path": "zakon/2013/sg072-fd600b",
+   "short": "Zakon o izmjenama i dopunama zakona o implementaciji konvencije o zabrani razvoja, proizvodnje, gomilanja i upotrebe hemijskog oružja i o njegovom uništavanju",
+   "title": "Zakon o izmjenama i dopunama zakona o implementaciji konvencije o zabrani razvoja, proizvodnje, gomilanja i upotrebe hemijskog oružja i o njegovom uništavanju",
+   "url": "https://www.sluzbenilist.ba/page/akt/kKYtPfYiXcU=",
+   "versions": [
+    {
+     "from": "2013-09-25",
+     "units": 26,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/kKYtPfYiXcU=",
+     "sha256": "915df892037fb551d4ec895aa705cff1a52a1dc8997d2c4cf24663e78fc48dbb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sg072-fe2c99",
+   "path": "zakon/2013/sg072-fe2c99",
+   "short": "Zakon o izmjeni zakona o krivičnom postupku Bosne i Hercegovine",
+   "title": "Zakon o izmjeni zakona o krivičnom postupku Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/L6kIIajKUuw=",
+   "versions": [
+    {
+     "from": "2013-09-25",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/L6kIIajKUuw=",
+     "sha256": "3fedc5308e69177769bb63813a81a21a01bf4d79d02ba6046503696c9890fbe8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sg087-6983b2",
+   "path": "zakon/2013/sg087-6983b2",
+   "short": "Zakon o izmjenama i dopunama zakona o javnim nabavkama Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama zakona o javnim nabavkama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/mkS3sEOpygk=",
+   "versions": [
+    {
+     "from": "2013-11-19",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/mkS3sEOpygk=",
+     "sha256": "f273ce3987f9a36120d762e52d3a52045cfaee7a608676ef2918d6b2e195aee2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sg087-918f00",
+   "path": "zakon/2013/sg087-918f00",
+   "short": "Zakon o izmjenama i dopunama zakona o sukobu interesa u institucijama vlasti Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama zakona o sukobu interesa u institucijama vlasti Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/gztz5k76kjn45hrnqTyAAOCg=",
+   "versions": [
+    {
+     "from": "2013-11-19",
+     "units": 12,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/gztz5k76kjn45hrnqTyAAOCg=",
+     "sha256": "a8c7b05ae5026b221227ce3c4e35e9812c296404bcc539e02769f893b872ce0c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sg087-b588ac",
+   "path": "zakon/2013/sg087-b588ac",
+   "short": "Zakon o izmjeni i dopuni zakona o jedinstvenom matičnom broju",
+   "title": "Zakon o izmjeni i dopuni zakona o jedinstvenom matičnom broju",
+   "url": "https://www.sluzbenilist.ba/page/akt/qp7KBrfApi8=",
+   "versions": [
+    {
+     "from": "2013-11-19",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/qp7KBrfApi8=",
+     "sha256": "28fc24bbd8ce3f86611a186cc222be393f87fb1caa374010dd35f2b042391d6c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sg087-bec3c0",
+   "path": "zakon/2013/sg087-bec3c0",
+   "short": "Zakon o odgovornosti za nuklearnu štetu",
+   "title": "Zakon o odgovornosti za nuklearnu štetu",
+   "url": "https://www.sluzbenilist.ba/page/akt/cknKBWc0kJI=",
+   "versions": [
+    {
+     "from": "2013-11-19",
+     "units": 24,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/cknKBWc0kJI=",
+     "sha256": "233ecf0b7a721b49718f5cad56cd9ec98286aaf56c7351247436bbe887309725"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sg087-e09f84",
+   "path": "zakon/2013/sg087-e09f84",
+   "short": "Zakon o dopunama zakona o plaćama i naknadama u institucijama Bosne i Hercegovine",
+   "title": "Zakon o dopunama zakona o plaćama i naknadama u institucijama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/fWjT65IVShc=",
+   "versions": [
+    {
+     "from": "2013-11-19",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/fWjT65IVShc=",
+     "sha256": "7681095a3798f32377d3debcda53362b5cc2f9a3281b71e5f471a239d35b1bd4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sg087-e243be",
+   "path": "zakon/2013/sg087-e243be",
+   "short": "Zakon o izmjeni i dopunama zakona o plaćama i naknadama u institucijama Bosne i Hercegovine",
+   "title": "Zakon o izmjeni i dopunama zakona o plaćama i naknadama u institucijama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/w3bPAcGYDVM=",
+   "versions": [
+    {
+     "from": "2013-11-19",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/w3bPAcGYDVM=",
+     "sha256": "20c3d0184c7523653a52a3fab064029066bdea93c42da4c3093faa2f2a258725"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sg100-04cb07",
+   "path": "zakon/2013/sg100-04cb07",
+   "short": "Zakon o izmjenama zakona o izmirenju obaveza po osnovu računa stare devizne štednje",
+   "title": "Zakon o izmjenama zakona o izmirenju obaveza po osnovu računa stare devizne štednje",
+   "url": "https://www.sluzbenilist.ba/page/akt/g4wVJSXug8g=",
+   "versions": [
+    {
+     "from": "2013-12-24",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/g4wVJSXug8g=",
+     "sha256": "174a97507211f5ff2a708fd28ea495f09a62cab4f49e750f70f0270ac7a12924"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sg100-54f2ef",
+   "path": "zakon/2013/sg100-54f2ef",
+   "short": "Zakon o izmjenama zakona o postupku indirektnog oporezivanja",
+   "title": "Zakon o izmjenama zakona o postupku indirektnog oporezivanja",
+   "url": "https://www.sluzbenilist.ba/page/akt/Cfrw9TDuSV8=",
+   "versions": [
+    {
+     "from": "2013-12-31",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/Cfrw9TDuSV8=",
+     "sha256": "519ec0a81283eddfc654132a805b7f39ffabdbb2278301bde65054ab42262269"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sg100-bf8469",
+   "path": "zakon/2013/sg100-bf8469",
+   "short": "Zakon o zaštiti lica koja prijavljuju korupciju u institucijama Bosne i Hercegovine",
+   "title": "Zakon o zaštiti lica koja prijavljuju korupciju u institucijama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/VBlU7o1jBGI=",
+   "versions": [
+    {
+     "from": "2013-12-31",
+     "units": 19,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/VBlU7o1jBGI=",
+     "sha256": "29bf415b4d3ba4c87c9b77144ff4888cb4581c8e271cb7452ac2b33f3073b843"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sg100-ca2e3a",
+   "path": "zakon/2013/sg100-ca2e3a",
+   "short": "Zakon o izmjenama i dopunama zakona o slobodi pristupa informacijama u bosni i hercegovini",
+   "title": "Zakon o izmjenama i dopunama zakona o slobodi pristupa informacijama u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/iKMJRU0gztz5k76kjn45haL0=",
+   "versions": [
+    {
+     "from": "2013-12-31",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/iKMJRU0gztz5k76kjn45haL0=",
+     "sha256": "e3aa0c4b494514b2c3736a0f2ec940c07a74acc221f7cd677e2f766accd0edd5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sg100-e73539",
+   "path": "zakon/2013/sg100-e73539",
+   "short": "Zakon o dopuni zakona o službenom glasilu Bosne i Hercegovine",
+   "title": "Zakon o dopuni zakona o službenom glasilu Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/bhRCNbkwHcI=",
+   "versions": [
+    {
+     "from": "2013-12-31",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/bhRCNbkwHcI=",
+     "sha256": "772f7e4d8021d5d72e03f3ab289e5d2678566b46c8b7680027f02522836cdcd2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-sg007-4d0ab9",
+   "path": "zakon/2014/sg007-4d0ab9",
+   "short": "Zakon o izmjeni i dopuni izbornog zakona Bosne i Hercegovine",
+   "title": "Zakon o izmjeni i dopuni izbornog zakona Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/B0p8sVoqSRE=",
+   "versions": [
+    {
+     "from": "2014-02-05",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/B0p8sVoqSRE=",
+     "sha256": "82b32aed29d847901cc238ca3ecf07869baa3f286233e7fd379dce0123b9e687"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-sg020-3d5c97",
+   "path": "zakon/2014/sg020-3d5c97",
+   "short": "Zakon o izmjenama zakona o osnivanju kompanije za prijenos električne energije u bosni i hercegovini",
+   "title": "Zakon o izmjenama zakona o osnivanju kompanije za prijenos električne energije u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/b1vgztz5k76kjn45hC5Ii28M=",
+   "versions": [
+    {
+     "from": "2014-03-25",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/b1vgztz5k76kjn45hC5Ii28M=",
+     "sha256": "ae478c6c848ab621ea06eac5eca0240875cb83887dcb91ff6a2805e2a4d9962f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-sg036-57504a",
+   "path": "zakon/2014/sg036-57504a",
+   "short": "Zakon o izmjenama i dopunama zakona o prekršajima",
+   "title": "Zakon o izmjenama i dopunama zakona o prekršajima",
+   "url": "https://www.sluzbenilist.ba/page/akt/ti9Zohz4nh78h77F2A950=",
+   "versions": [
+    {
+     "from": "2014-05-20",
+     "units": 12,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/ti9Zohz4nh78h77F2A950=",
+     "sha256": "6f1d140da69e57f091e29067df3760c992d37a0c1a518df913de7d787c115762"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-sg047-3df4cb",
+   "path": "zakon/2014/sg047-3df4cb",
+   "short": "Zakon o izmjenama i dopunama zakona o graničnoj kontroli",
+   "title": "Zakon o izmjenama i dopunama zakona o graničnoj kontroli",
+   "url": "https://www.sluzbenilist.ba/page/akt/ssJYiPPzwLg=",
+   "versions": [
+    {
+     "from": "2014-06-25",
+     "units": 28,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/ssJYiPPzwLg=",
+     "sha256": "4d49c247521c9e26837b1c78f04a9fcab6048ca5583a9942cf7f42f82e2aa563"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-sg047-ca8498",
+   "path": "zakon/2014/sg047-ca8498",
+   "short": "Zakon o dopunama zakona o pravobranilaštvu Bosne i Hercegovine",
+   "title": "Zakon o dopunama zakona o pravobranilaštvu Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/oo4CbLgztz5k76kjn45hPMJs=",
+   "versions": [
+    {
+     "from": "2014-06-25",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/oo4CbLgztz5k76kjn45hPMJs=",
+     "sha256": "02c7e17b73168f48c4bceef8e52d649e8a1ecde8c15c6d81dbd310c6c528bfda"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-sg047-ec78c5",
+   "path": "zakon/2014/sg047-ec78c5",
+   "short": "Zakon o dopuni zakona o javnim nabavkama Bosne i Hercegovine",
+   "title": "Zakon o dopuni zakona o javnim nabavkama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/3sAvv8XfpRc=",
+   "versions": [
+    {
+     "from": "2014-06-25",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/3sAvv8XfpRc=",
+     "sha256": "5aaa2878e442030e468be5d9448a738fb4ef866c43378fbc4292d3ed423f80b5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-sg049-e1dc52",
+   "path": "zakon/2014/sg049-e1dc52",
+   "short": "Zakon o izmjenama i dopunama zakona o akcizama u bosni i hercegovini",
+   "title": "Zakon o izmjenama i dopunama zakona o akcizama u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/Eay5l0MvEsM=",
+   "versions": [
+    {
+     "from": "2014-07-02",
+     "units": 12,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/Eay5l0MvEsM=",
+     "sha256": "c5a03a41bdde6e971f62b4138c68bca7207e03a06dfaaba02a753efd001a3cbd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-sg058-3fbd40",
+   "path": "zakon/2014/sg058-3fbd40",
+   "short": "Zakon o elektronskom dokumentu",
+   "title": "Zakon o elektronskom dokumentu",
+   "url": "https://www.sluzbenilist.ba/page/akt/Hv7auD8YBTw=",
+   "versions": [
+    {
+     "from": "2014-08-05",
+     "units": 34,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/Hv7auD8YBTw=",
+     "sha256": "e4c28a52e4b7a040e6713825dabc8b9590c0d29751568d183dd09ef640932630"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-sg060-eee393",
+   "path": "zakon/2014/sg060-eee393",
+   "short": "Zakon o izmjeni i dopuni zakona o akcizama u bosni i hercegovini",
+   "title": "Zakon o izmjeni i dopuni zakona o akcizama u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/KACUsIhCIdI=",
+   "versions": [
+    {
+     "from": "2014-08-12",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/KACUsIhCIdI=",
+     "sha256": "7e4058259a7b3abd7f238b08244598bf1c189d9adf7a4bb636cdc77669f0f29c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2015-sg022-7f0723",
+   "path": "zakon/2015/sg022-7f0723",
+   "short": "Zakon o izmjenama i dopunama zakona o politici direktnih stranih ulaganja u bosni i hercegovini",
+   "title": "Zakon o izmjenama i dopunama zakona o politici direktnih stranih ulaganja u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/XoeNuVts0mA=",
+   "versions": [
+    {
+     "from": "2015-03-24",
+     "units": 13,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/XoeNuVts0mA=",
+     "sha256": "7f2ac8d2b44878f55d7d44c29d47d78a4c9c8f87280fc74e659b987946d060be"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2015-sg051-2cd25f",
+   "path": "zakon/2015/sg051-2cd25f",
+   "short": "Zakon o obligacionim odnosima u civilnom zrakoplovstvu Bosne i Hercegovine",
+   "title": "Zakon o obligacionim odnosima u civilnom zrakoplovstvu Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/akEk03ZjfLw=",
+   "versions": [
+    {
+     "from": "2015-07-07",
+     "units": 140,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/akEk03ZjfLw=",
+     "sha256": "06cf857de44f83116638534ed74962819f693c18756f368191653b1e7f2be46d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2015-sg051-6f9678",
+   "path": "zakon/2015/sg051-6f9678",
+   "short": "Zakon o izmjeni zakona o javnom radiotelevizijskom sistemu Bosne i Hercegovine",
+   "title": "Zakon o izmjeni zakona o javnom radiotelevizijskom sistemu Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/ZFWRlohz4nh78h77MfyTI=",
+   "versions": [
+    {
+     "from": "2015-07-07",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/ZFWRlohz4nh78h77MfyTI=",
+     "sha256": "2e8802f8842b2f97e4c042ab56327e0080253f8e7eea12131aa3f519d2e5bfa4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2015-sg058-ca73bc",
+   "path": "zakon/2015/sg058-ca73bc",
+   "short": "Zakon o izmjenama i dopunama zakona o prebivalištu i boravištu državljana Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama zakona o prebivalištu i boravištu državljana Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/WOEzlrIHjn4=",
+   "versions": [
+    {
+     "from": "2015-07-29",
+     "units": 15,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/WOEzlrIHjn4=",
+     "sha256": "476541097dd90e4fb3f219f41a95c80a77cfeb7380f644ba46cdcab0c7addf7a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2015-sg075-5d60b4",
+   "path": "zakon/2015/sg075-5d60b4",
+   "short": "Zakon o izmjeni zakona o plaćama i naknadama u institucijama Bosne i Hercegovine",
+   "title": "Zakon o izmjeni zakona o plaćama i naknadama u institucijama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/GWtgztz5k76kjn45hL8bYvsg=",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/GWtgztz5k76kjn45hL8bYvsg=",
+     "sha256": "f26acda0c72e7904cc8924df9754414a12d38caf4d5d318fc0f51aae173d1afb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2015-sg081-d1c710",
+   "path": "zakon/2015/sg081-d1c710",
+   "short": "Zakon o dopunama zakona o prekršajima",
+   "title": "Zakon o dopunama zakona o prekršajima",
+   "url": "https://www.sluzbenilist.ba/page/akt/eohz4nh78h77DutUG6c14=",
+   "versions": [
+    {
+     "from": "2015-10-27",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/eohz4nh78h77DutUG6c14=",
+     "sha256": "e92158cc248c58f936dcfc5c7083cda5983ca2ee05df90b72cc3aedfcbd6a046"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2015-sg084-67c58b",
+   "path": "zakon/2015/sg084-67c58b",
+   "short": "Zakon o dopuni zakona o jedinstvenom matičnom broju",
+   "title": "Zakon o dopuni zakona o jedinstvenom matičnom broju",
+   "url": "https://www.sluzbenilist.ba/page/akt/qCm85jT0tqI=",
+   "versions": [
+    {
+     "from": "2015-11-10",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/qCm85jT0tqI=",
+     "sha256": "e50d708b05324656e12936a74ad0fe5815643ef8c04e15cf7cfd20c4b6c22d45"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2015-sg088-ac7add",
+   "path": "zakon/2015/sg088-ac7add",
+   "short": "Zakon o dopunama zakona o plaćama i naknadama u institucijama Bosne i Hercegovine",
+   "title": "Zakon o dopunama zakona o plaćama i naknadama u institucijama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/Pa6cZcppKAU=",
+   "versions": [
+    {
+     "from": "2015-11-25",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/Pa6cZcppKAU=",
+     "sha256": "03077ec900a6ec6550153990c8d4886b8279451f1e1f466403c65b717de36228"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2015-sg088-ece951",
+   "path": "zakon/2015/sg088-ece951",
+   "short": "Zakon o dopunama zakona o zaštiti potrošača u bosni i hercegovini",
+   "title": "Zakon o dopunama zakona o zaštiti potrošača u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/qw3QPu9PlUI=",
+   "versions": [
+    {
+     "from": "2015-11-25",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/qw3QPu9PlUI=",
+     "sha256": "42716cf7e8861304a5d7acc77054f71b2f49f2df410693f6ab9647b69a79802d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2016-sg016-8ef8b8",
+   "path": "zakon/2016/sg016-8ef8b8",
+   "short": "Zakon o izmjeni zakona o plaćama i naknadama u institucijama Bosne i Hercegovine",
+   "title": "Zakon o izmjeni zakona o plaćama i naknadama u institucijama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/UV5ohz4nh78h77QKYsaaA=",
+   "versions": [
+    {
+     "from": "2016-03-16",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/UV5ohz4nh78h77QKYsaaA=",
+     "sha256": "c84a75be6b983c60b53a80bb39ec28c377bbca3a56b08e106dabf1d2c3803583"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2016-sg019-898d57",
+   "path": "zakon/2016/sg019-898d57",
+   "short": "Zakon o izmjeni i dopuni zakona o ministarstvima i drugim organima uprave Bosne i Hercegovine",
+   "title": "Zakon o izmjeni i dopuni zakona o ministarstvima i drugim organima uprave Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/ym83YWE0lO4=",
+   "versions": [
+    {
+     "from": "2016-03-26",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/ym83YWE0lO4=",
+     "sha256": "2ccf223097b4449bc5b4a983bd8b7480ba13e6ce406aafe8eec77a24d0980a2a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2016-sg022-060516",
+   "path": "zakon/2016/sg022-060516",
+   "short": "Zakon o izmjenama i dopunama zakona o kontroli kretanja oružja i vojne opreme",
+   "title": "Zakon o izmjenama i dopunama zakona o kontroli kretanja oružja i vojne opreme",
+   "url": "https://www.sluzbenilist.ba/page/akt/YXEQQXSE03I=",
+   "versions": [
+    {
+     "from": "2016-04-06",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/YXEQQXSE03I=",
+     "sha256": "d79ed31e92421d23de91bda2a165f9fb61dcbea78c877aaf26999e06be9449b1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2016-sg025-fbceb6",
+   "path": "zakon/2016/sg025-fbceb6",
+   "short": "Zakon o izmjeni zakona o javnom radiotelevizijskom sistemu Bosne i Hercegovine",
+   "title": "Zakon o izmjeni zakona o javnom radiotelevizijskom sistemu Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/Gt5uQUIgztz5k76kjn45hffY=",
+   "versions": [
+    {
+     "from": "2016-04-16",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/Gt5uQUIgztz5k76kjn45hffY=",
+     "sha256": "6eef38f4892f6e76c73c22ec24cb9259b4094fdff5a8f674a3206d0f62beccbf"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2016-sg034-532f09",
+   "path": "zakon/2016/sg034-532f09",
+   "short": "Zakon o dopunama zakona o odlikovanjima Bosne i Hercegovine",
+   "title": "Zakon o dopunama zakona o odlikovanjima Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/JBLgztz5k76kjn45h3OFKipE=",
+   "versions": [
+    {
+     "from": "2016-05-18",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/JBLgztz5k76kjn45h3OFKipE=",
+     "sha256": "02c202a417b4252d026e56bd72d7200279c22217dc5573005c49b02bf0efb27c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2016-sg041-39f942",
+   "path": "zakon/2016/sg041-39f942",
+   "short": "Zakon o izmjenama i dopunama zakona o službi u oružanim snagama Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama zakona o službi u oružanim snagama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/zgztz5k76kjn45hUzp0bGMtc=",
+   "versions": [
+    {
+     "from": "2016-06-11",
+     "units": 37,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/zgztz5k76kjn45hUzp0bGMtc=",
+     "sha256": "fe7813bbdce8ad71d693bf64dfef7bfb4efba0f54c87adafdc901e03eac48c43"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2016-sg041-c7dda4",
+   "path": "zakon/2016/sg041-c7dda4",
+   "short": "Zakon o izmjenama i dopunama zakona o finansiranju političkih stranaka",
+   "title": "Zakon o izmjenama i dopunama zakona o finansiranju političkih stranaka",
+   "url": "https://www.sluzbenilist.ba/page/akt/7n7ohz4nh78h77ULX87ic=",
+   "versions": [
+    {
+     "from": "2016-06-11",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/7n7ohz4nh78h77ULX87ic=",
+     "sha256": "ef6499d0b337a142003c6b27b1220ef9d095eead78cbfcf1a98e97892a75efe1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2016-sg041-f09d98",
+   "path": "zakon/2016/sg041-f09d98",
+   "short": "Zakon o štrajku zaposlenih u institucijama Bosne i Hercegovine",
+   "title": "Zakon o štrajku zaposlenih u institucijama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/1qaZkCEnWuc=",
+   "versions": [
+    {
+     "from": "2016-06-11",
+     "units": 37,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/1qaZkCEnWuc=",
+     "sha256": "3789a0979425f121c4e6f41f2970025301e1b7c46c88943a016a191a2a1e0b45"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2016-sg046-9a549b",
+   "path": "zakon/2016/sg046-9a549b",
+   "short": "Zakon o izmjenama i dopunama zakona o sprečavanju pranja novca i finansiranja terorističkih aktivnosti",
+   "title": "Zakon o izmjenama i dopunama zakona o sprečavanju pranja novca i finansiranja terorističkih aktivnosti",
+   "url": "https://www.sluzbenilist.ba/page/akt/tRWk0LimJg4=",
+   "versions": [
+    {
+     "from": "2016-06-29",
+     "units": 26,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/tRWk0LimJg4=",
+     "sha256": "57345b7575e85742c4c9d4ca1ca67d8d837fb9b2969743d7e11e448206a5603c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2016-sg053-5cc373",
+   "path": "zakon/2016/sg053-5cc373",
+   "short": "Zakon o kontroli vanjskotrgovinskog prometa oružja, vojne opreme i robe posebne namjene",
+   "title": "Zakon o kontroli vanjskotrgovinskog prometa oružja, vojne opreme i robe posebne namjene",
+   "url": "https://www.sluzbenilist.ba/page/akt/yAUrTATRgztz5k76kjn45hBQ=",
+   "versions": [
+    {
+     "from": "2016-07-30",
+     "units": 50,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/yAUrTATRgztz5k76kjn45hBQ=",
+     "sha256": "6800e4fa8676f0df03f73fa54f4695afff55f44b4b71e98ffb0d5fd3ebb8b7d6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2016-sg053-903049",
+   "path": "zakon/2016/sg053-903049",
+   "short": "Zakon o izmjenama i dopunama zakona o upravnom postupku",
+   "title": "Zakon o izmjenama i dopunama zakona o upravnom postupku",
+   "url": "https://www.sluzbenilist.ba/page/akt/YDkzpjROUm8=",
+   "versions": [
+    {
+     "from": "2016-07-30",
+     "units": 10,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/YDkzpjROUm8=",
+     "sha256": "f4ed84c5270c1eaf8ff5f10c055d2119b720cf95c62d9d25878b1693ec4a8c2a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2016-sg053-95e633",
+   "path": "zakon/2016/sg053-95e633",
+   "short": "Zakon o kontroli vanjskotrgovinskog prometa robe dvojne namjene",
+   "title": "Zakon o kontroli vanjskotrgovinskog prometa robe dvojne namjene",
+   "url": "https://www.sluzbenilist.ba/page/akt/6OcCRQ6bo3s=",
+   "versions": [
+    {
+     "from": "2016-07-30",
+     "units": 39,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/6OcCRQ6bo3s=",
+     "sha256": "c8ffe0fdb1b5b35082670dfc8a373c0d26c3d43789a1801a6b62db8f57704e95"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2016-sg066-5a89de",
+   "path": "zakon/2016/sg066-5a89de",
+   "short": "Zakon o izmjenama i dopunama zakona o radnom vremenu, obaveznim odmorima mobilnih radnika i uređajima za evidentiranje u drumskom prijevozu",
+   "title": "Zakon o izmjenama i dopunama zakona o radnom vremenu, obaveznim odmorima mobilnih radnika i uređajima za evidentiranje u drumskom prijevozu",
+   "url": "https://www.sluzbenilist.ba/page/akt/xxNES87XDAg=",
+   "versions": [
+    {
+     "from": "2016-09-14",
+     "units": 22,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/xxNES87XDAg=",
+     "sha256": "37f51bf4d4f68edfe6ab96099e0fddf950e48a6cc4ce214dedadf6938c9bc4db"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2016-sg066-c4b264",
+   "path": "zakon/2016/sg066-c4b264",
+   "short": "Zakon o izmjenama i dopunama zakona o sportu u bosni i hercegovini",
+   "title": "Zakon o izmjenama i dopunama zakona o sportu u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/NQ1fddHMgztz5k76kjn45h8Q=",
+   "versions": [
+    {
+     "from": "2016-09-14",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/NQ1fddHMgztz5k76kjn45h8Q=",
+     "sha256": "34c568ab7ef364093d8781adfb0205418b450a64b4c687135834c0f536d81803"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2016-sg066-d9cdbd",
+   "path": "zakon/2016/sg066-d9cdbd",
+   "short": "Zakon o izmjenama i dopunama zakona o zabrani diskriminacije",
+   "title": "Zakon o izmjenama i dopunama zakona o zabrani diskriminacije",
+   "url": "https://www.sluzbenilist.ba/page/akt/GZufCWKyq0Y=",
+   "versions": [
+    {
+     "from": "2016-09-14",
+     "units": 15,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/GZufCWKyq0Y=",
+     "sha256": "2386f23595393c6620865e9a26a74503ef363d1d0348113a038bce16575fcc6b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2016-sg083-388ef9",
+   "path": "zakon/2016/sg083-388ef9",
+   "short": "Zakon o obilježavanju malog oružja, lakog naoružanja i pripadajuće municije",
+   "title": "Zakon o obilježavanju malog oružja, lakog naoružanja i pripadajuće municije",
+   "url": "https://www.sluzbenilist.ba/page/akt/gHKEf5dWswI=",
+   "versions": [
+    {
+     "from": "2016-11-12",
+     "units": 32,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/gHKEf5dWswI=",
+     "sha256": "3469189f99eacf14fc8119a4cea1237bb833547f65008341e1fcbec402e71a2e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2016-sg090-9165d7",
+   "path": "zakon/2016/sg090-9165d7",
+   "short": "Zakon o izmjenama i dopunama zakona o zaduživanju, dugu i garancijama Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama zakona o zaduživanju, dugu i garancijama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/laF6pElsJLk=",
+   "versions": [
+    {
+     "from": "2016-12-10",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/laF6pElsJLk=",
+     "sha256": "2dbb1ffd47c8a9c49b2471b2a2ebc2ce2361c6c1d11eba9e1f1941ccc099332d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2016-sg094-28976b",
+   "path": "zakon/2016/sg094-28976b",
+   "short": "Zakon o izmjeni zakona o plaćama i naknadama u institucijama Bosne i Hercegovine",
+   "title": "Zakon o izmjeni zakona o plaćama i naknadama u institucijama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/gwiBCEdMNbE=",
+   "versions": [
+    {
+     "from": "2016-12-31",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/gwiBCEdMNbE=",
+     "sha256": "be1f211f39dc287ed6134dad25d013dd5bb1275d42d9b97ae7902400832b27ce"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2016-sg094-3c3191",
+   "path": "zakon/2016/sg094-3c3191",
+   "short": "Zakon o dopunama zakona o parničnom postupku pred sudom Bosne i Hercegovine",
+   "title": "Zakon o dopunama zakona o parničnom postupku pred sudom Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/ldIxnwoOTDY=",
+   "versions": [
+    {
+     "from": "2016-12-31",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/ldIxnwoOTDY=",
+     "sha256": "bc5e45e470456e1153404634076510fcdbe71455d716c0bed44c8727c6eea462"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2016-sg094-ea2121",
+   "path": "zakon/2016/sg094-ea2121",
+   "short": "Zakon o izmjenama i dopunama zakona o udruženjima i fondacijama Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama zakona o udruženjima i fondacijama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/1Oohz4nh78h77vyn91YHE=",
+   "versions": [
+    {
+     "from": "2016-12-31",
+     "units": 27,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/1Oohz4nh78h77vyn91YHE=",
+     "sha256": "bfe74494ce2692fd9eb83210b129c00ce49300263b5064e5b861f1661b6a666c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-sg008-b7c23d",
+   "path": "zakon/2017/sg008-b7c23d",
+   "short": "Zakon o izmjenama i dopunama zakona o osnovama sigurnosti saobraćaja na putevima u bosni i hercegovini",
+   "title": "Zakon o izmjenama i dopunama zakona o osnovama sigurnosti saobraćaja na putevima u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/i1yRBWySYJY=",
+   "versions": [
+    {
+     "from": "2017-02-15",
+     "units": 74,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/i1yRBWySYJY=",
+     "sha256": "97de902b0cf567702a8b0a9619eff53cbd4bc3fe14b55e6e0a646a431332a510"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-sg033-80a09a",
+   "path": "zakon/2017/sg033-80a09a",
+   "short": "Zakon o izmjeni zakona o porezu na dodatu vrijednost",
+   "title": "Zakon o izmjeni zakona o porezu na dodatu vrijednost",
+   "url": "https://www.sluzbenilist.ba/page/akt/Hgztz5k76kjn45hgztz5k76kjn45h9qptEdSE=",
+   "versions": [
+    {
+     "from": "2017-05-17",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/Hgztz5k76kjn45hgztz5k76kjn45h9qptEdSE=",
+     "sha256": "f46a176c271f5a12db861dc74a91a94e83ffcd4c2c57573cdfba277a50e84122"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-sg072-53524d",
+   "path": "zakon/2017/sg072-53524d",
+   "short": "Zakon o izmjeni zakona o plaćama i naknadama u institucijama Bosne i Hercegovine",
+   "title": "Zakon o izmjeni zakona o plaćama i naknadama u institucijama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/Crrqjfgztz5k76kjn45hdaYw=",
+   "versions": [
+    {
+     "from": "2017-10-14",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/Crrqjfgztz5k76kjn45hdaYw=",
+     "sha256": "58229a7485f6864c05e5e4fc34145787c2dece7789356853885e78214eea0761"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-sg083-bb6f47",
+   "path": "zakon/2017/sg083-bb6f47",
+   "short": "Zakon o izmjeni i dopuni zakona o ministarstvima i drugim organima uprave Bosne i Hercegovine",
+   "title": "Zakon o izmjeni i dopuni zakona o ministarstvima i drugim organima uprave Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/FsTHshJ7vjU=",
+   "versions": [
+    {
+     "from": "2017-11-25",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/FsTHshJ7vjU=",
+     "sha256": "9c8df2683510f13084709ed193449ba445b869539c0f54a2f10c32451566d60b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-sg089-e501ac",
+   "path": "zakon/2017/sg089-e501ac",
+   "short": "Zakon o izmjenama i dopunama zakona o osnovama sigurnosti saobraćaja na putevima u bosni i hercegovini",
+   "title": "Zakon o izmjenama i dopunama zakona o osnovama sigurnosti saobraćaja na putevima u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/DcoJGWw2qy8=",
+   "versions": [
+    {
+     "from": "2017-12-23",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/DcoJGWw2qy8=",
+     "sha256": "dcf14c61529cf3643570768ddee4b886803a07564a4992670fa0b8ce8dedf505"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-sg093-737527",
+   "path": "zakon/2017/sg093-737527",
+   "short": "Zakon o izmjeni zakona o državnoj službi u institucijama Bosne i Hercegovine",
+   "title": "Zakon o izmjeni zakona o državnoj službi u institucijama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/EMQkt6IRGFU=",
+   "versions": [
+    {
+     "from": "2018-01-05",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/EMQkt6IRGFU=",
+     "sha256": "206c7b466e794e3cc06478a3ca066e57d5e74bc9daee568305998083aff81f78"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-sg093-78d46b",
+   "path": "zakon/2017/sg093-78d46b",
+   "short": "Zakon o izmjenama zakona o radu u institucijama Bosne i Hercegovine",
+   "title": "Zakon o izmjenama zakona o radu u institucijama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/LxDw5OZAnlE=",
+   "versions": [
+    {
+     "from": "2018-01-05",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/LxDw5OZAnlE=",
+     "sha256": "f83230a93b0dd371a3fb893241b07a34c7b0791e1674c47c4c084b77dba230f5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2018-sg009-5be6b6",
+   "path": "zakon/2018/sg009-5be6b6",
+   "short": "Zakon o izmjenama zakona o osnovama sigurnosti saobraćaja na putevima u bosni i hercegovini",
+   "title": "Zakon o izmjenama zakona o osnovama sigurnosti saobraćaja na putevima u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/CL23gRPvNnY=",
+   "versions": [
+    {
+     "from": "2018-02-14",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/CL23gRPvNnY=",
+     "sha256": "158909d71f5fd91b78fd6630bc7141f51a1fbfb7280ecf2de27c5218459054b6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2018-sg025-1469f7",
+   "path": "zakon/2018/sg025-1469f7",
+   "short": "Zakon o izmjenama i dopunama zakona o zrakoplovstvu Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama zakona o zrakoplovstvu Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/ohz4nh78h77QjY0HflGpc=",
+   "versions": [
+    {
+     "from": "2018-04-28",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/ohz4nh78h77QjY0HflGpc=",
+     "sha256": "db096a4f58404cda1a9cde216a2ddfd01282ae5803aedf11258fbccd555bf04b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2018-sg025-c42536",
+   "path": "zakon/2018/sg025-c42536",
+   "short": "Zakon o parlamentarnom nadzoru",
+   "title": "Zakon o parlamentarnom nadzoru",
+   "url": "https://www.sluzbenilist.ba/page/akt/Snv92cpgztz5k76kjn45hw3U=",
+   "versions": [
+    {
+     "from": "2018-04-28",
+     "units": 83,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/Snv92cpgztz5k76kjn45hw3U=",
+     "sha256": "ab4fabe717b00c0585957e7c20b54430a6661227c647dbb1a5bb2139dea76185"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2018-sg025-fc7682",
+   "path": "zakon/2018/sg025-fc7682",
+   "short": "Zakon o izmjeni zakona o plaćama i naknadama u institucijama Bosne i Hercegovine",
+   "title": "Zakon o izmjeni zakona o plaćama i naknadama u institucijama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/cigztz5k76kjn45hTYnCUhAA=",
+   "versions": [
+    {
+     "from": "2018-04-28",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/cigztz5k76kjn45hTYnCUhAA=",
+     "sha256": "76a5675f4d316f80bb9ee6a676e1d905c705a88b1a33d5abae55128a55cb774f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sg039-339ea8",
+   "path": "zakon/2020/sg039-339ea8",
+   "short": "Zakon o izmjenama i dopunama zakona o sistemu državne pomoći u bosni i hercegovini",
+   "title": "Zakon o izmjenama i dopunama zakona o sistemu državne pomoći u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/HfW4hMiSLGg=",
+   "versions": [
+    {
+     "from": "2020-07-11",
+     "units": 14,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/HfW4hMiSLGg=",
+     "sha256": "db4f52b5b20fb0359416c782768ed82691569733d92b0e667fdff5bfad796463"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sg041-08c468",
+   "path": "zakon/2020/sg041-08c468",
+   "short": "Zakon o izmjenama izbornog zakona Bosne i Hercegovine",
+   "title": "Zakon o izmjenama izbornog zakona Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/hPc1sEXgOf0=",
+   "versions": [
+    {
+     "from": "2020-07-18",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/hPc1sEXgOf0=",
+     "sha256": "414feb3f241368d685aa34bf684c753cc8eda877f7076fd437a082b0a36bd93d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sg065-4c0f57",
+   "path": "zakon/2020/sg065-4c0f57",
+   "short": "Zakon o dopunama zakona o prekršajima",
+   "title": "Zakon o dopunama zakona o prekršajima",
+   "url": "https://www.sluzbenilist.ba/page/akt/tYzTNvxaYDA=",
+   "versions": [
+    {
+     "from": "2020-10-24",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/tYzTNvxaYDA=",
+     "sha256": "c49e3c9dac2e0c9a08380c2184b7a650284be586d5323005be664832a5e49790"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sg065-c20c2c",
+   "path": "zakon/2020/sg065-c20c2c",
+   "short": "Zakon o izmjenama zakona o plaćama i naknadama u institucijama Bosne i Hercegovine",
+   "title": "Zakon o izmjenama zakona o plaćama i naknadama u institucijama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/9Ca8yk9mwME=",
+   "versions": [
+    {
+     "from": "2020-10-24",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/9Ca8yk9mwME=",
+     "sha256": "bd1d2e4477861e6c88cf4e9d958b3c04e165c2613e9feb1205d0f6b40f7a5a2f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sg077-6a45fd",
+   "path": "zakon/2020/sg077-6a45fd",
+   "short": "Zakon o izmjeni i dopunama zakona o plaćama i drugim naknadama u sudskim i tužilačkim institucijama na nivou Bosne i Hercegovine",
+   "title": "Zakon o izmjeni i dopunama zakona o plaćama i drugim naknadama u sudskim i tužilačkim institucijama na nivou Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/nIiv78p8SvQ=",
+   "versions": [
+    {
+     "from": "2020-12-05",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/nIiv78p8SvQ=",
+     "sha256": "1440e401a53f2e6084e74feb89f5ec40414da6a26816160d82344b26e68c6dc2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sg077-8c632e",
+   "path": "zakon/2020/sg077-8c632e",
+   "short": "Zakon o izmjenama i dopuni zakona o sudskim taksama u postupku pred sudom Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopuni zakona o sudskim taksama u postupku pred sudom Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/HXXMohz4nh78h77eDU6I8=",
+   "versions": [
+    {
+     "from": "2020-12-05",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/HXXMohz4nh78h77eDU6I8=",
+     "sha256": "600eea87101eb8db014c987cce6e02e07d021b767a373ca93a704809d787ee69"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sg034-c57bf9",
+   "path": "zakon/2021/sg034-c57bf9",
+   "short": "Zakon o dopunama zakona o parničnom postupku pred sudom Bosne i Hercegovine",
+   "title": "Zakon o dopunama zakona o parničnom postupku pred sudom Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/4BpC8jAg2xA=",
+   "versions": [
+    {
+     "from": "2021-06-12",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/4BpC8jAg2xA=",
+     "sha256": "524414a97cc80e8135ae652d907d484a051e254fa922ae24c3fa034d559174a3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sg034-d46cb8",
+   "path": "zakon/2021/sg034-d46cb8",
+   "short": "Zakon o izmjeni i dopuni zakona o strancima",
+   "title": "Zakon o izmjeni i dopuni zakona o strancima",
+   "url": "https://www.sluzbenilist.ba/page/akt/7PdCuohz4nh78h77zwDqg=",
+   "versions": [
+    {
+     "from": "2021-06-12",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/7PdCuohz4nh78h77zwDqg=",
+     "sha256": "2787ebe30ea56662fde9485706d225300c2be2f1072399eb85345492f0a37c09"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sg034-dca560",
+   "path": "zakon/2021/sg034-dca560",
+   "short": "Zakon o privremenim mjerama u radu pravosudnih i drugih organa Bosne i Hercegovine za vrijeme stanja prirodne ili druge nesreće na teritoriji Bosne i Hercegovine",
+   "title": "Zakon o privremenim mjerama u radu pravosudnih i drugih organa Bosne i Hercegovine za vrijeme stanja prirodne ili druge nesreće na teritoriji Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/Y4KbdHfN038=",
+   "versions": [
+    {
+     "from": "2021-06-05",
+     "units": 26,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/Y4KbdHfN038=",
+     "sha256": "c16ff2952da2d86169ac69ad3d2c5e2a542fe64687bf441c500467adfa630575"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-sg028-4a33b4",
+   "path": "zakon/2022/sg028-4a33b4",
+   "short": "Zakon o carinskim prekršajima Bosne i Hercegovine",
+   "title": "Zakon o carinskim prekršajima Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/aaSOa8R2btI=",
+   "versions": [
+    {
+     "from": "2022-05-14",
+     "units": 55,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/aaSOa8R2btI=",
+     "sha256": "66763a05ffef6837cc6c464931bf78a2d441250e0d43dc0317c0d8c406f55309"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-sg050-97af2e",
+   "path": "zakon/2022/sg050-97af2e",
+   "short": "Zakon o izmjenama i dopuni zakona o akcizama u bosni i hercegovini",
+   "title": "Zakon o izmjenama i dopuni zakona o akcizama u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/uFjzlhAmTZk=",
+   "versions": [
+    {
+     "from": "2022-08-06",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/uFjzlhAmTZk=",
+     "sha256": "f3e95ff27c07ab5f0034afc9118697608d2e3de9f6446716fe087b0c23555623"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-sg059-81c72f",
+   "path": "zakon/2022/sg059-81c72f",
+   "short": "Zakon o izmjenama i dopunama zakona o javnim nabavkama",
+   "title": "Zakon o izmjenama i dopunama zakona o javnim nabavkama",
+   "url": "https://www.sluzbenilist.ba/page/akt/WSYn8ifsOUI=",
+   "versions": [
+    {
+     "from": "2022-09-10",
+     "units": 66,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/WSYn8ifsOUI=",
+     "sha256": "ac76292de4124a89a72ba279360f94c1bfe41373d04ae452d27476c4067646f2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-sg059-d37107",
+   "path": "zakon/2022/sg059-d37107",
+   "short": "Zakon o izmjeni zakona o radu u institucijama Bosne i Hercegovine",
+   "title": "Zakon o izmjeni zakona o radu u institucijama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/CGCvRwmbDCs=",
+   "versions": [
+    {
+     "from": "2022-09-10",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/CGCvRwmbDCs=",
+     "sha256": "de71e11d1e1e1f466d046024d077c5eb57dc9a74f9ae0ba37367e2368581a0eb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sg046-1ebd08",
+   "path": "zakon/2023/sg046-1ebd08",
+   "short": "Zakon o dopuni zakona o osnovama sigurnosti saobraćaja na putevima u bosni i hercegovini",
+   "title": "Zakon o dopuni zakona o osnovama sigurnosti saobraćaja na putevima u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/JUu9ub214xI=",
+   "versions": [
+    {
+     "from": "2023-07-08",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/JUu9ub214xI=",
+     "sha256": "8abce2b615bded6436eda75182af4c71c92f57233d409b6753afc9ec52de4925"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sg046-a31b85",
+   "path": "zakon/2023/sg046-a31b85",
+   "short": "Zakon o dopuni zakona o osnovama sigurnosti saobraćaja na putevima u bosni i hercegovini",
+   "title": "Zakon o dopuni zakona o osnovama sigurnosti saobraćaja na putevima u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/F20iMkQdfrQ=",
+   "versions": [
+    {
+     "from": "2023-07-08",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/F20iMkQdfrQ=",
+     "sha256": "a00d2b6ccb86b8905f025c50e37339a28614aa6507c03d9e06c1a78b39e1860d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sg046-f60c24",
+   "path": "zakon/2023/sg046-f60c24",
+   "short": "Zakon o dopuni zakona o porezu na dodatu vrijednost",
+   "title": "Zakon o dopuni zakona o porezu na dodatu vrijednost",
+   "url": "https://www.sluzbenilist.ba/page/akt/XWLykdZgGDs=",
+   "versions": [
+    {
+     "from": "2023-07-08",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/XWLykdZgGDs=",
+     "sha256": "24d0ab9fd03247f443f4ccc72ec12d2d99a6a04405f5c462cc8fb03ecc2d333a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sg061-031b82",
+   "path": "zakon/2023/sg061-031b82",
+   "short": "Zakon o izmjenama i dopunama zakona o ombudsmenu za ljudska prava Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama zakona o ombudsmenu za ljudska prava Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/IgAXGbSeotA=",
+   "versions": [
+    {
+     "from": "2023-09-13",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/IgAXGbSeotA=",
+     "sha256": "9ddd37aa32fccbe9ca34a102d0a37a22f4e88f99ae39d933eaf82b120dac438a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sg061-65d2c4",
+   "path": "zakon/2023/sg061-65d2c4",
+   "short": "Zakon o slobodi pristupa informacijama na nivou institucija Bosne i Hercegovine",
+   "title": "Zakon o slobodi pristupa informacijama na nivou institucija Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/fRNPvuRCIiQ=",
+   "versions": [
+    {
+     "from": "2023-09-13",
+     "units": 64,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/fRNPvuRCIiQ=",
+     "sha256": "a43dc9e3b331aae613e7d984652247fdcfe78c1232218a32ffc5284fde21eb1b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sg063-26ce0f",
+   "path": "zakon/2023/sg063-26ce0f",
+   "short": "Zakon o organizaciji tržišta vina u bosni i hercegovini",
+   "title": "Zakon o organizaciji tržišta vina u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/6lyXdC24HCw=",
+   "versions": [
+    {
+     "from": "2023-09-23",
+     "units": 100,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/6lyXdC24HCw=",
+     "sha256": "5501eeae2beac2a5c8ff19f284f8e1b3d8f8a9cd496700d1bc41b3b32b521bac"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sg063-6dd9bf",
+   "path": "zakon/2023/sg063-6dd9bf",
+   "short": "Zakon o izmjenama i dopunama zakona o strancima",
+   "title": "Zakon o izmjenama i dopunama zakona o strancima",
+   "url": "https://www.sluzbenilist.ba/page/akt/0SqRdMx8RS0=",
+   "versions": [
+    {
+     "from": "2023-09-23",
+     "units": 70,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/0SqRdMx8RS0=",
+     "sha256": "35bca2e38e44fa239d9ef3b4bbe6d0f6ccc0119c6765ce9cd32f2aaafd20abf5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sg080-dbaea9",
+   "path": "zakon/2023/sg080-dbaea9",
+   "short": "Zakon o izmjeni zakona o porezu na dodatu vrijednost",
+   "title": "Zakon o izmjeni zakona o porezu na dodatu vrijednost",
+   "url": "https://www.sluzbenilist.ba/page/akt/juKzhw7T2HE=",
+   "versions": [
+    {
+     "from": "2023-12-02",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/juKzhw7T2HE=",
+     "sha256": "e21f2fce87f6d96fb7061cd8981a5bb8395ae7a9ffc51f05102a4a50274e827c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sg088-25de98",
+   "path": "zakon/2023/sg088-25de98",
+   "short": "Zakon o izmjeni zakona o radu u institucijama Bosne i Hercegovine",
+   "title": "Zakon o izmjeni zakona o radu u institucijama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/ZGQgIngvxBQ=",
+   "versions": [
+    {
+     "from": "2024-01-06",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/ZGQgIngvxBQ=",
+     "sha256": "abbb1b09a84e6f8a6a4e41682d10a59955f523ffc10366e6fe77a06c92c9f8cd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sg088-2d72cd",
+   "path": "zakon/2023/sg088-2d72cd",
+   "short": "Zakon o izmjenama zakona o osnovama sigurnosti saobraćaja na putevima u bosni i hercegovini",
+   "title": "Zakon o izmjenama zakona o osnovama sigurnosti saobraćaja na putevima u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/enATExfzVgztz5k76kjn45hc=",
+   "versions": [
+    {
+     "from": "2024-01-06",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/enATExfzVgztz5k76kjn45hc=",
+     "sha256": "26d25e098b00b8cb3984eea88f016bd9899e1495871e047f143ea820d937b509"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sg009-77170f",
+   "path": "zakon/2024/sg009-77170f",
+   "short": "Zakon o izmjenama i dopuni zakona o visokom sudskom i tužilačkom vijeću Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopuni zakona o visokom sudskom i tužilačkom vijeću Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/FHCX17oJVoo=",
+   "versions": [
+    {
+     "from": "2024-02-14",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/FHCX17oJVoo=",
+     "sha256": "df6649f358970acebd8b5bdb2e6284ed73c98ac1ad293eef2868cdfbb271e8cc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sg013-1ecbf1",
+   "path": "zakon/2024/sg013-1ecbf1",
+   "short": "Zakon o sprečavanju pranja novca i finansiranja terorističkih aktivnosti",
+   "title": "Zakon o sprečavanju pranja novca i finansiranja terorističkih aktivnosti",
+   "url": "https://www.sluzbenilist.ba/page/akt/2ekHY3XoeXY=",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 122,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/2ekHY3XoeXY=",
+     "sha256": "d313c5178a65e9889f49eb05e5d2cc05990df24f8d4cfc86d21d9c6d22af5577"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sg018-1fca66",
+   "path": "zakon/2024/sg018-1fca66",
+   "short": "Zakon o sprečavanju sukoba interesa u institucijama na nivou Bosne i Hercegovine",
+   "title": "Zakon o sprečavanju sukoba interesa u institucijama na nivou Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/3fEplgztz5k76kjn45hVDUNs=",
+   "versions": [
+    {
+     "from": "2024-03-23",
+     "units": 53,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/3fEplgztz5k76kjn45hVDUNs=",
+     "sha256": "143370149159daf1c22eb3676bd2a0792d50561fb13256abbace207642e5a039"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sg018-d0c496",
+   "path": "zakon/2024/sg018-d0c496",
+   "short": "Zakon o izmjenama i dopunama zakona o državnoj službi u institucijama Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama zakona o državnoj službi u institucijama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/CPjSoNLMioQ=",
+   "versions": [
+    {
+     "from": "2024-03-23",
+     "units": 20,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/CPjSoNLMioQ=",
+     "sha256": "efca6c0a1cc43b06cfb001a34aeab7317b28b567f28f2009b757345dd92650b6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sg050-2291e2",
+   "path": "zakon/2024/sg050-2291e2",
+   "short": "Zakon o izmjenama i dopunama zakona o javnim nabavkama",
+   "title": "Zakon o izmjenama i dopunama zakona o javnim nabavkama",
+   "url": "https://www.sluzbenilist.ba/page/akt/AdO1PKmvmUk=",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/AdO1PKmvmUk=",
+     "sha256": "9e6e11e80cc77000925fea98697eaf9d7315823bb88158e7ea79b0581bc940bf"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sg079-a7c2a9",
+   "path": "zakon/2024/sg079-a7c2a9",
+   "short": "Zakon o dopunama zakona o plaćama i drugim naknadama u sudskim i tužilačkim institucijama na nivou Bosne i Hercegovine",
+   "title": "Zakon o dopunama zakona o plaćama i drugim naknadama u sudskim i tužilačkim institucijama na nivou Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/ksS12VW7vx4=",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/ksS12VW7vx4=",
+     "sha256": "12fd16478093a22bd48e495761def66281549e370b14a889da3623faf4f2390b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sg007-53ad8f",
+   "path": "zakon/2025/sg007-53ad8f",
+   "short": "Zakon o graničnoj kontroli",
+   "title": "Zakon o graničnoj kontroli",
+   "url": "https://www.sluzbenilist.ba/page/akt/Xj3WJohz4nh78h77Vs38U=",
+   "versions": [
+    {
+     "from": "2025-02-22",
+     "units": 101,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/Xj3WJohz4nh78h77Vs38U=",
+     "sha256": "a33ae38ebb8c92f6f6de06769d952471b1d8e007ceeeca9222df634a0beaee6e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sg020-279863",
+   "path": "zakon/2025/sg020-279863",
+   "short": "Zakon o dopunama zakona o porezu na dodatu vrijednost",
+   "title": "Zakon o dopunama zakona o porezu na dodatu vrijednost",
+   "url": "https://www.sluzbenilist.ba/page/akt/NkrWHmzjlg8=",
+   "versions": [
+    {
+     "from": "2025-04-12",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/NkrWHmzjlg8=",
+     "sha256": "31a8a11df7b7262fd3fd4593ae08491c61e60d2b0ee8de49188f15ddd2272f8c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sg020-b5baeb",
+   "path": "zakon/2025/sg020-b5baeb",
+   "short": "Zakon o dopuni zakona o plaćama i naknadama u institucijama Bosne i Hercegovine",
+   "title": "Zakon o dopuni zakona o plaćama i naknadama u institucijama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/4ykmmMWQLy4=",
+   "versions": [
+    {
+     "from": "2025-04-12",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/4ykmmMWQLy4=",
+     "sha256": "61a257a84875ddd273ec7e1a28558b2245f3e303a0af295c699d3fc46257419d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sg057-8179ab",
+   "path": "zakon/2025/sg057-8179ab",
+   "short": "Zakon o dopunama zakona o administrativnim taksama",
+   "title": "Zakon o dopunama zakona o administrativnim taksama",
+   "url": "https://www.sluzbenilist.ba/page/akt/bWFUDpID690=",
+   "versions": [
+    {
+     "from": "2025-10-04",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/bWFUDpID690=",
+     "sha256": "706f550b2ac240084f11d3e80c9dbc5246c5cc8dca84cd65f44fd3d43574b0a4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-sg031-9a21bc",
+   "path": "zakon/2026/sg031-9a21bc",
+   "short": "Zakon o ograničavanju raspolaganja imovinom s ciljem sprečavanja terorizma, finansiranja terorizma i finansiranja širenja oružja za masovno uništenje",
+   "title": "Zakon o ograničavanju raspolaganja imovinom s ciljem sprečavanja terorizma, finansiranja terorizma i finansiranja širenja oružja za masovno uništenje",
+   "url": "https://www.sluzbenilist.ba/page/akt/wnoOv6nfqWY=",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 51,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/wnoOv6nfqWY=",
+     "sha256": "3ec39f25d5230821265c35f5ee14273cc4657f8ece2dd4cdda52f57cbf262f3b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-sg035-7911c0",
+   "path": "zakon/2026/sg035-7911c0",
+   "short": "Zakon o izmjenama i dopunama zakona o osnovama sigurnosti saobraćaja na putevima u bosni i hercegovini",
+   "title": "Zakon o izmjenama i dopunama zakona o osnovama sigurnosti saobraćaja na putevima u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/xz0WrZuCVLQ=",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/xz0WrZuCVLQ=",
+     "sha256": "c4f17b972e8abe1426078654fe941b0e8877caeed7f59dc91929bc84dda884e5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-sg040-005b2e",
+   "path": "zakon/2026/sg040-005b2e",
+   "short": "Zakon o zaštiti topografija poluprovodničkih proizvoda",
+   "title": "Zakon o zaštiti topografija poluprovodničkih proizvoda",
+   "url": "https://www.sluzbenilist.ba/page/akt/Fg81B9h5QY8=",
+   "versions": [
+    {
+     "from": "2026-06-20",
+     "units": 36,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/Fg81B9h5QY8=",
+     "sha256": "658b997e13e75f5f10cc9b81f6cc96404f2e640a9dc0400e6724dee218fb83aa"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-sg040-42597c",
+   "path": "zakon/2026/sg040-42597c",
+   "short": "Zakon o zastupanju u oblasti prava industrijskog vlasništva",
+   "title": "Zakon o zastupanju u oblasti prava industrijskog vlasništva",
+   "url": "https://www.sluzbenilist.ba/page/akt/mNWvO8oUul0=",
+   "versions": [
+    {
+     "from": "2026-06-20",
+     "units": 31,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/mNWvO8oUul0=",
+     "sha256": "a429f3399beba1553556c17c97b06bcd347d9ae9b258a94f7c27e25c54eaeb78"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-sg040-97f86b",
+   "path": "zakon/2026/sg040-97f86b",
+   "short": "Zakon o mjernim jedinicama u bosni i hercegovini",
+   "title": "Zakon o mjernim jedinicama u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/N59nzfbF5w8=",
+   "versions": [
+    {
+     "from": "2026-06-20",
+     "units": 14,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/N59nzfbF5w8=",
+     "sha256": "f900218e8316777e659d2a32349be12f6902bf45eb912211cce2556778850ee1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-sg040-ba2c47",
+   "path": "zakon/2026/sg040-ba2c47",
+   "short": "Zakon o patentu",
+   "title": "Zakon o patentu",
+   "url": "https://www.sluzbenilist.ba/page/akt/ZK4iChK1wVw=",
+   "versions": [
+    {
+     "from": "2026-06-20",
+     "units": 200,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/ZK4iChK1wVw=",
+     "sha256": "ee5a9ebde116cdbbc6d315e513ce60b400b4f2950c643885e6a9b67354ff07a3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-sg040-ceab04",
+   "path": "zakon/2026/sg040-ceab04",
+   "short": "Zakon o žigu",
+   "title": "Zakon o žigu",
+   "url": "https://www.sluzbenilist.ba/page/akt/e2P7LCu9Ito=",
+   "versions": [
+    {
+     "from": "2026-06-20",
+     "units": 131,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/e2P7LCu9Ito=",
+     "sha256": "b6541d8b9cbd5c56be0469508fd9b45db6236548aa55083354fcaadafb406572"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-sg040-d31b50",
+   "path": "zakon/2026/sg040-d31b50",
+   "short": "Zakon o zaštiti poslovne tajne kao prava intelektualnog vlasništva",
+   "title": "Zakon o zaštiti poslovne tajne kao prava intelektualnog vlasništva",
+   "url": "https://www.sluzbenilist.ba/page/akt/obrps2bF0So=",
+   "versions": [
+    {
+     "from": "2026-06-20",
+     "units": 31,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/obrps2bF0So=",
+     "sha256": "2fbc6e15c30d09ee004b99cf61e6684b8d9fd5e3431133a7428fdbc56cafad19"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-sg041-4b1e06",
+   "path": "zakon/2026/sg041-4b1e06",
+   "short": "Zakon o izmjeni i dopuni zakona o plaćama i naknadama u institucijama Bosne i Hercegovine",
+   "title": "Zakon o izmjeni i dopuni zakona o plaćama i naknadama u institucijama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/NvzKFJe7gHg=",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/NvzKFJe7gHg=",
+     "sha256": "125bb6d86b99c1e2071e3f81e4a9958e6845bac8e5960ba5693630d0f4171ec2"
+    }
+   ]
+  },
+  {
    "slug": "constitution",
    "short": "Const.",
    "title": "Constitution of Bosnia and Herzegovina",
@@ -13,7 +2533,8 @@
      "source_url": "https://www.ustavnisud.ba/public/down/USTAV_BOSNE_I_HERCEGOVINE_engl.pdf",
      "sha256": "4420f0e0592fa8af999493b1be9351d8af7c76f77cf21803f5b13ed00d470317"
     }
-   ]
+   ],
+   "path": "constitution"
   },
   {
    "slug": "criminal-code",
@@ -27,7 +2548,8 @@
      "source_url": "https://www.tuzilastvobih.gov.ba/files/docs/zakoni/Criminal_Code_of_BH_-_Consolidated_text_47_14.pdf",
      "sha256": "b125c27ee3b6a051268067c6da16c472049857be6ed6b722fd99f211fe0b7a8d"
     }
-   ]
+   ],
+   "path": "criminal-code"
   }
  ]
 }
