@@ -1,1 +1,1 @@
-# POGLAVLJE IV. VIJEĆE NARODA REPUBLIKE SRPSKE
+# Odjeljak A. Nominiranje kandidata

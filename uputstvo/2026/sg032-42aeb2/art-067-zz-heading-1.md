@@ -1,1 +1,1 @@
-# POGLAVLJE VI. GRADSKO VIJEĆE GRADA SARAJEVA
+# Odjeljak A. Nominiranje kandidata

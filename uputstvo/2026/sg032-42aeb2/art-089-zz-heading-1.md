@@ -1,1 +1,1 @@
-# POGLAVLJE VIII. SKUPŠTINA GRADA ISTOČNOG SARAJEVA
+# Odjeljak A. Nominiranje kandidata
