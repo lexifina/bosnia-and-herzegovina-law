@@ -1,6 +1,6 @@
 # Every act in this repository
 
-398 acts, 398 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+399 acts, 399 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## constitution (1)
 
@@ -243,7 +243,7 @@
 | Uputstvo o izmjeni i dopunama uputstva o popunjavanju carinske deklaracije i deklaracije za privremeni smještaj | [`uputstvo/2026/sg077-5761b1/`](uputstvo/2026/sg077-5761b1/) | amending act | 1 | 2026-10-13 | 2026-10-13 |
 | Uputstvo o objavi serijskih brojeva izgubljenih i ukradenih vozačkih dozvola na web stranici agencije za identifikaciona dokumenta, evidenciju i razmjenu podataka Bosne i Hercegovine | [`uputstvo/2026/sg077-d0fa3e/`](uputstvo/2026/sg077-d0fa3e/) | in force | 1 | 2026-10-31 | 2026-10-31 |
 
-## zakon (182, of which 116 amending acts)
+## zakon (183, of which 116 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -422,6 +422,7 @@
 | Zakon o dopunama zakona o administrativnim taksama | [`zakon/2025/sg057-8179ab/`](zakon/2025/sg057-8179ab/) | amending act | 1 | 2025-10-04 | 2025-10-04 |
 | Zakon o ograničavanju raspolaganja imovinom s ciljem sprečavanja terorizma, finansiranja terorizma i finansiranja širenja oružja za masovno uništenje | [`zakon/2026/sg031-9a21bc/`](zakon/2026/sg031-9a21bc/) | in force | 1 | 2026-05-13 | 2026-05-13 |
 | Zakon o izmjenama i dopunama zakona o osnovama sigurnosti saobraćaja na putevima u bosni i hercegovini | [`zakon/2026/sg035-7911c0/`](zakon/2026/sg035-7911c0/) | amending act | 1 | 2026-05-27 | 2026-05-27 |
+| Zakon o izmjeni zakona o službi u oružanim snagama Bosne i Hercegovine | [`zakon/2026/sg036-53650d/`](zakon/2026/sg036-53650d/) | in force | 1 | 2026-05-30 | 2026-05-30 |
 | Zakon o zaštiti topografija poluprovodničkih proizvoda | [`zakon/2026/sg040-005b2e/`](zakon/2026/sg040-005b2e/) | in force | 1 | 2026-06-20 | 2026-06-20 |
 | Zakon o zastupanju u oblasti prava industrijskog vlasništva | [`zakon/2026/sg040-42597c/`](zakon/2026/sg040-42597c/) | in force | 1 | 2026-06-20 | 2026-06-20 |
 | Zakon o mjernim jedinicama u bosni i hercegovini | [`zakon/2026/sg040-97f86b/`](zakon/2026/sg040-97f86b/) | in force | 1 | 2026-06-20 | 2026-06-20 |

@@ -2627,6 +2627,21 @@
    ]
   },
   {
+   "slug": "zakon-2026-sg036-53650d",
+   "path": "zakon/2026/sg036-53650d",
+   "short": "Zakon o izmjeni zakona o službi u oružanim snagama Bosne i Hercegovine",
+   "title": "Zakon o izmjeni zakona o službi u oružanim snagama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/MadbVQOtXgg=",
+   "versions": [
+    {
+     "from": "2026-05-30",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/MadbVQOtXgg=",
+     "sha256": "57c2193c04a3ee02efcfab994212d3a62867a0a1825ba1ce993856a9cf670895"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2026-sg040-005b2e",
    "path": "zakon/2026/sg040-005b2e",
    "short": "Zakon o zaštiti topografija poluprovodničkih proizvoda",
@@ -2730,6 +2745,36 @@
      "sha256": "125bb6d86b99c1e2071e3f81e4a9958e6845bac8e5960ba5693630d0f4171ec2"
     }
    ]
+  },
+  {
+   "slug": "constitution",
+   "short": "Const.",
+   "title": "Constitution of Bosnia and Herzegovina",
+   "url": "https://www.ustavnisud.ba/public/down/USTAV_BOSNE_I_HERCEGOVINE_engl.pdf",
+   "versions": [
+    {
+     "from": "1995-12-14",
+     "units": 15,
+     "source_url": "https://www.ustavnisud.ba/public/down/USTAV_BOSNE_I_HERCEGOVINE_engl.pdf",
+     "sha256": "4420f0e0592fa8af999493b1be9351d8af7c76f77cf21803f5b13ed00d470317"
+    }
+   ],
+   "path": "constitution"
+  },
+  {
+   "slug": "criminal-code",
+   "short": "CC BiH",
+   "title": "Criminal Code of Bosnia and Herzegovina",
+   "url": "https://www.tuzilastvobih.gov.ba/files/docs/zakoni/Criminal_Code_of_BH_-_Consolidated_text_47_14.pdf",
+   "versions": [
+    {
+     "from": "2017-05-04",
+     "units": 325,
+     "source_url": "https://www.tuzilastvobih.gov.ba/files/docs/zakoni/Criminal_Code_of_BH_-_Consolidated_text_47_14.pdf",
+     "sha256": "b125c27ee3b6a051268067c6da16c472049857be6ed6b722fd99f211fe0b7a8d"
+    }
+   ],
+   "path": "criminal-code"
   },
   {
    "slug": "poslovnik-2024-sg009-d53060",
@@ -5940,36 +5985,6 @@
      "sha256": "b30afb52f4c7872142b02d606636ba705c999e48a337bcb4f4746553da3ea394"
     }
    ]
-  },
-  {
-   "slug": "constitution",
-   "short": "Const.",
-   "title": "Constitution of Bosnia and Herzegovina",
-   "url": "https://www.ustavnisud.ba/public/down/USTAV_BOSNE_I_HERCEGOVINE_engl.pdf",
-   "versions": [
-    {
-     "from": "1995-12-14",
-     "units": 15,
-     "source_url": "https://www.ustavnisud.ba/public/down/USTAV_BOSNE_I_HERCEGOVINE_engl.pdf",
-     "sha256": "4420f0e0592fa8af999493b1be9351d8af7c76f77cf21803f5b13ed00d470317"
-    }
-   ],
-   "path": "constitution"
-  },
-  {
-   "slug": "criminal-code",
-   "short": "CC BiH",
-   "title": "Criminal Code of Bosnia and Herzegovina",
-   "url": "https://www.tuzilastvobih.gov.ba/files/docs/zakoni/Criminal_Code_of_BH_-_Consolidated_text_47_14.pdf",
-   "versions": [
-    {
-     "from": "2017-05-04",
-     "units": 325,
-     "source_url": "https://www.tuzilastvobih.gov.ba/files/docs/zakoni/Criminal_Code_of_BH_-_Consolidated_text_47_14.pdf",
-     "sha256": "b125c27ee3b6a051268067c6da16c472049857be6ed6b722fd99f211fe0b7a8d"
-    }
-   ],
-   "path": "criminal-code"
   }
  ]
 }

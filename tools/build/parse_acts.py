@@ -54,7 +54,8 @@ KINDS = {"ZAKON": ("zakon", "law"), "PRAVILNIK": ("pravilnik", "decree"), "UPUTS
 KIND_WORDS = "ZAKON|PRAVILNIK|UPUTSTVO|POSLOVNIK|PRAVILO"
 STEMS = ("pravilnik", "uputstv", "poslovnik", "pravil", "zakon")  # longest first: "pravilnik" before "pravil"
 AMENDS = re.compile(r"^(?:(?:" + KIND_WORDS + r")\s+O\s+(?:IZMJEN\w*|DOPUN\w*)(?:\s+I\s+(?:IZMJEN\w*|DOPUN\w*))*\s+|"
-                    r"(?:" + KIND_WORDS + r")\s+O\s+PRESTANKU\s+(?:VAŽENJA|VAŽNOSTI)\s+|ISPRAVK\w*\s+)(.+)$")
+                    r"(?:" + KIND_WORDS + r")\s+O\s+PRESTANKU\s+(?:VAŽENJA|VAŽNOSTI)\s+|ISPRAVK\w*\s+|"
+                    r"(?:IZMJEN\w*|DOPUN\w*)(?:\s+I\s+(?:IZMJEN\w*|DOPUN\w*))*\s+)(.+)$")
 TARGET = re.compile(r"\b(ZAKONA?|PRAVILNIKA?|UPUTSTVA|UPUTSTVO|POSLOVNIKA?|PRAVILA|PRAVILO)\s+O\s+")
 CITE = re.compile(r"(Pravilnik|Uputstv|Poslovnik|Pravil|Zakon)\w*\s+o\s+([^()\"]{3,250}?)\s*\(\s*[\"„“]?Službeni\s+glasnik\s+BiH"
                   r"[\"“”]?\s*,?\s*(?:br\.|broj)\s*([0-9/,.\s i]+)\)")
@@ -237,7 +238,7 @@ def in_force(units: dict, published: str, adopted: str | None = None) -> tuple[s
     c = clauses[-1].strip()
     # matching only: some texts mix Cyrillic ј into Latin lj/nj, and say "objave" for "objavljivanja"
     c = c.replace("lј", "lj").replace("nј", "nj").replace("Ј", "J")
-    c = re.sub(r"objave", "objavljivanja", c)
+    c = re.sub(r"\bobjave\b", "objavljivanja", c)
     c = re.sub(r"^osam\s+dana", "osmog dana", c)
     p = date.fromisoformat(published)
     if re.match(r"^(?:danom|na\s+dan|s\s+danom|sa\s+danom)\s+(?:njegovog\s+)?donošenja", c):
@@ -283,6 +284,7 @@ def main():
     ap.add_argument("--src", required=True)
     ap.add_argument("--report")
     ap.add_argument("--out", help="folder for the parts (default corpus.d beside this script)")
+    ap.add_argument("--cache", help="file to keep each text's citations in between runs (same text and parser = same)")
     ap.add_argument("--rejects", help="JSON {akt: reason}: acts held back by hand or by a failed read-back check")
     a = ap.parse_args()
     src = Path(a.src)
@@ -299,6 +301,14 @@ def main():
         except json.JSONDecodeError:
             continue
         fetched[r["akt"]] = r
+    me = hashlib.sha256(Path(__file__).read_bytes()).hexdigest()
+    cache, new_cache = {}, {}
+    if a.cache and Path(a.cache).exists():
+        try:
+            c = json.loads(gzip.decompress(Path(a.cache).read_bytes()).decode("utf-8"))
+            cache = c["entries"] if c.get("parser") == me else {}
+        except Exception:
+            cache = {}
     rejects = json.loads(Path(a.rejects).read_text(encoding="utf-8")) if a.rejects and Path(a.rejects).exists() else {}
     rows = [r for r in rows if r.get("series") == "Službeni glasnik BiH"]
     # Later titles that amend, repeal or correct a subject.
@@ -316,20 +326,31 @@ def main():
         f = raw_path(src, r["akt"])
         if not f.exists():
             continue
+        texts[r["akt"]] = None  # read again only for the acts judged below
+        ck = f"{r['akt']}:{fetched[r['akt']].get('sha256')}"
+        if ck in cache:
+            new_cache[ck] = cache[ck]
+            for key, n_, y_, *rest in cache[ck]:
+                cites[(key, n_, y_)].append((r["date"], *rest))
+            continue
+        found = []
         page = gzip.decompress(f.read_bytes()).decode("utf-8")
-        texts[r["akt"]] = page
         flat = norm(html.unescape(re.sub(r"<[^>]+>", " ", page)))
         court = "USTAVNI SUD" in r["issuer"].upper()
         # A court decision that finds a provision unconstitutional or strikes it changes the text it names.
         operative = flat[:flat.find(" I. Uvod")] if " I. Uvod" in flat else flat[:4000]  # the ruling, not its reasons
-        struck = court and bool(re.search(r"Utvrđuje se da[^.]{0,600}?ni(?:je|su)\s+u\s+skladu|(?:U|u)kida(?:ju)? se|"
+        # Only abstract review (case "U ..."): appeals ("AP ...") quash court rulings, never legislation.
+        struck = court and bool(re.search(r"predmetu\s+broj\s+U[\s-]*\d", operative)) and bool(re.search(r"Utvrđuje se da[^.]{0,600}?\bni(?:je|su)\s+u\s+skladu|\b(?:U|u)kida(?:ju)? se\b|"
                                           r"prestaj(?:e|u) (?:da )?važi", operative))
         kind = "court" if court else "law" if r["title"].upper().startswith("ZAKON") else "other"
         for m in CITE.finditer(flat):
             lst = issues_in(m.group(3))
             for k, iss in enumerate(lst):
                 # (citing day, citing kind, citing act, court struck something, issues listed after this one)
-                cites[(f"{stem(m.group(1))}:{subject(m.group(2))}", iss[0], iss[1])].append((r["date"], kind, r["akt"], struck, len(lst) - k - 1))
+                found.append([f"{stem(m.group(1))}:{subject(m.group(2))}", iss[0], iss[1], kind, r["akt"], struck, len(lst) - k - 1])
+        new_cache[ck] = found
+        for key, n_, y_, *rest in found:
+            cites[(key, n_, y_)].append((r["date"], *rest))
     parts: dict[tuple, dict] = defaultdict(lambda: {"laws": {}, "acts": []})
     holds = []
     def first_word(r):
@@ -343,7 +364,7 @@ def main():
     for r in rows:
         if r.get("akt") and r["akt"] not in texts:
             for w in KINDS:
-                if first_word(r) in (w, "ZAKON") or "USTAVNI SUD" in r["issuer"].upper():
+                if w != "ZAKON" or first_word(r) == "ZAKON" or "USTAVNI SUD" in r["issuer"].upper():
                     missing[w].append(r["date"])
     complete_from = {w: max(missing[w], default="0000") for w in KINDS}
     missing_days = missing["ZAKON"]
@@ -390,7 +411,7 @@ def main():
                            for c in lst if c[2] != r["akt"] and c[0] >= pub and (c[4] > 0 or (c[1] == "court" and c[3]))]
                 if by_cite:
                     raise Hold("cited_later:" + ",".join(sorted({c[0] for c in by_cite})[:3]))
-            page = texts[r["akt"]]
+            page = gzip.decompress(raw_path(src, r["akt"]).read_bytes()).decode("utf-8")
             units, text_title, adopted = split(page, word)
             if subject(text_title).replace(" ", "") != subject(title).replace(" ", ""):
                 raise Hold("title_mismatch:" + text_title[:100])
@@ -467,6 +488,10 @@ def main():
         if old.name not in keep:
             old.unlink()
             old.with_suffix(".PUBLISH").unlink(missing_ok=True)
+    if a.cache:
+        tmp = Path(a.cache + ".tmp")
+        tmp.write_bytes(gzip.compress(json.dumps({"parser": me, "entries": new_cache}, ensure_ascii=False).encode("utf-8"), 1))
+        tmp.replace(a.cache)
     if a.report:
         Path(a.report).write_text("".join(json.dumps(h, ensure_ascii=False) + "\n" for h in holds), encoding="utf-8")
     print(json.dumps({"texts_missing_laws_or_court": len(missing_days)}), file=__import__("sys").stderr)
