@@ -30,6 +30,12 @@ An act is held back, not published (the reason is written to the report), when:
 - its articles do not split cleanly (none, a number twice, numbers not consecutive, an empty article).
 An act is judged only when every text that could change it and that the publisher serves is held; for a text listed
 as unfetchable only its title is checked.
+
+A repeal is published, not held, when one later act repeals the whole act ("Danom stupanja na snagu ovog ...
+prestaje važiti <its name> (<its gazette number>)", or "Ovim ... stavlja se van snage ..."), nothing else changed
+it before, and the repealing act's own in-force day reads (or, for "Početkom primjene ovog ...", the date its last
+article says it applies from): the act then has a second version with no units on that day, credited to the
+repealing act.
 """
 from __future__ import annotations
 
@@ -143,7 +149,7 @@ def lines_of(fragment: str) -> list[str]:
     return out
 
 
-def split(page: str, word: str = "ZAKON", quoted: bool = False) -> tuple[dict, str, str | None]:
+def split(page: str, word: str = "ZAKON", quoted: bool = False, lenient: bool = False) -> tuple[dict, str, str | None]:
     """(units, title, adoption day) from the document part of the act page.
 
     quoted: an amending act whose centred article headings include the articles it inserts or rewrites. A heading
@@ -259,7 +265,7 @@ def split(page: str, word: str = "ZAKON", quoted: bool = False) -> tuple[dict, s
     if not arts:
         raise Hold("no_articles")
     nums = [int(k[4:7]) for k in arts if len(k) == 7]
-    if nums != list(range(1, len(nums) + 1)):
+    if nums != list(range(1, len(nums) + 1)) and not lenient:
         raise Hold("article_numbers_not_consecutive")
     for k in arts:
         if out[k]["text"].count("\n") < 2:
@@ -383,11 +389,54 @@ def repeals(flat: str, start: int, end: int) -> bool:
     the citation names the event it is timed by ("... danom stupanja na snagu Zakona o ...")."""
     if re.search(r"(?:stupanja|stupanjem)\s+na\s+snagu\s*$|primjen\w*\s*$", flat[max(0, start - 40):start]):
         return False
+    return repeal_sentence(flat, start, end) is not None
+
+
+PARTIAL = re.compile(r"\b(?:[Čč]lan\w*|čl\.|stav\w*|tačk\w*|alinej\w*|odredb\w*|dodat\w*|dio|dijel\w*|poglavlj\w*|"
+                     r"aneks\w*|prilog\w*|izuzev|osim|tabel\w*)\b", re.I)
+
+
+def repeal_sentence(flat: str, start: int, end: int) -> tuple[int, int] | None:
+    """(start, end) of the sentence holding the citation at start:end when it says what it names ceases to be valid."""
+    if re.search(r"(?:stupanja|stupanjem)\s+na\s+snagu\s*$|primjen\w*\s*$", flat[max(0, start - 40):start]):
+        return None
     a = max(0, start - 400)
     b = min(len(flat), end + 200)
     before = [m.end() for m in SENTENCE_END.finditer(flat, a, start)]
     after = SENTENCE_END.search(flat, end, b)
-    return bool(REPEAL.search(flat[before[-1] if before else a: after.start() if after else b]))
+    s, e = (before[-1] if before else a), (after.start() if after else b)
+    return (s, e) if REPEAL.search(flat[s:e]) else None
+
+
+def repeal_kind(flat: str, start: int, end: int) -> list[bool]:
+    """[whole, on its own day] for a repeal sentence: the whole act ceases to be valid (no article, annex or exception
+    named next to the citation), and it does so on the day the repealing act takes effect ("Danom stupanja na snagu
+    ovog ...", "Stupanjem na snagu ovog ...", "Ovim pravilnikom ..."), not on a day of application or a date."""
+    s, e = repeal_sentence(flat, start, end)
+    sent = flat[s:e]
+    m = REPEAL.search(sent)
+    cs, ce = start - s, end - s
+    near = sent[m.end():cs] if m.end() <= cs else sent[ce:m.start()]
+    whole = not PARTIAL.search(near) and not PARTIAL.search(sent[ce:ce + 40].split(",")[0]) and \
+        not PARTIAL.search(sent[max(0, cs - 30):cs])
+    sent = re.sub(r"^\s*(?:\(\d+\)\s*)?\([^)]{0,80}\)\s*", "", sent)  # the article's caption, "(Prestanak primjene)"
+    own_day = not re.search(r"primjen|istek|\brok\w*|\d{1,2}\.\s*\d{1,2}\.\s*\d{4}|\d{4}\.\s*godine", sent) and \
+        all(re.match(r"\s+ov(?:og|oga|e|im)\b", sent[x.end():]) for x in re.finditer(r"na\s+snagu", sent))
+    # "Početkom primjene ovog Pravilnika ...": on the day the repealing act starts to apply (read from its own text)
+    on_application = bool(re.match(r"^(?:\(\d+\)\s*)?(?:Početkom|Danom\s+početka)\s+primjene\s+ov(?:og|e)\s+\w+\s*,?\s*"
+                                   r"(?:prestaj|stavlja)", sent)) and \
+        not re.search(r"istek|\brok\w*|\d{1,2}\.\s*\d{1,2}\.\s*\d{4}|\d{4}\.\s*godine|na\s+snagu", sent)
+    return [whole, own_day, on_application]
+
+
+def application_day(units: dict) -> str | None:
+    """The day an act's last article says it starts to apply, when it names a date ("a primjenjuje se od 1.1.2026.")."""
+    arts = [u["text"].replace("\n", " ") for u in units.values() if u["kind"] == "art"]
+    m = re.search(r"primjenj\w*\s+(?:će\s+)?(?:se\s+)?(?:od|počev\s+od)\s+(?:dana\s+)?(\d{1,2})\.\s*(\d{1,2})\.\s*(\d{4})", arts[-1]) or \
+        re.search(r"primjenj\w*\s+(?:će\s+)?(?:se\s+)?(?:od|počev\s+od)\s+(?:dana\s+)?(\d{1,2})\.\s*(" + "|".join(MONTHS) + r")\s+(\d{4})", arts[-1])
+    if not m:
+        return None
+    return date(int(m.group(3)), MONTHS.get(m.group(2)) or int(m.group(2)), int(m.group(1))).isoformat()
 
 
 def same_name(cited: str, title: str) -> bool:
@@ -493,7 +542,9 @@ def main():
         for m in CITE.finditer(flat):
             lst = issues_in(m.group(3))
             # the full name repealed (subjects are cut at 80 characters, too short to tell some acts apart)
-            rep = kind != "court" and repeals(flat, m.start(), m.end()) and norm(m.group(2)).lower().strip(" .,;:")
+            # and whether it is the whole act, on the repealing act's own in-force day
+            rep = kind != "court" and repeals(flat, m.start(), m.end()) and \
+                [norm(m.group(2)).lower().strip(" .,;:")] + repeal_kind(flat, m.start(), m.end())
             for k, iss in enumerate(lst):
                 # (citing day, citing kind, citing act, court struck something, issues listed after this one,
                 #  the citing sentence repeals what it names)
@@ -540,12 +591,54 @@ def main():
         if not iss or own in iss:
             return False
         return any(similar(s2, ts, 40) and a2 != akt for i in iss for s2, a2 in at_issue.get(i, ()))
+    row_of = {}
+    for r in rows:
+        if r.get("akt"):
+            row_of.setdefault(r["akt"], r)
+
+    def read_act(r: dict, lenient: bool = False) -> tuple[dict, str | None, str, str]:
+        """(units, adoption day, in-force day, how) of an act's text; raises Hold. lenient: only its days are wanted
+        (a repealing act), so article numbering with a gap does not matter."""
+        title, word = norm(r["title"]), first_word(r)
+        if word not in KINDS:
+            raise Hold("kind:" + word[:20])
+        page = gzip.decompress(raw_path(src, r["akt"]).read_bytes()).decode("utf-8")
+        try:
+            units, text_title, adopted = split(page, word)
+        except Hold as h:
+            if lenient and str(h).startswith("article_numbers_not_consecutive"):
+                units, text_title, adopted = split(page, word, lenient=True)
+            # an amending act whose centred headings include the articles it quotes: split again, quote-aware
+            elif not (str(h).startswith(("article_numbers_not_consecutive", "duplicate_unit"))
+                      and re.search(r"\b(?:IZMJEN|DOPUN)", title.upper())):
+                raise
+            else:
+                units, text_title, adopted = split(page, word, quoted=True)
+        if subject(text_title).replace(" ", "") != subject(title).replace(" ", ""):
+            raise Hold("title_mismatch:" + text_title[:100])
+        day, how = in_force(units, r["date"], adopted, title)
+        if adopted and not (adopted <= r["date"] <= (date.fromisoformat(adopted) + timedelta(days=90)).isoformat()):
+            raise Hold(f"adoption_day_inconsistent:{adopted}")
+        return units, adopted, day, how
+
+    def law_entry(r: dict, adopted: str | None) -> tuple[str, dict]:
+        """An act's key and its record in "laws" (the same for the act itself and for an act it is credited to)."""
+        title = norm(r["title"])
+        kslug, lkind = KINDS[first_word(r)]
+        key = f"{kslug}-{int(r['date'][:4])}-sg{r['issue']:03d}-{hashlib.sha1(r['akt'].encode()).hexdigest()[:6]}"
+        nice = title[0] + title[1:].lower() if title.isupper() else title
+        nice = re.sub(r"\bbosne i hercegovine\b", "Bosne i Hercegovine", nice)
+        label = f'{nice} ("Službeni glasnik BiH", br. {r["issue"]}/{r["yy"]})'
+        return key, {"label": label, "title": nice, "kind": lkind, "enacted": adopted, "published": r["date"],
+                     "url": AKT_URL.format(akt=r["akt"]), "temporary_until": None, "restores": None, "note": None}
+
     seen_slugs = set()
     for r in sorted(laws, key=lambda x: (x["date"], x["issue"], x["akt"])):
         title = norm(r["title"])
         pub = r["date"]
         year = int(pub[:4])
         own = (r["issue"], 2000 + int(r["yy"]) if len(r["yy"]) == 2 else int(r["yy"]))
+        repealers = []
         try:
             if r["akt"] in rejects:
                 raise Hold("rejected:" + str(rejects[r["akt"]])[:200])
@@ -592,23 +685,41 @@ def main():
                 if by_cite:
                     raise Hold("cited_later:" + ",".join(sorted({c[0] for c in by_cite})[:3]))
                 by_rep = [c for (s, n, y), lst in cites.items() if (n, y) == own and similar(s, subj, 40)
-                          for c in lst if c[2] != r["akt"] and c[0] >= pub and c[5] and same_name(c[5], title)]
+                          for c in lst if c[2] != r["akt"] and c[0] >= pub and c[5] and same_name(c[5][0], title)]
                 if by_rep:
-                    raise Hold("repealed_later:" + ",".join(sorted({c[0] for c in by_rep})[:3]))
-            page = gzip.decompress(raw_path(src, r["akt"]).read_bytes()).decode("utf-8")
-            try:
-                units, text_title, adopted = split(page, word)
-            except Hold as h:
-                # an amending act whose centred headings include the articles it quotes: split again, quote-aware
-                if not (str(h).startswith(("article_numbers_not_consecutive", "duplicate_unit"))
-                        and re.search(r"\b(?:IZMJEN|DOPUN)", title.upper())):
-                    raise
-                units, text_title, adopted = split(page, word, quoted=True)
-            if subject(text_title).replace(" ", "") != subject(title).replace(" ", ""):
-                raise Hold("title_mismatch:" + text_title[:100])
-            day, how = in_force(units, pub, adopted, title)
-            if adopted and not (adopted <= pub <= (date.fromisoformat(adopted) + timedelta(days=90)).isoformat()):
-                raise Hold(f"adoption_day_inconsistent:{adopted}")
+                    # Published with its repeal as a last, empty version, when the repeal is of the whole act, by one
+                    # act, on that act's own in-force day (read below); otherwise held.
+                    if not all(c[5][1] for c in by_rep):
+                        raise Hold("repealed_later_in_part:" + ",".join(sorted({c[0] for c in by_rep})[:3]))
+                    on_app = not all(c[5][2] for c in by_rep)
+                    if on_app and not all(len(c[5]) > 3 and c[5][3] for c in by_rep):
+                        raise Hold("repealed_later_day_unknown:" + ",".join(sorted({c[0] for c in by_rep})[:3]))
+                    events = {(row_of[c[2]]["date"], row_of[c[2]]["issue"]) for c in by_rep}
+                    if len(events) > 1:
+                        raise Hold("repealed_by_several:" + ",".join(sorted(d for d, _ in events)[:3]))
+                    repealers = sorted({c[2] for c in by_rep})
+            units, adopted, day, how = read_act(r)
+            repeal = None
+            if repealers:
+                # the repealing act's own in-force day, read from its text like any act's (the first of its listings
+                # in the gazette index that reads)
+                errs = []
+                for ak in repealers:
+                    try:
+                        r_units, r_adopted, r_day, r_how = read_act(row_of[ak], lenient=True)
+                        if on_app:
+                            app = application_day(r_units)
+                            if not app or app < r_day:
+                                raise Hold(f"application_day_unknown:{app}")
+                            r_day, r_how = app, "application"
+                        repeal = (row_of[ak], r_adopted, r_day, r_how)
+                        break
+                    except (Hold, KeyError) as e:
+                        errs.append(str(e)[:60])
+                if repeal is None:
+                    raise Hold("repealing_act_day_unknown:" + ";".join(errs)[:120])
+                if repeal[2] < day:
+                    raise Hold(f"repeal_before_in_force:{repeal[2]}")
         except Hold as h:
             holds.append({"akt": r["akt"], "sg": f"{r['issue']}/{r['yy']}", "date": pub, "title": title[:160], "reason": str(h)})
             continue
@@ -618,19 +729,28 @@ def main():
             holds.append({"akt": r["akt"], "sg": f"{r['issue']}/{r['yy']}", "title": title[:160], "reason": "slug_collision"})
             continue
         seen_slugs.add(slug)
-        nice = title[0] + title[1:].lower() if title.isupper() else title
-        nice = re.sub(r"\bbosne i hercegovine\b", "Bosne i Hercegovine", nice)
-        label = f'{nice} ("Službeni glasnik BiH", br. {r["issue"]}/{r["yy"]})'
-        url = AKT_URL.format(akt=r["akt"])
+        _, law = law_entry(r, adopted)
+        nice, url = law["title"], law["url"]
         note = None
         if re.search(r"primjenj\w+\s+(?:će\s+se\s+)?(?:se\s+)?(?:od|počev)", " ".join(u["text"] for u in units.values() if u["kind"] == "art")[-600:]):
             note = "Njegov završni član određuje i poseban dan primjene."
-        parts[(pk, year)]["laws"][slug] = {"label": label, "title": nice, "kind": lkind, "enacted": adopted, "published": pub,
-                                     "url": url, "temporary_until": None, "restores": None, "note": None}
+        parts[(pk, year)]["laws"][slug] = law
+        versions = [{"from": day, "source_url": url, "sha256": fetched[r["akt"]]["sha256"], "units": units,
+                     "credits": {}, **({"note": note} if note else {})}]
+        if repeal:
+            # the repeal: every unit removed, on the repealing act's in-force day, credited to it
+            rr, r_adopted, r_day, r_how = repeal
+            rk, rlaw = law_entry(rr, r_adopted)
+            parts[(pk, year)]["laws"][rk] = rlaw
+            when = "početka primjene" if r_how == "application" else "stupanja na snagu"
+            versions.append({"from": r_day, "source_url": rlaw["url"], "sha256": fetched[rr["akt"]]["sha256"], "units": {},
+                             "credits": {k: [rk] for k in sorted(units)},
+                             "note": f"Prestao je važiti {r_day}, danom {when} akta {rlaw['label']}, koji to određuje.",
+                             **({"same_day": True} if r_day == day else {})})
+            parts[(pk, year)].setdefault("_retrieved", set()).add(fetched[rr["akt"]].get("retrieved"))
         parts[(pk, year)]["acts"].append({
             "slug": slug, "short": nice, "title": nice, "url": url, "first_law": slug, "earlier_laws": [],
-            "versions": [{"from": day, "source_url": url, "sha256": fetched[r["akt"]]["sha256"], "units": units,
-                          "credits": {}, **({"note": note} if note else {})}]})
+            "versions": versions})
         parts[(pk, year)].setdefault("_retrieved", set()).add(fetched[r["akt"]].get("retrieved"))
     out_dir = Path(a.out) if a.out else PARTS
     out_dir.mkdir(exist_ok=True)
@@ -666,7 +786,10 @@ def main():
             "correcting it and no later text held cites it by name and gazette number; an amending law only when no "
             "correction names it and no Constitutional Court decision cites it.",
             "Articles follow the publisher's centred article headings (Član N.); a centred line directly under one is "
-            "its caption."]
+            "its caption.",
+            "An act that a later act repeals as a whole (\"prestaje važiti ...\" naming it with its gazette number), on "
+            "that act's own in-force day, and that nothing else changed before, gets a last version with no units on "
+            "that day, credited to the repealing act; any other repeal holds the act back."]
         p["ai_use"] = ["none"]
         f = out_dir / f"{pk[0]}-{pk[1]}-{year}.json"
         write(f, p, "Parsed from Službeni glasnik BiH (sluzbenilist.ba) texts; one version, as published; in-force day "

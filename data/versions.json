@@ -62,21 +62,6 @@
    ]
   },
   {
-   "slug": "zakon-2010-sg032-29a475",
-   "path": "zakon/2010/sg032-29a475",
-   "short": "Zakon o izmjenama i dopunama zakona o komunikacijama",
-   "title": "Zakon o izmjenama i dopunama zakona o komunikacijama",
-   "url": "https://www.sluzbenilist.ba/page/akt/NlRxlVDo6QA=",
-   "versions": [
-    {
-     "from": "2010-04-30",
-     "units": 8,
-     "source_url": "https://www.sluzbenilist.ba/page/akt/NlRxlVDo6QA=",
-     "sha256": "12406fc80666db48d2adc9bbf154f86a20d08d3f769dd5d2b56c507a7de6f951"
-    }
-   ]
-  },
-  {
    "slug": "zakon-2010-sg032-2b40c5",
    "path": "zakon/2010/sg032-2b40c5",
    "short": "Zakon o izmjenama i dopunama izbornog zakona Bosne i Hercegovine",
@@ -92,21 +77,6 @@
    ]
   },
   {
-   "slug": "zakon-2010-sg032-2da633",
-   "path": "zakon/2010/sg032-2da633",
-   "short": "Zakon o izmjenama i dopunama zakona o javnom radiotelevizijskom servisu Bosne i Hercegovine",
-   "title": "Zakon o izmjenama i dopunama zakona o javnom radiotelevizijskom servisu Bosne i Hercegovine",
-   "url": "https://www.sluzbenilist.ba/page/akt/kXjPbH815TY=",
-   "versions": [
-    {
-     "from": "2010-04-30",
-     "units": 8,
-     "source_url": "https://www.sluzbenilist.ba/page/akt/kXjPbH815TY=",
-     "sha256": "f549130c33fb54ae686c58d8b901a5ce7ef43d08eb0e70d5ee322428da90b6de"
-    }
-   ]
-  },
-  {
    "slug": "zakon-2010-sg032-60c02b",
    "path": "zakon/2010/sg032-60c02b",
    "short": "Zakon o duhanu Bosne i Hercegovine",
@@ -118,21 +88,6 @@
      "units": 60,
      "source_url": "https://www.sluzbenilist.ba/page/akt/RPSHohz4nh78h77EwaY1g=",
      "sha256": "700ef856a3d18fddb0fba7e962ecb00388356ca215d4402dea00c9b38a283aa2"
-    }
-   ]
-  },
-  {
-   "slug": "zakon-2010-sg032-6be511",
-   "path": "zakon/2010/sg032-6be511",
-   "short": "Zakon o izmjenama i dopunama izbornog zakona Bosne i Hercegovine",
-   "title": "Zakon o izmjenama i dopunama izbornog zakona Bosne i Hercegovine",
-   "url": "https://www.sluzbenilist.ba/page/akt/Ob4TA5R8tXs=",
-   "versions": [
-    {
-     "from": "2010-04-23",
-     "units": 49,
-     "source_url": "https://www.sluzbenilist.ba/page/akt/Ob4TA5R8tXs=",
-     "sha256": "f4d2a0660dfaea2d58fa20d03c69d611bf26678abbfa5317af158e6cdacd9512"
     }
    ]
   },
@@ -163,36 +118,6 @@
      "units": 6,
      "source_url": "https://www.sluzbenilist.ba/page/akt/fMqql8FQQgo=",
      "sha256": "a36590e1106a2f884be41d1447935026c9fcddd55093c0d402da91f17a13d0e5"
-    }
-   ]
-  },
-  {
-   "slug": "zakon-2010-sg032-fe05fc",
-   "path": "zakon/2010/sg032-fe05fc",
-   "short": "Zakon o izmjenama zakona o klasifikaciji djelatnosti u bosni i hercegovini",
-   "title": "Zakon o izmjenama zakona o klasifikaciji djelatnosti u bosni i hercegovini",
-   "url": "https://www.sluzbenilist.ba/page/akt/NeI4lN9I0gg=",
-   "versions": [
-    {
-     "from": "2010-04-30",
-     "units": 6,
-     "source_url": "https://www.sluzbenilist.ba/page/akt/NeI4lN9I0gg=",
-     "sha256": "ca3293501bd1a1f68e007d77b9ad68df92cc8581b6f894fff724993f80b2d65e"
-    }
-   ]
-  },
-  {
-   "slug": "zakon-2010-sg032-fed6ae",
-   "path": "zakon/2010/sg032-fed6ae",
-   "short": "Zakon o izmjenama i dopunama zakona o javnom radiotelevizijskom sistemu Bosne i Hercegovine",
-   "title": "Zakon o izmjenama i dopunama zakona o javnom radiotelevizijskom sistemu Bosne i Hercegovine",
-   "url": "https://www.sluzbenilist.ba/page/akt/V9T8Y33TO7w=",
-   "versions": [
-    {
-     "from": "2010-04-30",
-     "units": 7,
-     "source_url": "https://www.sluzbenilist.ba/page/akt/V9T8Y33TO7w=",
-     "sha256": "974c474ef6a689520e435617b2f6640330d41ecfe0b49321c8eb61592c2c6d47"
     }
    ]
   },
@@ -3167,6 +3092,27 @@
    ]
   },
   {
+   "slug": "poslovnik-2020-sg017-378630",
+   "path": "poslovnik/2020/sg017-378630",
+   "short": "Poslovnik o proceduri provedbe javne konkurencije i imenovanja članova centralne izborne komisije Bosne i Hercegovine",
+   "title": "Poslovnik o proceduri provedbe javne konkurencije i imenovanja članova centralne izborne komisije Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/t7EHq0ti5Js=",
+   "versions": [
+    {
+     "from": "2020-03-10",
+     "units": 23,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/t7EHq0ti5Js=",
+     "sha256": "857061664b0ba760cb6ba85a6997ced65189f738c3dc1a9e786957728d8cbd7c"
+    },
+    {
+     "from": "2021-03-03",
+     "units": 0,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/uijYdoMLP8c=",
+     "sha256": "db2731519fb639e3e2512bc26b92d1544965bdc223a96172e5f36a60b9564535"
+    }
+   ]
+  },
+  {
    "slug": "poslovnik-2020-sg049-295bac",
    "path": "poslovnik/2020/sg049-295bac",
    "short": "Poslovnik o radu vijeća za sigurnost prometa na cestama u bosni i hercegovini",
@@ -3317,6 +3263,48 @@
    ]
   },
   {
+   "slug": "pravilnik-2010-sg003-4e831d",
+   "path": "pravilnik/2010/sg003-4e831d",
+   "short": "Pravilnik o izdavanju graničnog odobrenja",
+   "title": "Pravilnik o izdavanju graničnog odobrenja",
+   "url": "https://www.sluzbenilist.ba/page/akt/lkNp8CysqD8=",
+   "versions": [
+    {
+     "from": "2010-01-26",
+     "units": 12,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/lkNp8CysqD8=",
+     "sha256": "ded2d734256f5aeee8f2063da07808f282df72ec78a130f5f767df800058574d"
+    },
+    {
+     "from": "2025-10-18",
+     "units": 0,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/pG6wMt4GNKA=",
+     "sha256": "ac3722d705f692bbc04a7078e19c51eada05847bc9ae4c6e81afa92115337770"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2010-sg003-df4d6d",
+   "path": "pravilnik/2010/sg003-df4d6d",
+   "short": "Pravilnik o načinu obavljanja graničnih provjera i unosu podataka u putne isprave",
+   "title": "Pravilnik o načinu obavljanja graničnih provjera i unosu podataka u putne isprave",
+   "url": "https://www.sluzbenilist.ba/page/akt/bzWgaaykK1k=",
+   "versions": [
+    {
+     "from": "2010-01-26",
+     "units": 29,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/bzWgaaykK1k=",
+     "sha256": "a5727062067cfd2527b5e950f7feb067484e286e75dfce69ca311bdcc2f7340b"
+    },
+    {
+     "from": "2014-12-30",
+     "units": 0,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/exEPx3j2xAU=",
+     "sha256": "172181d1d2d153301d5049d3cfa5ccc343f3de3d9c3875fd6cc789e04f0d7825"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2010-sg006-0cbead",
    "path": "pravilnik/2010/sg006-0cbead",
    "short": "Pravilnik o postupku utvrđivanja i rješavanja graničnog incidenta i drugih povreda državne granice",
@@ -3332,6 +3320,48 @@
    ]
   },
   {
+   "slug": "pravilnik-2010-sg006-40c079",
+   "path": "pravilnik/2010/sg006-40c079",
+   "short": "Pravilnik o standardima i uslovima izgrađenosti i opremljenosti graničnih prelaza",
+   "title": "Pravilnik o standardima i uslovima izgrađenosti i opremljenosti graničnih prelaza",
+   "url": "https://www.sluzbenilist.ba/page/akt/6gztz5k76kjn45hbna5az5aY=",
+   "versions": [
+    {
+     "from": "2010-02-03",
+     "units": 19,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/6gztz5k76kjn45hbna5az5aY=",
+     "sha256": "f91dd62a53fb21a9cb92b90a10ac795e3457020d29aac04ffc50e77443735509"
+    },
+    {
+     "from": "2017-06-24",
+     "units": 0,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/QV2vJXODFxM=",
+     "sha256": "b630c36508d90bc80a4fd2785d0ff1c510a0f0089a34536071e983c2a0a4e861"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2010-sg006-b24641",
+   "path": "pravilnik/2010/sg006-b24641",
+   "short": "Pravilnik o postupku određivanja privremenog graničnog prijelaza",
+   "title": "Pravilnik o postupku određivanja privremenog graničnog prijelaza",
+   "url": "https://www.sluzbenilist.ba/page/akt/jRny0tn6v40=",
+   "versions": [
+    {
+     "from": "2010-02-03",
+     "units": 15,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/jRny0tn6v40=",
+     "sha256": "433d2ed7aa00f453e4e02b0541ad542ced6e5789a7d399eb28fbd6a812bc1bc7"
+    },
+    {
+     "from": "2026-03-25",
+     "units": 0,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/mQZhDbYaxa8=",
+     "sha256": "35eb92c495a5d7f06b64412f82f5c749a3113ccd1f8dfbd66d33d5728460c9d4"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2010-sg013-eecfb6",
    "path": "pravilnik/2010/sg013-eecfb6",
    "short": "Pravilnik o izmjenama i dopunama pravilnika o unutrašnjem sudskom poslovanju",
@@ -3343,6 +3373,27 @@
      "units": 11,
      "source_url": "https://www.sluzbenilist.ba/page/akt/ezvkVFuFXmo=",
      "sha256": "bb46157049f98b353b617bb21ec57d13635dcf9cb3f0fa3a7a5ff0c7b4b9d2d5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2010-sg017-bfc41c",
+   "path": "pravilnik/2010/sg017-bfc41c",
+   "short": "Pravilnik o obliku i sadržaju oznaka i druge saobraćajne signalizacije kojim se označava granični prijelaz i njegovo područje, kao i o načinu postavljanja tih oznaka i signalizacije",
+   "title": "Pravilnik o obliku i sadržaju oznaka i druge saobraćajne signalizacije kojim se označava granični prijelaz i njegovo područje, kao i o načinu postavljanja tih oznaka i signalizacije",
+   "url": "https://www.sluzbenilist.ba/page/akt/ZM5BAywr9Ac=",
+   "versions": [
+    {
+     "from": "2010-03-16",
+     "units": 23,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/ZM5BAywr9Ac=",
+     "sha256": "d74015cd95e9eb2a61dc060ece249bdd35d25f24ce65fd71354bcdfb87d5d551"
+    },
+    {
+     "from": "2013-01-02",
+     "units": 0,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/qYXa8Bohz4nh78h77qm5k=",
+     "sha256": "a5c2f470caca1e68d22fe2dd3342c189e0510f957fdcaa7ccacd676e228dfcae"
     }
    ]
   },
@@ -3432,36 +3483,6 @@
      "from": "2010-04-28",
      "units": 4,
      "source_url": "https://www.sluzbenilist.ba/page/akt/R33Gh1WLoCY=",
-     "sha256": "cccec977bc4b7746fa573b766656d513db66c0948ea37e9dd709630d316e14e7"
-    }
-   ]
-  },
-  {
-   "slug": "pravilnik-2010-sg031-175f6f",
-   "path": "pravilnik/2010/sg031-175f6f",
-   "short": "Pravilnik o izmjenama i dopunama pravilnika o izdavanju službenih pasoša i viza",
-   "title": "Pravilnik o izmjenama i dopunama pravilnika o izdavanju službenih pasoša i viza",
-   "url": "https://www.sluzbenilist.ba/page/akt/Iy3A5D6ZUGo=",
-   "versions": [
-    {
-     "from": "2010-04-28",
-     "units": 4,
-     "source_url": "https://www.sluzbenilist.ba/page/akt/Iy3A5D6ZUGo=",
-     "sha256": "cccec977bc4b7746fa573b766656d513db66c0948ea37e9dd709630d316e14e7"
-    }
-   ]
-  },
-  {
-   "slug": "pravilnik-2010-sg031-53bf6c",
-   "path": "pravilnik/2010/sg031-53bf6c",
-   "short": "Pravilnik o izmjenama i dopunama pravilnika o izdavanju službenih pasoša i viza",
-   "title": "Pravilnik o izmjenama i dopunama pravilnika o izdavanju službenih pasoša i viza",
-   "url": "https://www.sluzbenilist.ba/page/akt/Vz3eFdxI1Vo=",
-   "versions": [
-    {
-     "from": "2010-04-28",
-     "units": 4,
-     "source_url": "https://www.sluzbenilist.ba/page/akt/Vz3eFdxI1Vo=",
      "sha256": "cccec977bc4b7746fa573b766656d513db66c0948ea37e9dd709630d316e14e7"
     }
    ]
@@ -3662,21 +3683,6 @@
    ]
   },
   {
-   "slug": "pravilnik-2010-sg043-bc3ba8",
-   "path": "pravilnik/2010/sg043-bc3ba8",
-   "short": "Pravilnik o izmjenama i dopunama pravilnika o vrsti i uvjetima za izvršenje krivične sankcije rada za opće dobro na slobodi",
-   "title": "Pravilnik o izmjenama i dopunama pravilnika o vrsti i uvjetima za izvršenje krivične sankcije rada za opće dobro na slobodi",
-   "url": "https://www.sluzbenilist.ba/page/akt/NVIcahGjSxg=",
-   "versions": [
-    {
-     "from": "2010-05-25",
-     "units": 9,
-     "source_url": "https://www.sluzbenilist.ba/page/akt/NVIcahGjSxg=",
-     "sha256": "664882f5d41e2dfd1edc1e6a41ca5dc8be8e8e9bc4925cd97fddd1bae25de9fc"
-    }
-   ]
-  },
-  {
    "slug": "pravilnik-2010-sg044-69db83",
    "path": "pravilnik/2010/sg044-69db83",
    "short": "Pravilnik o tradicionalnom sportskom nadmetanju bikova",
@@ -3692,6 +3698,27 @@
    ]
   },
   {
+   "slug": "pravilnik-2010-sg045-81e181",
+   "path": "pravilnik/2010/sg045-81e181",
+   "short": "Pravilnik o organizaciji i korištenju zračnog prostora u jedinstvenom evropskom nebu",
+   "title": "Pravilnik o organizaciji i korištenju zračnog prostora u jedinstvenom evropskom nebu",
+   "url": "https://www.sluzbenilist.ba/page/akt/VhAE4PmktyY=",
+   "versions": [
+    {
+     "from": "2010-06-09",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/VhAE4PmktyY=",
+     "sha256": "163c5d5042c7e3e0091f1983f871418fe4c12b93fb78958001865b3106f4b5c8"
+    },
+    {
+     "from": "2023-12-30",
+     "units": 0,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/j5OyYYm38JM=",
+     "sha256": "7b0746f8b57e9bdde9655cc9f60a17f18f96ec969170d9807572701fe2d5ea0c"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2010-sg045-b28e78",
    "path": "pravilnik/2010/sg045-b28e78",
    "short": "Pravilnik o certifikaciji zrakoplova, projektnih i proizvodnih organizacija",
@@ -3703,6 +3730,27 @@
      "units": 7,
      "source_url": "https://www.sluzbenilist.ba/page/akt/2XY6VUGBuLw=",
      "sha256": "4078dbc2faae216fa8ff95aa23d72cebba6fd0501f1ed89d9343b3bf0be7a1c3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2010-sg045-db6b92",
+   "path": "pravilnik/2010/sg045-db6b92",
+   "short": "Pravilnik o pružanju usluga zračne navigacije u jedinstvenom evropskom nebu",
+   "title": "Pravilnik o pružanju usluga zračne navigacije u jedinstvenom evropskom nebu",
+   "url": "https://www.sluzbenilist.ba/page/akt/FLbjqpD21lE=",
+   "versions": [
+    {
+     "from": "2010-06-09",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/FLbjqpD21lE=",
+     "sha256": "049a5da0102f6ecab19c5dc93a8f9be0602ed001027a842ed6335cd0c861988d"
+    },
+    {
+     "from": "2023-12-23",
+     "units": 0,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/yOLmj6cG1T0=",
+     "sha256": "cbc32e06a42535f19dc764a3898cfadbcfc3362386a805a9f1263acba587469e"
     }
    ]
   },
@@ -3793,6 +3841,27 @@
      "units": 15,
      "source_url": "https://www.sluzbenilist.ba/page/akt/1BBy6dNnF04=",
      "sha256": "091b1704fedaaa3193cb1ba5f30d2c7d520e20096fe02af157c66cdf2d64c1d2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2010-sg054-fa7e79",
+   "path": "pravilnik/2010/sg054-fa7e79",
+   "short": "Pravilnik o organizaciji i uslovima provođenja praktične obuke zavodskog službenika - pripravnika",
+   "title": "Pravilnik o organizaciji i uslovima provođenja praktične obuke zavodskog službenika - pripravnika",
+   "url": "https://www.sluzbenilist.ba/page/akt/8fnOgztz5k76kjn45haWqI2k=",
+   "versions": [
+    {
+     "from": "2010-07-13",
+     "units": 15,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/8fnOgztz5k76kjn45haWqI2k=",
+     "sha256": "d4a26f8552ddefc79443301b04dbb337d9af41026f46557071f08643ab6370cf"
+    },
+    {
+     "from": "2018-11-28",
+     "units": 0,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/D0DZG1GlosI=",
+     "sha256": "da298b189af318b426e56fa29c655a04753aa72469c9b8b578b691e790ad4d46"
     }
    ]
   },
@@ -3917,6 +3986,27 @@
    ]
   },
   {
+   "slug": "pravilnik-2010-sg066-e92d4b",
+   "path": "pravilnik/2010/sg066-e92d4b",
+   "short": "Pravilnik o notifikaciji i autorizaciji djelatnosti sa izvorima jonizirajućeg zračenja",
+   "title": "Pravilnik o notifikaciji i autorizaciji djelatnosti sa izvorima jonizirajućeg zračenja",
+   "url": "https://www.sluzbenilist.ba/page/akt/kfSohz4nh78h77BrZ85l0=",
+   "versions": [
+    {
+     "from": "2010-08-24",
+     "units": 57,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/kfSohz4nh78h77BrZ85l0=",
+     "sha256": "4565014bd2c769d4a6d78994b10676105ba6cc649d121377a4b8417682965dbf"
+    },
+    {
+     "from": "2015-09-08",
+     "units": 0,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/GXPNyMHqxWY=",
+     "sha256": "019e4da3db91a4e1e821e2f51699eb789f58fa214a22b6df3c9df232cccb0135"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2010-sg071-29ca1d",
    "path": "pravilnik/2010/sg071-29ca1d",
    "short": "Pravilnik o izmjeni i dopunama pravilnika o načinu provođenja izbora u diplomatsko-konzularnim predstavništvima Bosne i Hercegovine",
@@ -4018,6 +4108,27 @@
      "units": 5,
      "source_url": "https://www.sluzbenilist.ba/page/akt/x3OVZM0erCU=",
      "sha256": "7d566e35409bde1ffea507753f456d267142fb3a97336ea6a5a8d450160a7960"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2010-sg079-3f4577",
+   "path": "pravilnik/2010/sg079-3f4577",
+   "short": "Pravilnik o utvrđivanju pravila za fleksibilno korištenje zračnog prostora",
+   "title": "Pravilnik o utvrđivanju pravila za fleksibilno korištenje zračnog prostora",
+   "url": "https://www.sluzbenilist.ba/page/akt/2fUrt2xohz4nh78h773oo=",
+   "versions": [
+    {
+     "from": "2010-10-05",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/2fUrt2xohz4nh78h773oo=",
+     "sha256": "71d538ad6e7750e31db686f67afed3e15bee23c8b20dd22a87513796bc0f2bc4"
+    },
+    {
+     "from": "2024-01-06",
+     "units": 0,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/MsKE94aeGqY=",
+     "sha256": "13fdf581347e9ae148ebe7743edb9660248b364e07e8fc2868f8d8152934e66b"
     }
    ]
   },
@@ -4412,6 +4523,27 @@
    ]
   },
   {
+   "slug": "pravilnik-2011-sg005-6a3628",
+   "path": "pravilnik/2011/sg005-6a3628",
+   "short": "Pravilnik o utvrđivanju zajedničkih zahtjeva za pružanje usluga zračne plovidbe",
+   "title": "Pravilnik o utvrđivanju zajedničkih zahtjeva za pružanje usluga zračne plovidbe",
+   "url": "https://www.sluzbenilist.ba/page/akt/lG38cKM0hAc=",
+   "versions": [
+    {
+     "from": "2011-02-01",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/lG38cKM0hAc=",
+     "sha256": "a4a0bd3bc8254878297d7b4b26384aae317479b2966460dbf1a4294305c9b0fa"
+    },
+    {
+     "from": "2016-05-25",
+     "units": 0,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/T0qqY5dbOVY=",
+     "sha256": "c9d1e60dab0ca2f1900df147ac7d583b91a0b859963dbed45fba935fcce72796"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2011-sg005-9936ac",
    "path": "pravilnik/2011/sg005-9936ac",
    "short": "Pravilnik o načinu utvrđivanja privremenih tarifa za nekvalificirane kupce električne energije u brčko distriktu Bosne i Hercegovine",
@@ -4423,6 +4555,27 @@
      "units": 12,
      "source_url": "https://www.sluzbenilist.ba/page/akt/bhyDRfEfaWM=",
      "sha256": "713c159d74ee3b58e2162a850277f78fadea719bd970a065a0fd29698e0e56ff"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-sg008-b46052",
+   "path": "pravilnik/2011/sg008-b46052",
+   "short": "Pravilnik o načinu i postupku obrade zahtjeva za izdavanje isprave za tranzit robe navedene u kontrolnim listama",
+   "title": "Pravilnik o načinu i postupku obrade zahtjeva za izdavanje isprave za tranzit robe navedene u kontrolnim listama",
+   "url": "https://www.sluzbenilist.ba/page/akt/7K9dYwohz4nh78h77qggE=",
+   "versions": [
+    {
+     "from": "2010-12-31",
+     "units": 16,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/7K9dYwohz4nh78h77qggE=",
+     "sha256": "483092d8770b4102a228fe6264ac1f5564c8f0f3f6b2a9bf62ebf3cb33823a9a"
+    },
+    {
+     "from": "2018-02-14",
+     "units": 0,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/yapUQXgztz5k76kjn45hAIpE=",
+     "sha256": "98868e2f6a0ce9af83884be05a98b72a88778a38b157f9dfa9ba040c9babb81a"
     }
    ]
   },
@@ -4877,21 +5030,6 @@
    ]
   },
   {
-   "slug": "pravilnik-2011-sg037-cf0239",
-   "path": "pravilnik/2011/sg037-cf0239",
-   "short": "Pravilnik o izmjenama i dopunama pravilnika o kriterijima za upućivanje osuđenih lica na izdržavanje kazne zatvora",
-   "title": "Pravilnik o izmjenama i dopunama pravilnika o kriterijima za upućivanje osuđenih lica na izdržavanje kazne zatvora",
-   "url": "https://www.sluzbenilist.ba/page/akt/5KirLuKBhK4=",
-   "versions": [
-    {
-     "from": "2011-05-25",
-     "units": 3,
-     "source_url": "https://www.sluzbenilist.ba/page/akt/5KirLuKBhK4=",
-     "sha256": "32c0bcc21ba0f5cd614fe1998e346227edd37953bc7d56fc60f972e7755d1a54"
-    }
-   ]
-  },
-  {
    "slug": "pravilnik-2011-sg040-34e390",
    "path": "pravilnik/2011/sg040-34e390",
    "short": "Pravilnik o utvrđivanju kriterija za odstupanje od zajedničkih temeljnih standarda sigurnosti civilnog zrakoplovstva i usvajanje alternativnih sigurnosnih mjera",
@@ -4902,36 +5040,6 @@
      "from": "2011-06-01",
      "units": 9,
      "source_url": "https://www.sluzbenilist.ba/page/akt/1p8gztz5k76kjn45hTadRKQM=",
-     "sha256": "e1c695fc2c386b1b7aef0df6a9fa03c166a4375484f4dd8f6e0faf06240a3ccb"
-    }
-   ]
-  },
-  {
-   "slug": "pravilnik-2011-sg040-3508d7",
-   "path": "pravilnik/2011/sg040-3508d7",
-   "short": "Pravilnik o utvrđivanju kriterija za odstupanje od zajedničkih temeljnih standarda sigurnosti civilnog zrakoplovstva i usvajanje alternativnih sigurnosnih mjera",
-   "title": "Pravilnik o utvrđivanju kriterija za odstupanje od zajedničkih temeljnih standarda sigurnosti civilnog zrakoplovstva i usvajanje alternativnih sigurnosnih mjera",
-   "url": "https://www.sluzbenilist.ba/page/akt/JYk9DSkp26k=",
-   "versions": [
-    {
-     "from": "2011-06-01",
-     "units": 9,
-     "source_url": "https://www.sluzbenilist.ba/page/akt/JYk9DSkp26k=",
-     "sha256": "e1c695fc2c386b1b7aef0df6a9fa03c166a4375484f4dd8f6e0faf06240a3ccb"
-    }
-   ]
-  },
-  {
-   "slug": "pravilnik-2011-sg040-89d0d3",
-   "path": "pravilnik/2011/sg040-89d0d3",
-   "short": "Pravilnik o utvrđivanju kriterija za odstupanje od zajedničkih temeljnih standarda sigurnosti civilnog zrakoplovstva i usvajanje alternativnih sigurnosnih mjera",
-   "title": "Pravilnik o utvrđivanju kriterija za odstupanje od zajedničkih temeljnih standarda sigurnosti civilnog zrakoplovstva i usvajanje alternativnih sigurnosnih mjera",
-   "url": "https://www.sluzbenilist.ba/page/akt/kmMHlap1C3Q=",
-   "versions": [
-    {
-     "from": "2011-06-01",
-     "units": 9,
-     "source_url": "https://www.sluzbenilist.ba/page/akt/kmMHlap1C3Q=",
      "sha256": "e1c695fc2c386b1b7aef0df6a9fa03c166a4375484f4dd8f6e0faf06240a3ccb"
     }
    ]
@@ -5237,6 +5345,27 @@
    ]
   },
   {
+   "slug": "pravilnik-2011-sg082-baf8fe",
+   "path": "pravilnik/2011/sg082-baf8fe",
+   "short": "Pravilnik o načinu kontrole cijena, načinu oblikovanja cijena lijekova i načinu izvještavanja o cijenama lijekova u bih",
+   "title": "Pravilnik o načinu kontrole cijena, načinu oblikovanja cijena lijekova i načinu izvještavanja o cijenama lijekova u bih",
+   "url": "https://www.sluzbenilist.ba/page/akt/7zt1PUK2upc=",
+   "versions": [
+    {
+     "from": "2011-10-25",
+     "units": 23,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/7zt1PUK2upc=",
+     "sha256": "31c50e4218b50c0bdcb66a7c8cea14b8ceedf42b85abe81556fe9e3759dbb08d"
+    },
+    {
+     "from": "2017-01-21",
+     "units": 0,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/jyAz7hDsPrs=",
+     "sha256": "c1fc33d009aaf3b967c5729d41a7970430b4825de6939956c964ac45d95e1b25"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2011-sg083-17955d",
    "path": "pravilnik/2011/sg083-17955d",
    "short": "Pravilnik o izmjenama i dopunama pravilnika o uniformi i posebnim oznakama sudske policije Bosne i Hercegovine",
@@ -5522,6 +5651,27 @@
    ]
   },
   {
+   "slug": "pravilnik-2012-sg025-03c830",
+   "path": "pravilnik/2012/sg025-03c830",
+   "short": "Pravilnik o autorizaciji pravnih lica koja obavljaju zdravstvene preglede i načinu obavljanja zdravstvenih pregleda lica profesionalno izloženih jonizirajućem zračenju",
+   "title": "Pravilnik o autorizaciji pravnih lica koja obavljaju zdravstvene preglede i načinu obavljanja zdravstvenih pregleda lica profesionalno izloženih jonizirajućem zračenju",
+   "url": "https://www.sluzbenilist.ba/page/akt/LTC8Xbohz4nh78h77P4Zc=",
+   "versions": [
+    {
+     "from": "2012-04-10",
+     "units": 40,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/LTC8Xbohz4nh78h77P4Zc=",
+     "sha256": "89022652ae10361d24924b26184b2fc30362e2229ce060a331a59bacd0111408"
+    },
+    {
+     "from": "2015-09-08",
+     "units": 0,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/gLsvPAH4AtU=",
+     "sha256": "47b221d26382cb17caf706aa650aa5d45e72f61b45ae2bd66c2d897e269866e2"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2012-sg026-1f10ed",
    "path": "pravilnik/2012/sg026-1f10ed",
    "short": "Pravilnik o uslovima koje mora da ispunjava organizacija registrirana za obuku u letenju zrakoplovnog ovlaštenog osoblja",
@@ -5533,6 +5683,27 @@
      "units": 32,
      "source_url": "https://www.sluzbenilist.ba/page/akt/lTEjsPH9vBw=",
      "sha256": "41312445678f405af09febec6403ed96755f98d1efa43ae1096d6669872392ba"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-sg027-3a2956",
+   "path": "pravilnik/2012/sg027-3a2956",
+   "short": "Pravilnik o provođenju zakona o postupku prinudne naplate indirektnih poreza",
+   "title": "Pravilnik o provođenju zakona o postupku prinudne naplate indirektnih poreza",
+   "url": "https://www.sluzbenilist.ba/page/akt/cAjUXohz4nh78h77MBRqg=",
+   "versions": [
+    {
+     "from": "2012-04-17",
+     "units": 148,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/cAjUXohz4nh78h77MBRqg=",
+     "sha256": "75a32eca627666e50a8d16322d2c2f0ac13d8a9ee1bde545d9f5886922f5ab8b"
+    },
+    {
+     "from": "2020-06-27",
+     "units": 0,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/9BsmhtZT82Y=",
+     "sha256": "10eb94e79590c126f0d9169fdfe43070f4bb3576ede4eb054dbe2fbda04cf543"
     }
    ]
   },
@@ -5653,6 +5824,27 @@
      "units": 10,
      "source_url": "https://www.sluzbenilist.ba/page/akt/NV9cXaZTwMw=",
      "sha256": "4d9c7290bc30a26cd7ed4a9729eb7187b0f47cf71b4e6e941c908923388f4cda"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-sg034-78132c",
+   "path": "pravilnik/2012/sg034-78132c",
+   "short": "Pravilnik o izgledu, vrsti i nošenju službene uniforme i opreme za službenike obezbjeđenja i oznakama vozila službe obezbjeđenja u ustanovi za prihvat i smještaj - imigracijskom centru službe za poslove sa strancima",
+   "title": "Pravilnik o izgledu, vrsti i nošenju službene uniforme i opreme za službenike obezbjeđenja i oznakama vozila službe obezbjeđenja u ustanovi za prihvat i smještaj - imigracijskom centru službe za poslove sa strancima",
+   "url": "https://www.sluzbenilist.ba/page/akt/jiW8cOLflNM=",
+   "versions": [
+    {
+     "from": "2012-05-15",
+     "units": 33,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/jiW8cOLflNM=",
+     "sha256": "08020060f649cb79f7f0ee8d7a2e98895f91317debd44916c0ca06a5e3ddc61d"
+    },
+    {
+     "from": "2013-08-13",
+     "units": 0,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/Dk6DHhjoGuE=",
+     "sha256": "abcf8c64a4b830a3dc61ff50e6d3c13a564135b7753675067c5954c675ef8c16"
     }
    ]
   },
@@ -5848,6 +6040,27 @@
      "units": 16,
      "source_url": "https://www.sluzbenilist.ba/page/akt/ZbiFHETNSgM=",
      "sha256": "2f534e3d47a01b1159e9b5509bb093ba8cd648a64144d6e8747f321b44da8793"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2012-sg058-8bd091",
+   "path": "pravilnik/2012/sg058-8bd091",
+   "short": "Pravilnik o načinu prijavljivanja, prikupljanja i praćenja neželjenih reakcija na lijekove",
+   "title": "Pravilnik o načinu prijavljivanja, prikupljanja i praćenja neželjenih reakcija na lijekove",
+   "url": "https://www.sluzbenilist.ba/page/akt/URZ5zfvxAu8=",
+   "versions": [
+    {
+     "from": "2012-08-07",
+     "units": 23,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/URZ5zfvxAu8=",
+     "sha256": "b37784b61cba7a9e132e27e5fa13295a8dca521d931a1151c4e484987409e378"
+    },
+    {
+     "from": "2026-04-17",
+     "units": 0,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/9KOYSbw2pgo=",
+     "sha256": "9725e4608a7e4cbd70f99939b106410c60f53e82551599b9eb3cbdd9518cc5fd"
     }
    ]
   },
@@ -6962,6 +7175,27 @@
    ]
   },
   {
+   "slug": "pravilnik-2013-sg050-6c6e6e",
+   "path": "pravilnik/2013/sg050-6c6e6e",
+   "short": "Pravilnik o sadržaju, načinu vođenja i korištenja službenih evidencija o strancima",
+   "title": "Pravilnik o sadržaju, načinu vođenja i korištenja službenih evidencija o strancima",
+   "url": "https://www.sluzbenilist.ba/page/akt/5TKyohz4nh78h77Mx8S4k=",
+   "versions": [
+    {
+     "from": "2013-07-03",
+     "units": 53,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/5TKyohz4nh78h77Mx8S4k=",
+     "sha256": "497aa08ca5e21700abb08af258d778a0b480b02b1a19e668435fb3cb36dc7734"
+    },
+    {
+     "from": "2016-07-23",
+     "units": 0,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/lLb0vek7Lxg=",
+     "sha256": "029e506a5744db3f4c6cc624d2e4c773c7ae214521da74442e3adc5e06b463c2"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2013-sg052-8984f6",
    "path": "pravilnik/2013/sg052-8984f6",
    "short": "Pravilnik o izmjenama i dopunama pravilnika o stavljanju u promet sjemena povrća u bosni i hercegovini",
@@ -7153,6 +7387,27 @@
      "units": 4,
      "source_url": "https://www.sluzbenilist.ba/page/akt/pbCF4QQhoec=",
      "sha256": "de4da5ba445a62cf2b731d93ca0285cdcc4dfac01e4d358ba9590c9562a7d0f6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2013-sg073-4250a9",
+   "path": "pravilnik/2013/sg073-4250a9",
+   "short": "Pravilnik o cijeni pograničnih propusnica",
+   "title": "Pravilnik o cijeni pograničnih propusnica",
+   "url": "https://www.sluzbenilist.ba/page/akt/1lp9WdupSXs=",
+   "versions": [
+    {
+     "from": "2013-10-01",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/1lp9WdupSXs=",
+     "sha256": "92c7bc7820dab46a383289ab912c9a188a56a360afea864ea4b035ff6f7db627"
+    },
+    {
+     "from": "2022-12-31",
+     "units": 0,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/qQjDigztz5k76kjn45hohLt8=",
+     "sha256": "e7249fd5d1a8c3327234374cb6578aa3bee7778aa7b24280626dba7c3f059d07"
     }
    ]
   },
@@ -8717,6 +8972,27 @@
    ]
   },
   {
+   "slug": "pravilnik-2015-sg001-ff86bd",
+   "path": "pravilnik/2015/sg001-ff86bd",
+   "short": "Pravilnik o dozvolama za kretanje i zadržavanje vozila na međunarodnim aerodromima",
+   "title": "Pravilnik o dozvolama za kretanje i zadržavanje vozila na međunarodnim aerodromima",
+   "url": "https://www.sluzbenilist.ba/page/akt/TaQfqdRHpPk=",
+   "versions": [
+    {
+     "from": "2015-01-20",
+     "units": 24,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/TaQfqdRHpPk=",
+     "sha256": "f8a7d00d8ec7d4d4d53e7f8972b9ef72a85556d91dce8b30d29f7aabac85d290"
+    },
+    {
+     "from": "2017-03-04",
+     "units": 0,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/PHhwf6aPot0=",
+     "sha256": "79f3cae935cb1385d9530c3f64bd83f7553c2346e2033231961b6b045ce1d58c"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2015-sg007-0c329b",
    "path": "pravilnik/2015/sg007-0c329b",
    "short": "Pravilnik o izmjenama i dopunama pravilnika o prijemu u vojnu službu",
@@ -9797,6 +10073,27 @@
    ]
   },
   {
+   "slug": "pravilnik-2016-sg051-29b1d5",
+   "path": "pravilnik/2016/sg051-29b1d5",
+   "short": "Pravilnik o sadržaju, načinu vođenja i korištenja službenih evidencija o strancima",
+   "title": "Pravilnik o sadržaju, načinu vođenja i korištenja službenih evidencija o strancima",
+   "url": "https://www.sluzbenilist.ba/page/akt/lLb0vek7Lxg=",
+   "versions": [
+    {
+     "from": "2016-07-23",
+     "units": 71,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/lLb0vek7Lxg=",
+     "sha256": "029e506a5744db3f4c6cc624d2e4c773c7ae214521da74442e3adc5e06b463c2"
+    },
+    {
+     "from": "2025-08-09",
+     "units": 0,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/3YgUl3RJw6U=",
+     "sha256": "24acce592d3fb5d984885de762868672f26d78bb5da6883c1fb2af8ff0375e43"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2016-sg052-77e73a",
    "path": "pravilnik/2016/sg052-77e73a",
    "short": "Pravilnik o izmjenama i dopuni pravilnika o vojnim letačima i letačkoj službi u ministarstvu odbrane i oružanim snagama Bosne i Hercegovine",
@@ -9973,6 +10270,27 @@
      "units": 3,
      "source_url": "https://www.sluzbenilist.ba/page/akt/iXAlHVYaTeI=",
      "sha256": "358a842a71dd228eddbe661ea44f4b51300a35253afcede3219da575d7b81d90"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2016-sg066-38154f",
+   "path": "pravilnik/2016/sg066-38154f",
+   "short": "Pravilnik o uslovima i načinu korištenja e-aukcije",
+   "title": "Pravilnik o uslovima i načinu korištenja e-aukcije",
+   "url": "https://www.sluzbenilist.ba/page/akt/1evZJXmnE14=",
+   "versions": [
+    {
+     "from": "2016-09-14",
+     "units": 12,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/1evZJXmnE14=",
+     "sha256": "5d3f581a03c3bca334e6ad9b382cc6641119dcab29140ae1a7eb9bb827707ad3"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 0,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/IdLowgF1MSo=",
+     "sha256": "4863becac28abef15b2fc4f3d1c9f27614da8e313a353eac720c242b7c4939e9"
     }
    ]
   },
@@ -10397,6 +10715,48 @@
    ]
   },
   {
+   "slug": "pravilnik-2017-sg013-26590c",
+   "path": "pravilnik/2017/sg013-26590c",
+   "short": "Pravilnik o dozvolama za kretanje i zadržavanje vozila na međunarodnim aerodromima",
+   "title": "Pravilnik o dozvolama za kretanje i zadržavanje vozila na međunarodnim aerodromima",
+   "url": "https://www.sluzbenilist.ba/page/akt/PHhwf6aPot0=",
+   "versions": [
+    {
+     "from": "2017-03-04",
+     "units": 26,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/PHhwf6aPot0=",
+     "sha256": "79f3cae935cb1385d9530c3f64bd83f7553c2346e2033231961b6b045ce1d58c"
+    },
+    {
+     "from": "2025-05-14",
+     "units": 0,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/BckQ6BeYbFQ=",
+     "sha256": "a4a3b4c4909737679e0e248c492b067ea00d8418fc8705003af36f90926edba4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-sg013-5a26dc",
+   "path": "pravilnik/2017/sg013-5a26dc",
+   "short": "Pravilnik o brodarskim i pomorskim knjižicama",
+   "title": "Pravilnik o brodarskim i pomorskim knjižicama",
+   "url": "https://www.sluzbenilist.ba/page/akt/AhSIBi35csA=",
+   "versions": [
+    {
+     "from": "2017-02-25",
+     "units": 32,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/AhSIBi35csA=",
+     "sha256": "c2ff7a81b908868d4ebf47fd115c177225116c0f7e7c515475142e669afef24a"
+    },
+    {
+     "from": "2019-04-27",
+     "units": 0,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/uqexQcUTASw=",
+     "sha256": "3611b4d199ea77151bbd603a158095ba2fbae01812f05421fe5b03d0e2a92bb2"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2017-sg014-2732a0",
    "path": "pravilnik/2017/sg014-2732a0",
    "short": "Pravilnik o bližim uvjetima za izdavanje kvalificiranih potvrda",
@@ -10768,6 +11128,27 @@
      "units": 37,
      "source_url": "https://www.sluzbenilist.ba/page/akt/rELQCohz4nh78h77AVZ5w=",
      "sha256": "12337d8e9cf19d59db08e30a0773b51d09e0fe3e3450b904d12be0d6e7e43cba"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-sg043-79e5a5",
+   "path": "pravilnik/2017/sg043-79e5a5",
+   "short": "Pravilnik o standardima i uslovima izgrađenosti i opremljenosti graničnih prelaza",
+   "title": "Pravilnik o standardima i uslovima izgrađenosti i opremljenosti graničnih prelaza",
+   "url": "https://www.sluzbenilist.ba/page/akt/QV2vJXODFxM=",
+   "versions": [
+    {
+     "from": "2017-06-24",
+     "units": 20,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/QV2vJXODFxM=",
+     "sha256": "b630c36508d90bc80a4fd2785d0ff1c510a0f0089a34536071e983c2a0a4e861"
+    },
+    {
+     "from": "2026-05-27",
+     "units": 0,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/uVSp7a8Yk9M=",
+     "sha256": "c6f1a8055e1ae43d9c9dd2f84f572355484ff9bed2d24d19a3ec772ea6c11fcd"
     }
    ]
   },
@@ -12887,21 +13268,6 @@
    ]
   },
   {
-   "slug": "pravilnik-2019-sg021-1c49b4",
-   "path": "pravilnik/2019/sg021-1c49b4",
-   "short": "Pravilnik o izmjenama i dopunama pravilnika o maksimalnim nivoima ostataka pesticida u i na hrani i hrani za životinje biljnog i životinjskog porijekla",
-   "title": "Pravilnik o izmjenama i dopunama pravilnika o maksimalnim nivoima ostataka pesticida u i na hrani i hrani za životinje biljnog i životinjskog porijekla",
-   "url": "https://www.sluzbenilist.ba/page/akt/53pBI2NIgDc=",
-   "versions": [
-    {
-     "from": "2019-03-29",
-     "units": 9,
-     "source_url": "https://www.sluzbenilist.ba/page/akt/53pBI2NIgDc=",
-     "sha256": "2344c496924272469b27936a44ba69d901d5c01870548a2c985c468d261b12ac"
-    }
-   ]
-  },
-  {
    "slug": "pravilnik-2019-sg023-44180d",
    "path": "pravilnik/2019/sg023-44180d",
    "short": "Pravilnik o izmjenama i dopunama pravilnika o načinu korištenja jedinstvenog formata certifikata operacija i tipa proizvodnje",
@@ -14458,6 +14824,27 @@
      "units": 4,
      "source_url": "https://www.sluzbenilist.ba/page/akt/Di0N2bVt2dI=",
      "sha256": "92faf20443e70f4b2a169d508e1a930b1f7c66b0145bcc637069e77529f34ebf"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sg046-c5315c",
+   "path": "pravilnik/2021/sg046-c5315c",
+   "short": "Pravilnik o cemt dozvolama",
+   "title": "Pravilnik o cemt dozvolama",
+   "url": "https://www.sluzbenilist.ba/page/akt/T0dpwtp2bjQ=",
+   "versions": [
+    {
+     "from": "2021-08-04",
+     "units": 24,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/T0dpwtp2bjQ=",
+     "sha256": "14937eef9c46aa692f2eb043cf81cad5255e5921229fc173a008601d6b4b8502"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 0,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/nc5lfhW64Sc=",
+     "sha256": "51b18f466a3837d6848797b6dd95aff32ce2cbe04bfedd9f69476b51017b7b31"
     }
    ]
   },
@@ -16633,6 +17020,27 @@
      "units": 13,
      "source_url": "https://www.sluzbenilist.ba/page/akt/jvMHWhC6CTk=",
      "sha256": "7a900ca05db3249594233fc9d56c533510c4c05b4eb1e2b2abcd51ccd03030d9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-sg031-776d7e",
+   "path": "pravilnik/2024/sg031-776d7e",
+   "short": "Pravilnik o predizbornim i postizbornim finansijskim izvještajima i izvještajima o prometu posebnog računa za finansiranje izborne kampanje nezavisnih kandidata",
+   "title": "Pravilnik o predizbornim i postizbornim finansijskim izvještajima i izvještajima o prometu posebnog računa za finansiranje izborne kampanje nezavisnih kandidata",
+   "url": "https://www.sluzbenilist.ba/page/akt/w2Wr7lEDjGw=",
+   "versions": [
+    {
+     "from": "2024-05-03",
+     "units": 36,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/w2Wr7lEDjGw=",
+     "sha256": "174f41aaba3c8346bfaddb1788287846692f1518b8bd633daa2a33d10df60eb4"
+    },
+    {
+     "from": "2026-05-06",
+     "units": 0,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/8OopElKbOy8=",
+     "sha256": "aeeda2087496379c39af20e55f90fbcbf541d822d5eb11ea2ea3598d8e2396af"
     }
    ]
   },
@@ -18947,6 +19355,48 @@
    ]
   },
   {
+   "slug": "uputstvo-2010-sg089-0edff8",
+   "path": "uputstvo/2010/sg089-0edff8",
+   "short": "Uputstvo o provođenju postupka homologacije tipa vozila (htv-up 0.0)",
+   "title": "Uputstvo o provođenju postupka homologacije tipa vozila (htv-up 0.0)",
+   "url": "https://www.sluzbenilist.ba/page/akt/ItBohz4nh78h77gztz5k76kjn45hvMYFyc=",
+   "versions": [
+    {
+     "from": "2010-11-05",
+     "units": 17,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/ItBohz4nh78h77gztz5k76kjn45hvMYFyc=",
+     "sha256": "80874123ccd375c457374d042c3070ccdbed7cf9e34400b7461b34003127e232"
+    },
+    {
+     "from": "2022-06-08",
+     "units": 0,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/bWrocLtP4Sw=",
+     "sha256": "8dd8f768bc7ccd847da67aa922955ec936b5f782fc0f1ab453eafc2cd9374aca"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2010-sg089-1b2ea6",
+   "path": "uputstvo/2010/sg089-1b2ea6",
+   "short": "Uputstvo o provođenju postupka homologacije pojedinačnog vozila (hpv-up 0.0)",
+   "title": "Uputstvo o provođenju postupka homologacije pojedinačnog vozila (hpv-up 0.0)",
+   "url": "https://www.sluzbenilist.ba/page/akt/Hzgztz5k76kjn45hr9A6kGNs=",
+   "versions": [
+    {
+     "from": "2010-11-05",
+     "units": 12,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/Hzgztz5k76kjn45hr9A6kGNs=",
+     "sha256": "d25f0e134c23442a0939d8e38c45536574ba414f2da5d9a07a46e18ddbc15a80"
+    },
+    {
+     "from": "2019-07-10",
+     "units": 0,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/SWjks8gysY0=",
+     "sha256": "f1540260cf88d7e1999073d37829b91de5f6d540e3c877f1265ef18a45686a05"
+    }
+   ]
+  },
+  {
    "slug": "uputstvo-2010-sg094-ac21bd",
    "path": "uputstvo/2010/sg094-ac21bd",
    "short": "Uputstvo o izmjeni uputstva o postupku provedbe posrednih izbora zakonodavnih organa vlasti u bosni i hercegovini",
@@ -19198,6 +19648,27 @@
      "units": 3,
      "source_url": "https://www.sluzbenilist.ba/page/akt/iWmJEaoXsKQ=",
      "sha256": "1dab04dca027f86852e4a1d4420ae767afc0af5d7a01e30f71c1e8c2c2f41845"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2011-sg086-97019b",
+   "path": "uputstvo/2011/sg086-97019b",
+   "short": "Uputstvo o načinu pristupa centralnoj elektronskoj evidenciji i razmjeni podataka o kontroli kretanja oružja i vojne opreme",
+   "title": "Uputstvo o načinu pristupa centralnoj elektronskoj evidenciji i razmjeni podataka o kontroli kretanja oružja i vojne opreme",
+   "url": "https://www.sluzbenilist.ba/page/akt/lUKKCAnDgztz5k76kjn45hlc=",
+   "versions": [
+    {
+     "from": "2011-10-12",
+     "units": 26,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/lUKKCAnDgztz5k76kjn45hlc=",
+     "sha256": "02ca2c88a0c69f62f73f73b14ba1c9507f6077c24c953d8b70f894e1421c2775"
+    },
+    {
+     "from": "2014-05-06",
+     "units": 0,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/7vbr0Nq76KQ=",
+     "sha256": "4b94e0c233727d16a9767d0ce6fa3b3c060542547653ad94749a70c6d8fb1a68"
     }
    ]
   },
@@ -19547,6 +20018,27 @@
    ]
   },
   {
+   "slug": "uputstvo-2013-sg008-ba9a48",
+   "path": "uputstvo/2013/sg008-ba9a48",
+   "short": "Uputstvo o sadržaju elektronskog memorijskog elementa lične karte državljana Bosne i Hercegovine",
+   "title": "Uputstvo o sadržaju elektronskog memorijskog elementa lične karte državljana Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/ijyjeiSh87Y=",
+   "versions": [
+    {
+     "from": "2013-02-12",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/ijyjeiSh87Y=",
+     "sha256": "aadb693aac438d409190c924e598778194ac74cbd09704b8d63ac358efb5cbde"
+    },
+    {
+     "from": "2021-08-04",
+     "units": 0,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/rJeCYFYBVok=",
+     "sha256": "4c92b581a86f7f36e5c47e929f9d04a4d866389f1ca5b4f3f3f8800f2c48dec9"
+    }
+   ]
+  },
+  {
    "slug": "uputstvo-2013-sg008-cc63c7",
    "path": "uputstvo/2013/sg008-cc63c7",
    "short": "Uputstvo o načinu postupanja nadležnih organa prilikom prebacivanja posebnih slova koja nisu definirana zvaničnim jezicima i pismima u bosni i hercegovini i načinu ispisivanja karakterističnih znakova prilikom unosa ličnih podataka u centralnu evidenciju",
@@ -19862,6 +20354,27 @@
    ]
   },
   {
+   "slug": "uputstvo-2014-sg031-441256",
+   "path": "uputstvo/2014/sg031-441256",
+   "short": "Uputstvo o načinu postupanja, aktivnostima i mjerama centralne banke Bosne i Hercegovine kada komercijalna banka ne ispuni obavezu u pogledu utvrđivanja i održavanja obavezne rezerve i u slučaju statusnih promjena komercijalne banke",
+   "title": "Uputstvo o načinu postupanja, aktivnostima i mjerama centralne banke Bosne i Hercegovine kada komercijalna banka ne ispuni obavezu u pogledu utvrđivanja i održavanja obavezne rezerve i u slučaju statusnih promjena komercijalne banke",
+   "url": "https://www.sluzbenilist.ba/page/akt/5skvoylvapo=",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 19,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/5skvoylvapo=",
+     "sha256": "f2c6388017a6b712c907c36eaeaaa55889e3aef9ecb504e17083de882b09730f"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 0,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/bSNVzBseohz4nh78h77dA=",
+     "sha256": "d4e580e9201a208e7a11bc2d0e997842b8a50340af1479ebe9f3c1eb205d92b7"
+    }
+   ]
+  },
+  {
    "slug": "uputstvo-2014-sg038-8d9bd0",
    "path": "uputstvo/2014/sg038-8d9bd0",
    "short": "Uputstvo o rokovima i redoslijedu izbornih aktivnosti za opće izbore u bosni i hercegovini koji će se održati u nedjelju 12. oktobra 2014. godine",
@@ -19873,6 +20386,27 @@
      "units": 4,
      "source_url": "https://www.sluzbenilist.ba/page/akt/5lvSbgztz5k76kjn45hPgztz5k76kjn45hY1I=",
      "sha256": "89f13940c1010a1b22e9d186aa1142e20eb3e966338ac5a5a233e3cad926c75b"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2014-sg043-fbc66c",
+   "path": "uputstvo/2014/sg043-fbc66c",
+   "short": "Uputstvo o načinu pristupa centralnoj elektronskoj evidenciji i razmjeni podataka o kontroli kretanja oružja i vojne opreme",
+   "title": "Uputstvo o načinu pristupa centralnoj elektronskoj evidenciji i razmjeni podataka o kontroli kretanja oružja i vojne opreme",
+   "url": "https://www.sluzbenilist.ba/page/akt/7vbr0Nq76KQ=",
+   "versions": [
+    {
+     "from": "2014-05-06",
+     "units": 27,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/7vbr0Nq76KQ=",
+     "sha256": "4b94e0c233727d16a9767d0ce6fa3b3c060542547653ad94749a70c6d8fb1a68"
+    },
+    {
+     "from": "2023-07-31",
+     "units": 0,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/DV0PNadC0is=",
+     "sha256": "17272e84be92638b7249c84f7c37b09f35afc310be2e3f70df2839e8d58bd9b0"
     }
    ]
   },
@@ -21332,6 +21866,27 @@
    ]
   },
   {
+   "slug": "uputstvo-2019-sg046-93ba13",
+   "path": "uputstvo/2019/sg046-93ba13",
+   "short": "Uputstvo o provođenju postupka homologacije pojedinačnog vozila",
+   "title": "Uputstvo o provođenju postupka homologacije pojedinačnog vozila",
+   "url": "https://www.sluzbenilist.ba/page/akt/SWjks8gysY0=",
+   "versions": [
+    {
+     "from": "2019-07-10",
+     "units": 14,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/SWjks8gysY0=",
+     "sha256": "f1540260cf88d7e1999073d37829b91de5f6d540e3c877f1265ef18a45686a05"
+    },
+    {
+     "from": "2022-06-08",
+     "units": 0,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/PRFrpX4JcTc=",
+     "sha256": "2e4d62d8de62f341e4ea394ba3be249da8747706b10ca39a2fd5532953ccca5c"
+    }
+   ]
+  },
+  {
    "slug": "uputstvo-2019-sg056-445736",
    "path": "uputstvo/2019/sg056-445736",
    "short": "Uputstvo o sprovođenju postupka homologacije tipa dijelova, uređaja i opreme vozila",
@@ -21388,6 +21943,27 @@
      "units": 11,
      "source_url": "https://www.sluzbenilist.ba/page/akt/WneyaGBtxwg=",
      "sha256": "075d48db17c5fb3d2982462165604b450b75342cdf48535aef0594f881a5a803"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2019-sg083-214202",
+   "path": "uputstvo/2019/sg083-214202",
+   "short": "Uputstvo o podnošenju zahtjeva za izdavanje uvjerenja o izmirenim obavezama po osnovu indirektnih poreza, ostalih prihoda i taksi",
+   "title": "Uputstvo o podnošenju zahtjeva za izdavanje uvjerenja o izmirenim obavezama po osnovu indirektnih poreza, ostalih prihoda i taksi",
+   "url": "https://www.sluzbenilist.ba/page/akt/vKjiF12Kqpk=",
+   "versions": [
+    {
+     "from": "2019-12-28",
+     "units": 15,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/vKjiF12Kqpk=",
+     "sha256": "3a174982b9a7537c7226dd399abc899c90e3e1e1d0ee07c8c1c0af2d857548b4"
+    },
+    {
+     "from": "2024-07-27",
+     "units": 0,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/PucyA5huxGg=",
+     "sha256": "f3ddd3474668545a43e549f058e4cfacb82ddd5e81c3983127c30d2a9b49754c"
     }
    ]
   },
@@ -21763,6 +22339,27 @@
      "units": 6,
      "source_url": "https://www.sluzbenilist.ba/page/akt/HOcgztz5k76kjn45h7cXcLIo=",
      "sha256": "01a7ff266e17133a61231dc8174fa6802e480830bb41f0cec683fe0d1a2c8c8f"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2022-sg005-07ea65",
+   "path": "uputstvo/2022/sg005-07ea65",
+   "short": "Uputstvo o donošenju finansijskog plana i programa utroška sredstava političke stranke",
+   "title": "Uputstvo o donošenju finansijskog plana i programa utroška sredstava političke stranke",
+   "url": "https://www.sluzbenilist.ba/page/akt/YTiJQ4tSs5s=",
+   "versions": [
+    {
+     "from": "2022-02-12",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/YTiJQ4tSs5s=",
+     "sha256": "baf37e245c2332cf5773124312340921f1027a2e7d33d5b6a027861dba09ea98"
+    },
+    {
+     "from": "2026-05-06",
+     "units": 0,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/pELKXv8k3UM=",
+     "sha256": "63342e6d9239e94128f4c5b571458ea31e7b002f17f69664835ba2c25d4f41fc"
     }
    ]
   },
@@ -23237,17 +23834,107 @@
    "path": "criminal-code"
   },
   {
-   "slug": "pravilnik-2021-sg046-c5315c",
-   "path": "pravilnik/2021/sg046-c5315c",
-   "short": "Pravilnik o cemt dozvolama",
-   "title": "Pravilnik o cemt dozvolama",
-   "url": "https://www.sluzbenilist.ba/page/akt/T0dpwtp2bjQ=",
+   "slug": "pravilnik-2010-sg031-175f6f",
+   "path": "pravilnik/2010/sg031-175f6f",
+   "short": "Pravilnik o izmjenama i dopunama pravilnika o izdavanju službenih pasoša i viza",
+   "title": "Pravilnik o izmjenama i dopunama pravilnika o izdavanju službenih pasoša i viza",
+   "url": "https://www.sluzbenilist.ba/page/akt/Iy3A5D6ZUGo=",
    "versions": [
     {
-     "from": "2021-08-04",
-     "units": 24,
-     "source_url": "https://www.sluzbenilist.ba/page/akt/T0dpwtp2bjQ=",
-     "sha256": "14937eef9c46aa692f2eb043cf81cad5255e5921229fc173a008601d6b4b8502"
+     "from": "2010-04-28",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/Iy3A5D6ZUGo=",
+     "sha256": "cccec977bc4b7746fa573b766656d513db66c0948ea37e9dd709630d316e14e7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2010-sg031-53bf6c",
+   "path": "pravilnik/2010/sg031-53bf6c",
+   "short": "Pravilnik o izmjenama i dopunama pravilnika o izdavanju službenih pasoša i viza",
+   "title": "Pravilnik o izmjenama i dopunama pravilnika o izdavanju službenih pasoša i viza",
+   "url": "https://www.sluzbenilist.ba/page/akt/Vz3eFdxI1Vo=",
+   "versions": [
+    {
+     "from": "2010-04-28",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/Vz3eFdxI1Vo=",
+     "sha256": "cccec977bc4b7746fa573b766656d513db66c0948ea37e9dd709630d316e14e7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2010-sg043-bc3ba8",
+   "path": "pravilnik/2010/sg043-bc3ba8",
+   "short": "Pravilnik o izmjenama i dopunama pravilnika o vrsti i uvjetima za izvršenje krivične sankcije rada za opće dobro na slobodi",
+   "title": "Pravilnik o izmjenama i dopunama pravilnika o vrsti i uvjetima za izvršenje krivične sankcije rada za opće dobro na slobodi",
+   "url": "https://www.sluzbenilist.ba/page/akt/NVIcahGjSxg=",
+   "versions": [
+    {
+     "from": "2010-05-25",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/NVIcahGjSxg=",
+     "sha256": "664882f5d41e2dfd1edc1e6a41ca5dc8be8e8e9bc4925cd97fddd1bae25de9fc"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-sg037-cf0239",
+   "path": "pravilnik/2011/sg037-cf0239",
+   "short": "Pravilnik o izmjenama i dopunama pravilnika o kriterijima za upućivanje osuđenih lica na izdržavanje kazne zatvora",
+   "title": "Pravilnik o izmjenama i dopunama pravilnika o kriterijima za upućivanje osuđenih lica na izdržavanje kazne zatvora",
+   "url": "https://www.sluzbenilist.ba/page/akt/5KirLuKBhK4=",
+   "versions": [
+    {
+     "from": "2011-05-25",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/5KirLuKBhK4=",
+     "sha256": "32c0bcc21ba0f5cd614fe1998e346227edd37953bc7d56fc60f972e7755d1a54"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-sg040-3508d7",
+   "path": "pravilnik/2011/sg040-3508d7",
+   "short": "Pravilnik o utvrđivanju kriterija za odstupanje od zajedničkih temeljnih standarda sigurnosti civilnog zrakoplovstva i usvajanje alternativnih sigurnosnih mjera",
+   "title": "Pravilnik o utvrđivanju kriterija za odstupanje od zajedničkih temeljnih standarda sigurnosti civilnog zrakoplovstva i usvajanje alternativnih sigurnosnih mjera",
+   "url": "https://www.sluzbenilist.ba/page/akt/JYk9DSkp26k=",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/JYk9DSkp26k=",
+     "sha256": "e1c695fc2c386b1b7aef0df6a9fa03c166a4375484f4dd8f6e0faf06240a3ccb"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-sg040-89d0d3",
+   "path": "pravilnik/2011/sg040-89d0d3",
+   "short": "Pravilnik o utvrđivanju kriterija za odstupanje od zajedničkih temeljnih standarda sigurnosti civilnog zrakoplovstva i usvajanje alternativnih sigurnosnih mjera",
+   "title": "Pravilnik o utvrđivanju kriterija za odstupanje od zajedničkih temeljnih standarda sigurnosti civilnog zrakoplovstva i usvajanje alternativnih sigurnosnih mjera",
+   "url": "https://www.sluzbenilist.ba/page/akt/kmMHlap1C3Q=",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/kmMHlap1C3Q=",
+     "sha256": "e1c695fc2c386b1b7aef0df6a9fa03c166a4375484f4dd8f6e0faf06240a3ccb"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2019-sg021-1c49b4",
+   "path": "pravilnik/2019/sg021-1c49b4",
+   "short": "Pravilnik o izmjenama i dopunama pravilnika o maksimalnim nivoima ostataka pesticida u i na hrani i hrani za životinje biljnog i životinjskog porijekla",
+   "title": "Pravilnik o izmjenama i dopunama pravilnika o maksimalnim nivoima ostataka pesticida u i na hrani i hrani za životinje biljnog i životinjskog porijekla",
+   "url": "https://www.sluzbenilist.ba/page/akt/53pBI2NIgDc=",
+   "versions": [
+    {
+     "from": "2019-03-29",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/53pBI2NIgDc=",
+     "sha256": "2344c496924272469b27936a44ba69d901d5c01870548a2c985c468d261b12ac"
     }
    ]
   },
@@ -23267,32 +23954,77 @@
    ]
   },
   {
-   "slug": "pravilnik-2024-sg031-776d7e",
-   "path": "pravilnik/2024/sg031-776d7e",
-   "short": "Pravilnik o predizbornim i postizbornim finansijskim izvještajima i izvještajima o prometu posebnog računa za finansiranje izborne kampanje nezavisnih kandidata",
-   "title": "Pravilnik o predizbornim i postizbornim finansijskim izvještajima i izvještajima o prometu posebnog računa za finansiranje izborne kampanje nezavisnih kandidata",
-   "url": "https://www.sluzbenilist.ba/page/akt/w2Wr7lEDjGw=",
+   "slug": "zakon-2010-sg032-29a475",
+   "path": "zakon/2010/sg032-29a475",
+   "short": "Zakon o izmjenama i dopunama zakona o komunikacijama",
+   "title": "Zakon o izmjenama i dopunama zakona o komunikacijama",
+   "url": "https://www.sluzbenilist.ba/page/akt/NlRxlVDo6QA=",
    "versions": [
     {
-     "from": "2024-05-03",
-     "units": 36,
-     "source_url": "https://www.sluzbenilist.ba/page/akt/w2Wr7lEDjGw=",
-     "sha256": "174f41aaba3c8346bfaddb1788287846692f1518b8bd633daa2a33d10df60eb4"
+     "from": "2010-04-30",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/NlRxlVDo6QA=",
+     "sha256": "12406fc80666db48d2adc9bbf154f86a20d08d3f769dd5d2b56c507a7de6f951"
     }
    ]
   },
   {
-   "slug": "uputstvo-2022-sg005-07ea65",
-   "path": "uputstvo/2022/sg005-07ea65",
-   "short": "Uputstvo o donošenju finansijskog plana i programa utroška sredstava političke stranke",
-   "title": "Uputstvo o donošenju finansijskog plana i programa utroška sredstava političke stranke",
-   "url": "https://www.sluzbenilist.ba/page/akt/YTiJQ4tSs5s=",
+   "slug": "zakon-2010-sg032-2da633",
+   "path": "zakon/2010/sg032-2da633",
+   "short": "Zakon o izmjenama i dopunama zakona o javnom radiotelevizijskom servisu Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama zakona o javnom radiotelevizijskom servisu Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/kXjPbH815TY=",
    "versions": [
     {
-     "from": "2022-02-12",
+     "from": "2010-04-30",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/kXjPbH815TY=",
+     "sha256": "f549130c33fb54ae686c58d8b901a5ce7ef43d08eb0e70d5ee322428da90b6de"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sg032-6be511",
+   "path": "zakon/2010/sg032-6be511",
+   "short": "Zakon o izmjenama i dopunama izbornog zakona Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama izbornog zakona Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/Ob4TA5R8tXs=",
+   "versions": [
+    {
+     "from": "2010-04-23",
+     "units": 49,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/Ob4TA5R8tXs=",
+     "sha256": "f4d2a0660dfaea2d58fa20d03c69d611bf26678abbfa5317af158e6cdacd9512"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sg032-fe05fc",
+   "path": "zakon/2010/sg032-fe05fc",
+   "short": "Zakon o izmjenama zakona o klasifikaciji djelatnosti u bosni i hercegovini",
+   "title": "Zakon o izmjenama zakona o klasifikaciji djelatnosti u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/NeI4lN9I0gg=",
+   "versions": [
+    {
+     "from": "2010-04-30",
      "units": 6,
-     "source_url": "https://www.sluzbenilist.ba/page/akt/YTiJQ4tSs5s=",
-     "sha256": "baf37e245c2332cf5773124312340921f1027a2e7d33d5b6a027861dba09ea98"
+     "source_url": "https://www.sluzbenilist.ba/page/akt/NeI4lN9I0gg=",
+     "sha256": "ca3293501bd1a1f68e007d77b9ad68df92cc8581b6f894fff724993f80b2d65e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sg032-fed6ae",
+   "path": "zakon/2010/sg032-fed6ae",
+   "short": "Zakon o izmjenama i dopunama zakona o javnom radiotelevizijskom sistemu Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama zakona o javnom radiotelevizijskom sistemu Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/V9T8Y33TO7w=",
+   "versions": [
+    {
+     "from": "2010-04-30",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/V9T8Y33TO7w=",
+     "sha256": "974c474ef6a689520e435617b2f6640330d41ecfe0b49321c8eb61592c2c6d47"
     }
    ]
   }
