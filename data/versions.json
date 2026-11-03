@@ -752,6 +752,21 @@
    ]
   },
   {
+   "slug": "zakon-2013-sg018-3b83db",
+   "path": "zakon/2013/sg018-3b83db",
+   "short": "Zakon o dopuni zakona o osnovama sigurnosti saobraćaja na putevima u bosni i hercegovini",
+   "title": "Zakon o dopuni zakona o osnovama sigurnosti saobraćaja na putevima u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/Qn6bHtEh8X0=",
+   "versions": [
+    {
+     "from": "2013-03-19",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/Qn6bHtEh8X0=",
+     "sha256": "7d060a6fb4491c19f39ab79d0d2daaec18061552edb31c2235bf1b87ae25e93f"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2013-sg018-90853b",
    "path": "zakon/2013/sg018-90853b",
    "short": "Zakon o izmjenama zakona o popisu stanovništva, domaćinstava i stanova u bosni i hercegovini 2013. godine",
@@ -2012,6 +2027,36 @@
    ]
   },
   {
+   "slug": "zakon-2018-sg035-375f4f",
+   "path": "zakon/2018/sg035-375f4f",
+   "short": "Zakon o izmjeni i dopunama krivičnog zakona Bosne i Hercegovine",
+   "title": "Zakon o izmjeni i dopunama krivičnog zakona Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/2TEFMw4z9YE=",
+   "versions": [
+    {
+     "from": "2018-06-06",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/2TEFMw4z9YE=",
+     "sha256": "0484dba824486b959a19140c7bf7c958adc7bab41ceeecaf42b3528f2b413920"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2018-sg038-dab4a8",
+   "path": "zakon/2018/sg038-dab4a8",
+   "short": "Zakon o izmjenama i dopunama zakona o službi u oružanim snagama Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama zakona o službi u oružanim snagama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/DQ3JOV9mrohz4nh78h77Q=",
+   "versions": [
+    {
+     "from": "2018-06-16",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/DQ3JOV9mrohz4nh78h77Q=",
+     "sha256": "2f53d3f2dbb20bf164d2671f527778a14f8dca905cce63875b0b85c77770dfe0"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2018-sg065-5e2a77",
    "path": "zakon/2018/sg065-5e2a77",
    "short": "Zakon o izmjenama i dopunama zakona o krivičnom postupku Bosne i Hercegovine",
@@ -2747,6 +2792,576 @@
    ]
   },
   {
+   "slug": "pravilnik-2023-sg006-27c272",
+   "path": "pravilnik/2023/sg006-27c272",
+   "short": "Pravilnik o dopuni pravilnika o orijentacionim mjerilima za rad sudija i stručnih saradnika u sudovima u bosni i hercegovini",
+   "title": "Pravilnik o dopuni pravilnika o orijentacionim mjerilima za rad sudija i stručnih saradnika u sudovima u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/DYdkmXgztz5k76kjn45hxCfg=",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/DYdkmXgztz5k76kjn45hxCfg=",
+     "sha256": "afbc7c22525c02befa1634c52d6c865ce749cf67b1a40d101b4dfab348597218"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg012-4c6f95",
+   "path": "pravilnik/2023/sg012-4c6f95",
+   "short": "Pravilnik o određivanju iznosa minimalne rezerve za izmirivanje obaveza uprave za indirektno oporezivanje u vezi sa indirektnim porezima, ostalim prihodima i taksama",
+   "title": "Pravilnik o određivanju iznosa minimalne rezerve za izmirivanje obaveza uprave za indirektno oporezivanje u vezi sa indirektnim porezima, ostalim prihodima i taksama",
+   "url": "https://www.sluzbenilist.ba/page/akt/sblgztz5k76kjn45hD1GUjx4=",
+   "versions": [
+    {
+     "from": "2023-03-04",
+     "units": 13,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/sblgztz5k76kjn45hD1GUjx4=",
+     "sha256": "487231bb0a183a60e97df49683bfad80ba27f6ccd40c66d86c78a6de7e53c7f2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg016-941930",
+   "path": "pravilnik/2023/sg016-941930",
+   "short": "Pravilnik o izmjeni pravilnika o uslovima i postupku redukcije ispita za sticanje zvanja u računovodstvenoj profesiji u bosni i hercegovini",
+   "title": "Pravilnik o izmjeni pravilnika o uslovima i postupku redukcije ispita za sticanje zvanja u računovodstvenoj profesiji u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/X0Wohz4nh78h774ANjP1k=",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/X0Wohz4nh78h774ANjP1k=",
+     "sha256": "1c6e505bd979908ce1d155332d6ca41729032011176503a29e84ea1af63369a4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg018-fc7c0a",
+   "path": "pravilnik/2023/sg018-fc7c0a",
+   "short": "Pravilnik o prikupljanju, sravnjenju, raspodjeli prihoda i izvještavanju o prihodima za koje je odgovorna uprava za indirektno oporezivanje",
+   "title": "Pravilnik o prikupljanju, sravnjenju, raspodjeli prihoda i izvještavanju o prihodima za koje je odgovorna uprava za indirektno oporezivanje",
+   "url": "https://www.sluzbenilist.ba/page/akt/SPYV6Ivzkf0=",
+   "versions": [
+    {
+     "from": "2023-03-25",
+     "units": 39,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/SPYV6Ivzkf0=",
+     "sha256": "c9313a3aedcfc793da2cb2c21ebf0dc5b3f5cb1f5260a3cea69564fcce012773"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg020-a5cffb",
+   "path": "pravilnik/2023/sg020-a5cffb",
+   "short": "Pravilnik o izmjenama i dopunama pravilnika o aerodromima",
+   "title": "Pravilnik o izmjenama i dopunama pravilnika o aerodromima",
+   "url": "https://www.sluzbenilist.ba/page/akt/HMNDHzHu14I=",
+   "versions": [
+    {
+     "from": "2023-04-01",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/HMNDHzHu14I=",
+     "sha256": "800fa4dc8f326b54552adb39d5d8f09036569471c66b08afcb289d5aa7078d4f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg020-a606fe",
+   "path": "pravilnik/2023/sg020-a606fe",
+   "short": "Pravilnik o izmjenama i dopunama pravilnika o spasilačko-vatrogasnoj službi na aerodromu",
+   "title": "Pravilnik o izmjenama i dopunama pravilnika o spasilačko-vatrogasnoj službi na aerodromu",
+   "url": "https://www.sluzbenilist.ba/page/akt/U6c4u2Re47Y=",
+   "versions": [
+    {
+     "from": "2023-04-01",
+     "units": 13,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/U6c4u2Re47Y=",
+     "sha256": "40d522a5c3baf67f945fd74e13fbdba39378928669df53d6230a2f8413ce697d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg022-35477c",
+   "path": "pravilnik/2023/sg022-35477c",
+   "short": "Pravilnik o načinu provođenja javnog konkursa za izbor domaćih i međunarodnih stručnjaka za ocjenjivanje i reviziju kvaliteta i davanje preporuka o akreditaciji visokoškolskih ustanova i studijskih programa",
+   "title": "Pravilnik o načinu provođenja javnog konkursa za izbor domaćih i međunarodnih stručnjaka za ocjenjivanje i reviziju kvaliteta i davanje preporuka o akreditaciji visokoškolskih ustanova i studijskih programa",
+   "url": "https://www.sluzbenilist.ba/page/akt/ja3obdUVrxk=",
+   "versions": [
+    {
+     "from": "2023-04-08",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/ja3obdUVrxk=",
+     "sha256": "fc3c262840cb6d1a97bf399a5f6e7be0f1f860c40f10e8164889d8019c3aae7e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg023-74274a",
+   "path": "pravilnik/2023/sg023-74274a",
+   "short": "Pravilnik o ocjenjivanju poznavanja stranih jezika u ministarstvu odbrane i oružanim snagama Bosne i Hercegovine",
+   "title": "Pravilnik o ocjenjivanju poznavanja stranih jezika u ministarstvu odbrane i oružanim snagama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/Csohz4nh78h774lNwi2dI=",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 28,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/Csohz4nh78h774lNwi2dI=",
+     "sha256": "675b278a80671a84a566a228a42d4e28925da9d08a6d98c7837d85be326cf133"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg024-94111f",
+   "path": "pravilnik/2023/sg024-94111f",
+   "short": "Pravilnik o čaju, biljnom čaju, voćnom čaju i instant čaju",
+   "title": "Pravilnik o čaju, biljnom čaju, voćnom čaju i instant čaju",
+   "url": "https://www.sluzbenilist.ba/page/akt/gUUugztz5k76kjn45hgNwY5Q=",
+   "versions": [
+    {
+     "from": "2023-04-15",
+     "units": 25,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/gUUugztz5k76kjn45hgNwY5Q=",
+     "sha256": "e36fddabd43cf8fb28e6e85bf32e6b3bac2ef0f5a89d7e656cac59e94185dffb"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg031-1d74bc",
+   "path": "pravilnik/2023/sg031-1d74bc",
+   "short": "Pravilnik o izmjenama i dopunama pravilnika o obuci službenika za javne nabavke",
+   "title": "Pravilnik o izmjenama i dopunama pravilnika o obuci službenika za javne nabavke",
+   "url": "https://www.sluzbenilist.ba/page/akt/UFgztz5k76kjn45hODZiwzCU=",
+   "versions": [
+    {
+     "from": "2023-05-13",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/UFgztz5k76kjn45hODZiwzCU=",
+     "sha256": "222c10f0ccf407ae06f72e7a473c480576cd71d030f7a80bc840ea6c6aa1328c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg031-fc66ff",
+   "path": "pravilnik/2023/sg031-fc66ff",
+   "short": "Pravilnik o pružanju usluga opsluživanja na zemlji na aerodromima",
+   "title": "Pravilnik o pružanju usluga opsluživanja na zemlji na aerodromima",
+   "url": "https://www.sluzbenilist.ba/page/akt/zGRHQZmo0hg=",
+   "versions": [
+    {
+     "from": "2023-05-13",
+     "units": 61,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/zGRHQZmo0hg=",
+     "sha256": "b3a10c318d31fb3af468f6fd63a1c1e54098c2970025284435bf33f20abd207f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg034-40732b",
+   "path": "pravilnik/2023/sg034-40732b",
+   "short": "Pravilnik o unaprjeđenju vojnih lica",
+   "title": "Pravilnik o unaprjeđenju vojnih lica",
+   "url": "https://www.sluzbenilist.ba/page/akt/MyjlybkfnX0=",
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 51,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/MyjlybkfnX0=",
+     "sha256": "82fc520d1c99f7886e6c79342bfdc56f33d6b7affa42704356a252d062f5908d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg038-222ae8",
+   "path": "pravilnik/2023/sg038-222ae8",
+   "short": "Pravilnik o dopuni pravilnika o karakteru i sadržaju konkursa, načinu provođenja intervjua i obrascima za provođenje intervjua",
+   "title": "Pravilnik o dopuni pravilnika o karakteru i sadržaju konkursa, načinu provođenja intervjua i obrascima za provođenje intervjua",
+   "url": "https://www.sluzbenilist.ba/page/akt/3UNhpFeAYic=",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/3UNhpFeAYic=",
+     "sha256": "569ea845dda05ac73cbeab1e9fb41779d127edb96aa34d056ac2ac51ba7e2da1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg038-bb413e",
+   "path": "pravilnik/2023/sg038-bb413e",
+   "short": "Pravilnik o izmjenama pravilnika o naknadama za rad u komisiji za polaganje pravosudnog ispita na nivou Bosne i Hercegovine",
+   "title": "Pravilnik o izmjenama pravilnika o naknadama za rad u komisiji za polaganje pravosudnog ispita na nivou Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/bQWWyohz4nh78h77SrLNk=",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/bQWWyohz4nh78h77SrLNk=",
+     "sha256": "c5d9d11f655198e0be2a35930a0b04d6a09d5e6716f20e7fbfebd56b91598a18"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg041-a3d0c1",
+   "path": "pravilnik/2023/sg041-a3d0c1",
+   "short": "Pravilnik o izmjenama i dopunama pravilnika o provođenju zakona o zaštiti ličnih podataka u upravi za indirektno oporezivanje",
+   "title": "Pravilnik o izmjenama i dopunama pravilnika o provođenju zakona o zaštiti ličnih podataka u upravi za indirektno oporezivanje",
+   "url": "https://www.sluzbenilist.ba/page/akt/84O2u6Vohz4nh78h77GUE=",
+   "versions": [
+    {
+     "from": "2023-06-17",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/84O2u6Vohz4nh78h77GUE=",
+     "sha256": "d6160a321e0bb45ec5ed7fd77a583770dff99a1f896df4ac8cbb79722c0b07a4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg047-3cd658",
+   "path": "pravilnik/2023/sg047-3cd658",
+   "short": "Pravilnik o izgledu policijske uniforme",
+   "title": "Pravilnik o izgledu policijske uniforme",
+   "url": "https://www.sluzbenilist.ba/page/akt/aFTohz4nh78h775NEWlKY=",
+   "versions": [
+    {
+     "from": "2023-07-15",
+     "units": 71,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/aFTohz4nh78h775NEWlKY=",
+     "sha256": "6709cc24043210df461348cc4db66d7a2d5fd6c4085eee7aef6ea4aa530491d5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg049-02081e",
+   "path": "pravilnik/2023/sg049-02081e",
+   "short": "Pravilnik o izmjenama i dopuni pravilnika o uspostavljanju i radu komisije za nabavke",
+   "title": "Pravilnik o izmjenama i dopuni pravilnika o uspostavljanju i radu komisije za nabavke",
+   "url": "https://www.sluzbenilist.ba/page/akt/WzNCEUzbyMg=",
+   "versions": [
+    {
+     "from": "2023-07-22",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/WzNCEUzbyMg=",
+     "sha256": "ceb0257cda647f44b73d794a207344b617dd17ac35d641afa3342eb2408b8ef8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg050-ddbc78",
+   "path": "pravilnik/2023/sg050-ddbc78",
+   "short": "Pravilnik o disciplinskoj i materijalnoj odgovornosti službenika u zavodu za izvršenje krivičnih sankcija, pritvora i drugih mjera Bosne i Hercegovine",
+   "title": "Pravilnik o disciplinskoj i materijalnoj odgovornosti službenika u zavodu za izvršenje krivičnih sankcija, pritvora i drugih mjera Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/zkd1qjfARMs=",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 91,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/zkd1qjfARMs=",
+     "sha256": "f7953601d50969b8a04ec67a4c8ab0eb8308f3d75b01af35fa29e9db3688140d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg051-125d61",
+   "path": "pravilnik/2023/sg051-125d61",
+   "short": "Pravilnik o izmjenama pravilnika o programu polaganja javnog ispita",
+   "title": "Pravilnik o izmjenama pravilnika o programu polaganja javnog ispita",
+   "url": "https://www.sluzbenilist.ba/page/akt/5RGTjBs5fss=",
+   "versions": [
+    {
+     "from": "2023-07-29",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/5RGTjBs5fss=",
+     "sha256": "041a47c980438dba61fc9d0bb0c441726e2ddc6375f8afabe3857eb9a7628c8e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg051-4c84f1",
+   "path": "pravilnik/2023/sg051-4c84f1",
+   "short": "Pravilnik o načinu prikupljanja podataka o predmetima diskriminacije u bosni i hercegovini",
+   "title": "Pravilnik o načinu prikupljanja podataka o predmetima diskriminacije u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/tXBohz4nh78h77fNwWnJU=",
+   "versions": [
+    {
+     "from": "2023-09-19",
+     "units": 24,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/tXBohz4nh78h77fNwWnJU=",
+     "sha256": "387cf5d68211e0c0db8fc340c8977b8a61b006b42a267c1b367b77db19c69efd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg051-a148f5",
+   "path": "pravilnik/2023/sg051-a148f5",
+   "short": "Pravilnik o izmjenama i dopunama pravilnika o uvjetima koje mora da ispunjava centar za obuku zrakoplovnog stručnog osoblja na aerodromu",
+   "title": "Pravilnik o izmjenama i dopunama pravilnika o uvjetima koje mora da ispunjava centar za obuku zrakoplovnog stručnog osoblja na aerodromu",
+   "url": "https://www.sluzbenilist.ba/page/akt/6OB5dPZ2J54=",
+   "versions": [
+    {
+     "from": "2023-07-29",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/6OB5dPZ2J54=",
+     "sha256": "c9bf153a7a9a90612d8b6ff6da6f5688b763ae438bb16a89b4462f33196c0b9b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg062-9a14b6",
+   "path": "pravilnik/2023/sg062-9a14b6",
+   "short": "Pravilnik o dopuni pravilnika o primjeni zakona o porezu na dodanu vrijednost",
+   "title": "Pravilnik o dopuni pravilnika o primjeni zakona o porezu na dodanu vrijednost",
+   "url": "https://www.sluzbenilist.ba/page/akt/9iIARYxU3gztz5k76kjn45hQ=",
+   "versions": [
+    {
+     "from": "2023-09-16",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/9iIARYxU3gztz5k76kjn45hQ=",
+     "sha256": "83d73fe64eaf2f565092670333e7eecd4d0f13e26aa638682b2e013ac55b6323"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg065-f677ff",
+   "path": "pravilnik/2023/sg065-f677ff",
+   "short": "Pravilnik o finansiranju istraživanja, razvoja i unapređenja sistema javnih nabavki u bosni i hercegovini",
+   "title": "Pravilnik o finansiranju istraživanja, razvoja i unapređenja sistema javnih nabavki u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/AXXK0ohz4nh78h77CGvdA=",
+   "versions": [
+    {
+     "from": "2023-09-30",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/AXXK0ohz4nh78h77CGvdA=",
+     "sha256": "d2d0fcef0ee75fe5a5f0b9b84b90a7389d4444448c9e7fde2ed68e881ce8209f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg068-90cfdb",
+   "path": "pravilnik/2023/sg068-90cfdb",
+   "short": "Pravilnik o izmjeni pravilnika o plaćama, dodacima i naknadama osoblja u diplomatsko-konzularnim predstavništvima Bosne i Hercegovine",
+   "title": "Pravilnik o izmjeni pravilnika o plaćama, dodacima i naknadama osoblja u diplomatsko-konzularnim predstavništvima Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/YZqI5tClNEc=",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/YZqI5tClNEc=",
+     "sha256": "75f29cb9f60f9f2b40e6927e0c100bf9e055f76833696417967b914e54700e6a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg068-cff48e",
+   "path": "pravilnik/2023/sg068-cff48e",
+   "short": "Pravilnik o ravnopravnosti spolova u ministarstvu odbrane Bosne i Hercegovine i oružanim snagama Bosne i Hercegovine",
+   "title": "Pravilnik o ravnopravnosti spolova u ministarstvu odbrane Bosne i Hercegovine i oružanim snagama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/54UDyuRoFo0=",
+   "versions": [
+    {
+     "from": "2023-08-28",
+     "units": 41,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/54UDyuRoFo0=",
+     "sha256": "b1f5758c240316e1e9ce640f6cb42f2848270285e2309e60d2f76e2ab0cd2e23"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg070-6a0d4b",
+   "path": "pravilnik/2023/sg070-6a0d4b",
+   "short": "Pravilnik o dopuni pravilnika o korištenju telefona",
+   "title": "Pravilnik o dopuni pravilnika o korištenju telefona",
+   "url": "https://www.sluzbenilist.ba/page/akt/Tl5EjKAy6O8=",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/Tl5EjKAy6O8=",
+     "sha256": "c2f499ee7a903622313a6d8df272818f5268532e988b3fc6e1727596a3253002"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg070-ac8c70",
+   "path": "pravilnik/2023/sg070-ac8c70",
+   "short": "Pravilnik o sigurnosti putnog saobraćaja u ministarstvu odbrane i oružanim snagama Bosne i Hercegovine",
+   "title": "Pravilnik o sigurnosti putnog saobraćaja u ministarstvu odbrane i oružanim snagama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/tifUFRxdkOI=",
+   "versions": [
+    {
+     "from": "2023-09-08",
+     "units": 145,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/tifUFRxdkOI=",
+     "sha256": "7c6dae83ca0b2f20d6d36caff8fd1390a00409419e14e52e227e446c6ce4cf1e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg071-05991f",
+   "path": "pravilnik/2023/sg071-05991f",
+   "short": "Pravilnik o mjeriteljskim uslovima za mjerne boce",
+   "title": "Pravilnik o mjeriteljskim uslovima za mjerne boce",
+   "url": "https://www.sluzbenilist.ba/page/akt/7sPConVCl3s=",
+   "versions": [
+    {
+     "from": "2023-10-21",
+     "units": 20,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/7sPConVCl3s=",
+     "sha256": "5cb36ab4a868ed300331c2d998bdf8739e548c86482067c7edfba7e5af05fb8d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg071-4b71cf",
+   "path": "pravilnik/2023/sg071-4b71cf",
+   "short": "Pravilnik o mjeriteljskim uslovima za elektronske mjerače gustine oscilacijskog tipa",
+   "title": "Pravilnik o mjeriteljskim uslovima za elektronske mjerače gustine oscilacijskog tipa",
+   "url": "https://www.sluzbenilist.ba/page/akt/6E5w0SPjNxg=",
+   "versions": [
+    {
+     "from": "2023-10-21",
+     "units": 32,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/6E5w0SPjNxg=",
+     "sha256": "454d991a05f752af12a8f9fe1b9374e6bff4952f301eb02d8bce66bbb65afd5a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg071-51acd8",
+   "path": "pravilnik/2023/sg071-51acd8",
+   "short": "Pravilnik o mjeriteljskim uslovima za statička mjerila reaktivne električne energije",
+   "title": "Pravilnik o mjeriteljskim uslovima za statička mjerila reaktivne električne energije",
+   "url": "https://www.sluzbenilist.ba/page/akt/ohz4nh78h77yzBsZW5T7I=",
+   "versions": [
+    {
+     "from": "2023-10-21",
+     "units": 18,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/ohz4nh78h77yzBsZW5T7I=",
+     "sha256": "a4bbbdacbe1da7296db151c04d54ae54b9082f8fbbce7c963692f2d7e4fa421b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg071-6f2b26",
+   "path": "pravilnik/2023/sg071-6f2b26",
+   "short": "Pravilnik o mjeriteljskim uslovima za manometre za pneumatike",
+   "title": "Pravilnik o mjeriteljskim uslovima za manometre za pneumatike",
+   "url": "https://www.sluzbenilist.ba/page/akt/hJhFqmpsLS0=",
+   "versions": [
+    {
+     "from": "2023-10-21",
+     "units": 32,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/hJhFqmpsLS0=",
+     "sha256": "68bc9887172fa3d1ca21f9cb3a56fd1382809b8c630ac9ec36de67f6c35000f7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg071-7f3c11",
+   "path": "pravilnik/2023/sg071-7f3c11",
+   "short": "Pravilnik o mjeriteljskim uslovima za mjerila mase vage za građevinske svrhe",
+   "title": "Pravilnik o mjeriteljskim uslovima za mjerila mase vage za građevinske svrhe",
+   "url": "https://www.sluzbenilist.ba/page/akt/pQkh5Y45zmE=",
+   "versions": [
+    {
+     "from": "2023-10-21",
+     "units": 17,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/pQkh5Y45zmE=",
+     "sha256": "03d7397b767ddce51394ce0750a9b5dbbd842efed73a9f79ab54dd03efcfa06f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg071-8eeafb",
+   "path": "pravilnik/2023/sg071-8eeafb",
+   "short": "Pravilnik o mjernim transformatorima koji se koriste za obračun električne energije",
+   "title": "Pravilnik o mjernim transformatorima koji se koriste za obračun električne energije",
+   "url": "https://www.sluzbenilist.ba/page/akt/ri1Cmohz4nh78h77gdgztz5k76kjn45h6M=",
+   "versions": [
+    {
+     "from": "2023-10-21",
+     "units": 17,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/ri1Cmohz4nh78h77gdgztz5k76kjn45h6M=",
+     "sha256": "538fe0e213492950187db1dd5d4b40184ca153c5f48498133a41cf827da53f57"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg071-ac0120",
+   "path": "pravilnik/2023/sg071-ac0120",
+   "short": "Pravilnik o mjeriteljskim uslovima za mjerila krvnog pritiska sfigmomanometri",
+   "title": "Pravilnik o mjeriteljskim uslovima za mjerila krvnog pritiska sfigmomanometri",
+   "url": "https://www.sluzbenilist.ba/page/akt/NqsMSC5mVxA=",
+   "versions": [
+    {
+     "from": "2023-10-21",
+     "units": 31,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/NqsMSC5mVxA=",
+     "sha256": "d5cec77c632d6ca349589580b261698ff81590229deaf11b2eebeb0d57b84118"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg071-b2c0af",
+   "path": "pravilnik/2023/sg071-b2c0af",
+   "short": "Pravilnik o mjeriteljskim uslovima za etilometre",
+   "title": "Pravilnik o mjeriteljskim uslovima za etilometre",
+   "url": "https://www.sluzbenilist.ba/page/akt/5Wb9kuohz4nh78h77KeNI=",
+   "versions": [
+    {
+     "from": "2023-10-21",
+     "units": 48,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/5Wb9kuohz4nh78h77KeNI=",
+     "sha256": "4854d456a49f2871b6c002857c031e8e0a0832a2db37900208f1c96412c05359"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg071-c35bd1",
+   "path": "pravilnik/2023/sg071-c35bd1",
+   "short": "Pravilnik o mjeriteljskim uslovima za automatska mjerila nivoa tečnosti u nepokretnim rezervoarima",
+   "title": "Pravilnik o mjeriteljskim uslovima za automatska mjerila nivoa tečnosti u nepokretnim rezervoarima",
+   "url": "https://www.sluzbenilist.ba/page/akt/B0GbrUnXJts=",
+   "versions": [
+    {
+     "from": "2023-10-21",
+     "units": 30,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/B0GbrUnXJts=",
+     "sha256": "cdfa7d3e9907a29256186045acbb9e2b30ebf052175ca9c9b1d8692f8a3ccb2f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg071-d3d349",
+   "path": "pravilnik/2023/sg071-d3d349",
+   "short": "Pravilnik o mjeriteljskim uslovima za tegove",
+   "title": "Pravilnik o mjeriteljskim uslovima za tegove",
+   "url": "https://www.sluzbenilist.ba/page/akt/kdAmEkye5OE=",
+   "versions": [
+    {
+     "from": "2023-10-21",
+     "units": 26,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/kdAmEkye5OE=",
+     "sha256": "7e30a0538981cb3a3346f0ae73184aa28790ba572b4b358d6b4e58a8462afd07"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg071-fbc7da",
+   "path": "pravilnik/2023/sg071-fbc7da",
+   "short": "Pravilnik o mjeriteljskim uslovima za mjerne sisteme za mjerenje mase komprimiranih gasovitih goriva za vozila",
+   "title": "Pravilnik o mjeriteljskim uslovima za mjerne sisteme za mjerenje mase komprimiranih gasovitih goriva za vozila",
+   "url": "https://www.sluzbenilist.ba/page/akt/3JzXIdyZX8U=",
+   "versions": [
+    {
+     "from": "2023-10-21",
+     "units": 22,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/3JzXIdyZX8U=",
+     "sha256": "ab79b132061b9d655e5b5a6492c71566e99c39336df23ddca2827ca326587e59"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2023-sg080-678e84",
    "path": "pravilnik/2023/sg080-678e84",
    "short": "Pravilnik o uslovima i načinu korištenja e-aukcije",
@@ -2758,6 +3373,66 @@
      "units": 15,
      "source_url": "https://www.sluzbenilist.ba/page/akt/IdLowgF1MSo=",
      "sha256": "4863becac28abef15b2fc4f3d1c9f27614da8e313a353eac720c242b7c4939e9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg084-1fcb7a",
+   "path": "pravilnik/2023/sg084-1fcb7a",
+   "short": "Pravilnik o pružanju usluga u zračnoj plovidbi u jedinstvenom evropskom nebu",
+   "title": "Pravilnik o pružanju usluga u zračnoj plovidbi u jedinstvenom evropskom nebu",
+   "url": "https://www.sluzbenilist.ba/page/akt/yOLmj6cG1T0=",
+   "versions": [
+    {
+     "from": "2023-12-23",
+     "units": 25,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/yOLmj6cG1T0=",
+     "sha256": "cbc32e06a42535f19dc764a3898cfadbcfc3362386a805a9f1263acba587469e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg084-e3eda4",
+   "path": "pravilnik/2023/sg084-e3eda4",
+   "short": "Pravilnik o izmjenama i dopunama pravilnika o uslovima nabavke i načinu korištenja službenih vozila u institucijama Bosne i Hercegovine",
+   "title": "Pravilnik o izmjenama i dopunama pravilnika o uslovima nabavke i načinu korištenja službenih vozila u institucijama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/ohz4nh78h774Z7pdngRNU=",
+   "versions": [
+    {
+     "from": "2023-11-09",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/ohz4nh78h774Z7pdngRNU=",
+     "sha256": "d3dab5b6b314c014f486281ed94ae6b0759d386d3a9dc2d3645a295d32ae7a5d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg085-4a0ac2",
+   "path": "pravilnik/2023/sg085-4a0ac2",
+   "short": "Pravilnik o dopuni pravilnika o korištenju telefona",
+   "title": "Pravilnik o dopuni pravilnika o korištenju telefona",
+   "url": "https://www.sluzbenilist.ba/page/akt/8CPX27SEd4k=",
+   "versions": [
+    {
+     "from": "2023-11-09",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/8CPX27SEd4k=",
+     "sha256": "f7be9f7f8f8483682aa8e0b01a59f3e90a24badcbd47e0417848bae64e170873"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sg086-289473",
+   "path": "pravilnik/2023/sg086-289473",
+   "short": "Pravilnik o organizaciji i korištenju zračnog prostora u jedinstvenom evropskom nebu",
+   "title": "Pravilnik o organizaciji i korištenju zračnog prostora u jedinstvenom evropskom nebu",
+   "url": "https://www.sluzbenilist.ba/page/akt/j5OyYYm38JM=",
+   "versions": [
+    {
+     "from": "2023-12-30",
+     "units": 15,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/j5OyYYm38JM=",
+     "sha256": "7b0746f8b57e9bdde9655cc9f60a17f18f96ec969170d9807572701fe2d5ea0c"
     }
    ]
   },
@@ -2777,6 +3452,21 @@
    ]
   },
   {
+   "slug": "pravilnik-2023-sg088-e6edbb",
+   "path": "pravilnik/2023/sg088-e6edbb",
+   "short": "Pravilnik o utvrđivanju pravila za fleksibilno korištenje zračnog prostora",
+   "title": "Pravilnik o utvrđivanju pravila za fleksibilno korištenje zračnog prostora",
+   "url": "https://www.sluzbenilist.ba/page/akt/MsKE94aeGqY=",
+   "versions": [
+    {
+     "from": "2024-01-06",
+     "units": 13,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/MsKE94aeGqY=",
+     "sha256": "13fdf581347e9ae148ebe7743edb9660248b364e07e8fc2868f8d8152934e66b"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2024-sg003-29c007",
    "path": "pravilnik/2024/sg003-29c007",
    "short": "Pravilnik o dopunama pravilnika o orijentacionim mjerilima za rad tužilaca u tužilaštvima u bosni i hercegovini",
@@ -2792,6 +3482,51 @@
    ]
   },
   {
+   "slug": "pravilnik-2024-sg004-192b23",
+   "path": "pravilnik/2024/sg004-192b23",
+   "short": "Pravilnik o izmjeni i dopuni pravilnika o korištenјu sredstava za reprezentaciju",
+   "title": "Pravilnik o izmjeni i dopuni pravilnika o korištenјu sredstava za reprezentaciju",
+   "url": "https://www.sluzbenilist.ba/page/akt/yCaLYgztz5k76kjn45hgztz5k76kjn45hgztz5k76kjn45hDi8=",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/yCaLYgztz5k76kjn45hgztz5k76kjn45hgztz5k76kjn45hDi8=",
+     "sha256": "48ed78c0ac733664761670c84551e6b4d250e7e4b62741373b501fc240510d70"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-sg006-2db752",
+   "path": "pravilnik/2024/sg006-2db752",
+   "short": "Pravilnik o ocjenjivanju profesionalnih vojnih lica",
+   "title": "Pravilnik o ocjenjivanju profesionalnih vojnih lica",
+   "url": "https://www.sluzbenilist.ba/page/akt/JkAN3ea97nQ=",
+   "versions": [
+    {
+     "from": "2024-02-03",
+     "units": 44,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/JkAN3ea97nQ=",
+     "sha256": "2dc4069d3a69956da001019c9cf6b0d84e762bfaee9aa8bde7dd1126efd77e91"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-sg009-33ade2",
+   "path": "pravilnik/2024/sg009-33ade2",
+   "short": "Pravilnik o izmjenama pravilnika za provođenje aktivnosti odnosa s javnošću",
+   "title": "Pravilnik o izmjenama pravilnika za provođenje aktivnosti odnosa s javnošću",
+   "url": "https://www.sluzbenilist.ba/page/akt/hRyjgztz5k76kjn45hWmBgN8=",
+   "versions": [
+    {
+     "from": "2024-01-17",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/hRyjgztz5k76kjn45hWmBgN8=",
+     "sha256": "3b4bf4d44d94737c974216b0604730cc9be7f9c8071f26d99b95941d6f762585"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2024-sg015-8907f9",
    "path": "pravilnik/2024/sg015-8907f9",
    "short": "Pravilnik o korištenju europskog registra vozila",
@@ -2803,6 +3538,21 @@
      "units": 9,
      "source_url": "https://www.sluzbenilist.ba/page/akt/7xdRwKelngztz5k76kjn45hI=",
      "sha256": "b94a063ebc759f2d6ecee7fa4e62e18f6acb227d17aa3bbf6bc8f5b707593ab1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-sg018-654574",
+   "path": "pravilnik/2024/sg018-654574",
+   "short": "Pravilnik o izmjenama pravilnika o prijemu u vojnu službu",
+   "title": "Pravilnik o izmjenama pravilnika o prijemu u vojnu službu",
+   "url": "https://www.sluzbenilist.ba/page/akt/Joohz4nh78h779GFtYrzw=",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/Joohz4nh78h779GFtYrzw=",
+     "sha256": "c3ce96647e9e557702e2ca441253691e6da3b862a8e06b60d29823f2cd266449"
     }
    ]
   },
@@ -2882,6 +3632,21 @@
    ]
   },
   {
+   "slug": "pravilnik-2024-sg025-fdf6ab",
+   "path": "pravilnik/2024/sg025-fdf6ab",
+   "short": "Pravilnik o zajedničkim pravilima za dodjelu slotova i usklađivanje redova letenja na aerodromima",
+   "title": "Pravilnik o zajedničkim pravilima za dodjelu slotova i usklađivanje redova letenja na aerodromima",
+   "url": "https://www.sluzbenilist.ba/page/akt/QIN7DQ2uT0c=",
+   "versions": [
+    {
+     "from": "2024-04-20",
+     "units": 21,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/QIN7DQ2uT0c=",
+     "sha256": "0fb525beffae587a3c41062e146726ba3bbc210f8930ea3ee67bfe73d3ad8c03"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2024-sg028-f232a6",
    "path": "pravilnik/2024/sg028-f232a6",
    "short": "Pravilnik o izmjeni i dopuni pravilnika o mjerama za nadzor afričke svinjske kuge",
@@ -2927,6 +3692,51 @@
    ]
   },
   {
+   "slug": "pravilnik-2024-sg031-0b8081",
+   "path": "pravilnik/2024/sg031-0b8081",
+   "short": "Pravilnik o prijavi i uvjetima za ovjeru političkog subjekta za učešće na lokalnim izborima 2024. godine",
+   "title": "Pravilnik o prijavi i uvjetima za ovjeru političkog subjekta za učešće na lokalnim izborima 2024. godine",
+   "url": "https://www.sluzbenilist.ba/page/akt/JNLPmOPX1FE=",
+   "versions": [
+    {
+     "from": "2024-05-03",
+     "units": 15,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/JNLPmOPX1FE=",
+     "sha256": "8d6e0e0a82265dbcbb9d24d69303cc97a45b44eb4262cc6d352b5182d673e4d3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-sg031-13c3ff",
+   "path": "pravilnik/2024/sg031-13c3ff",
+   "short": "Pravilnik o predizbornim i postizbornim finansijskim izvještajima i izvještajima o prometu posebnog računa za finansiranje izborne kampanje političkih stranaka",
+   "title": "Pravilnik o predizbornim i postizbornim finansijskim izvještajima i izvještajima o prometu posebnog računa za finansiranje izborne kampanje političkih stranaka",
+   "url": "https://www.sluzbenilist.ba/page/akt/ct4mjYhR51U=",
+   "versions": [
+    {
+     "from": "2024-05-03",
+     "units": 20,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/ct4mjYhR51U=",
+     "sha256": "8a802a517b3ff14ac62151f140cdd0b2e77481da40100b5f611217142d3e6747"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-sg031-4c4291",
+   "path": "pravilnik/2024/sg031-4c4291",
+   "short": "Pravilnik o medijskom predstavljanju i javnom oglašavanju političkih subjekata u izbornom periodu",
+   "title": "Pravilnik o medijskom predstavljanju i javnom oglašavanju političkih subjekata u izbornom periodu",
+   "url": "https://www.sluzbenilist.ba/page/akt/9aFBQFir2p8=",
+   "versions": [
+    {
+     "from": "2024-05-03",
+     "units": 27,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/9aFBQFir2p8=",
+     "sha256": "9300874fcb1de944ac10b33865a0ff898e033729e99b046dec5f1a60609f5a04"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2024-sg031-51709c",
    "path": "pravilnik/2024/sg031-51709c",
    "short": "Pravilnik o službenoj legitimaciji državnih službenika u službi za reviziju finansiranja političkih stranaka",
@@ -2938,6 +3748,36 @@
      "units": 13,
      "source_url": "https://www.sluzbenilist.ba/page/akt/jvMHWhC6CTk=",
      "sha256": "7a900ca05db3249594233fc9d56c533510c4c05b4eb1e2b2abcd51ccd03030d9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-sg031-776d7e",
+   "path": "pravilnik/2024/sg031-776d7e",
+   "short": "Pravilnik o predizbornim i postizbornim finansijskim izvještajima i izvještajima o prometu posebnog računa za finansiranje izborne kampanje nezavisnih kandidata",
+   "title": "Pravilnik o predizbornim i postizbornim finansijskim izvještajima i izvještajima o prometu posebnog računa za finansiranje izborne kampanje nezavisnih kandidata",
+   "url": "https://www.sluzbenilist.ba/page/akt/w2Wr7lEDjGw=",
+   "versions": [
+    {
+     "from": "2024-05-03",
+     "units": 36,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/w2Wr7lEDjGw=",
+     "sha256": "174f41aaba3c8346bfaddb1788287846692f1518b8bd633daa2a33d10df60eb4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-sg031-b71ef6",
+   "path": "pravilnik/2024/sg031-b71ef6",
+   "short": "Pravilnik o izmjenama i dopunama pravilnika o godišnjim finansijskim izvještajima političkih stranaka",
+   "title": "Pravilnik o izmjenama i dopunama pravilnika o godišnjim finansijskim izvještajima političkih stranaka",
+   "url": "https://www.sluzbenilist.ba/page/akt/GCjrG5LQYs4=",
+   "versions": [
+    {
+     "from": "2024-05-03",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/GCjrG5LQYs4=",
+     "sha256": "2b0424ce37fd41fb5c67898fed916d936f03e0e281d47d8c24234a98d9e6c3d4"
     }
    ]
   },
@@ -2957,6 +3797,21 @@
    ]
   },
   {
+   "slug": "pravilnik-2024-sg043-70ae4e",
+   "path": "pravilnik/2024/sg043-70ae4e",
+   "short": "Pravilnik o izmjenama pravilnika o provođenju izbora u bosni i hercegovini",
+   "title": "Pravilnik o izmjenama pravilnika o provođenju izbora u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/JfMwSecaQiU=",
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/JfMwSecaQiU=",
+     "sha256": "768fad04238e867f2913782e67c4827ecd7037da93e9b41e56e5df3d4af58791"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2024-sg044-1b35b0",
    "path": "pravilnik/2024/sg044-1b35b0",
    "short": "Pravilnik o izmjenama i dopunama pravilnika o postupanju prilikom izdavanja vize za kratkoročni boravak (viza c) i aerodromske tranzitne vize (viza a) u diplomatsko-konzularnim predstavništvima Bosne i Hercegovine",
@@ -2968,6 +3823,21 @@
      "units": 19,
      "source_url": "https://www.sluzbenilist.ba/page/akt/esCpNQBv1YE=",
      "sha256": "b6ddf010cdfa6435a0f018796568e862b1e282b85547658ab331abf99c5bd449"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-sg048-eec44c",
+   "path": "pravilnik/2024/sg048-eec44c",
+   "short": "Pravilnik o dopuni pravilnika o plaćama, dodacima i naknadama osoblja u diplomatsko-konzularnim predstavništvima Bosne i Hercegovine",
+   "title": "Pravilnik o dopuni pravilnika o plaćama, dodacima i naknadama osoblja u diplomatsko-konzularnim predstavništvima Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/uMYfEto0XwE=",
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/uMYfEto0XwE=",
+     "sha256": "3007862180c4fb872fea5463ba478206a386f4465145b4c0119aa98d6c711cac"
     }
    ]
   },
@@ -3047,6 +3917,21 @@
    ]
   },
   {
+   "slug": "pravilnik-2024-sg061-52ab51",
+   "path": "pravilnik/2024/sg061-52ab51",
+   "short": "Pravilnik o načinu provođenja pilot projekta 3 - biometrijska identifikacija i autentifikacija birača za lokalne izbore 2024. godine na području brčko distrikta bih",
+   "title": "Pravilnik o načinu provođenja pilot projekta 3 - biometrijska identifikacija i autentifikacija birača za lokalne izbore 2024. godine na području brčko distrikta bih",
+   "url": "https://www.sluzbenilist.ba/page/akt/bM45gXgztz5k76kjn45hBDfM=",
+   "versions": [
+    {
+     "from": "2024-09-02",
+     "units": 30,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/bM45gXgztz5k76kjn45hBDfM=",
+     "sha256": "2b591bdf55864293e1e8e6388df780dacb17951b2d1d98b630137955f7264e69"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2024-sg068-3dc8cd",
    "path": "pravilnik/2024/sg068-3dc8cd",
    "short": "Pravilnik o izmjenama pravilnika o naknadi putnih troškova za službena putovanja sudija, tužilaca i određenih kategorija stručnog osoblja u sudskim i pravosudnim institucijama na nivou Bosne i Hercegovine",
@@ -3103,6 +3988,21 @@
      "units": 7,
      "source_url": "https://www.sluzbenilist.ba/page/akt/dyJKZyE5D7Y=",
      "sha256": "916a52749214df76652f92bf0f35567a0ff17fc1db10cb58b6bc07be19bd285d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-sg080-e34412",
+   "path": "pravilnik/2024/sg080-e34412",
+   "short": "Pravilnik o provođenju postupka predlaganja kandidata za sudije i predsjednika ustavnog suda republike srpske i sudije ustavnog suda federacije Bosne i Hercegovine",
+   "title": "Pravilnik o provođenju postupka predlaganja kandidata za sudije i predsjednika ustavnog suda republike srpske i sudije ustavnog suda federacije Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/QvGzrbsjLvc=",
+   "versions": [
+    {
+     "from": "2024-11-30",
+     "units": 13,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/QvGzrbsjLvc=",
+     "sha256": "fc5cb146103603578f29b881c6d3702a51fc61ce18753883d7c032a1a55c0335"
     }
    ]
   },
@@ -3272,6 +4172,21 @@
    ]
   },
   {
+   "slug": "pravilnik-2025-sg024-f91675",
+   "path": "pravilnik/2025/sg024-f91675",
+   "short": "Pravilnik o sprečavanju i zaštiti od diskriminacije u ministarstvu za ljudska prava i izbjeglice Bosne i Hercegovine",
+   "title": "Pravilnik o sprečavanju i zaštiti od diskriminacije u ministarstvu za ljudska prava i izbjeglice Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/29LcBW6Ox1g=",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 25,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/29LcBW6Ox1g=",
+     "sha256": "9cc2d38aaffa41948b56a50dd6eed837295419a0fa6cc10ad0c8b3f7705d8ca1"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2025-sg025-2f995c",
    "path": "pravilnik/2025/sg025-2f995c",
    "short": "Pravilnik o izmjenama i dopunama pravilnika o primjeni zakona o porezu na dodanu vrijednost",
@@ -3343,6 +4258,21 @@
      "units": 12,
      "source_url": "https://www.sluzbenilist.ba/page/akt/byohz4nh78h77CfMgztz5k76kjn45hiV10=",
      "sha256": "6b4a61f0c8665e14cef0463141d57c18247d119c5aa5f1c94b6fe2a5b6fb7eaf"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-sg039-d44c97",
+   "path": "pravilnik/2025/sg039-d44c97",
+   "short": "Pravilnik o izmjeni i dopuni pravilnika o administrativnim procedurama pregleda, kontrole i revizije finansijskih izvještaja političkih stranaka",
+   "title": "Pravilnik o izmjeni i dopuni pravilnika o administrativnim procedurama pregleda, kontrole i revizije finansijskih izvještaja političkih stranaka",
+   "url": "https://www.sluzbenilist.ba/page/akt/LQjtygbmWmg=",
+   "versions": [
+    {
+     "from": "2025-06-19",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/LQjtygbmWmg=",
+     "sha256": "be8444b4ed10b562d19afac1668ebc5af885d9db20a08084a07b1039df075339"
     }
    ]
   },
@@ -3422,6 +4352,21 @@
    ]
   },
   {
+   "slug": "pravilnik-2025-sg047-c2b00a",
+   "path": "pravilnik/2025/sg047-c2b00a",
+   "short": "Pravilnik o prijemu u vojnu službu",
+   "title": "Pravilnik o prijemu u vojnu službu",
+   "url": "https://www.sluzbenilist.ba/page/akt/PT8KC5VFphM=",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 110,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/PT8KC5VFphM=",
+     "sha256": "059c147a2b52014a878a43554a035276587421f084c870160ebe9e3c99b49e2a"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2025-sg048-9fbc8f",
    "path": "pravilnik/2025/sg048-9fbc8f",
    "short": "Pravilnik o mjerilima i načinu utvrđivanja zdravstvene sposobnosti ovlaštenih zavodskih službenika",
@@ -3433,6 +4378,21 @@
      "units": 12,
      "source_url": "https://www.sluzbenilist.ba/page/akt/Ac3VAobAE28=",
      "sha256": "ac83a67d2c279758eba38a02219f7c7ebcd2b92de579c4befa009da30d21dfd1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-sg050-49a80c",
+   "path": "pravilnik/2025/sg050-49a80c",
+   "short": "Pravilnik o dopuni pravilnika o kućnom redu zavoda za izvršenje krivičnih sankcija, pritvora i drugih mjera Bosne i Hercegovine",
+   "title": "Pravilnik o dopuni pravilnika o kućnom redu zavoda za izvršenje krivičnih sankcija, pritvora i drugih mjera Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/gztz5k76kjn45hMBnMiXagp0=",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/gztz5k76kjn45hMBnMiXagp0=",
+     "sha256": "a188f77178a6a39cf2f5de6d63bcd83a9c67801370bd7791336a80199518c0b2"
     }
    ]
   },
@@ -3478,6 +4438,21 @@
      "units": 13,
      "source_url": "https://www.sluzbenilist.ba/page/akt/Hn4wYXGOrqM=",
      "sha256": "7944913bc93b35d6cdec8eb47aafa7974ceae5125417497726edb072df2e30ba"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-sg065-4a67f0",
+   "path": "pravilnik/2025/sg065-4a67f0",
+   "short": "Pravilnik o utvrđivanju baze troškova i jedinične cijene naknade za pružanje usluga u zračnoj plovidbi na ruti",
+   "title": "Pravilnik o utvrđivanju baze troškova i jedinične cijene naknade za pružanje usluga u zračnoj plovidbi na ruti",
+   "url": "https://www.sluzbenilist.ba/page/akt/fG8IxGypWHs=",
+   "versions": [
+    {
+     "from": "2025-11-08",
+     "units": 26,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/fG8IxGypWHs=",
+     "sha256": "41abf869ba68a27fb1c258b0547747b3847765233c1cdfdbd1ef4a0be920fd56"
     }
    ]
   },
@@ -3572,6 +4547,36 @@
    ]
   },
   {
+   "slug": "pravilnik-2025-sg077-b00f90",
+   "path": "pravilnik/2025/sg077-b00f90",
+   "short": "Pravilnik o rezervnom sastavu oružanih snaga Bosne i Hercegovine",
+   "title": "Pravilnik o rezervnom sastavu oružanih snaga Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/Dspohz4nh78h77A0sJxrs=",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 84,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/Dspohz4nh78h77A0sJxrs=",
+     "sha256": "691d6c6f42682e653b3521b3fd2d662942d81b468cb962d890050efe3e4d48fa"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-sg078-56ab4e",
+   "path": "pravilnik/2025/sg078-56ab4e",
+   "short": "Pravilnik o načinu prikupljanja podataka o pravima i potrebama nacionalnih manjina u bosni i hercegovini",
+   "title": "Pravilnik o načinu prikupljanja podataka o pravima i potrebama nacionalnih manjina u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/mqQxP2X7jU0=",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 12,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/mqQxP2X7jU0=",
+     "sha256": "3c48534dce475d93b4102a3871b48c6f0e11fc86b2c96c4c64846c6e3e112b10"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2025-sg079-b07625",
    "path": "pravilnik/2025/sg079-b07625",
    "short": "Pravilnik o izmjeni i dopunama pravilnika o unutrašnjem sudskom poslovanju",
@@ -3583,6 +4588,21 @@
      "units": 4,
      "source_url": "https://www.sluzbenilist.ba/page/akt/N2NzupIcqWA=",
      "sha256": "74d5836da9fdf86dbfe8e918fc1dd4479ddc909d474c9134c9788897ee10d597"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2026-sg003-2a5bcb",
+   "path": "pravilnik/2026/sg003-2a5bcb",
+   "short": "Pravilnik o dopuni pravilnika o postupku imenovanja i razrješenja biračkih odbora za lokalne izbore u bosni i hercegovini 2024. godine",
+   "title": "Pravilnik o dopuni pravilnika o postupku imenovanja i razrješenja biračkih odbora za lokalne izbore u bosni i hercegovini 2024. godine",
+   "url": "https://www.sluzbenilist.ba/page/akt/tF83Ij4FLbs=",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/tF83Ij4FLbs=",
+     "sha256": "9dd56c0d2b905fb378eebb256d4c856187adf2f14bf44afb17706ee4a48bb4b5"
     }
    ]
   },
@@ -3677,6 +4697,21 @@
    ]
   },
   {
+   "slug": "pravilnik-2026-sg013-86b377",
+   "path": "pravilnik/2026/sg013-86b377",
+   "short": "Pravilnik o upravljanju protokom zračnog prometa",
+   "title": "Pravilnik o upravljanju protokom zračnog prometa",
+   "url": "https://www.sluzbenilist.ba/page/akt/BEadH8GWse0=",
+   "versions": [
+    {
+     "from": "2026-02-28",
+     "units": 17,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/BEadH8GWse0=",
+     "sha256": "3ab02766550759c2d36863277ffdf0819a05a7abee756682701b7ed626de6e81"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2026-sg017-157b35",
    "path": "pravilnik/2026/sg017-157b35",
    "short": "Pravilnik o postavljanju i upotrebi tehničke opreme i videonadzora",
@@ -3688,6 +4723,36 @@
      "units": 21,
      "source_url": "https://www.sluzbenilist.ba/page/akt/HdYxs0D9KBw=",
      "sha256": "c9d3c9069a231f91b9f29017445ceb569ea32750da8c720e00ddb337ba54f03c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2026-sg017-201f23",
+   "path": "pravilnik/2026/sg017-201f23",
+   "short": "Pravilnik o dopuni pravilnika o načinu ostvarivanja zdravstvenog osiguranja osoba kojima je priznata međunarodna zaštita u bosni i hercegovini",
+   "title": "Pravilnik o dopuni pravilnika o načinu ostvarivanja zdravstvenog osiguranja osoba kojima je priznata međunarodna zaštita u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/0EksmkPE2ts=",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/0EksmkPE2ts=",
+     "sha256": "137177c56aa4d2a3357ca61e3a1544e2e3d30847e996f2bad1d1d6b6ebae54ca"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2026-sg020-ed766e",
+   "path": "pravilnik/2026/sg020-ed766e",
+   "short": "Pravilnik o dopunama pravilnika o plaćama, dodacima i naknadama osoblja u diplomatsko-konzularnim predstavništvima Bosne i Hercegovine",
+   "title": "Pravilnik o dopunama pravilnika o plaćama, dodacima i naknadama osoblja u diplomatsko-konzularnim predstavništvima Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/GHGKrOIBBjc=",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/GHGKrOIBBjc=",
+     "sha256": "e65d74e30bd836fd474d5472cb5db8874ebb1b2adc72a46b34d2f4acffd0a9a2"
     }
    ]
   },
@@ -3767,6 +4832,51 @@
    ]
   },
   {
+   "slug": "pravilnik-2026-sg032-60df88",
+   "path": "pravilnik/2026/sg032-60df88",
+   "short": "Pravilnik o prijavi i uvjetima za ovjeru političkog subjekta za učešće na općim izborima 2026. godine",
+   "title": "Pravilnik o prijavi i uvjetima za ovjeru političkog subjekta za učešće na općim izborima 2026. godine",
+   "url": "https://www.sluzbenilist.ba/page/akt/9PD8QuLfluE=",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 16,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/9PD8QuLfluE=",
+     "sha256": "cd792a381e0b233d07007a3d8c0f5ecc6abdcf7526499bbee1dfc28b8ab4cba8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2026-sg032-729acd",
+   "path": "pravilnik/2026/sg032-729acd",
+   "short": "Pravilnik o predizbornim i postizbornim finansijskim izvještajima i izvještajima o prometu posebnog računa za finansiranje izborne kampanje nezavisnih kandidata",
+   "title": "Pravilnik o predizbornim i postizbornim finansijskim izvještajima i izvještajima o prometu posebnog računa za finansiranje izborne kampanje nezavisnih kandidata",
+   "url": "https://www.sluzbenilist.ba/page/akt/8OopElKbOy8=",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 38,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/8OopElKbOy8=",
+     "sha256": "aeeda2087496379c39af20e55f90fbcbf541d822d5eb11ea2ea3598d8e2396af"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2026-sg032-9a86f5",
+   "path": "pravilnik/2026/sg032-9a86f5",
+   "short": "Pravilnik o dopunama pravilnika o postupku imenovanja i razrješenja predsjednika i članova biračkih odbora u bosni i hercegovni",
+   "title": "Pravilnik o dopunama pravilnika o postupku imenovanja i razrješenja predsjednika i članova biračkih odbora u bosni i hercegovni",
+   "url": "https://www.sluzbenilist.ba/page/akt/TYZUlEUiaDU=",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/TYZUlEUiaDU=",
+     "sha256": "fd72dab00e18b1ac1843025aba75061f0b38e61ea155f719cc4efb59d056fce9"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2026-sg035-031458",
    "path": "pravilnik/2026/sg035-031458",
    "short": "Pravilnik o standardima i uslovima izgradnje i opremanja graničnih prijelaza",
@@ -3793,6 +4903,21 @@
      "units": 3,
      "source_url": "https://www.sluzbenilist.ba/page/akt/sYtRAbN1J6Y=",
      "sha256": "2c3d5f750d8b8805f1e604592bc2d25bd8e0f3512c5db4fe5bc9c71db0c08d67"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2026-sg041-9e00a1",
+   "path": "pravilnik/2026/sg041-9e00a1",
+   "short": "Pravilnik o izmjenama pravilnika o postupku imenovanja i razrješenja predsjednika i članova biračkih odbora u bosni i hercegovni",
+   "title": "Pravilnik o izmjenama pravilnika o postupku imenovanja i razrješenja predsjednika i članova biračkih odbora u bosni i hercegovni",
+   "url": "https://www.sluzbenilist.ba/page/akt/nBFdzFEWwf4=",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/nBFdzFEWwf4=",
+     "sha256": "420df158e034278aca1e8c6f2ec1e3c0ba41cda8fe6d5955c203ae19fba057da"
     }
    ]
   },
@@ -3827,6 +4952,21 @@
    ]
   },
   {
+   "slug": "pravilnik-2026-sg046-478f9a",
+   "path": "pravilnik/2026/sg046-478f9a",
+   "short": "Pravilnik o zaštiti snaga od djelovanja bespilotnih letjelica/sistema",
+   "title": "Pravilnik o zaštiti snaga od djelovanja bespilotnih letjelica/sistema",
+   "url": "https://www.sluzbenilist.ba/page/akt/Snfhr8egztz5k76kjn45h5OM=",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 35,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/Snfhr8egztz5k76kjn45h5OM=",
+     "sha256": "c9c9b8b073bc0f60c3fe1815a30cd52a3dd4aa92c106ec35e99e4af2d7b209f2"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2026-sg046-7cf6bc",
    "path": "pravilnik/2026/sg046-7cf6bc",
    "short": "Pravilnik o vozačkoj dozvoli",
@@ -3857,6 +4997,21 @@
    ]
   },
   {
+   "slug": "pravilnik-2026-sg054-a9ae88",
+   "path": "pravilnik/2026/sg054-a9ae88",
+   "short": "Pravilnik o izmjenama i dopunama pravilnika o postupku imenovanja i razrješenja predsjednika i članova biračkih odbora u bosni i hercegovini",
+   "title": "Pravilnik o izmjenama i dopunama pravilnika o postupku imenovanja i razrješenja predsjednika i članova biračkih odbora u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/Xzgztz5k76kjn45hPr8BCgYc=",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 8,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/Xzgztz5k76kjn45hPr8BCgYc=",
+     "sha256": "277f34d546961288de0b8d833e95d20c5cf78a40a1b1f658b0a8c6c9fe1cfced"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2026-sg055-b6c42e",
    "path": "pravilnik/2026/sg055-b6c42e",
    "short": "Pravilnik o izmjenama i dopunama pravilnika o vođenju registra pravnih i fizičkih osoba u oblasti sporta na nivou Bosne i Hercegovine",
@@ -3868,6 +5023,36 @@
      "units": 4,
      "source_url": "https://www.sluzbenilist.ba/page/akt/2xr2oyushbE=",
      "sha256": "ce15ed5b00345145dd123ab56275c79b788c46e6139137422222cd4e982012e0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2026-sg056-ba6a25",
+   "path": "pravilnik/2026/sg056-ba6a25",
+   "short": "Pravilnik o izmjeni pravilnika o formi, sadržaju, upotrebi i izradi izvoda iz centralnog biračkog spiska",
+   "title": "Pravilnik o izmjeni pravilnika o formi, sadržaju, upotrebi i izradi izvoda iz centralnog biračkog spiska",
+   "url": "https://www.sluzbenilist.ba/page/akt/ZE7mWhTTXTs=",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/ZE7mWhTTXTs=",
+     "sha256": "c4582421c3b7f6a37b54afaad110ec8f712ff7d06b59f9c9331ae22946cec99f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2026-sg062-c609d3",
+   "path": "pravilnik/2026/sg062-c609d3",
+   "short": "Pravilnik o izmjeni pravilnika o postupku imenovanja i razrješenja predsjednika i članova biračkih odbora u bosni i hercegovini",
+   "title": "Pravilnik o izmjeni pravilnika o postupku imenovanja i razrješenja predsjednika i članova biračkih odbora u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/vr1eGC8nXPw=",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/vr1eGC8nXPw=",
+     "sha256": "0d2113197eb468964cc699985a4680e039a3fe30e16116e984aecc886e8d1162"
     }
    ]
   },
@@ -3887,6 +5072,96 @@
    ]
   },
   {
+   "slug": "uputstvo-2023-sg023-005dc8",
+   "path": "uputstvo/2023/sg023-005dc8",
+   "short": "Uputstvo o rokovima izbornih aktivnosti za održavanje prijevremenih izbora za gradonačelnika grada živinice",
+   "title": "Uputstvo o rokovima izbornih aktivnosti za održavanje prijevremenih izbora za gradonačelnika grada živinice",
+   "url": "https://www.sluzbenilist.ba/page/akt/3FVmKYJpntk=",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/3FVmKYJpntk=",
+     "sha256": "42400b6a48c561243abdf952006c51de1894728474547d63fe5ea891e85fd977"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2023-sg024-166740",
+   "path": "uputstvo/2023/sg024-166740",
+   "short": "Uputstvo o postupku nadzora koji provodi regulatorna agencija za komunikacije",
+   "title": "Uputstvo o postupku nadzora koji provodi regulatorna agencija za komunikacije",
+   "url": "https://www.sluzbenilist.ba/page/akt/tvn1GN4TDio=",
+   "versions": [
+    {
+     "from": "2023-04-15",
+     "units": 48,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/tvn1GN4TDio=",
+     "sha256": "fcff73a12018f82542bcbf8d93a2b9b891de7ef0a44626a7b80918de544e3e4d"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2023-sg048-4e919c",
+   "path": "uputstvo/2023/sg048-4e919c",
+   "short": "Uputstvo o načinu pripremanja godišnjeg programa rada i izvještaja o radu u institucijama Bosne i Hercegovine",
+   "title": "Uputstvo o načinu pripremanja godišnjeg programa rada i izvještaja o radu u institucijama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/oks5bEIxrzU=",
+   "versions": [
+    {
+     "from": "2023-07-12",
+     "units": 23,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/oks5bEIxrzU=",
+     "sha256": "43f5760862b54ab85def0769e3af6aa73f2f6127a26b9dfce2e775b089f35f14"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2023-sg049-f8ad51",
+   "path": "uputstvo/2023/sg049-f8ad51",
+   "short": "Uputstvo o podnošenju prijave za porez na dodanu vrijednost upotrebom kvalificirane elektronske potvrde",
+   "title": "Uputstvo o podnošenju prijave za porez na dodanu vrijednost upotrebom kvalificirane elektronske potvrde",
+   "url": "https://www.sluzbenilist.ba/page/akt/gztz5k76kjn45h8iyEUETCSw=",
+   "versions": [
+    {
+     "from": "2023-07-22",
+     "units": 19,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/gztz5k76kjn45h8iyEUETCSw=",
+     "sha256": "43afa974a7986ab90382ec5733db869e8cef76fd5f420e4b4fce5836b7a8f333"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2023-sg060-a27163",
+   "path": "uputstvo/2023/sg060-a27163",
+   "short": "Uputstvo o rokovima izbornih aktivnosti za održavanje prijevremenih izbora za načelnika općine stari grad sarajevo",
+   "title": "Uputstvo o rokovima izbornih aktivnosti za održavanje prijevremenih izbora za načelnika općine stari grad sarajevo",
+   "url": "https://www.sluzbenilist.ba/page/akt/Uj5X3Mohz4nh78h77PBV8=",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/Uj5X3Mohz4nh78h77PBV8=",
+     "sha256": "1bd3926bc5f0f3c52c4040072e7b49aa0fda4361822182aefc5d0fb8600f0712"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2023-sg063-3dba05",
+   "path": "uputstvo/2023/sg063-3dba05",
+   "short": "Uputstvo o načinu pristupa centralnoj elektronskoj evidenciji i razmjeni podataka o kontroli kretanja oružja i vojne opreme",
+   "title": "Uputstvo o načinu pristupa centralnoj elektronskoj evidenciji i razmjeni podataka o kontroli kretanja oružja i vojne opreme",
+   "url": "https://www.sluzbenilist.ba/page/akt/DV0PNadC0is=",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 23,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/DV0PNadC0is=",
+     "sha256": "17272e84be92638b7249c84f7c37b09f35afc310be2e3f70df2839e8d58bd9b0"
+    }
+   ]
+  },
+  {
    "slug": "uputstvo-2024-sg019-904b62",
    "path": "uputstvo/2024/sg019-904b62",
    "short": "Uputstvo o stavljanju van snage uputstva o procesu upravljanja rizicima poštivanja propisa o indirektnom oporezivanju",
@@ -3902,6 +5177,126 @@
    ]
   },
   {
+   "slug": "uputstvo-2024-sg024-bbd4a6",
+   "path": "uputstvo/2024/sg024-bbd4a6",
+   "short": "Uputstvo o izmjeni uputstva o načinu planiranja, odobravanja i realiziranja višegodišnjih projekata u institucijama Bosne i Hercegovine",
+   "title": "Uputstvo o izmjeni uputstva o načinu planiranja, odobravanja i realiziranja višegodišnjih projekata u institucijama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/wpYKbDW3m6w=",
+   "versions": [
+    {
+     "from": "2024-03-19",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/wpYKbDW3m6w=",
+     "sha256": "832872cf5f226293ea33667ccbcbd787e2aac3d42bbf6c18a9b592588bccb08a"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2024-sg031-64a904",
+   "path": "uputstvo/2024/sg031-64a904",
+   "short": "Uputstvo o izmjenama i dopunama uputstva o procedurama za rješavanje po prigovorima i žalbama podnesenim izbornim komisijama",
+   "title": "Uputstvo o izmjenama i dopunama uputstva o procedurama za rješavanje po prigovorima i žalbama podnesenim izbornim komisijama",
+   "url": "https://www.sluzbenilist.ba/page/akt/xQS5n9n5qpM=",
+   "versions": [
+    {
+     "from": "2024-05-03",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/xQS5n9n5qpM=",
+     "sha256": "58e5fd4cf37931bf88149ba1a33e08fe5871b1fa75bec0024a7ba5746d2fb2d4"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2024-sg031-810635",
+   "path": "uputstvo/2024/sg031-810635",
+   "short": "Uputstvo o dopunama uputstva o postupku provođenja posrednih izbora za organe vlasti u bosni i hercegovini obuhvaćenih izbornim zakonom Bosne i Hercegovine",
+   "title": "Uputstvo o dopunama uputstva o postupku provođenja posrednih izbora za organe vlasti u bosni i hercegovini obuhvaćenih izbornim zakonom Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/TAOApshsoS4=",
+   "versions": [
+    {
+     "from": "2024-05-03",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/TAOApshsoS4=",
+     "sha256": "f84e5714876473ad8ecef06537d0bd3c67869484aa2ed16712c0dbeb76cbee6f"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2024-sg031-e33485",
+   "path": "uputstvo/2024/sg031-e33485",
+   "short": "Uputstvo o izmjenama i dopunama uputstva o izgledu i načinu ispunjavanja obrasca izjave o imovinskom stanju",
+   "title": "Uputstvo o izmjenama i dopunama uputstva o izgledu i načinu ispunjavanja obrasca izjave o imovinskom stanju",
+   "url": "https://www.sluzbenilist.ba/page/akt/mqtuupFRohz4nh78h775I=",
+   "versions": [
+    {
+     "from": "2024-05-03",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/mqtuupFRohz4nh78h775I=",
+     "sha256": "9db03aef5856fe14cab1cac4a49507552805ffc96d96f5da6c852547a6749a5b"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2024-sg031-e80ec4",
+   "path": "uputstvo/2024/sg031-e80ec4",
+   "short": "Uputstvo o dopuni uputstva o dodjeli i prestanku mandata",
+   "title": "Uputstvo o dopuni uputstva o dodjeli i prestanku mandata",
+   "url": "https://www.sluzbenilist.ba/page/akt/S1EY23jugztz5k76kjn45hSM=",
+   "versions": [
+    {
+     "from": "2024-05-03",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/S1EY23jugztz5k76kjn45hSM=",
+     "sha256": "a14cd1a484291ee012fbbe68e2489fa5059466abf5d3cb1bca3651bb1ed8e6b4"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2024-sg031-f76821",
+   "path": "uputstvo/2024/sg031-f76821",
+   "short": "Uputstvo o rokovima i redoslijedu izbornih aktivnosti za lokalne izbore 2024. godine koji će se održati u nedjelju 06. oktobra 2024. godine",
+   "title": "Uputstvo o rokovima i redoslijedu izbornih aktivnosti za lokalne izbore 2024. godine koji će se održati u nedjelju 06. oktobra 2024. godine",
+   "url": "https://www.sluzbenilist.ba/page/akt/J9nYHTOy13o=",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/J9nYHTOy13o=",
+     "sha256": "1a5b212618a84155a2cca67fb2629c175dbf4d076734e6ffaa35a89c31e493aa"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2024-sg041-2232c5",
+   "path": "uputstvo/2024/sg041-2232c5",
+   "short": "Uputstvo o izmjeni uputstva o uvjetima i procedurama za akreditiranje izbornih posmatrača u bosni i hercegovini",
+   "title": "Uputstvo o izmjeni uputstva o uvjetima i procedurama za akreditiranje izbornih posmatrača u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/moCE4VJbTkI=",
+   "versions": [
+    {
+     "from": "2024-06-11",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/moCE4VJbTkI=",
+     "sha256": "11b75588d7c2cf0d83144915f41eaff57e642a588f2b758643ddc1ed371ab7fd"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2024-sg046-7c66df",
+   "path": "uputstvo/2024/sg046-7c66df",
+   "short": "Uputstvo o izmjeni uputstva o žrijebanju političkih subjekata za mjesto u biračkom odboru za lokalne izbore u bosni i hercegovini 2024. godine",
+   "title": "Uputstvo o izmjeni uputstva o žrijebanju političkih subjekata za mjesto u biračkom odboru za lokalne izbore u bosni i hercegovini 2024. godine",
+   "url": "https://www.sluzbenilist.ba/page/akt/Ja7tIgztz5k76kjn45hiiKzA=",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/Ja7tIgztz5k76kjn45hiiKzA=",
+     "sha256": "a5d3092c01cac27cb660afcfdfce8165eb5a2ad738126b82f3077483e29debeb"
+    }
+   ]
+  },
+  {
    "slug": "uputstvo-2024-sg049-2d04f6",
    "path": "uputstvo/2024/sg049-2d04f6",
    "short": "Uputstvo o postupku izdavanja uvjerenja o činjenicama o kojima uprava za indirektno oporezivanje vodi službenu evidenciju",
@@ -3913,6 +5308,21 @@
      "units": 27,
      "source_url": "https://www.sluzbenilist.ba/page/akt/PucyA5huxGg=",
      "sha256": "f3ddd3474668545a43e549f058e4cfacb82ddd5e81c3983127c30d2a9b49754c"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2024-sg051-c72ea2",
+   "path": "uputstvo/2024/sg051-c72ea2",
+   "short": "Uputstvo o provođenju nadzora nad zakonitošću rada društva crvenog krsta/križa Bosne i Hercegovine",
+   "title": "Uputstvo o provođenju nadzora nad zakonitošću rada društva crvenog krsta/križa Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/7xn73pxpBhM=",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 14,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/7xn73pxpBhM=",
+     "sha256": "a9bc5b2df144eadf9a24121a0fe09982e088b7f45a333e1424f10d3963aa3f90"
     }
    ]
   },
@@ -3947,6 +5357,36 @@
    ]
   },
   {
+   "slug": "uputstvo-2024-sg061-c3f92f",
+   "path": "uputstvo/2024/sg061-c3f92f",
+   "short": "Uputstvo o instalaciji, korištenju opreme za video nadzor, prijenosu i čuvanju nadzornih video snimaka, o odgovornostima izbornih komisija i biračkih odbora, te prekršajima zbog kršenja propisanih pravila - pilot projekat 4",
+   "title": "Uputstvo o instalaciji, korištenju opreme za video nadzor, prijenosu i čuvanju nadzornih video snimaka, o odgovornostima izbornih komisija i biračkih odbora, te prekršajima zbog kršenja propisanih pravila - pilot projekat 4",
+   "url": "https://www.sluzbenilist.ba/page/akt/g7c01squfMY=",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 20,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/g7c01squfMY=",
+     "sha256": "fbdda5995472e9a8294ed6d584eacef45b102decb57a31674327aed64f93738e"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2024-sg074-1f3bdf",
+   "path": "uputstvo/2024/sg074-1f3bdf",
+   "short": "Uputstvo o vrsti pomoći, kriterijima, načinu dodjele pomoći i odabira korisnika projekata stambenog zbrinjavanja roma u bosni i hercegovini",
+   "title": "Uputstvo o vrsti pomoći, kriterijima, načinu dodjele pomoći i odabira korisnika projekata stambenog zbrinjavanja roma u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/PyuvKPFSimM=",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 33,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/PyuvKPFSimM=",
+     "sha256": "938cad4cef944384f0cd4eb5de91499d907747e00461dfdc7d961d8060d2047d"
+    }
+   ]
+  },
+  {
    "slug": "uputstvo-2024-sg080-912a3e",
    "path": "uputstvo/2024/sg080-912a3e",
    "short": "Uputstvo o dopunama uputstva o pojednostavljenom carinskom postupku po fakturi",
@@ -3977,6 +5417,36 @@
    ]
   },
   {
+   "slug": "uputstvo-2024-sg091-63cc57",
+   "path": "uputstvo/2024/sg091-63cc57",
+   "short": "Uputstvo o postupanju sa licima sa invaliditetom i licima sa smanjenom pokretljivošću u civilnom zrakoplovstvu Bosne i Hercegovine",
+   "title": "Uputstvo o postupanju sa licima sa invaliditetom i licima sa smanjenom pokretljivošću u civilnom zrakoplovstvu Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/w2PczGAlOgztz5k76kjn45ho=",
+   "versions": [
+    {
+     "from": "2025-01-07",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/w2PczGAlOgztz5k76kjn45ho=",
+     "sha256": "fbcaceb1992e4d5273c2490e8f262ac691f1e288ed4d0194da930de1ee95fdb5"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2025-sg009-7a94e7",
+   "path": "uputstvo/2025/sg009-7a94e7",
+   "short": "Uputstvo o izmjenama i dopunama uputstva o osiguranju carinskog duga",
+   "title": "Uputstvo o izmjenama i dopunama uputstva o osiguranju carinskog duga",
+   "url": "https://www.sluzbenilist.ba/page/akt/EtBTFoEDoYA=",
+   "versions": [
+    {
+     "from": "2025-02-11",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/EtBTFoEDoYA=",
+     "sha256": "b61b38ec71a0742f0c2610365794b57ea70b0fc7bd10b2170db829398874d1e3"
+    }
+   ]
+  },
+  {
    "slug": "uputstvo-2025-sg031-481fc2",
    "path": "uputstvo/2025/sg031-481fc2",
    "short": "Uputstvo o tehničkim i operativnim pravilima pristupa sistemima agencije za identifikacione dokumente, evidenciju i razmjenu podataka Bosne i Hercegovine",
@@ -3988,6 +5458,21 @@
      "units": 9,
      "source_url": "https://www.sluzbenilist.ba/page/akt/OSccoiNJpfE=",
      "sha256": "8a715c80967301961fdf7d6256884c85435d5e3475581bf7170f8c425fc1b81a"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2025-sg033-1c3c67",
+   "path": "uputstvo/2025/sg033-1c3c67",
+   "short": "Uputstvo o izmjeni i dopuni uputstva o načinu planiranja, odobravanja i realiziranja višegodišnjih projekata u institucijama Bosne i Hercegovine",
+   "title": "Uputstvo o izmjeni i dopuni uputstva o načinu planiranja, odobravanja i realiziranja višegodišnjih projekata u institucijama Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/NnMzF4gztz5k76kjn45hB9B8=",
+   "versions": [
+    {
+     "from": "2025-04-22",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/NnMzF4gztz5k76kjn45hB9B8=",
+     "sha256": "3a5b93ca5792da7d6db42de213856c44090eb2cbb659c5b6f60b4b7d55d2e276"
     }
    ]
   },
@@ -4018,6 +5503,21 @@
      "units": 26,
      "source_url": "https://www.sluzbenilist.ba/page/akt/4gztz5k76kjn45hy5Q2T7ohz4nh78h77V0=",
      "sha256": "57e5e796b61a644ba2e9001d1a4a9847c0090c39e2ad6a755fb6501696bbc906"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2025-sg056-411290",
+   "path": "uputstvo/2025/sg056-411290",
+   "short": "Uputstvo o rokovima izbornih aktivnosti za održavanje prijevremenih izbora za predsjednika republike srpske",
+   "title": "Uputstvo o rokovima izbornih aktivnosti za održavanje prijevremenih izbora za predsjednika republike srpske",
+   "url": "https://www.sluzbenilist.ba/page/akt/pZXfuI5Seuw=",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/pZXfuI5Seuw=",
+     "sha256": "32255aa89641bc677ef9ca0b19b8e72a7499e5826df35698be5611698e1d8995"
     }
    ]
   },
@@ -4063,6 +5563,36 @@
      "units": 6,
      "source_url": "https://www.sluzbenilist.ba/page/akt/e753gztz5k76kjn45hikI4jU=",
      "sha256": "78cdb3f697f7a34de5e857a9e2eeb4c696913dbf9cc10ae8779b4050217d5196"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2025-sg077-fe6883",
+   "path": "uputstvo/2025/sg077-fe6883",
+   "short": "Uputstvo o rokovima izbornih aktivnosti za održavanje prijevremenih izbora za načelnika općine vareš",
+   "title": "Uputstvo o rokovima izbornih aktivnosti za održavanje prijevremenih izbora za načelnika općine vareš",
+   "url": "https://www.sluzbenilist.ba/page/akt/RkA1G1JA1TQ=",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/RkA1G1JA1TQ=",
+     "sha256": "4987d93b42dc7797647cb0b6129bc2ca3475576bcd6f64e124c82ac79c3e450c"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2026-sg007-c490dc",
+   "path": "uputstvo/2026/sg007-c490dc",
+   "short": "Uputstvo o izmjeni uputstva o rokovima izbornih aktivnosti za održavanje ponovnih prijevremenih izbora za predsjednika republike srpske",
+   "title": "Uputstvo o izmjeni uputstva o rokovima izbornih aktivnosti za održavanje ponovnih prijevremenih izbora za predsjednika republike srpske",
+   "url": "https://www.sluzbenilist.ba/page/akt/Sy3FsSQle4E=",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/Sy3FsSQle4E=",
+     "sha256": "1d8ba7c3da21577f2c5c27327b5162272e71d6554aee19ff0bf92df8a74ed9e5"
     }
    ]
   },
@@ -4127,6 +5657,141 @@
    ]
   },
   {
+   "slug": "uputstvo-2026-sg032-1cd6bb",
+   "path": "uputstvo/2026/sg032-1cd6bb",
+   "short": "Uputstvo o rokovima i redoslijedu izbornih aktivnosti neposrednih izbora za opće izbore 2026. godine, koji će biti održani u nedjelju 04. oktobra 2026. godine",
+   "title": "Uputstvo o rokovima i redoslijedu izbornih aktivnosti neposrednih izbora za opće izbore 2026. godine, koji će biti održani u nedjelju 04. oktobra 2026. godine",
+   "url": "https://www.sluzbenilist.ba/page/akt/ahpYkq11O7o=",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/ahpYkq11O7o=",
+     "sha256": "499d968a9c9c14bf0bcb6ed349e98cee0088fdbe596dba80e73379997fbc2b58"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2026-sg032-3325c5",
+   "path": "uputstvo/2026/sg032-3325c5",
+   "short": "Uputstvo o dodjeli i prestanku mandata",
+   "title": "Uputstvo o dodjeli i prestanku mandata",
+   "url": "https://www.sluzbenilist.ba/page/akt/pMqIl0O5xGc=",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 28,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/pMqIl0O5xGc=",
+     "sha256": "46dfe86df1b8d76fc8569a92b3ba9089d3427cea98d76bead00ce5ab085c44dc"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2026-sg032-42aeb2",
+   "path": "uputstvo/2026/sg032-42aeb2",
+   "short": "Uputstvo o postupku provođenja posrednih izbora za organe vlasti u bosni i hercegovini obuhvaćenih izbornim zakonom Bosne i Hercegovine",
+   "title": "Uputstvo o postupku provođenja posrednih izbora za organe vlasti u bosni i hercegovini obuhvaćenih izbornim zakonom Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/fNPQeDF9l04=",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 140,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/fNPQeDF9l04=",
+     "sha256": "e9c8d61884c1cba9183706054aabfc61d9d4a144ab9bc3a5a8a24423858f85f1"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2026-sg032-55159b",
+   "path": "uputstvo/2026/sg032-55159b",
+   "short": "Uputstvo o procedurama za rješavanje po prigovorima i žalbama podnesenim centralnoj izbornoj komisiji bih i izbornim komisijama osnovnih izbornih jedinica",
+   "title": "Uputstvo o procedurama za rješavanje po prigovorima i žalbama podnesenim centralnoj izbornoj komisiji bih i izbornim komisijama osnovnih izbornih jedinica",
+   "url": "https://www.sluzbenilist.ba/page/akt/vS81FD90djA=",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 24,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/vS81FD90djA=",
+     "sha256": "4e5471f1b46bd38cc2bbf6d0f8d0ed793069daf997d817f5ac51e75a099efc73"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2026-sg032-6631a9",
+   "path": "uputstvo/2026/sg032-6631a9",
+   "short": "Uputstvo o postupku žrijebanja političkih subjekata za utvrđivanje redoslijeda na glasačkom listiću",
+   "title": "Uputstvo o postupku žrijebanja političkih subjekata za utvrđivanje redoslijeda na glasačkom listiću",
+   "url": "https://www.sluzbenilist.ba/page/akt/UYRohz4nh78h77hAiaogztz5k76kjn45hc=",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 13,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/UYRohz4nh78h77hAiaogztz5k76kjn45hc=",
+     "sha256": "610567234e583b3e18e2bb6881b321fe68d48c13d41172bd65f487a48f49f18a"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2026-sg032-84345d",
+   "path": "uputstvo/2026/sg032-84345d",
+   "short": "Uputstvo o izgledu i načinu ispunjavanja obrasca izjave o imovinskom stanju",
+   "title": "Uputstvo o izgledu i načinu ispunjavanja obrasca izjave o imovinskom stanju",
+   "url": "https://www.sluzbenilist.ba/page/akt/9JyVDAtcUug=",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/9JyVDAtcUug=",
+     "sha256": "bffd5a3e5f371f8026d0264d7f6a45a6e19adc815d0226b89a1c3a652f8ce14e"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2026-sg032-b73295",
+   "path": "uputstvo/2026/sg032-b73295",
+   "short": "Uputstvo o izmjeni i dopuni uputstva o postupku otvaranja i korištenja posebnog računa za finansiranje troškova izborne kampanje",
+   "title": "Uputstvo o izmjeni i dopuni uputstva o postupku otvaranja i korištenja posebnog računa za finansiranje troškova izborne kampanje",
+   "url": "https://www.sluzbenilist.ba/page/akt/SN5YbvUhGsY=",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/SN5YbvUhGsY=",
+     "sha256": "d16cb1d1e5ff86aa897ac95d042615415c0b5e0a2a527ccfbda5f6541e8d741b"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2026-sg032-bae929",
+   "path": "uputstvo/2026/sg032-bae929",
+   "short": "Uputstvo o izmjenama i dopunama uputstva o utvrđivanju kvalifikacija, broju, imenovanju, obuci i razrješenju članova izborne komisije osnovne izborne jedinice u bosni i hercegovini",
+   "title": "Uputstvo o izmjenama i dopunama uputstva o utvrđivanju kvalifikacija, broju, imenovanju, obuci i razrješenju članova izborne komisije osnovne izborne jedinice u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/piVH1ZcjEt4=",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 7,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/piVH1ZcjEt4=",
+     "sha256": "912ca405b9d8da7cc96ee216dbedd2c90086a314eaa89ca26031fc3c6ed27b05"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2026-sg032-d3ed43",
+   "path": "uputstvo/2026/sg032-d3ed43",
+   "short": "Uputstvo o donošenju programa utroška sredstava političke stranke",
+   "title": "Uputstvo o donošenju programa utroška sredstava političke stranke",
+   "url": "https://www.sluzbenilist.ba/page/akt/pELKXv8k3UM=",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/pELKXv8k3UM=",
+     "sha256": "63342e6d9239e94128f4c5b571458ea31e7b002f17f69664835ba2c25d4f41fc"
+    }
+   ]
+  },
+  {
    "slug": "uputstvo-2026-sg035-bc0d30",
    "path": "uputstvo/2026/sg035-bc0d30",
    "short": "Uputstvo o primjeni ciljanih i proporcionalnih mjera prema rizičnim neprofitnim organizacijama s ciljem sprečavanja zloupotrebe neprofitnih organizacija za finansiranje terorističkih aktivnosti",
@@ -4138,6 +5803,21 @@
      "units": 28,
      "source_url": "https://www.sluzbenilist.ba/page/akt/d3LQnldnmaU=",
      "sha256": "7d287d15dfc102945eaddb461ef0ca7af3d455f32c8a1139e8381c76cce2e0bd"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2026-sg041-a159ff",
+   "path": "uputstvo/2026/sg041-a159ff",
+   "short": "Uputstvo o izmjeni uputstva o uvjetima i procedurama za akreditiranje izbornih posmatrača u bosni i hercegovini",
+   "title": "Uputstvo o izmjeni uputstva o uvjetima i procedurama za akreditiranje izbornih posmatrača u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/BuhxxYfZAzM=",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/BuhxxYfZAzM=",
+     "sha256": "1b252371283b3a5d299facffe437d5e39fe3f79c5891b3ba13204baf2334aa01"
     }
    ]
   },
@@ -4157,6 +5837,21 @@
    ]
   },
   {
+   "slug": "uputstvo-2026-sg045-a6e559",
+   "path": "uputstvo/2026/sg045-a6e559",
+   "short": "Uputstvo o izmjenama i dopunama uputstva o postupku kućnog uvoznog carinjenja",
+   "title": "Uputstvo o izmjenama i dopunama uputstva o postupku kućnog uvoznog carinjenja",
+   "url": "https://www.sluzbenilist.ba/page/akt/J2dgnAuikQQ=",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 19,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/J2dgnAuikQQ=",
+     "sha256": "a683fd39b6460b385fb1b43e415b2a8c450f5c40b3e725cd2ceb048c4c49b4a4"
+    }
+   ]
+  },
+  {
    "slug": "uputstvo-2026-sg050-29f4cf",
    "path": "uputstvo/2026/sg050-29f4cf",
    "short": "Uputstvo o dopunama uputstva za rad po računu rezervi banaka",
@@ -4168,6 +5863,66 @@
      "units": 8,
      "source_url": "https://www.sluzbenilist.ba/page/akt/PfkWvrLPdnM=",
      "sha256": "a8d4d98971e60fdc689e2cecf43b7278a181bc07b36252a39667843b6ccb4be1"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2026-sg054-37eeeb",
+   "path": "uputstvo/2026/sg054-37eeeb",
+   "short": "Uputstvo o izmjeni uputstva o uvjetima i procedurama za akreditiranje izbornih posmatrača u bosni i hercegovini",
+   "title": "Uputstvo o izmjeni uputstva o uvjetima i procedurama za akreditiranje izbornih posmatrača u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/Qlg0JEj2vJA=",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/Qlg0JEj2vJA=",
+     "sha256": "bdea803f83855703c54a11d0c2649c5c9a20d40a9c01ac2343a512208c1a439a"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2026-sg056-5600de",
+   "path": "uputstvo/2026/sg056-5600de",
+   "short": "Uputstvo o izmjeni uputstva o vrstama, načinu i rokovima za određivanje biračkih mjesta",
+   "title": "Uputstvo o izmjeni uputstva o vrstama, načinu i rokovima za određivanje biračkih mjesta",
+   "url": "https://www.sluzbenilist.ba/page/akt/ohz4nh78h77rohz4nh78h77VJbBmOpI=",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/ohz4nh78h77rohz4nh78h77VJbBmOpI=",
+     "sha256": "63b1ee46e7b4274ae3f0076c9f1d8749cff75e61dd3b3e479a7250dfb89e0d5d"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2026-sg060-f7ad33",
+   "path": "uputstvo/2026/sg060-f7ad33",
+   "short": "Uputstvo o izmjenama i dopunama uputstva o uvjetima i procedurama za akreditiranje izbornih posmatrača u bosni i hercegovini",
+   "title": "Uputstvo o izmjenama i dopunama uputstva o uvjetima i procedurama za akreditiranje izbornih posmatrača u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/Ss6BalhOcx4=",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/Ss6BalhOcx4=",
+     "sha256": "51758a9fdd98d1ccd10886a9e68ad9b9d30ed1d3a29be43e5e5bdf16be50c693"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2026-sg077-5761b1",
+   "path": "uputstvo/2026/sg077-5761b1",
+   "short": "Uputstvo o izmjeni i dopunama uputstva o popunjavanju carinske deklaracije i deklaracije za privremeni smještaj",
+   "title": "Uputstvo o izmjeni i dopunama uputstva o popunjavanju carinske deklaracije i deklaracije za privremeni smještaj",
+   "url": "https://www.sluzbenilist.ba/page/akt/89YPj7qY8EU=",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/89YPj7qY8EU=",
+     "sha256": "c493c29fc32e6c16041596fd18f21fab041d36c61be8124efe472db102c943e8"
     }
    ]
   },

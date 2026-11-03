@@ -1,6 +1,6 @@
 # Every act in this repository
 
-281 acts, 281 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+398 acts, 398 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## constitution (1)
 
@@ -23,34 +23,91 @@
 | Poslovnik o dopunama poslovnika visokog sudskog i tužilačkog vijeća Bosne i Hercegovine | [`poslovnik/2025/sg079-51fec1/`](poslovnik/2025/sg079-51fec1/) | amending act | 1 | 2025-12-30 | 2025-12-30 |
 | Poslovnik o izmjeni poslovnika visokog sudskog i tužilačkog vijeća Bosne i Hercegovine | [`poslovnik/2026/sg027-f8cac1/`](poslovnik/2026/sg027-f8cac1/) | in force | 1 | 2026-04-18 | 2026-04-18 |
 
-## pravilnik (76, of which 28 amending acts)
+## pravilnik (152, of which 50 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| Pravilnik o dopuni pravilnika o orijentacionim mjerilima za rad sudija i stručnih saradnika u sudovima u bosni i hercegovini | [`pravilnik/2023/sg006-27c272/`](pravilnik/2023/sg006-27c272/) | amending act | 1 | 2023-01-27 | 2023-01-27 |
+| Pravilnik o određivanju iznosa minimalne rezerve za izmirivanje obaveza uprave za indirektno oporezivanje u vezi sa indirektnim porezima, ostalim prihodima i taksama | [`pravilnik/2023/sg012-4c6f95/`](pravilnik/2023/sg012-4c6f95/) | in force | 1 | 2023-03-04 | 2023-03-04 |
+| Pravilnik o izmjeni pravilnika o uslovima i postupku redukcije ispita za sticanje zvanja u računovodstvenoj profesiji u bosni i hercegovini | [`pravilnik/2023/sg016-941930/`](pravilnik/2023/sg016-941930/) | in force | 1 | 2023-02-28 | 2023-02-28 |
+| Pravilnik o prikupljanju, sravnjenju, raspodjeli prihoda i izvještavanju o prihodima za koje je odgovorna uprava za indirektno oporezivanje | [`pravilnik/2023/sg018-fc7c0a/`](pravilnik/2023/sg018-fc7c0a/) | in force | 1 | 2023-03-25 | 2023-03-25 |
+| Pravilnik o izmjenama i dopunama pravilnika o aerodromima | [`pravilnik/2023/sg020-a5cffb/`](pravilnik/2023/sg020-a5cffb/) | amending act | 1 | 2023-04-01 | 2023-04-01 |
+| Pravilnik o izmjenama i dopunama pravilnika o spasilačko-vatrogasnoj službi na aerodromu | [`pravilnik/2023/sg020-a606fe/`](pravilnik/2023/sg020-a606fe/) | amending act | 1 | 2023-04-01 | 2023-04-01 |
+| Pravilnik o načinu provođenja javnog konkursa za izbor domaćih i međunarodnih stručnjaka za ocjenjivanje i reviziju kvaliteta i davanje preporuka o akreditaciji visokoškolskih ustanova i studijskih programa | [`pravilnik/2023/sg022-35477c/`](pravilnik/2023/sg022-35477c/) | in force | 1 | 2023-04-08 | 2023-04-08 |
+| Pravilnik o ocjenjivanju poznavanja stranih jezika u ministarstvu odbrane i oružanim snagama Bosne i Hercegovine | [`pravilnik/2023/sg023-74274a/`](pravilnik/2023/sg023-74274a/) | in force | 1 | 2023-02-24 | 2023-02-24 |
+| Pravilnik o čaju, biljnom čaju, voćnom čaju i instant čaju | [`pravilnik/2023/sg024-94111f/`](pravilnik/2023/sg024-94111f/) | in force | 1 | 2023-04-15 | 2023-04-15 |
+| Pravilnik o izmjenama i dopunama pravilnika o obuci službenika za javne nabavke | [`pravilnik/2023/sg031-1d74bc/`](pravilnik/2023/sg031-1d74bc/) | amending act | 1 | 2023-05-13 | 2023-05-13 |
+| Pravilnik o pružanju usluga opsluživanja na zemlji na aerodromima | [`pravilnik/2023/sg031-fc66ff/`](pravilnik/2023/sg031-fc66ff/) | in force | 1 | 2023-05-13 | 2023-05-13 |
+| Pravilnik o unaprjeđenju vojnih lica | [`pravilnik/2023/sg034-40732b/`](pravilnik/2023/sg034-40732b/) | in force | 1 | 2023-05-24 | 2023-05-24 |
+| Pravilnik o dopuni pravilnika o karakteru i sadržaju konkursa, načinu provođenja intervjua i obrascima za provođenje intervjua | [`pravilnik/2023/sg038-222ae8/`](pravilnik/2023/sg038-222ae8/) | amending act | 1 | 2023-05-23 | 2023-05-23 |
+| Pravilnik o izmjenama pravilnika o naknadama za rad u komisiji za polaganje pravosudnog ispita na nivou Bosne i Hercegovine | [`pravilnik/2023/sg038-bb413e/`](pravilnik/2023/sg038-bb413e/) | in force | 1 | 2023-05-18 | 2023-05-18 |
+| Pravilnik o izmjenama i dopunama pravilnika o provođenju zakona o zaštiti ličnih podataka u upravi za indirektno oporezivanje | [`pravilnik/2023/sg041-a3d0c1/`](pravilnik/2023/sg041-a3d0c1/) | amending act | 1 | 2023-06-17 | 2023-06-17 |
+| Pravilnik o izgledu policijske uniforme | [`pravilnik/2023/sg047-3cd658/`](pravilnik/2023/sg047-3cd658/) | in force | 1 | 2023-07-15 | 2023-07-15 |
+| Pravilnik o izmjenama i dopuni pravilnika o uspostavljanju i radu komisije za nabavke | [`pravilnik/2023/sg049-02081e/`](pravilnik/2023/sg049-02081e/) | amending act | 1 | 2023-07-22 | 2023-07-22 |
+| Pravilnik o disciplinskoj i materijalnoj odgovornosti službenika u zavodu za izvršenje krivičnih sankcija, pritvora i drugih mjera Bosne i Hercegovine | [`pravilnik/2023/sg050-ddbc78/`](pravilnik/2023/sg050-ddbc78/) | in force | 1 | 2023-05-16 | 2023-05-16 |
+| Pravilnik o izmjenama pravilnika o programu polaganja javnog ispita | [`pravilnik/2023/sg051-125d61/`](pravilnik/2023/sg051-125d61/) | in force | 1 | 2023-07-29 | 2023-07-29 |
+| Pravilnik o načinu prikupljanja podataka o predmetima diskriminacije u bosni i hercegovini | [`pravilnik/2023/sg051-4c84f1/`](pravilnik/2023/sg051-4c84f1/) | in force | 1 | 2023-09-19 | 2023-09-19 |
+| Pravilnik o izmjenama i dopunama pravilnika o uvjetima koje mora da ispunjava centar za obuku zrakoplovnog stručnog osoblja na aerodromu | [`pravilnik/2023/sg051-a148f5/`](pravilnik/2023/sg051-a148f5/) | amending act | 1 | 2023-07-29 | 2023-07-29 |
+| Pravilnik o dopuni pravilnika o primjeni zakona o porezu na dodanu vrijednost | [`pravilnik/2023/sg062-9a14b6/`](pravilnik/2023/sg062-9a14b6/) | amending act | 1 | 2023-09-16 | 2023-09-16 |
+| Pravilnik o finansiranju istraživanja, razvoja i unapređenja sistema javnih nabavki u bosni i hercegovini | [`pravilnik/2023/sg065-f677ff/`](pravilnik/2023/sg065-f677ff/) | in force | 1 | 2023-09-30 | 2023-09-30 |
+| Pravilnik o izmjeni pravilnika o plaćama, dodacima i naknadama osoblja u diplomatsko-konzularnim predstavništvima Bosne i Hercegovine | [`pravilnik/2023/sg068-90cfdb/`](pravilnik/2023/sg068-90cfdb/) | in force | 1 | 2023-09-07 | 2023-09-07 |
+| Pravilnik o ravnopravnosti spolova u ministarstvu odbrane Bosne i Hercegovine i oružanim snagama Bosne i Hercegovine | [`pravilnik/2023/sg068-cff48e/`](pravilnik/2023/sg068-cff48e/) | in force | 1 | 2023-08-28 | 2023-08-28 |
+| Pravilnik o dopuni pravilnika o korištenju telefona | [`pravilnik/2023/sg070-6a0d4b/`](pravilnik/2023/sg070-6a0d4b/) | amending act | 1 | 2023-08-31 | 2023-08-31 |
+| Pravilnik o sigurnosti putnog saobraćaja u ministarstvu odbrane i oružanim snagama Bosne i Hercegovine | [`pravilnik/2023/sg070-ac8c70/`](pravilnik/2023/sg070-ac8c70/) | in force | 1 | 2023-09-08 | 2023-09-08 |
+| Pravilnik o mjeriteljskim uslovima za mjerne boce | [`pravilnik/2023/sg071-05991f/`](pravilnik/2023/sg071-05991f/) | in force | 1 | 2023-10-21 | 2023-10-21 |
+| Pravilnik o mjeriteljskim uslovima za elektronske mjerače gustine oscilacijskog tipa | [`pravilnik/2023/sg071-4b71cf/`](pravilnik/2023/sg071-4b71cf/) | in force | 1 | 2023-10-21 | 2023-10-21 |
+| Pravilnik o mjeriteljskim uslovima za statička mjerila reaktivne električne energije | [`pravilnik/2023/sg071-51acd8/`](pravilnik/2023/sg071-51acd8/) | in force | 1 | 2023-10-21 | 2023-10-21 |
+| Pravilnik o mjeriteljskim uslovima za manometre za pneumatike | [`pravilnik/2023/sg071-6f2b26/`](pravilnik/2023/sg071-6f2b26/) | in force | 1 | 2023-10-21 | 2023-10-21 |
+| Pravilnik o mjeriteljskim uslovima za mjerila mase vage za građevinske svrhe | [`pravilnik/2023/sg071-7f3c11/`](pravilnik/2023/sg071-7f3c11/) | in force | 1 | 2023-10-21 | 2023-10-21 |
+| Pravilnik o mjernim transformatorima koji se koriste za obračun električne energije | [`pravilnik/2023/sg071-8eeafb/`](pravilnik/2023/sg071-8eeafb/) | in force | 1 | 2023-10-21 | 2023-10-21 |
+| Pravilnik o mjeriteljskim uslovima za mjerila krvnog pritiska sfigmomanometri | [`pravilnik/2023/sg071-ac0120/`](pravilnik/2023/sg071-ac0120/) | in force | 1 | 2023-10-21 | 2023-10-21 |
+| Pravilnik o mjeriteljskim uslovima za etilometre | [`pravilnik/2023/sg071-b2c0af/`](pravilnik/2023/sg071-b2c0af/) | in force | 1 | 2023-10-21 | 2023-10-21 |
+| Pravilnik o mjeriteljskim uslovima za automatska mjerila nivoa tečnosti u nepokretnim rezervoarima | [`pravilnik/2023/sg071-c35bd1/`](pravilnik/2023/sg071-c35bd1/) | in force | 1 | 2023-10-21 | 2023-10-21 |
+| Pravilnik o mjeriteljskim uslovima za tegove | [`pravilnik/2023/sg071-d3d349/`](pravilnik/2023/sg071-d3d349/) | in force | 1 | 2023-10-21 | 2023-10-21 |
+| Pravilnik o mjeriteljskim uslovima za mjerne sisteme za mjerenje mase komprimiranih gasovitih goriva za vozila | [`pravilnik/2023/sg071-fbc7da/`](pravilnik/2023/sg071-fbc7da/) | in force | 1 | 2023-10-21 | 2023-10-21 |
 | Pravilnik o uslovima i načinu korištenja e-aukcije | [`pravilnik/2023/sg080-678e84/`](pravilnik/2023/sg080-678e84/) | in force | 1 | 2023-12-02 | 2023-12-02 |
+| Pravilnik o pružanju usluga u zračnoj plovidbi u jedinstvenom evropskom nebu | [`pravilnik/2023/sg084-1fcb7a/`](pravilnik/2023/sg084-1fcb7a/) | in force | 1 | 2023-12-23 | 2023-12-23 |
+| Pravilnik o izmjenama i dopunama pravilnika o uslovima nabavke i načinu korištenja službenih vozila u institucijama Bosne i Hercegovine | [`pravilnik/2023/sg084-e3eda4/`](pravilnik/2023/sg084-e3eda4/) | amending act | 1 | 2023-11-09 | 2023-11-09 |
+| Pravilnik o dopuni pravilnika o korištenju telefona | [`pravilnik/2023/sg085-4a0ac2/`](pravilnik/2023/sg085-4a0ac2/) | amending act | 1 | 2023-11-09 | 2023-11-09 |
+| Pravilnik o organizaciji i korištenju zračnog prostora u jedinstvenom evropskom nebu | [`pravilnik/2023/sg086-289473/`](pravilnik/2023/sg086-289473/) | in force | 1 | 2023-12-30 | 2023-12-30 |
 | Pravilnik o primjeni tehničkih specifikacija interoperabilnosti koje se odnose na podsistem "odvijanje i upravljanje saobraćajem" u bosni i hercegovini | [`pravilnik/2023/sg086-cbf363/`](pravilnik/2023/sg086-cbf363/) | in force | 1 | 2023-12-30 | 2023-12-30 |
+| Pravilnik o utvrđivanju pravila za fleksibilno korištenje zračnog prostora | [`pravilnik/2023/sg088-e6edbb/`](pravilnik/2023/sg088-e6edbb/) | in force | 1 | 2024-01-06 | 2024-01-06 |
 | Pravilnik o dopunama pravilnika o orijentacionim mjerilima za rad tužilaca u tužilaštvima u bosni i hercegovini | [`pravilnik/2024/sg003-29c007/`](pravilnik/2024/sg003-29c007/) | amending act | 1 | 2024-01-20 | 2024-01-20 |
+| Pravilnik o izmjeni i dopuni pravilnika o korištenјu sredstava za reprezentaciju | [`pravilnik/2024/sg004-192b23/`](pravilnik/2024/sg004-192b23/) | amending act | 1 | 2023-12-07 | 2023-12-07 |
+| Pravilnik o ocjenjivanju profesionalnih vojnih lica | [`pravilnik/2024/sg006-2db752/`](pravilnik/2024/sg006-2db752/) | in force | 1 | 2024-02-03 | 2024-02-03 |
+| Pravilnik o izmjenama pravilnika za provođenje aktivnosti odnosa s javnošću | [`pravilnik/2024/sg009-33ade2/`](pravilnik/2024/sg009-33ade2/) | in force | 1 | 2024-01-17 | 2024-01-17 |
 | Pravilnik o korištenju europskog registra vozila | [`pravilnik/2024/sg015-8907f9/`](pravilnik/2024/sg015-8907f9/) | in force | 1 | 2024-03-06 | 2024-03-06 |
+| Pravilnik o izmjenama pravilnika o prijemu u vojnu službu | [`pravilnik/2024/sg018-654574/`](pravilnik/2024/sg018-654574/) | in force | 1 | 2024-02-28 | 2024-02-28 |
 | Pravilnik o izmjeni pravilnika o ovlaštenjima i ovlaštenim službenim licima uprave za indirektno oporezivanje | [`pravilnik/2024/sg019-bdecd5/`](pravilnik/2024/sg019-bdecd5/) | in force | 1 | 2024-03-27 | 2024-03-27 |
 | Pravilnik o cijeni dokumenata o vozilu i cijeni oznaka za obilježavanje vozila | [`pravilnik/2024/sg020-22bdf6/`](pravilnik/2024/sg020-22bdf6/) | in force | 1 | 2024-03-30 | 2024-03-30 |
 | Pravilnik o izmjeni i dopuni pravilnika o službi za zaštitu od zračenja i medicinsku fiziku | [`pravilnik/2024/sg021-a6c8bd/`](pravilnik/2024/sg021-a6c8bd/) | amending act | 1 | 2024-04-03 | 2024-04-03 |
 | Pravilnik o tehničkoj specifikaciji za interoperabilnost koja se odnosi na pristup osoba sa invaliditetom i osoba smanjene pokretljivosti | [`pravilnik/2024/sg024-ae11d7/`](pravilnik/2024/sg024-ae11d7/) | in force | 1 | 2024-04-13 | 2024-04-13 |
 | Pravilnik o izmjenama i dopunama pravilnika o mjerilima i načinu utvrđivanja zdravstvene sposobnosti ovlaštenih zavodskih službenika | [`pravilnik/2024/sg025-d2491c/`](pravilnik/2024/sg025-d2491c/) | amending act | 1 | 2024-04-20 | 2024-04-20 |
+| Pravilnik o zajedničkim pravilima za dodjelu slotova i usklađivanje redova letenja na aerodromima | [`pravilnik/2024/sg025-fdf6ab/`](pravilnik/2024/sg025-fdf6ab/) | in force | 1 | 2024-04-20 | 2024-04-20 |
 | Pravilnik o izmjeni i dopuni pravilnika o mjerama za nadzor afričke svinjske kuge | [`pravilnik/2024/sg028-f232a6/`](pravilnik/2024/sg028-f232a6/) | amending act | 1 | 2024-05-04 | 2024-05-04 |
 | Pravilnik o provođenju zajedničke nabavke, centralizovane nabavke i uspostavljanju centralnog nabavnog organa | [`pravilnik/2024/sg029-054655/`](pravilnik/2024/sg029-054655/) | in force | 1 | 2024-05-11 | 2024-05-11 |
 | Pravilnik o izdavanju diplomatskih identifikacijskih iskaznica | [`pravilnik/2024/sg029-1c94d0/`](pravilnik/2024/sg029-1c94d0/) | in force | 1 | 2024-05-11 | 2024-05-11 |
+| Pravilnik o prijavi i uvjetima za ovjeru političkog subjekta za učešće na lokalnim izborima 2024. godine | [`pravilnik/2024/sg031-0b8081/`](pravilnik/2024/sg031-0b8081/) | in force | 1 | 2024-05-03 | 2024-05-03 |
+| Pravilnik o predizbornim i postizbornim finansijskim izvještajima i izvještajima o prometu posebnog računa za finansiranje izborne kampanje političkih stranaka | [`pravilnik/2024/sg031-13c3ff/`](pravilnik/2024/sg031-13c3ff/) | in force | 1 | 2024-05-03 | 2024-05-03 |
+| Pravilnik o medijskom predstavljanju i javnom oglašavanju političkih subjekata u izbornom periodu | [`pravilnik/2024/sg031-4c4291/`](pravilnik/2024/sg031-4c4291/) | in force | 1 | 2024-05-03 | 2024-05-03 |
 | Pravilnik o službenoj legitimaciji državnih službenika u službi za reviziju finansiranja političkih stranaka | [`pravilnik/2024/sg031-51709c/`](pravilnik/2024/sg031-51709c/) | in force | 1 | 2024-05-16 | 2024-05-16 |
+| Pravilnik o predizbornim i postizbornim finansijskim izvještajima i izvještajima o prometu posebnog računa za finansiranje izborne kampanje nezavisnih kandidata | [`pravilnik/2024/sg031-776d7e/`](pravilnik/2024/sg031-776d7e/) | in force | 1 | 2024-05-03 | 2024-05-03 |
+| Pravilnik o izmjenama i dopunama pravilnika o godišnjim finansijskim izvještajima političkih stranaka | [`pravilnik/2024/sg031-b71ef6/`](pravilnik/2024/sg031-b71ef6/) | amending act | 1 | 2024-05-03 | 2024-05-03 |
 | Pravilnik o izmjenama i dopunama pravilnika o maksimalno dozvoljenim količinama farmakološki aktivnih supstanci u proizvodima životinjskog porijekla | [`pravilnik/2024/sg033-7b482f/`](pravilnik/2024/sg033-7b482f/) | amending act | 1 | 2024-05-22 | 2024-05-22 |
+| Pravilnik o izmjenama pravilnika o provođenju izbora u bosni i hercegovini | [`pravilnik/2024/sg043-70ae4e/`](pravilnik/2024/sg043-70ae4e/) | in force | 1 | 2024-06-13 | 2024-06-13 |
 | Pravilnik o izmjenama i dopunama pravilnika o postupanju prilikom izdavanja vize za kratkoročni boravak (viza c) i aerodromske tranzitne vize (viza a) u diplomatsko-konzularnim predstavništvima Bosne i Hercegovine | [`pravilnik/2024/sg044-1b35b0/`](pravilnik/2024/sg044-1b35b0/) | amending act | 1 | 2024-06-26 | 2024-06-26 |
+| Pravilnik o dopuni pravilnika o plaćama, dodacima i naknadama osoblja u diplomatsko-konzularnim predstavništvima Bosne i Hercegovine | [`pravilnik/2024/sg048-eec44c/`](pravilnik/2024/sg048-eec44c/) | amending act | 1 | 2024-06-10 | 2024-06-10 |
 | Pravilnik o primjeni tehničkih specifikacija interoperabilnosti u vezi s podsistemom "željeznička vozila - teretni vagoni" | [`pravilnik/2024/sg049-944b58/`](pravilnik/2024/sg049-944b58/) | in force | 1 | 2024-07-27 | 2024-07-27 |
 | Pravilnik o dopunama pravilnika o prihvatanju i odstupanju od standarda i postupaka međunarodne organizacije za civilno zrakoplovstvo | [`pravilnik/2024/sg054-317b14/`](pravilnik/2024/sg054-317b14/) | amending act | 1 | 2024-08-17 | 2024-08-17 |
 | Pravilnik o postupanju po žalbi putnika u zračnom prometu | [`pravilnik/2024/sg054-7ea11a/`](pravilnik/2024/sg054-7ea11a/) | in force | 1 | 2024-08-17 | 2024-08-17 |
 | Pravilnik o načinu prikupljanja, korištenja i razmjene podataka o ljudskim pravima u bosni i hercegovini iz nadležnosti ministarstva za ljudska prava i izbjeglice Bosne i Hercegovine | [`pravilnik/2024/sg054-b49a4b/`](pravilnik/2024/sg054-b49a4b/) | in force | 1 | 2024-08-24 | 2024-08-24 |
 | Pravilnik o izmjenama i dopunama pravilnika o ulasku i boravku stranaca | [`pravilnik/2024/sg057-0dcd7c/`](pravilnik/2024/sg057-0dcd7c/) | amending act | 1 | 2024-08-31 | 2024-08-31 |
+| Pravilnik o načinu provođenja pilot projekta 3 - biometrijska identifikacija i autentifikacija birača za lokalne izbore 2024. godine na području brčko distrikta bih | [`pravilnik/2024/sg061-52ab51/`](pravilnik/2024/sg061-52ab51/) | in force | 1 | 2024-09-02 | 2024-09-02 |
 | Pravilnik o izmjenama pravilnika o naknadi putnih troškova za službena putovanja sudija, tužilaca i određenih kategorija stručnog osoblja u sudskim i pravosudnim institucijama na nivou Bosne i Hercegovine | [`pravilnik/2024/sg068-3dc8cd/`](pravilnik/2024/sg068-3dc8cd/) | in force | 1 | 2024-10-09 | 2024-10-09 |
 | Pravilnik o izmjenama i dopunama pravilnika o profesionalnom razvoju i upravljanju karijerom profesionalnih vojnih lica | [`pravilnik/2024/sg070-d2e3dc/`](pravilnik/2024/sg070-d2e3dc/) | amending act | 1 | 2024-10-23 | 2024-10-23 |
 | Pravilnik o vrstama i sadržaju uslova za ponovnu upotrebu dokumenata | [`pravilnik/2024/sg072-ae6a9e/`](pravilnik/2024/sg072-ae6a9e/) | in force | 1 | 2024-11-02 | 2024-11-02 |
 | Pravilnik o sadržaju i načinu vođenja evidencije isključivih prava na ponovnu upotrebu dokumenata | [`pravilnik/2024/sg073-301951/`](pravilnik/2024/sg073-301951/) | in force | 1 | 2024-11-09 | 2024-11-09 |
+| Pravilnik o provođenju postupka predlaganja kandidata za sudije i predsjednika ustavnog suda republike srpske i sudije ustavnog suda federacije Bosne i Hercegovine | [`pravilnik/2024/sg080-e34412/`](pravilnik/2024/sg080-e34412/) | in force | 1 | 2024-11-30 | 2024-11-30 |
 | Pravilnik o izmjenama i dopunama pravilnika o kontroli i ograničenoj provjeri indirektnih poreza | [`pravilnik/2024/sg084-841ea9/`](pravilnik/2024/sg084-841ea9/) | amending act | 1 | 2024-12-14 | 2024-12-14 |
 | Pravilnik o obavljanju međunarodnog vanlinijskog cestovnog prijevoza putnika | [`pravilnik/2024/sg089-81ec9c/`](pravilnik/2024/sg089-81ec9c/) | in force | 1 | 2025-01-01 | 2025-01-01 |
 | Pravilnik o izmjenama i dopunama pravilnika o oznaci i znački službe osiguranja, boji i oznaci vozila službe osiguranja, uniformi, službenim zvanjima i oznakama službenih zvanja ovlaštenih zavodskih službenika u zavodima za izvršenje krivičnih sankcija, pritvora i drugih mjera Bosne i Hercegovine | [`pravilnik/2024/sg090-c804ef/`](pravilnik/2024/sg090-c804ef/) | amending act | 1 | 2024-12-26 | 2024-12-26 |
@@ -62,74 +119,131 @@
 | Pravilnik o izmjeni pravilnika o uslovima i načinu rada granične veterinarske inspekcije Bosne i Hercegovine | [`pravilnik/2025/sg009-cbef49/`](pravilnik/2025/sg009-cbef49/) | in force | 1 | 2025-03-01 | 2025-03-01 |
 | Pravilnik o izmjenama i dopunama pravilnika o polaganju stručnog ispita za rad na poslovima indirektnih poreza zaposlenih u upravi za indirektno oporezivanje | [`pravilnik/2025/sg015-14fa91/`](pravilnik/2025/sg015-14fa91/) | amending act | 1 | 2025-03-22 | 2025-03-22 |
 | PRAVILNIK O SPORTU U MINISTARSTVU ODBRANE BiH I ORUŽANIM SNAGAMA BiH | [`pravilnik/2025/sg020-48ced6/`](pravilnik/2025/sg020-48ced6/) | in force | 1 | 2025-04-12 | 2025-04-12 |
+| Pravilnik o sprečavanju i zaštiti od diskriminacije u ministarstvu za ljudska prava i izbjeglice Bosne i Hercegovine | [`pravilnik/2025/sg024-f91675/`](pravilnik/2025/sg024-f91675/) | in force | 1 | 2025-02-24 | 2025-02-24 |
 | Pravilnik o izmjenama i dopunama pravilnika o primjeni zakona o porezu na dodanu vrijednost | [`pravilnik/2025/sg025-2f995c/`](pravilnik/2025/sg025-2f995c/) | amending act | 1 | 2025-05-07 | 2025-05-07 |
 | Pravilnik o organizaciji i radu arbitražnog suda pri vanjskotrgovinskoj komori Bosne i Hercegovine | [`pravilnik/2025/sg026-1221b8/`](pravilnik/2025/sg026-1221b8/) | in force | 1 | 2025-05-14 | 2025-05-14 |
 | Pravilnik o izmjenama i dopuni pravilnika o načinu prijave, vođenju i ažuriranju liste pružatelja besplatne pravne pomoći | [`pravilnik/2025/sg029-4d9675/`](pravilnik/2025/sg029-4d9675/) | amending act | 1 | 2025-05-20 | 2025-05-20 |
 | Pravilnik o izmjenama pravilnika o sistemu klasificiranja vojnih lica | [`pravilnik/2025/sg033-e9ba5e/`](pravilnik/2025/sg033-e9ba5e/) | in force | 1 | 2025-06-11 | 2025-06-11 |
 | Pravilnik o načinu prikupljanja i objavljivanja podataka o tržištu elektronskih komunikacija | [`pravilnik/2025/sg038-1116ce/`](pravilnik/2025/sg038-1116ce/) | in force | 1 | 2025-07-05 | 2025-07-05 |
+| Pravilnik o izmjeni i dopuni pravilnika o administrativnim procedurama pregleda, kontrole i revizije finansijskih izvještaja političkih stranaka | [`pravilnik/2025/sg039-d44c97/`](pravilnik/2025/sg039-d44c97/) | amending act | 1 | 2025-06-19 | 2025-06-19 |
 | Pravilnik o dopuni pravilnika o nagradama i pohvalama u ministarstvu odbrane i oružanim snagama Bosne i Hercegovine broj 10-02-3-861-1/18 od 06.03.2018. godine | [`pravilnik/2025/sg040-64af39/`](pravilnik/2025/sg040-64af39/) | amending act | 1 | 2025-07-11 | 2025-07-11 |
 | Pravilnik o primjeni tehničkih specifikacija interoperabilnosti (tsi) koje se odnose na podsistem "telematske aplikacije za prijevoz putnika" | [`pravilnik/2025/sg043-862f4f/`](pravilnik/2025/sg043-862f4f/) | in force | 1 | 2025-07-30 | 2025-07-30 |
 | Pravilnik o registrovanju biometrijskih podataka stranaca | [`pravilnik/2025/sg046-487ce1/`](pravilnik/2025/sg046-487ce1/) | in force | 1 | 2025-08-09 | 2025-08-09 |
 | Pravilnik o centralnoj bazi podataka o strancima | [`pravilnik/2025/sg046-563253/`](pravilnik/2025/sg046-563253/) | in force | 1 | 2025-08-09 | 2025-08-09 |
 | Pravilnik o sadržaju, načinu vođenja i korištenja službenih evidencija o strancima | [`pravilnik/2025/sg046-b5cb05/`](pravilnik/2025/sg046-b5cb05/) | in force | 1 | 2025-08-09 | 2025-08-09 |
+| Pravilnik o prijemu u vojnu službu | [`pravilnik/2025/sg047-c2b00a/`](pravilnik/2025/sg047-c2b00a/) | in force | 1 | 2025-07-18 | 2025-07-18 |
 | Pravilnik o mjerilima i načinu utvrđivanja zdravstvene sposobnosti ovlaštenih zavodskih službenika | [`pravilnik/2025/sg048-9fbc8f/`](pravilnik/2025/sg048-9fbc8f/) | in force | 1 | 2025-08-16 | 2025-08-16 |
+| Pravilnik o dopuni pravilnika o kućnom redu zavoda za izvršenje krivičnih sankcija, pritvora i drugih mjera Bosne i Hercegovine | [`pravilnik/2025/sg050-49a80c/`](pravilnik/2025/sg050-49a80c/) | amending act | 1 | 2025-07-16 | 2025-07-16 |
 | Pravilnik o izmjenama pravilnika o uplaćivanju indirektnih poreza i ostalih prihoda i taksi koje naplaćuje uprava za indirektno oporezivanje | [`pravilnik/2025/sg057-903416/`](pravilnik/2025/sg057-903416/) | in force | 1 | 2025-10-11 | 2025-10-11 |
 | Pravilnik o izdavanju graničnog odobrenja | [`pravilnik/2025/sg059-00161e/`](pravilnik/2025/sg059-00161e/) | in force | 1 | 2025-10-18 | 2025-10-18 |
 | Pravilnik o primjeni tehničkih specifikacija za interoperabilnost koje se odnose na saobraćajno-upravljački i signalno-sigurnosni podsistem | [`pravilnik/2025/sg059-e52265/`](pravilnik/2025/sg059-e52265/) | in force | 1 | 2025-10-18 | 2025-10-18 |
+| Pravilnik o utvrđivanju baze troškova i jedinične cijene naknade za pružanje usluga u zračnoj plovidbi na ruti | [`pravilnik/2025/sg065-4a67f0/`](pravilnik/2025/sg065-4a67f0/) | in force | 1 | 2025-11-08 | 2025-11-08 |
 | Pravilnik o dopuni pravilnika o izgledu i sadržaju, uslovima i proceduri izdavanja i oduzimanja dozvola za kretanje i zadržavanje osoba na području graničnog prijelaza na međunarodnom aerodromu | [`pravilnik/2025/sg066-41a632/`](pravilnik/2025/sg066-41a632/) | amending act | 1 | 2025-11-12 | 2025-11-12 |
 | Pravilnik o izmjenama i dopunama pravilnika o uvjetima za izdavanje licence i kvalifikacijske kartice vozača | [`pravilnik/2025/sg066-4572d7/`](pravilnik/2025/sg066-4572d7/) | amending act | 1 | 2025-11-12 | 2025-11-12 |
 | Pravilnik o izmjenama i dopunama pravilnika o registriranju vozila | [`pravilnik/2025/sg066-7a6a62/`](pravilnik/2025/sg066-7a6a62/) | amending act | 1 | 2025-11-12 | 2025-11-12 |
 | Pravilnik o izmjenama pravilnika o vozačkoj dozvoli | [`pravilnik/2025/sg066-a2d260/`](pravilnik/2025/sg066-a2d260/) | in force | 1 | 2025-11-12 | 2025-11-12 |
 | Pravilnik o dopunama pravilnika o orijentacionim mjerilima za rad tužilaca u tužilaštvima u bosni i hercegovini | [`pravilnik/2025/sg069-b1a770/`](pravilnik/2025/sg069-b1a770/) | amending act | 1 | 2025-11-22 | 2025-11-22 |
 | Pravilnik o izmjenama i dopunama pravilnika o orijentacionim mjerilima za rad sudija i stručnih saradnika u sudovima u bosni i hercegovini | [`pravilnik/2025/sg069-e02214/`](pravilnik/2025/sg069-e02214/) | amending act | 1 | 2025-11-22 | 2025-11-22 |
+| Pravilnik o rezervnom sastavu oružanih snaga Bosne i Hercegovine | [`pravilnik/2025/sg077-b00f90/`](pravilnik/2025/sg077-b00f90/) | in force | 1 | 2025-11-28 | 2025-11-28 |
+| Pravilnik o načinu prikupljanja podataka o pravima i potrebama nacionalnih manjina u bosni i hercegovini | [`pravilnik/2025/sg078-56ab4e/`](pravilnik/2025/sg078-56ab4e/) | in force | 1 | 2025-12-12 | 2025-12-12 |
 | Pravilnik o izmjeni i dopunama pravilnika o unutrašnjem sudskom poslovanju | [`pravilnik/2025/sg079-b07625/`](pravilnik/2025/sg079-b07625/) | amending act | 1 | 2026-01-06 | 2026-01-06 |
+| Pravilnik o dopuni pravilnika o postupku imenovanja i razrješenja biračkih odbora za lokalne izbore u bosni i hercegovini 2024. godine | [`pravilnik/2026/sg003-2a5bcb/`](pravilnik/2026/sg003-2a5bcb/) | amending act | 1 | 2026-01-08 | 2026-01-08 |
 | Pravilnik o obavljanju i troškovima graničnih provjera na drugom mjestu | [`pravilnik/2026/sg003-418403/`](pravilnik/2026/sg003-418403/) | in force | 1 | 2026-01-24 | 2026-01-24 |
 | Pravilnik o načinu prikupljanja, sadržaju, obradi, razmjeni i korisnicima podataka | [`pravilnik/2026/sg003-d37385/`](pravilnik/2026/sg003-d37385/) | in force | 1 | 2026-01-24 | 2026-01-24 |
 | Pravilnik o načinu obavljanja graničnih provjera | [`pravilnik/2026/sg004-7a8efe/`](pravilnik/2026/sg004-7a8efe/) | in force | 1 | 2026-01-28 | 2026-01-28 |
 | Pravilnik o uslovima i načinu određivanja područja graničnog prijelaza | [`pravilnik/2026/sg006-854807/`](pravilnik/2026/sg006-854807/) | in force | 1 | 2026-02-04 | 2026-02-04 |
 | Pravilnik o provođenju zakona o sprečavanju pranja novca i finansiranja terorističkih aktivnosti | [`pravilnik/2026/sg008-562af0/`](pravilnik/2026/sg008-562af0/) | in force | 1 | 2026-02-11 | 2026-02-11 |
 | Pravilnik o izmjenama i dopunama pravilnika o organizaciji rada i utvrđivanju rezultata glasanja u glavnom centru za brojanje za prijevremene izbore za predsjednika republike srpske 2025. godine | [`pravilnik/2026/sg011-b73d24/`](pravilnik/2026/sg011-b73d24/) | amending act | 1 | 2026-02-14 | 2026-02-14 |
+| Pravilnik o upravljanju protokom zračnog prometa | [`pravilnik/2026/sg013-86b377/`](pravilnik/2026/sg013-86b377/) | in force | 1 | 2026-02-28 | 2026-02-28 |
 | Pravilnik o postavljanju i upotrebi tehničke opreme i videonadzora | [`pravilnik/2026/sg017-157b35/`](pravilnik/2026/sg017-157b35/) | in force | 1 | 2026-03-11 | 2026-03-11 |
+| Pravilnik o dopuni pravilnika o načinu ostvarivanja zdravstvenog osiguranja osoba kojima je priznata međunarodna zaštita u bosni i hercegovini | [`pravilnik/2026/sg017-201f23/`](pravilnik/2026/sg017-201f23/) | amending act | 1 | 2026-03-11 | 2026-03-11 |
+| Pravilnik o dopunama pravilnika o plaćama, dodacima i naknadama osoblja u diplomatsko-konzularnim predstavništvima Bosne i Hercegovine | [`pravilnik/2026/sg020-ed766e/`](pravilnik/2026/sg020-ed766e/) | amending act | 1 | 2026-02-09 | 2026-02-09 |
 | Pravilnik o postupku određivanja privremenog graničnog prijelaza | [`pravilnik/2026/sg021-35537e/`](pravilnik/2026/sg021-35537e/) | in force | 1 | 2026-03-25 | 2026-03-25 |
 | Pravilnik o dopunama pravilnika o orijentacionim mjerilima za rad tužilaca u tužilaštvima u bosni i hercegovini | [`pravilnik/2026/sg021-9cbe7a/`](pravilnik/2026/sg021-9cbe7a/) | amending act | 1 | 2026-03-25 | 2026-03-25 |
 | Pravilnik o izmjenama i dopunama pravilnika o orijentacionim mjerilima za rad sudija i stručnih saradnika u sudovima u bosni i hercegovini | [`pravilnik/2026/sg025-58fb41/`](pravilnik/2026/sg025-58fb41/) | amending act | 1 | 2026-04-11 | 2026-04-11 |
 | Pravilnik o načinu obavljanja kontrole prijenosa oružja i municije preko državne granice | [`pravilnik/2026/sg027-04a6c3/`](pravilnik/2026/sg027-04a6c3/) | in force | 1 | 2026-04-25 | 2026-04-25 |
 | Pravilnik o izmjeni i dopuni pravilnika o nagradama i pohvalama u ministarstvu odbrane i oružanim snagama Bosne i Hercegovine | [`pravilnik/2026/sg030-a176cf/`](pravilnik/2026/sg030-a176cf/) | amending act | 1 | 2026-04-30 | 2026-04-30 |
+| Pravilnik o prijavi i uvjetima za ovjeru političkog subjekta za učešće na općim izborima 2026. godine | [`pravilnik/2026/sg032-60df88/`](pravilnik/2026/sg032-60df88/) | in force | 1 | 2026-05-06 | 2026-05-06 |
+| Pravilnik o predizbornim i postizbornim finansijskim izvještajima i izvještajima o prometu posebnog računa za finansiranje izborne kampanje nezavisnih kandidata | [`pravilnik/2026/sg032-729acd/`](pravilnik/2026/sg032-729acd/) | in force | 1 | 2026-05-06 | 2026-05-06 |
+| Pravilnik o dopunama pravilnika o postupku imenovanja i razrješenja predsjednika i članova biračkih odbora u bosni i hercegovni | [`pravilnik/2026/sg032-9a86f5/`](pravilnik/2026/sg032-9a86f5/) | amending act | 1 | 2026-05-06 | 2026-05-06 |
 | Pravilnik o standardima i uslovima izgradnje i opremanja graničnih prijelaza | [`pravilnik/2026/sg035-031458/`](pravilnik/2026/sg035-031458/) | in force | 1 | 2026-05-27 | 2026-05-27 |
 | Pravilnik o izmjeni pravilnika o vođenju državnog registra akreditovanih visokoškolskih ustanova u bosni i hercegovini | [`pravilnik/2026/sg036-e490dc/`](pravilnik/2026/sg036-e490dc/) | in force | 1 | 2026-05-30 | 2026-05-30 |
+| Pravilnik o izmjenama pravilnika o postupku imenovanja i razrješenja predsjednika i članova biračkih odbora u bosni i hercegovni | [`pravilnik/2026/sg041-9e00a1/`](pravilnik/2026/sg041-9e00a1/) | in force | 1 | 2026-06-11 | 2026-06-11 |
 | Pravilnik o postupku usklađivanja i registracije redova vožnje međunarodnog i međuentitetskog linijskog prijevoza putnika | [`pravilnik/2026/sg045-4728d0/`](pravilnik/2026/sg045-4728d0/) | in force | 1 | 2026-07-08 | 2026-07-08 |
 | Pravilnik o dopuni pravilnika o primjeni zakona o porezu na dodatu vrijednost | [`pravilnik/2026/sg045-f39d65/`](pravilnik/2026/sg045-f39d65/) | amending act | 1 | 2026-07-08 | 2026-07-08 |
+| Pravilnik o zaštiti snaga od djelovanja bespilotnih letjelica/sistema | [`pravilnik/2026/sg046-478f9a/`](pravilnik/2026/sg046-478f9a/) | in force | 1 | 2026-04-17 | 2026-04-17 |
 | Pravilnik o vozačkoj dozvoli | [`pravilnik/2026/sg046-7cf6bc/`](pravilnik/2026/sg046-7cf6bc/) | in force | 1 | 2026-07-11 | 2026-07-11 |
 | Pravilnik o sadržaju i načinu obilježavanja spoljašnjeg i unutrašnjeg pakovanja lijeka i sadržaju uputstva za pacijenta | [`pravilnik/2026/sg052-342c51/`](pravilnik/2026/sg052-342c51/) | in force | 1 | 2026-08-01 | 2026-08-01 |
+| Pravilnik o izmjenama i dopunama pravilnika o postupku imenovanja i razrješenja predsjednika i članova biračkih odbora u bosni i hercegovini | [`pravilnik/2026/sg054-a9ae88/`](pravilnik/2026/sg054-a9ae88/) | amending act | 1 | 2026-07-22 | 2026-07-22 |
 | Pravilnik o izmjenama i dopunama pravilnika o vođenju registra pravnih i fizičkih osoba u oblasti sporta na nivou Bosne i Hercegovine | [`pravilnik/2026/sg055-b6c42e/`](pravilnik/2026/sg055-b6c42e/) | amending act | 1 | 2026-08-12 | 2026-08-12 |
+| Pravilnik o izmjeni pravilnika o formi, sadržaju, upotrebi i izradi izvoda iz centralnog biračkog spiska | [`pravilnik/2026/sg056-ba6a25/`](pravilnik/2026/sg056-ba6a25/) | in force | 1 | 2026-07-30 | 2026-07-30 |
+| Pravilnik o izmjeni pravilnika o postupku imenovanja i razrješenja predsjednika i članova biračkih odbora u bosni i hercegovini | [`pravilnik/2026/sg062-c609d3/`](pravilnik/2026/sg062-c609d3/) | in force | 1 | 2026-08-20 | 2026-08-20 |
 | Pravilnik o kategorizaciji sportista na nivou Bosne i Hercegovine | [`pravilnik/2026/sg067-821b49/`](pravilnik/2026/sg067-821b49/) | in force | 1 | 2026-09-19 | 2026-09-19 |
 
-## uputstvo (20, of which 7 amending acts)
+## uputstvo (58, of which 18 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| Uputstvo o rokovima izbornih aktivnosti za održavanje prijevremenih izbora za gradonačelnika grada živinice | [`uputstvo/2023/sg023-005dc8/`](uputstvo/2023/sg023-005dc8/) | in force | 1 | 2023-03-29 | 2023-03-29 |
+| Uputstvo o postupku nadzora koji provodi regulatorna agencija za komunikacije | [`uputstvo/2023/sg024-166740/`](uputstvo/2023/sg024-166740/) | in force | 1 | 2023-04-15 | 2023-04-15 |
+| Uputstvo o načinu pripremanja godišnjeg programa rada i izvještaja o radu u institucijama Bosne i Hercegovine | [`uputstvo/2023/sg048-4e919c/`](uputstvo/2023/sg048-4e919c/) | in force | 1 | 2023-07-12 | 2023-07-12 |
+| Uputstvo o podnošenju prijave za porez na dodanu vrijednost upotrebom kvalificirane elektronske potvrde | [`uputstvo/2023/sg049-f8ad51/`](uputstvo/2023/sg049-f8ad51/) | in force | 1 | 2023-07-22 | 2023-07-22 |
+| Uputstvo o rokovima izbornih aktivnosti za održavanje prijevremenih izbora za načelnika općine stari grad sarajevo | [`uputstvo/2023/sg060-a27163/`](uputstvo/2023/sg060-a27163/) | in force | 1 | 2023-08-30 | 2023-08-30 |
+| Uputstvo o načinu pristupa centralnoj elektronskoj evidenciji i razmjeni podataka o kontroli kretanja oružja i vojne opreme | [`uputstvo/2023/sg063-3dba05/`](uputstvo/2023/sg063-3dba05/) | in force | 1 | 2023-07-31 | 2023-07-31 |
 | Uputstvo o stavljanju van snage uputstva o procesu upravljanja rizicima poštivanja propisa o indirektnom oporezivanju | [`uputstvo/2024/sg019-904b62/`](uputstvo/2024/sg019-904b62/) | in force | 1 | 2024-03-27 | 2024-03-27 |
+| Uputstvo o izmjeni uputstva o načinu planiranja, odobravanja i realiziranja višegodišnjih projekata u institucijama Bosne i Hercegovine | [`uputstvo/2024/sg024-bbd4a6/`](uputstvo/2024/sg024-bbd4a6/) | in force | 1 | 2024-03-19 | 2024-03-19 |
+| Uputstvo o izmjenama i dopunama uputstva o procedurama za rješavanje po prigovorima i žalbama podnesenim izbornim komisijama | [`uputstvo/2024/sg031-64a904/`](uputstvo/2024/sg031-64a904/) | amending act | 1 | 2024-05-03 | 2024-05-03 |
+| Uputstvo o dopunama uputstva o postupku provođenja posrednih izbora za organe vlasti u bosni i hercegovini obuhvaćenih izbornim zakonom Bosne i Hercegovine | [`uputstvo/2024/sg031-810635/`](uputstvo/2024/sg031-810635/) | amending act | 1 | 2024-05-03 | 2024-05-03 |
+| Uputstvo o izmjenama i dopunama uputstva o izgledu i načinu ispunjavanja obrasca izjave o imovinskom stanju | [`uputstvo/2024/sg031-e33485/`](uputstvo/2024/sg031-e33485/) | amending act | 1 | 2024-05-03 | 2024-05-03 |
+| Uputstvo o dopuni uputstva o dodjeli i prestanku mandata | [`uputstvo/2024/sg031-e80ec4/`](uputstvo/2024/sg031-e80ec4/) | amending act | 1 | 2024-05-03 | 2024-05-03 |
+| Uputstvo o rokovima i redoslijedu izbornih aktivnosti za lokalne izbore 2024. godine koji će se održati u nedjelju 06. oktobra 2024. godine | [`uputstvo/2024/sg031-f76821/`](uputstvo/2024/sg031-f76821/) | in force | 1 | 2024-05-08 | 2024-05-08 |
+| Uputstvo o izmjeni uputstva o uvjetima i procedurama za akreditiranje izbornih posmatrača u bosni i hercegovini | [`uputstvo/2024/sg041-2232c5/`](uputstvo/2024/sg041-2232c5/) | in force | 1 | 2024-06-11 | 2024-06-11 |
+| Uputstvo o izmjeni uputstva o žrijebanju političkih subjekata za mjesto u biračkom odboru za lokalne izbore u bosni i hercegovini 2024. godine | [`uputstvo/2024/sg046-7c66df/`](uputstvo/2024/sg046-7c66df/) | in force | 1 | 2024-06-27 | 2024-06-27 |
 | Uputstvo o postupku izdavanja uvjerenja o činjenicama o kojima uprava za indirektno oporezivanje vodi službenu evidenciju | [`uputstvo/2024/sg049-2d04f6/`](uputstvo/2024/sg049-2d04f6/) | in force | 1 | 2024-07-27 | 2024-07-27 |
+| Uputstvo o provođenju nadzora nad zakonitošću rada društva crvenog krsta/križa Bosne i Hercegovine | [`uputstvo/2024/sg051-c72ea2/`](uputstvo/2024/sg051-c72ea2/) | in force | 1 | 2024-05-29 | 2024-05-29 |
 | Uputstvo o izmjenama i dopunama uputstva o odobravanju i izvršavanju povrata novčanih sredstava koji se evidentiraju u poreznom podsistemu elektronskim putem, izuzev povrata po pdv prijavi | [`uputstvo/2024/sg060-15092a/`](uputstvo/2024/sg060-15092a/) | amending act | 1 | 2024-09-14 | 2024-09-14 |
 | Uputstvo o dopuni uputstva o načinu polaganja i tekstu zakletve policijskih službenika Bosne i Hercegovine | [`uputstvo/2024/sg060-dd1e5b/`](uputstvo/2024/sg060-dd1e5b/) | amending act | 1 | 2024-09-06 | 2024-09-06 |
+| Uputstvo o instalaciji, korištenju opreme za video nadzor, prijenosu i čuvanju nadzornih video snimaka, o odgovornostima izbornih komisija i biračkih odbora, te prekršajima zbog kršenja propisanih pravila - pilot projekat 4 | [`uputstvo/2024/sg061-c3f92f/`](uputstvo/2024/sg061-c3f92f/) | in force | 1 | 2024-08-29 | 2024-08-29 |
+| Uputstvo o vrsti pomoći, kriterijima, načinu dodjele pomoći i odabira korisnika projekata stambenog zbrinjavanja roma u bosni i hercegovini | [`uputstvo/2024/sg074-1f3bdf/`](uputstvo/2024/sg074-1f3bdf/) | in force | 1 | 2024-10-08 | 2024-10-08 |
 | Uputstvo o dopunama uputstva o pojednostavljenom carinskom postupku po fakturi | [`uputstvo/2024/sg080-912a3e/`](uputstvo/2024/sg080-912a3e/) | amending act | 1 | 2024-11-30 | 2024-11-30 |
 | Uputstvo o izmjenama i dopunama uputstva o utvrđivanju kvalifikacija, broju, imenovanju, obuci i razrješenju članova izborne komisije osnovne izborne jedinice u bosni i hercegovini | [`uputstvo/2024/sg085-743f93/`](uputstvo/2024/sg085-743f93/) | amending act | 1 | 2024-12-11 | 2024-12-11 |
+| Uputstvo o postupanju sa licima sa invaliditetom i licima sa smanjenom pokretljivošću u civilnom zrakoplovstvu Bosne i Hercegovine | [`uputstvo/2024/sg091-63cc57/`](uputstvo/2024/sg091-63cc57/) | in force | 1 | 2025-01-07 | 2025-01-07 |
+| Uputstvo o izmjenama i dopunama uputstva o osiguranju carinskog duga | [`uputstvo/2025/sg009-7a94e7/`](uputstvo/2025/sg009-7a94e7/) | amending act | 1 | 2025-02-11 | 2025-02-11 |
 | Uputstvo o tehničkim i operativnim pravilima pristupa sistemima agencije za identifikacione dokumente, evidenciju i razmjenu podataka Bosne i Hercegovine | [`uputstvo/2025/sg031-481fc2/`](uputstvo/2025/sg031-481fc2/) | in force | 1 | 2025-06-04 | 2025-06-04 |
+| Uputstvo o izmjeni i dopuni uputstva o načinu planiranja, odobravanja i realiziranja višegodišnjih projekata u institucijama Bosne i Hercegovine | [`uputstvo/2025/sg033-1c3c67/`](uputstvo/2025/sg033-1c3c67/) | amending act | 1 | 2025-04-22 | 2025-04-22 |
 | Uputstvo o načinu postupanja sa prijavama za porez na dodanu vrijednost i prijavama akcize i razrezom poreza po službenoj dužnosti | [`uputstvo/2025/sg036-6b4431/`](uputstvo/2025/sg036-6b4431/) | in force | 1 | 2025-06-25 | 2025-06-25 |
 | Uputstvo o korištenju bjanko vlastite trasirane mjenice u carinskom postupku unutrašnje obrade po osnovu lohn posla | [`uputstvo/2025/sg052-7fdd07/`](uputstvo/2025/sg052-7fdd07/) | in force | 1 | 2025-09-10 | 2025-09-10 |
+| Uputstvo o rokovima izbornih aktivnosti za održavanje prijevremenih izbora za predsjednika republike srpske | [`uputstvo/2025/sg056-411290/`](uputstvo/2025/sg056-411290/) | in force | 1 | 2025-09-22 | 2025-09-22 |
 | Uputstvo o stavljanju van snage uputstva o određivanju carinskih referata na graničnim prijelazima u kojima se može provoditi carinski postupak stavljanja robe u slobodan promet, vrste roba i način provedbe postupka | [`uputstvo/2025/sg064-875a1e/`](uputstvo/2025/sg064-875a1e/) | in force | 1 | 2025-11-05 | 2025-11-05 |
 | Uputstvo o provođenju postupka povrata poreza na dodatu vrijednost stranim poreskim obveznicima | [`uputstvo/2025/sg069-471d41/`](uputstvo/2025/sg069-471d41/) | in force | 1 | 2025-11-22 | 2025-11-22 |
 | Uputstvo o objavi serijskih brojeva izgubljenih, ukradenih i oštećenih registarskih tablica na web stranici agencije za identifikaciona dokumenta, evidenciju i razmjenu podataka Bosne i Hercegovine | [`uputstvo/2025/sg075-fff6a5/`](uputstvo/2025/sg075-fff6a5/) | in force | 1 | 2025-12-24 | 2025-12-24 |
+| Uputstvo o rokovima izbornih aktivnosti za održavanje prijevremenih izbora za načelnika općine vareš | [`uputstvo/2025/sg077-fe6883/`](uputstvo/2025/sg077-fe6883/) | in force | 1 | 2025-12-18 | 2025-12-18 |
+| Uputstvo o izmjeni uputstva o rokovima izbornih aktivnosti za održavanje ponovnih prijevremenih izbora za predsjednika republike srpske | [`uputstvo/2026/sg007-c490dc/`](uputstvo/2026/sg007-c490dc/) | in force | 1 | 2026-01-26 | 2026-01-26 |
 | Uputstvo o postupku uzimanja uzorka robe od strane carinskog organa | [`uputstvo/2026/sg010-383cf5/`](uputstvo/2026/sg010-383cf5/) | in force | 1 | 2026-02-18 | 2026-02-18 |
 | Uputstvo o izmjenama i dopunama uputstva o načinu podnošenja zahtjeva za prijavu odnosno odjavu prebivališta ili boravišta i adrese stanovanja elektronskim putem | [`uputstvo/2026/sg010-743410/`](uputstvo/2026/sg010-743410/) | amending act | 1 | 2026-02-18 | 2026-02-18 |
 | Uputstvo o izmjenama i dopunama uputstva o načinu podnošenja zahtjeva za izdavanje uvjerenja o činjenicama iz službene evidencije o ličnim kartama elektronskim putem | [`uputstvo/2026/sg010-fc3590/`](uputstvo/2026/sg010-fc3590/) | amending act | 1 | 2026-02-18 | 2026-02-18 |
 | Uputstvo o provođenju nadzora | [`uputstvo/2026/sg024-9c5d28/`](uputstvo/2026/sg024-9c5d28/) | in force | 1 | 2026-03-31 | 2026-03-31 |
+| Uputstvo o rokovima i redoslijedu izbornih aktivnosti neposrednih izbora za opće izbore 2026. godine, koji će biti održani u nedjelju 04. oktobra 2026. godine | [`uputstvo/2026/sg032-1cd6bb/`](uputstvo/2026/sg032-1cd6bb/) | in force | 1 | 2026-05-07 | 2026-05-07 |
+| Uputstvo o dodjeli i prestanku mandata | [`uputstvo/2026/sg032-3325c5/`](uputstvo/2026/sg032-3325c5/) | in force | 1 | 2026-05-06 | 2026-05-06 |
+| Uputstvo o postupku provođenja posrednih izbora za organe vlasti u bosni i hercegovini obuhvaćenih izbornim zakonom Bosne i Hercegovine | [`uputstvo/2026/sg032-42aeb2/`](uputstvo/2026/sg032-42aeb2/) | in force | 1 | 2026-05-06 | 2026-05-06 |
+| Uputstvo o procedurama za rješavanje po prigovorima i žalbama podnesenim centralnoj izbornoj komisiji bih i izbornim komisijama osnovnih izbornih jedinica | [`uputstvo/2026/sg032-55159b/`](uputstvo/2026/sg032-55159b/) | in force | 1 | 2026-05-06 | 2026-05-06 |
+| Uputstvo o postupku žrijebanja političkih subjekata za utvrđivanje redoslijeda na glasačkom listiću | [`uputstvo/2026/sg032-6631a9/`](uputstvo/2026/sg032-6631a9/) | in force | 1 | 2026-05-06 | 2026-05-06 |
+| Uputstvo o izgledu i načinu ispunjavanja obrasca izjave o imovinskom stanju | [`uputstvo/2026/sg032-84345d/`](uputstvo/2026/sg032-84345d/) | in force | 1 | 2026-05-06 | 2026-05-06 |
+| Uputstvo o izmjeni i dopuni uputstva o postupku otvaranja i korištenja posebnog računa za finansiranje troškova izborne kampanje | [`uputstvo/2026/sg032-b73295/`](uputstvo/2026/sg032-b73295/) | amending act | 1 | 2026-05-06 | 2026-05-06 |
+| Uputstvo o izmjenama i dopunama uputstva o utvrđivanju kvalifikacija, broju, imenovanju, obuci i razrješenju članova izborne komisije osnovne izborne jedinice u bosni i hercegovini | [`uputstvo/2026/sg032-bae929/`](uputstvo/2026/sg032-bae929/) | amending act | 1 | 2026-05-06 | 2026-05-06 |
+| Uputstvo o donošenju programa utroška sredstava političke stranke | [`uputstvo/2026/sg032-d3ed43/`](uputstvo/2026/sg032-d3ed43/) | in force | 1 | 2026-05-06 | 2026-05-06 |
 | Uputstvo o primjeni ciljanih i proporcionalnih mjera prema rizičnim neprofitnim organizacijama s ciljem sprečavanja zloupotrebe neprofitnih organizacija za finansiranje terorističkih aktivnosti | [`uputstvo/2026/sg035-bc0d30/`](uputstvo/2026/sg035-bc0d30/) | in force | 1 | 2026-05-27 | 2026-05-27 |
+| Uputstvo o izmjeni uputstva o uvjetima i procedurama za akreditiranje izbornih posmatrača u bosni i hercegovini | [`uputstvo/2026/sg041-a159ff/`](uputstvo/2026/sg041-a159ff/) | in force | 1 | 2026-06-11 | 2026-06-11 |
 | Uputstvo o razmjeni i distribuciji povjerljivih informacija koje se tiču akata nezakonitog ometanja usmjerenih protiv civilnog zrakoplovstva | [`uputstvo/2026/sg041-c85f7f/`](uputstvo/2026/sg041-c85f7f/) | in force | 1 | 2026-06-24 | 2026-06-24 |
+| Uputstvo o izmjenama i dopunama uputstva o postupku kućnog uvoznog carinjenja | [`uputstvo/2026/sg045-a6e559/`](uputstvo/2026/sg045-a6e559/) | amending act | 1 | 2026-06-23 | 2026-06-23 |
 | Uputstvo o dopunama uputstva za rad po računu rezervi banaka | [`uputstvo/2026/sg050-29f4cf/`](uputstvo/2026/sg050-29f4cf/) | amending act | 1 | 2026-07-18 | 2026-07-18 |
+| Uputstvo o izmjeni uputstva o uvjetima i procedurama za akreditiranje izbornih posmatrača u bosni i hercegovini | [`uputstvo/2026/sg054-37eeeb/`](uputstvo/2026/sg054-37eeeb/) | in force | 1 | 2026-07-22 | 2026-07-22 |
+| Uputstvo o izmjeni uputstva o vrstama, načinu i rokovima za određivanje biračkih mjesta | [`uputstvo/2026/sg056-5600de/`](uputstvo/2026/sg056-5600de/) | in force | 1 | 2026-07-30 | 2026-07-30 |
+| Uputstvo o izmjenama i dopunama uputstva o uvjetima i procedurama za akreditiranje izbornih posmatrača u bosni i hercegovini | [`uputstvo/2026/sg060-f7ad33/`](uputstvo/2026/sg060-f7ad33/) | amending act | 1 | 2026-08-13 | 2026-08-13 |
+| Uputstvo o izmjeni i dopunama uputstva o popunjavanju carinske deklaracije i deklaracije za privremeni smještaj | [`uputstvo/2026/sg077-5761b1/`](uputstvo/2026/sg077-5761b1/) | amending act | 1 | 2026-10-13 | 2026-10-13 |
 | Uputstvo o objavi serijskih brojeva izgubljenih i ukradenih vozačkih dozvola na web stranici agencije za identifikaciona dokumenta, evidenciju i razmjenu podataka Bosne i Hercegovine | [`uputstvo/2026/sg077-d0fa3e/`](uputstvo/2026/sg077-d0fa3e/) | in force | 1 | 2026-10-31 | 2026-10-31 |
 
-## zakon (179, of which 113 amending acts)
+## zakon (182, of which 116 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -183,6 +297,7 @@
 | Zakon o izmjeni i dopunama zakona o komunikacijama | [`zakon/2012/sg098-39e8d3/`](zakon/2012/sg098-39e8d3/) | amending act | 1 | 2012-12-18 | 2012-12-18 |
 | Zakon o izmjenama i dopuni zakona o administrativnim taksama | [`zakon/2012/sg098-e7d93f/`](zakon/2012/sg098-e7d93f/) | amending act | 1 | 2012-12-11 | 2012-12-11 |
 | Zakon o izmjeni zakona o ministarstvima i drugim organima uprave Bosne i Hercegovine | [`zakon/2013/sg006-16386a/`](zakon/2013/sg006-16386a/) | in force | 1 | 2013-02-05 | 2013-02-05 |
+| Zakon o dopuni zakona o osnovama sigurnosti saobraćaja na putevima u bosni i hercegovini | [`zakon/2013/sg018-3b83db/`](zakon/2013/sg018-3b83db/) | amending act | 1 | 2013-03-19 | 2013-03-19 |
 | Zakon o izmjenama zakona o popisu stanovništva, domaćinstava i stanova u bosni i hercegovini 2013. godine | [`zakon/2013/sg018-90853b/`](zakon/2013/sg018-90853b/) | in force | 1 | 2013-03-19 | 2013-03-19 |
 | Zakon o izmjenama i dopunama zakona o sudskoj policiji Bosne i Hercegovine | [`zakon/2013/sg018-b4bd83/`](zakon/2013/sg018-b4bd83/) | amending act | 1 | 2013-03-19 | 2013-03-19 |
 | Zakon o izmjeni i dopunama zakona o postupku zaključivanja i izvršavanja međunarodnih ugovora | [`zakon/2013/sg032-2a7bab/`](zakon/2013/sg032-2a7bab/) | amending act | 1 | 2013-05-07 | 2013-05-07 |
@@ -267,6 +382,8 @@
 | Zakon o izmjenama i dopunama zakona o zrakoplovstvu Bosne i Hercegovine | [`zakon/2018/sg025-1469f7/`](zakon/2018/sg025-1469f7/) | amending act | 1 | 2018-04-28 | 2018-04-28 |
 | Zakon o parlamentarnom nadzoru | [`zakon/2018/sg025-c42536/`](zakon/2018/sg025-c42536/) | in force | 1 | 2018-04-28 | 2018-04-28 |
 | Zakon o izmjeni zakona o plaćama i naknadama u institucijama Bosne i Hercegovine | [`zakon/2018/sg025-fc7682/`](zakon/2018/sg025-fc7682/) | in force | 1 | 2018-04-28 | 2018-04-28 |
+| Zakon o izmjeni i dopunama krivičnog zakona Bosne i Hercegovine | [`zakon/2018/sg035-375f4f/`](zakon/2018/sg035-375f4f/) | amending act | 1 | 2018-06-06 | 2018-06-06 |
+| Zakon o izmjenama i dopunama zakona o službi u oružanim snagama Bosne i Hercegovine | [`zakon/2018/sg038-dab4a8/`](zakon/2018/sg038-dab4a8/) | amending act | 1 | 2018-06-16 | 2018-06-16 |
 | Zakon o izmjenama i dopunama zakona o krivičnom postupku Bosne i Hercegovine | [`zakon/2018/sg065-5e2a77/`](zakon/2018/sg065-5e2a77/) | amending act | 1 | 2018-09-29 | 2018-09-29 |
 | Zakon o izmjenama i dopunama zakona o sistemu državne pomoći u bosni i hercegovini | [`zakon/2020/sg039-339ea8/`](zakon/2020/sg039-339ea8/) | amending act | 1 | 2020-07-11 | 2020-07-11 |
 | Zakon o izmjenama izbornog zakona Bosne i Hercegovine | [`zakon/2020/sg041-08c468/`](zakon/2020/sg041-08c468/) | in force | 1 | 2020-07-18 | 2020-07-18 |
