@@ -1,1 +1,0 @@
-Na osnovu člana 13. Zakona o putnim ispravama Bosne i Hercegovine ("Službeni glasnik BiH", broj 4/97, 11/99, 9/99, 27/00, 32/00, 19/01, 47/04, 53/07, 15/08, 33/08, 39/08) i člana 11. stav (3) Zakona o zaštiti ličnih podataka ("Službeni glasnik BiH", broj 49/06), Ministarstvo civilnih poslova, donosi
