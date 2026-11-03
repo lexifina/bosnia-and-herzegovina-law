@@ -2747,6 +2747,96 @@
    ]
   },
   {
+   "slug": "pravilnik-2026-sg062-c609d3",
+   "path": "pravilnik/2026/sg062-c609d3",
+   "short": "Pravilnik o izmjeni pravilnika o postupku imenovanja i razrješenja predsjednika i članova biračkih odbora u bosni i hercegovini",
+   "title": "Pravilnik o izmjeni pravilnika o postupku imenovanja i razrješenja predsjednika i članova biračkih odbora u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/vr1eGC8nXPw=",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/vr1eGC8nXPw=",
+     "sha256": "0d2113197eb468964cc699985a4680e039a3fe30e16116e984aecc886e8d1162"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2026-sg066-9bdce9",
+   "path": "pravilnik/2026/sg066-9bdce9",
+   "short": "Pravilnik o dopuni pravilnika o postupku za priznanje patenta i konsenzualnoga patenta",
+   "title": "Pravilnik o dopuni pravilnika o postupku za priznanje patenta i konsenzualnoga patenta",
+   "url": "https://www.sluzbenilist.ba/page/akt/Glsq6Mq6e08=",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/Glsq6Mq6e08=",
+     "sha256": "e6e326030ce5404aae25341de6d89f0a72732336a4dac5fdb35fa8ee1c187786"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2026-sg067-821b49",
+   "path": "pravilnik/2026/sg067-821b49",
+   "short": "Pravilnik o kategorizaciji sportista na nivou Bosne i Hercegovine",
+   "title": "Pravilnik o kategorizaciji sportista na nivou Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/iFqd7sLQQzQ=",
+   "versions": [
+    {
+     "from": "2026-09-19",
+     "units": 15,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/iFqd7sLQQzQ=",
+     "sha256": "d838523d0849cde47fa411ad309c2e2ce8ff59693b102ed0efa7e6287b34d17b"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2026-sg060-f7ad33",
+   "path": "uputstvo/2026/sg060-f7ad33",
+   "short": "Uputstvo o izmjenama i dopunama uputstva o uvjetima i procedurama za akreditiranje izbornih posmatrača u bosni i hercegovini",
+   "title": "Uputstvo o izmjenama i dopunama uputstva o uvjetima i procedurama za akreditiranje izbornih posmatrača u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/Ss6BalhOcx4=",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/Ss6BalhOcx4=",
+     "sha256": "51758a9fdd98d1ccd10886a9e68ad9b9d30ed1d3a29be43e5e5bdf16be50c693"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2026-sg077-5761b1",
+   "path": "uputstvo/2026/sg077-5761b1",
+   "short": "Uputstvo o izmjeni i dopunama uputstva o popunjavanju carinske deklaracije i deklaracije za privremeni smještaj",
+   "title": "Uputstvo o izmjeni i dopunama uputstva o popunjavanju carinske deklaracije i deklaracije za privremeni smještaj",
+   "url": "https://www.sluzbenilist.ba/page/akt/89YPj7qY8EU=",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/89YPj7qY8EU=",
+     "sha256": "c493c29fc32e6c16041596fd18f21fab041d36c61be8124efe472db102c943e8"
+    }
+   ]
+  },
+  {
+   "slug": "uputstvo-2026-sg077-d0fa3e",
+   "path": "uputstvo/2026/sg077-d0fa3e",
+   "short": "Uputstvo o objavi serijskih brojeva izgubljenih i ukradenih vozačkih dozvola na web stranici agencije za identifikaciona dokumenta, evidenciju i razmjenu podataka Bosne i Hercegovine",
+   "title": "Uputstvo o objavi serijskih brojeva izgubljenih i ukradenih vozačkih dozvola na web stranici agencije za identifikaciona dokumenta, evidenciju i razmjenu podataka Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/26kXLhXbUmY=",
+   "versions": [
+    {
+     "from": "2026-10-31",
+     "units": 5,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/26kXLhXbUmY=",
+     "sha256": "b30afb52f4c7872142b02d606636ba705c999e48a337bcb4f4746553da3ea394"
+    }
+   ]
+  },
+  {
    "slug": "constitution",
    "short": "Const.",
    "title": "Constitution of Bosnia and Herzegovina",
@@ -5087,36 +5177,6 @@
    ]
   },
   {
-   "slug": "pravilnik-2026-sg062-c609d3",
-   "path": "pravilnik/2026/sg062-c609d3",
-   "short": "Pravilnik o izmjeni pravilnika o postupku imenovanja i razrješenja predsjednika i članova biračkih odbora u bosni i hercegovini",
-   "title": "Pravilnik o izmjeni pravilnika o postupku imenovanja i razrješenja predsjednika i članova biračkih odbora u bosni i hercegovini",
-   "url": "https://www.sluzbenilist.ba/page/akt/vr1eGC8nXPw=",
-   "versions": [
-    {
-     "from": "2026-08-20",
-     "units": 3,
-     "source_url": "https://www.sluzbenilist.ba/page/akt/vr1eGC8nXPw=",
-     "sha256": "0d2113197eb468964cc699985a4680e039a3fe30e16116e984aecc886e8d1162"
-    }
-   ]
-  },
-  {
-   "slug": "pravilnik-2026-sg067-821b49",
-   "path": "pravilnik/2026/sg067-821b49",
-   "short": "Pravilnik o kategorizaciji sportista na nivou Bosne i Hercegovine",
-   "title": "Pravilnik o kategorizaciji sportista na nivou Bosne i Hercegovine",
-   "url": "https://www.sluzbenilist.ba/page/akt/iFqd7sLQQzQ=",
-   "versions": [
-    {
-     "from": "2026-09-19",
-     "units": 15,
-     "source_url": "https://www.sluzbenilist.ba/page/akt/iFqd7sLQQzQ=",
-     "sha256": "d838523d0849cde47fa411ad309c2e2ce8ff59693b102ed0efa7e6287b34d17b"
-    }
-   ]
-  },
-  {
    "slug": "uputstvo-2023-sg023-005dc8",
    "path": "uputstvo/2023/sg023-005dc8",
    "short": "Uputstvo o rokovima izbornih aktivnosti za održavanje prijevremenih izbora za gradonačelnika grada živinice",
@@ -5938,51 +5998,6 @@
      "units": 3,
      "source_url": "https://www.sluzbenilist.ba/page/akt/ohz4nh78h77rohz4nh78h77VJbBmOpI=",
      "sha256": "63b1ee46e7b4274ae3f0076c9f1d8749cff75e61dd3b3e479a7250dfb89e0d5d"
-    }
-   ]
-  },
-  {
-   "slug": "uputstvo-2026-sg060-f7ad33",
-   "path": "uputstvo/2026/sg060-f7ad33",
-   "short": "Uputstvo o izmjenama i dopunama uputstva o uvjetima i procedurama za akreditiranje izbornih posmatrača u bosni i hercegovini",
-   "title": "Uputstvo o izmjenama i dopunama uputstva o uvjetima i procedurama za akreditiranje izbornih posmatrača u bosni i hercegovini",
-   "url": "https://www.sluzbenilist.ba/page/akt/Ss6BalhOcx4=",
-   "versions": [
-    {
-     "from": "2026-08-13",
-     "units": 5,
-     "source_url": "https://www.sluzbenilist.ba/page/akt/Ss6BalhOcx4=",
-     "sha256": "51758a9fdd98d1ccd10886a9e68ad9b9d30ed1d3a29be43e5e5bdf16be50c693"
-    }
-   ]
-  },
-  {
-   "slug": "uputstvo-2026-sg077-5761b1",
-   "path": "uputstvo/2026/sg077-5761b1",
-   "short": "Uputstvo o izmjeni i dopunama uputstva o popunjavanju carinske deklaracije i deklaracije za privremeni smještaj",
-   "title": "Uputstvo o izmjeni i dopunama uputstva o popunjavanju carinske deklaracije i deklaracije za privremeni smještaj",
-   "url": "https://www.sluzbenilist.ba/page/akt/89YPj7qY8EU=",
-   "versions": [
-    {
-     "from": "2026-10-13",
-     "units": 3,
-     "source_url": "https://www.sluzbenilist.ba/page/akt/89YPj7qY8EU=",
-     "sha256": "c493c29fc32e6c16041596fd18f21fab041d36c61be8124efe472db102c943e8"
-    }
-   ]
-  },
-  {
-   "slug": "uputstvo-2026-sg077-d0fa3e",
-   "path": "uputstvo/2026/sg077-d0fa3e",
-   "short": "Uputstvo o objavi serijskih brojeva izgubljenih i ukradenih vozačkih dozvola na web stranici agencije za identifikaciona dokumenta, evidenciju i razmjenu podataka Bosne i Hercegovine",
-   "title": "Uputstvo o objavi serijskih brojeva izgubljenih i ukradenih vozačkih dozvola na web stranici agencije za identifikaciona dokumenta, evidenciju i razmjenu podataka Bosne i Hercegovine",
-   "url": "https://www.sluzbenilist.ba/page/akt/26kXLhXbUmY=",
-   "versions": [
-    {
-     "from": "2026-10-31",
-     "units": 5,
-     "source_url": "https://www.sluzbenilist.ba/page/akt/26kXLhXbUmY=",
-     "sha256": "b30afb52f4c7872142b02d606636ba705c999e48a337bcb4f4746553da3ea394"
     }
    ]
   }
