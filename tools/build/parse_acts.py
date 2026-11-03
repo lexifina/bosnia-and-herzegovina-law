@@ -47,12 +47,18 @@ ORD = {"prvog": 1, "drugog": 2, "trećeg": 3, "četvrtog": 4, "petog": 5, "šest
        "devetog": 9, "desetog": 10, "petnaestog": 15, "dvadesetog": 20, "tridesetog": 30, "narednog": 1, "sljedećeg": 1}
 ART = re.compile(r"^Član\s+(\d+)\s*([a-z])?\s*\.?$")
 HEADING = re.compile(r"^(?:POGLAVLJE|Poglavlje|DIO|Dio|GLAVA|Glava|ODJELJAK|Odjeljak|ODSJEK|Odsjek|[IVXLC]+\s*[.\-])")
-AMENDS = re.compile(r"^(?:ZAKON\s+O\s+(?:IZMJEN\w*|DOPUN\w*|IZMJENI\s+I\s+DOPUN\w*|IZMJENAMA\s+I\s+DOPUN\w*)"
-                    r"(?:\s+I\s+(?:IZMJEN\w*|DOPUN\w*))*\s+|ZAKON\s+O\s+PRESTANKU\s+(?:VAŽENJA|VAŽNOSTI)\s+|ISPRAVK\w*\s+)"
-                    r"(.*?ZAKONA?\s+O\s+.+)$")
-CITE = re.compile(r"Zakon\w*\s+o\s+([^()\"]{3,250}?)\s*\(\s*[\"„“]?Službeni\s+glasnik\s+BiH[\"“”]?\s*,?\s*(?:br\.|broj)\s*"
-                  r"([0-9/,.\s i]+)\)")
-IN_FORCE = re.compile(r"(?:Ovaj|Taj)\s+[Zz]akon\s+stupa\s+na\s+snagu\s+([^.]*)")
+# Title word -> (slug kind, law kind for the commit). Laws come from the Parliamentary Assembly; rulebooks,
+# instructions, rules of procedure and rules from the institutions that issue them.
+KINDS = {"ZAKON": ("zakon", "law"), "PRAVILNIK": ("pravilnik", "decree"), "UPUTSTVO": ("uputstvo", "decree"),
+         "POSLOVNIK": ("poslovnik", "decree"), "PRAVILO": ("pravilo", "decree")}
+KIND_WORDS = "ZAKON|PRAVILNIK|UPUTSTVO|POSLOVNIK|PRAVILO"
+STEMS = ("pravilnik", "uputstv", "poslovnik", "pravil", "zakon")  # longest first: "pravilnik" before "pravil"
+AMENDS = re.compile(r"^(?:(?:" + KIND_WORDS + r")\s+O\s+(?:IZMJEN\w*|DOPUN\w*)(?:\s+I\s+(?:IZMJEN\w*|DOPUN\w*))*\s+|"
+                    r"(?:" + KIND_WORDS + r")\s+O\s+PRESTANKU\s+(?:VAŽENJA|VAŽNOSTI)\s+|ISPRAVK\w*\s+)(.+)$")
+TARGET = re.compile(r"\b(ZAKONA?|PRAVILNIKA?|UPUTSTVA|UPUTSTVO|POSLOVNIKA?|PRAVILA|PRAVILO)\s+O\s+")
+CITE = re.compile(r"(Pravilnik|Uputstv|Poslovnik|Pravil|Zakon)\w*\s+o\s+([^()\"]{3,250}?)\s*\(\s*[\"„“]?Službeni\s+glasnik\s+BiH"
+                  r"[\"“”]?\s*,?\s*(?:br\.|broj)\s*([0-9/,.\s i]+)\)")
+IN_FORCE = re.compile(r"(?:Ovaj|Ovo|Ova|Taj)\s+(?:[Zz]akon|[Pp]ravilnik|[Uu]putstvo|[Pp]oslovnik|[Pp]ravilo)\s+stupa\s+na\s+snagu\s+([^.]*)")
 
 
 class Hold(Exception):
@@ -72,21 +78,29 @@ def subject(s: str) -> str:
     return s[:80]
 
 
+def stem(word: str) -> str:
+    w = word.lower()
+    return next((x for x in STEMS if w.startswith(x)), w)
+
+
 def own_subject(title: str) -> str | None:
-    m = re.match(r"^ZAKON\s+O\s+(.+)$", norm(title))
-    return subject(m.group(1)) if m else None
+    m = re.match(r"^(\w+)\s+O\s+(.+)$", norm(title).upper())
+    return f"{stem(m.group(1))}:{subject(m.group(2))}" if m and m.group(1) in KINDS else None
 
 
 def target_subject(title: str) -> str | None:
     m = AMENDS.match(norm(title).upper())
     if not m:
         return None
-    t = m.group(1)
-    k = t.find("ZAKONA O ")
-    if k < 0:
-        k = t.find("ZAKON O ")
-        return subject(t[k + 8:]) if k >= 0 else None
-    return subject(t[k + 9:])
+    t = TARGET.search(m.group(1))
+    return f"{stem(t.group(1))}:{subject(m.group(1)[t.end():])}" if t else None
+
+
+def similar(a: str, b: str, n: int) -> bool:
+    """Same kind of act, and one subject starts with the first n characters of the other."""
+    ka, sa = a.split(":", 1)
+    kb, sb = b.split(":", 1)
+    return ka == kb and (sa.startswith(sb[:n]) or sb.startswith(sa[:n]))
 
 
 def issues_in(s: str, default_yy: str | None = None) -> list[tuple[int, int]]:
@@ -114,7 +128,7 @@ def lines_of(fragment: str) -> list[str]:
     return out
 
 
-def split(page: str) -> tuple[dict, str, str | None]:
+def split(page: str, word: str = "ZAKON") -> tuple[dict, str, str | None]:
     """(units, title, adoption day) from the document part of the act page."""
     end = page.find('<div class="col-md-3')
     main, tail = (page[:end], page[end:]) if end > 0 else (page, "")
@@ -155,7 +169,7 @@ def split(page: str) -> tuple[dict, str, str | None]:
         strongs = val
         if not strongs:
             continue
-        if cur is None and not title_parts and strongs[0].upper().startswith("ZAKON"):
+        if cur is None and not title_parts and strongs[0].upper().startswith(word):
             title_parts = strongs
             continue
         m = ART.match(strongs[0])
@@ -209,7 +223,7 @@ def split(page: str) -> tuple[dict, str, str | None]:
     return out, title, adopted
 
 
-def in_force(units: dict, published: str) -> tuple[str, str]:
+def in_force(units: dict, published: str, adopted: str | None = None) -> tuple[str, str]:
     arts = [u["text"].replace("\n", " ") for k, u in units.items() if u["kind"] == "art"]
     text = " ".join(arts)
     # This law's own clause: outside quotation marks (provisions quoted into another act are not its own), or in
@@ -221,7 +235,16 @@ def in_force(units: dict, published: str) -> tuple[str, str]:
     if not clauses:
         raise Hold("in_force_clause_missing")
     c = clauses[-1].strip()
+    # matching only: some texts mix Cyrillic ј into Latin lj/nj, and say "objave" for "objavljivanja"
+    c = c.replace("lј", "lj").replace("nј", "nj").replace("Ј", "J")
+    c = re.sub(r"objave", "objavljivanja", c)
+    c = re.sub(r"^osam\s+dana", "osmog dana", c)
     p = date.fromisoformat(published)
+    if re.match(r"^(?:danom|na\s+dan|s\s+danom|sa\s+danom)\s+(?:njegovog\s+)?donošenja", c):
+        # in force on the day it was made: that day comes from the signature block, and must not follow publication
+        if adopted and adopted <= published:
+            return adopted, "adoption"
+        raise Hold("in_force_on_adoption_day_unknown")
     if re.match(r"^(?:danom|na\s+dan|s\s+danom|sa\s+danom)\s+(?:njegovog\s+|njegova\s+)?objavljivanja", c):
         return published, "publication"
     m = re.match(r"^(" + "|".join(ORD) + r")a?\s+dana\s+(?:od\s+dana|nakon|po|poslije)\s+(?:njegovog\s+|njegova\s+)?objavljivanja", c)
@@ -303,18 +326,27 @@ def main():
                                           r"prestaj(?:e|u) (?:da )?važi", operative))
         kind = "court" if court else "law" if r["title"].upper().startswith("ZAKON") else "other"
         for m in CITE.finditer(flat):
-            lst = issues_in(m.group(2))
+            lst = issues_in(m.group(3))
             for k, iss in enumerate(lst):
                 # (citing day, citing kind, citing act, court struck something, issues listed after this one)
-                cites[(subject(m.group(1)), iss[0], iss[1])].append((r["date"], kind, r["akt"], struck, len(lst) - k - 1))
-    parts: dict[int, dict] = defaultdict(lambda: {"laws": {}, "acts": []})
+                cites[(f"{stem(m.group(1))}:{subject(m.group(2))}", iss[0], iss[1])].append((r["date"], kind, r["akt"], struck, len(lst) - k - 1))
+    parts: dict[tuple, dict] = defaultdict(lambda: {"laws": {}, "acts": []})
     holds = []
-    laws = [r for r in rows if r.get("akt") and r["issuer"].upper().startswith(ISSUER) and r["title"].upper().startswith("ZAKON")]
+    def first_word(r):
+        return (norm(r["title"]).upper().split() or [""])[0]
+
+    laws = [r for r in rows if r.get("akt") and first_word(r) in KINDS and "USTAVNI SUD" not in r["issuer"].upper()
+            and (first_word(r) != "ZAKON" or r["issuer"].upper().startswith(ISSUER))]
     # Texts that can amend or strike a law (laws and Constitutional Court decisions): an act is judged only when every
     # such text published on or after its day is held, so a citation not yet read can never be missed.
-    missing_days = sorted(r["date"] for r in rows if r.get("akt") and r["akt"] not in texts
-                          and (r["title"].upper().startswith("ZAKON") or "USTAVNI SUD" in r["issuer"].upper()))
-    complete_from = (missing_days[-1] if missing_days else "0000")
+    missing = defaultdict(list)
+    for r in rows:
+        if r.get("akt") and r["akt"] not in texts:
+            for w in KINDS:
+                if first_word(r) in (w, "ZAKON") or "USTAVNI SUD" in r["issuer"].upper():
+                    missing[w].append(r["date"])
+    complete_from = {w: max(missing[w], default="0000") for w in KINDS}
+    missing_days = missing["ZAKON"]
     seen_slugs = set()
     for r in sorted(laws, key=lambda x: (x["date"], x["issue"], x["akt"])):
         title = norm(r["title"])
@@ -326,8 +358,10 @@ def main():
                 raise Hold("rejected:" + str(rejects[r["akt"]])[:200])
             if r["akt"] not in texts:
                 raise Hold("text_not_fetched")
-            if pub <= complete_from:
-                raise Hold("awaiting_later_texts:" + complete_from)
+            word = first_word(r)
+            kslug, lkind = KINDS[word]
+            if pub <= complete_from[word]:
+                raise Hold("awaiting_later_texts:" + complete_from[word])
             amending = target_subject(title) is not None
             subj = own_subject(title)
             if not amending and not subj:
@@ -335,38 +369,39 @@ def main():
             if amending:
                 ts = target_subject(title)
                 corr = [x for x in rows if x["date"] >= pub and x is not r and x["title"].upper().startswith("ISPRAVK")
-                        and subject(x["title"]).find(subject(title)[:60].replace("zakon o ", "")) >= 0]
+                        and subject(x["title"]).find(re.sub(r"^\w+ o ", "", subject(title))[:60]) >= 0]
                 if corr:
                     raise Hold("correction_named")
                 # A later text citing this amending law itself by name and issue (not the principal law's list).
-                own_cites = [c for (s, n, y), lst in cites.items() if (n, y) == own and re.match(r"^(?:izmjen|dopun)", s)
-                             and ts[:40] in s for c in lst if c[2] != r["akt"] and c[0] >= pub
+                tk, tsub = ts.split(":", 1)
+                own_cites = [c for (s, n, y), lst in cites.items() if (n, y) == own and s.split(":", 1)[0] == stem(word)
+                             and re.match(r"^(?:izmjen|dopun)", s.split(":", 1)[1]) and tsub[:40] in s for c in lst if c[2] != r["akt"] and c[0] >= pub
                              and (c[1] == "law" or (c[1] == "court" and c[3]))]
                 if own_cites:
                     raise Hold("amending_law_cited_later:" + ",".join(sorted({c[0] for c in own_cites})[:3]))
             else:
                 later = [d for d in named.get(subj, []) if d >= pub]
-                later += [d for s, lst in named.items() if s != subj and (s.startswith(subj[:50]) or subj.startswith(s[:50]))
-                          for d in lst if d >= pub]
+                later += [d for s, lst in named.items() if s != subj and similar(s, subj, 50) for d in lst if d >= pub]
                 if later:
                     raise Hold("named_as_amended:" + ",".join(sorted(set(later))[:3]))
                 # A later citation that lists issues after this one names its amendments; a court decision that
                 # strikes provisions changes it. A citation of this issue alone (a regulation's legal basis) does not.
-                by_cite = [c for (s, n, y), lst in cites.items() if (n, y) == own and (s.startswith(subj[:40]) or subj.startswith(s[:40]))
+                by_cite = [c for (s, n, y), lst in cites.items() if (n, y) == own and similar(s, subj, 40)
                            for c in lst if c[2] != r["akt"] and c[0] >= pub and (c[4] > 0 or (c[1] == "court" and c[3]))]
                 if by_cite:
                     raise Hold("cited_later:" + ",".join(sorted({c[0] for c in by_cite})[:3]))
             page = texts[r["akt"]]
-            units, text_title, adopted = split(page)
+            units, text_title, adopted = split(page, word)
             if subject(text_title).replace(" ", "") != subject(title).replace(" ", ""):
                 raise Hold("title_mismatch:" + text_title[:100])
-            day, how = in_force(units, pub)
+            day, how = in_force(units, pub, adopted)
             if adopted and not (adopted <= pub <= (date.fromisoformat(adopted) + timedelta(days=90)).isoformat()):
                 raise Hold(f"adoption_day_inconsistent:{adopted}")
         except Hold as h:
             holds.append({"akt": r["akt"], "sg": f"{r['issue']}/{r['yy']}", "date": pub, "title": title[:160], "reason": str(h)})
             continue
-        slug = f"zakon-{year}-sg{r['issue']:03d}-{hashlib.sha1(r['akt'].encode()).hexdigest()[:6]}"
+        pk = (40, "zakoni") if kslug == "zakon" else (50, kslug)
+        slug = f"{kslug}-{year}-sg{r['issue']:03d}-{hashlib.sha1(r['akt'].encode()).hexdigest()[:6]}"
         if slug in seen_slugs:
             holds.append({"akt": r["akt"], "sg": f"{r['issue']}/{r['yy']}", "title": title[:160], "reason": "slug_collision"})
             continue
@@ -378,13 +413,13 @@ def main():
         note = None
         if re.search(r"primjenj\w+\s+(?:će\s+se\s+)?(?:se\s+)?(?:od|počev)", " ".join(u["text"] for u in units.values() if u["kind"] == "art")[-600:]):
             note = "Njegov završni član određuje i poseban dan primjene."
-        parts[year]["laws"][slug] = {"label": label, "title": nice, "kind": "law", "enacted": adopted, "published": pub,
+        parts[(pk, year)]["laws"][slug] = {"label": label, "title": nice, "kind": lkind, "enacted": adopted, "published": pub,
                                      "url": url, "temporary_until": None, "restores": None, "note": None}
-        parts[year]["acts"].append({
+        parts[(pk, year)]["acts"].append({
             "slug": slug, "short": nice, "title": nice, "url": url, "first_law": slug, "earlier_laws": [],
             "versions": [{"from": day, "source_url": url, "sha256": fetched[r["akt"]]["sha256"], "units": units,
                           "credits": {}, **({"note": note} if note else {})}]})
-        parts[year].setdefault("_retrieved", set()).add(fetched[r["akt"]].get("retrieved"))
+        parts[(pk, year)].setdefault("_retrieved", set()).add(fetched[r["akt"]].get("retrieved"))
     out_dir = Path(a.out) if a.out else PARTS
     out_dir.mkdir(exist_ok=True)
 
@@ -401,8 +436,8 @@ def main():
     write(out_dir / "00-drzava.json", {"country": COUNTRY, "acts": []},
           "Country metadata for the state-level laws parsed by parse_acts.py.")
     written = []
-    for year in sorted(parts):
-        p = parts[year]
+    for pk, year in sorted(parts):
+        p = parts[(pk, year)]
         p["acts"].sort(key=lambda x: x["slug"])
         ret = p.pop("_retrieved", set())
         p["sources"] = [{"name": "Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba)",
@@ -421,14 +456,14 @@ def main():
             "Articles follow the publisher's centred article headings (Član N.); a centred line directly under one is "
             "its caption."]
         p["ai_use"] = ["none"]
-        f = out_dir / f"40-zakoni-{year}.json"
+        f = out_dir / f"{pk[0]}-{pk[1]}-{year}.json"
         write(f, p, "Parsed from Službeni glasnik BiH (sluzbenilist.ba) texts; one version, as published; in-force day "
                     "from the law's own final article and the gazette issue date; held back: laws named as amended or "
                     "cited later (parse_acts.py).")
         written.append((f.name, len(p["acts"])))
     # Parts of years that no longer hold any act (all held back now) are removed, so a stale part is never read.
     keep = {n for n, _ in written}
-    for old in out_dir.glob("40-zakoni-*.json"):
+    for old in [*out_dir.glob("40-zakoni-*.json"), *out_dir.glob("50-*.json")]:
         if old.name not in keep:
             old.unlink()
             old.with_suffix(".PUBLISH").unlink(missing_ok=True)
