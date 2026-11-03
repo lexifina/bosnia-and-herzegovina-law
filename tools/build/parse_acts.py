@@ -17,8 +17,9 @@ the title is kept as the preamble; the signatures below the text are not part of
 An act is held back, not published (the reason is written to the report), when:
 - a later act in the gazette index is titled as amending, repealing or correcting it (ZAKON O IZMJENI/IZMJENAMA/
   DOPUNI/DOPUNAMA ... ZAKONA O <its subject>, ZAKON O PRESTANKU VAŽENJA ..., ISPRAVKA ...);
-- a later text held cites it by name and gazette number (an amending law's list of earlier issues, a Constitutional
-  Court decision); for an amending law, only a Constitutional Court decision or a correction counts;
+- a later text held cites it by name with its gazette number followed by later issues (its amendments), or a
+  Constitutional Court decision that finds provisions unconstitutional or strikes them cites it; for an amending law,
+  a later law or such a court decision citing the amending law itself, or a correction naming it;
 - its title is not of the form ZAKON O ... (codes such as KRIVIČNI ZAKON are amended under other names);
 - its own final article does not name a day this parser can read;
 - its articles do not split cleanly (none, a number twice, numbers not consecutive, an empty article).
@@ -296,9 +297,16 @@ def main():
         texts[r["akt"]] = page
         flat = norm(html.unescape(re.sub(r"<[^>]+>", " ", page)))
         court = "USTAVNI SUD" in r["issuer"].upper()
+        # A court decision that finds a provision unconstitutional or strikes it changes the text it names.
+        operative = flat[:flat.find(" I. Uvod")] if " I. Uvod" in flat else flat[:4000]  # the ruling, not its reasons
+        struck = court and bool(re.search(r"Utvrđuje se da[^.]{0,600}?ni(?:je|su)\s+u\s+skladu|(?:U|u)kida(?:ju)? se|"
+                                          r"prestaj(?:e|u) (?:da )?važi", operative))
+        kind = "court" if court else "law" if r["title"].upper().startswith("ZAKON") else "other"
         for m in CITE.finditer(flat):
-            for iss in issues_in(m.group(2)):
-                cites[(subject(m.group(1)), iss[0], iss[1])].append((r["date"], court, r["akt"]))
+            lst = issues_in(m.group(2))
+            for k, iss in enumerate(lst):
+                # (citing day, citing kind, citing act, court struck something, issues listed after this one)
+                cites[(subject(m.group(1)), iss[0], iss[1])].append((r["date"], kind, r["akt"], struck, len(lst) - k - 1))
     parts: dict[int, dict] = defaultdict(lambda: {"laws": {}, "acts": []})
     holds = []
     laws = [r for r in rows if r.get("akt") and r["issuer"].upper().startswith(ISSUER) and r["title"].upper().startswith("ZAKON")]
@@ -332,7 +340,8 @@ def main():
                     raise Hold("correction_named")
                 # A later text citing this amending law itself by name and issue (not the principal law's list).
                 own_cites = [c for (s, n, y), lst in cites.items() if (n, y) == own and re.match(r"^(?:izmjen|dopun)", s)
-                             and ts[:40] in s for c in lst if c[2] != r["akt"] and c[0] >= pub]
+                             and ts[:40] in s for c in lst if c[2] != r["akt"] and c[0] >= pub
+                             and (c[1] == "law" or (c[1] == "court" and c[3]))]
                 if own_cites:
                     raise Hold("amending_law_cited_later:" + ",".join(sorted({c[0] for c in own_cites})[:3]))
             else:
@@ -341,8 +350,10 @@ def main():
                           for d in lst if d >= pub]
                 if later:
                     raise Hold("named_as_amended:" + ",".join(sorted(set(later))[:3]))
+                # A later citation that lists issues after this one names its amendments; a court decision that
+                # strikes provisions changes it. A citation of this issue alone (a regulation's legal basis) does not.
                 by_cite = [c for (s, n, y), lst in cites.items() if (n, y) == own and (s.startswith(subj[:40]) or subj.startswith(s[:40]))
-                           for c in lst if c[2] != r["akt"] and c[0] >= pub]
+                           for c in lst if c[2] != r["akt"] and c[0] >= pub and (c[4] > 0 or (c[1] == "court" and c[3]))]
                 if by_cite:
                     raise Hold("cited_later:" + ",".join(sorted({c[0] for c in by_cite})[:3]))
             page = texts[r["akt"]]
@@ -415,6 +426,12 @@ def main():
                     "from the law's own final article and the gazette issue date; held back: laws named as amended or "
                     "cited later (parse_acts.py).")
         written.append((f.name, len(p["acts"])))
+    # Parts of years that no longer hold any act (all held back now) are removed, so a stale part is never read.
+    keep = {n for n, _ in written}
+    for old in out_dir.glob("40-zakoni-*.json"):
+        if old.name not in keep:
+            old.unlink()
+            old.with_suffix(".PUBLISH").unlink(missing_ok=True)
     if a.report:
         Path(a.report).write_text("".join(json.dumps(h, ensure_ascii=False) + "\n" for h in holds), encoding="utf-8")
     print(json.dumps({"texts_missing_laws_or_court": len(missing_days)}), file=__import__("sys").stderr)

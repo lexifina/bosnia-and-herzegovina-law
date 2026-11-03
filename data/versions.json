@@ -272,6 +272,21 @@
    ]
   },
   {
+   "slug": "zakon-2010-sg063-9ecf30",
+   "path": "zakon/2010/sg063-9ecf30",
+   "short": "Zakon o kolektivnom ostvarivanju autorskog i srodnih prava",
+   "title": "Zakon o kolektivnom ostvarivanju autorskog i srodnih prava",
+   "url": "https://www.sluzbenilist.ba/page/akt/XBVkcVKdgEc=",
+   "versions": [
+    {
+     "from": "2010-08-11",
+     "units": 64,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/XBVkcVKdgEc=",
+     "sha256": "989b565ec6c8973eaf5d3109b182c7fda3acbe023cb419191eb298de82402596"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2010-sg074-96651f",
    "path": "zakon/2010/sg074-96651f",
    "short": "Zakon o izmjenama zakona o upravnim sporovima Bosne i Hercegovine",
@@ -1112,6 +1127,21 @@
    ]
   },
   {
+   "slug": "zakon-2013-sg100-bba8c5",
+   "path": "zakon/2013/sg100-bba8c5",
+   "short": "Zakon o izmjenama i dopunama zakona Bosne i Hercegovine o izvršenju krivičnih sankcija, pritvora i drugih mjera",
+   "title": "Zakon o izmjenama i dopunama zakona Bosne i Hercegovine o izvršenju krivičnih sankcija, pritvora i drugih mjera",
+   "url": "https://www.sluzbenilist.ba/page/akt/lYQPHOIUVgztz5k76kjn45h8=",
+   "versions": [
+    {
+     "from": "2013-12-31",
+     "units": 42,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/lYQPHOIUVgztz5k76kjn45h8=",
+     "sha256": "81dc55aae680935d2cf121ed271ba204fc69f80599d81a62a18bde36b19faff4"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2013-sg100-bf8469",
    "path": "zakon/2013/sg100-bf8469",
    "short": "Zakon o zaštiti lica koja prijavljuju korupciju u institucijama Bosne i Hercegovine",
@@ -1333,6 +1363,21 @@
      "units": 3,
      "source_url": "https://www.sluzbenilist.ba/page/akt/ZFWRlohz4nh78h77MfyTI=",
      "sha256": "2e8802f8842b2f97e4c042ab56327e0080253f8e7eea12131aa3f519d2e5bfa4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2015-sg058-55c1f4",
+   "path": "zakon/2015/sg058-55c1f4",
+   "short": "Zakon o carinskoj politici u bosni i hercegovini",
+   "title": "Zakon o carinskoj politici u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/tXsn4zVFCEA=",
+   "versions": [
+    {
+     "from": "2015-07-29",
+     "units": 328,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/tXsn4zVFCEA=",
+     "sha256": "0129f67667799ce7801ef0d61ce8dab5a7abd350fd615d0105be5884b6dddfef"
     }
    ]
   },
@@ -1667,6 +1712,21 @@
    ]
   },
   {
+   "slug": "zakon-2016-sg083-fbd8d6",
+   "path": "zakon/2016/sg083-fbd8d6",
+   "short": "Zakon o pružanju besplatne pravne pomoći",
+   "title": "Zakon o pružanju besplatne pravne pomoći",
+   "url": "https://www.sluzbenilist.ba/page/akt/swszK4T5D5Y=",
+   "versions": [
+    {
+     "from": "2016-11-12",
+     "units": 58,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/swszK4T5D5Y=",
+     "sha256": "656c1e9c306cdfcd59e8bad72aef9412f130a9cb7a1d0556f3d42f8844bec9e2"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2016-sg090-9165d7",
    "path": "zakon/2016/sg090-9165d7",
    "short": "Zakon o izmjenama i dopunama zakona o zaduživanju, dugu i garancijama Bosne i Hercegovine",
@@ -1802,6 +1862,51 @@
    ]
   },
   {
+   "slug": "zakon-2017-sg091-01dea9",
+   "path": "zakon/2017/sg091-01dea9",
+   "short": "Zakon o izmjenama i dopuni zakona o uplatama na jedinstveni račun i raspodjeli prihoda",
+   "title": "Zakon o izmjenama i dopuni zakona o uplatama na jedinstveni račun i raspodjeli prihoda",
+   "url": "https://www.sluzbenilist.ba/page/akt/CGycoLrJYCo=",
+   "versions": [
+    {
+     "from": "2018-01-03",
+     "units": 6,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/CGycoLrJYCo=",
+     "sha256": "5e25858d49cd5d4096cfba6a29ec6ab86f602ab5a5b37858e06c2757acab93a7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-sg091-fa05a7",
+   "path": "zakon/2017/sg091-fa05a7",
+   "short": "Zakon o izmjenama i dopunama zakona o akcizama u bosni i hercegovini",
+   "title": "Zakon o izmjenama i dopunama zakona o akcizama u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/57fLpb0jWoQ=",
+   "versions": [
+    {
+     "from": "2018-01-03",
+     "units": 11,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/57fLpb0jWoQ=",
+     "sha256": "4b86ac569df7416b719e38eac7ae5ff0bcbf3dc58e895e516e7ea55b619228a9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-sg091-fe90b8",
+   "path": "zakon/2017/sg091-fe90b8",
+   "short": "Zakon o izmjeni zakona o sistemu indirektnog oporezivanja u bosni i hercegovini",
+   "title": "Zakon o izmjeni zakona o sistemu indirektnog oporezivanja u bosni i hercegovini",
+   "url": "https://www.sluzbenilist.ba/page/akt/pk3dHIctLaY=",
+   "versions": [
+    {
+     "from": "2018-01-03",
+     "units": 3,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/pk3dHIctLaY=",
+     "sha256": "783b30e5156b3f4dd9682a24f0f669b171a91a91f43169b7225f60bade423ba1"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2017-sg093-737527",
    "path": "zakon/2017/sg093-737527",
    "short": "Zakon o izmjeni zakona o državnoj službi u institucijama Bosne i Hercegovine",
@@ -1847,6 +1952,21 @@
    ]
   },
   {
+   "slug": "zakon-2018-sg009-b6c539",
+   "path": "zakon/2018/sg009-b6c539",
+   "short": "Zakon o izmjeni i dopuni zakona o zaštiti i dobrobiti životinja",
+   "title": "Zakon o izmjeni i dopuni zakona o zaštiti i dobrobiti životinja",
+   "url": "https://www.sluzbenilist.ba/page/akt/u7hSWLcr8Cc=",
+   "versions": [
+    {
+     "from": "2018-02-14",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/u7hSWLcr8Cc=",
+     "sha256": "24762a98650c7eb96b022e92138d29545468f4ba37ed73c171dff7e6372f3fcb"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2018-sg025-1469f7",
    "path": "zakon/2018/sg025-1469f7",
    "short": "Zakon o izmjenama i dopunama zakona o zrakoplovstvu Bosne i Hercegovine",
@@ -1888,6 +2008,21 @@
      "units": 3,
      "source_url": "https://www.sluzbenilist.ba/page/akt/cigztz5k76kjn45hTYnCUhAA=",
      "sha256": "76a5675f4d316f80bb9ee6a676e1d905c705a88b1a33d5abae55128a55cb774f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2018-sg065-5e2a77",
+   "path": "zakon/2018/sg065-5e2a77",
+   "short": "Zakon o izmjenama i dopunama zakona o krivičnom postupku Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama zakona o krivičnom postupku Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/GoKIkSZ981k=",
+   "versions": [
+    {
+     "from": "2018-09-29",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/GoKIkSZ981k=",
+     "sha256": "dcc0b96282a94e4fbf0864dd0757c7196f12646fb68facbe2a3d8688fc27ed1d"
     }
    ]
   },
@@ -2312,6 +2447,21 @@
    ]
   },
   {
+   "slug": "zakon-2024-sg050-2b56de",
+   "path": "zakon/2024/sg050-2b56de",
+   "short": "Zakon o izmjeni zakona o visokom sudskom i tužilačkom vijeću Bosne i Hercegovine",
+   "title": "Zakon o izmjeni zakona o visokom sudskom i tužilačkom vijeću Bosne i Hercegovine",
+   "url": "https://www.sluzbenilist.ba/page/akt/Aoohz4nh78h77fOyZLwWE=",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 4,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/Aoohz4nh78h77fOyZLwWE=",
+     "sha256": "a84549fe8a7c64cc100d8b9b35b10b83a17bf6623a4adb13d7327f3b38dd83f9"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2024-sg079-a7c2a9",
    "path": "zakon/2024/sg079-a7c2a9",
    "short": "Zakon o dopunama zakona o plaćama i drugim naknadama u sudskim i tužilačkim institucijama na nivou Bosne i Hercegovine",
@@ -2338,6 +2488,21 @@
      "units": 101,
      "source_url": "https://www.sluzbenilist.ba/page/akt/Xj3WJohz4nh78h77Vs38U=",
      "sha256": "a33ae38ebb8c92f6f6de06769d952471b1d8e007ceeeca9222df634a0beaee6e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sg012-11d919",
+   "path": "zakon/2025/sg012-11d919",
+   "short": "Zakon o zaštiti ličnih podataka",
+   "title": "Zakon o zaštiti ličnih podataka",
+   "url": "https://www.sluzbenilist.ba/page/akt/aCRNh0ohz4nh78h77P7BE=",
+   "versions": [
+    {
+     "from": "2025-03-08",
+     "units": 134,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/aCRNh0ohz4nh78h77P7BE=",
+     "sha256": "d887231cddbcaa37cf1d57340e90effb6c606676e156b484c2d624ad8bbfad89"
     }
    ]
   },

@@ -1,6 +1,6 @@
 # Every act in this repository
 
-170 acts, 170 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+181 acts, 181 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## constitution (1)
 
@@ -14,7 +14,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Criminal Code of Bosnia and Herzegovina | [`criminal-code/`](criminal-code/) | in force | 1 | 2017-05-04 | 2017-05-04 |
 
-## zakon (168, of which 108 amending acts)
+## zakon (179, of which 113 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -36,6 +36,7 @@
 | Zakon o izmjenama i dopunama zakona o radu u institucijama Bosne i Hercegovine | [`zakon/2010/sg060-61d2cf/`](zakon/2010/sg060-61d2cf/) | amending act | 1 | 2010-08-03 | 2010-08-03 |
 | Zakon o izmjenama zakona o javnim nabavkama Bosne i Hercegovine | [`zakon/2010/sg060-e93a50/`](zakon/2010/sg060-e93a50/) | in force | 1 | 2010-08-03 | 2010-08-03 |
 | Zakon o autorskom i srodnim pravima | [`zakon/2010/sg063-6de9a3/`](zakon/2010/sg063-6de9a3/) | in force | 1 | 2010-08-11 | 2010-08-11 |
+| Zakon o kolektivnom ostvarivanju autorskog i srodnih prava | [`zakon/2010/sg063-9ecf30/`](zakon/2010/sg063-9ecf30/) | in force | 1 | 2010-08-11 | 2010-08-11 |
 | Zakon o izmjenama zakona o upravnim sporovima Bosne i Hercegovine | [`zakon/2010/sg074-96651f/`](zakon/2010/sg074-96651f/) | in force | 1 | 2010-09-15 | 2010-09-15 |
 | Zakon o dopunama zakona o službi u oružanim snagama Bosne i Hercegovine | [`zakon/2010/sg074-d481c9/`](zakon/2010/sg074-d481c9/) | amending act | 1 | 2010-09-08 | 2010-09-08 |
 | Zakon o izmjenama i dopunama zakona o polaganju pravosudnog ispita u bosni i hercegovini | [`zakon/2011/sg062-3a7726/`](zakon/2011/sg062-3a7726/) | amending act | 1 | 2011-08-10 | 2011-08-10 |
@@ -92,6 +93,7 @@
 | Zakon o izmjeni i dopunama zakona o plaćama i naknadama u institucijama Bosne i Hercegovine | [`zakon/2013/sg087-e243be/`](zakon/2013/sg087-e243be/) | amending act | 1 | 2013-11-19 | 2013-11-19 |
 | Zakon o izmjenama zakona o izmirenju obaveza po osnovu računa stare devizne štednje | [`zakon/2013/sg100-04cb07/`](zakon/2013/sg100-04cb07/) | in force | 1 | 2013-12-24 | 2013-12-24 |
 | Zakon o izmjenama zakona o postupku indirektnog oporezivanja | [`zakon/2013/sg100-54f2ef/`](zakon/2013/sg100-54f2ef/) | in force | 1 | 2013-12-31 | 2013-12-31 |
+| Zakon o izmjenama i dopunama zakona Bosne i Hercegovine o izvršenju krivičnih sankcija, pritvora i drugih mjera | [`zakon/2013/sg100-bba8c5/`](zakon/2013/sg100-bba8c5/) | amending act | 1 | 2013-12-31 | 2013-12-31 |
 | Zakon o zaštiti lica koja prijavljuju korupciju u institucijama Bosne i Hercegovine | [`zakon/2013/sg100-bf8469/`](zakon/2013/sg100-bf8469/) | in force | 1 | 2013-12-31 | 2013-12-31 |
 | Zakon o izmjenama i dopunama zakona o slobodi pristupa informacijama u bosni i hercegovini | [`zakon/2013/sg100-ca2e3a/`](zakon/2013/sg100-ca2e3a/) | amending act | 1 | 2013-12-31 | 2013-12-31 |
 | Zakon o dopuni zakona o službenom glasilu Bosne i Hercegovine | [`zakon/2013/sg100-e73539/`](zakon/2013/sg100-e73539/) | amending act | 1 | 2013-12-31 | 2013-12-31 |
@@ -107,6 +109,7 @@
 | Zakon o izmjenama i dopunama zakona o politici direktnih stranih ulaganja u bosni i hercegovini | [`zakon/2015/sg022-7f0723/`](zakon/2015/sg022-7f0723/) | amending act | 1 | 2015-03-24 | 2015-03-24 |
 | Zakon o obligacionim odnosima u civilnom zrakoplovstvu Bosne i Hercegovine | [`zakon/2015/sg051-2cd25f/`](zakon/2015/sg051-2cd25f/) | in force | 1 | 2015-07-07 | 2015-07-07 |
 | Zakon o izmjeni zakona o javnom radiotelevizijskom sistemu Bosne i Hercegovine | [`zakon/2015/sg051-6f9678/`](zakon/2015/sg051-6f9678/) | in force | 1 | 2015-07-07 | 2015-07-07 |
+| Zakon o carinskoj politici u bosni i hercegovini | [`zakon/2015/sg058-55c1f4/`](zakon/2015/sg058-55c1f4/) | in force | 1 | 2015-07-29 | 2015-07-29 |
 | Zakon o izmjenama i dopunama zakona o prebivalištu i boravištu državljana Bosne i Hercegovine | [`zakon/2015/sg058-ca73bc/`](zakon/2015/sg058-ca73bc/) | amending act | 1 | 2015-07-29 | 2015-07-29 |
 | Zakon o izmjeni zakona o plaćama i naknadama u institucijama Bosne i Hercegovine | [`zakon/2015/sg075-5d60b4/`](zakon/2015/sg075-5d60b4/) | in force | 1 | 2015-09-30 | 2015-09-30 |
 | Zakon o dopunama zakona o prekršajima | [`zakon/2015/sg081-d1c710/`](zakon/2015/sg081-d1c710/) | amending act | 1 | 2015-10-27 | 2015-10-27 |
@@ -129,6 +132,7 @@
 | Zakon o izmjenama i dopunama zakona o sportu u bosni i hercegovini | [`zakon/2016/sg066-c4b264/`](zakon/2016/sg066-c4b264/) | amending act | 1 | 2016-09-14 | 2016-09-14 |
 | Zakon o izmjenama i dopunama zakona o zabrani diskriminacije | [`zakon/2016/sg066-d9cdbd/`](zakon/2016/sg066-d9cdbd/) | amending act | 1 | 2016-09-14 | 2016-09-14 |
 | Zakon o obilježavanju malog oružja, lakog naoružanja i pripadajuće municije | [`zakon/2016/sg083-388ef9/`](zakon/2016/sg083-388ef9/) | in force | 1 | 2016-11-12 | 2016-11-12 |
+| Zakon o pružanju besplatne pravne pomoći | [`zakon/2016/sg083-fbd8d6/`](zakon/2016/sg083-fbd8d6/) | in force | 1 | 2016-11-12 | 2016-11-12 |
 | Zakon o izmjenama i dopunama zakona o zaduživanju, dugu i garancijama Bosne i Hercegovine | [`zakon/2016/sg090-9165d7/`](zakon/2016/sg090-9165d7/) | amending act | 1 | 2016-12-10 | 2016-12-10 |
 | Zakon o izmjeni zakona o plaćama i naknadama u institucijama Bosne i Hercegovine | [`zakon/2016/sg094-28976b/`](zakon/2016/sg094-28976b/) | in force | 1 | 2016-12-31 | 2016-12-31 |
 | Zakon o dopunama zakona o parničnom postupku pred sudom Bosne i Hercegovine | [`zakon/2016/sg094-3c3191/`](zakon/2016/sg094-3c3191/) | amending act | 1 | 2016-12-31 | 2016-12-31 |
@@ -138,12 +142,17 @@
 | Zakon o izmjeni zakona o plaćama i naknadama u institucijama Bosne i Hercegovine | [`zakon/2017/sg072-53524d/`](zakon/2017/sg072-53524d/) | in force | 1 | 2017-10-14 | 2017-10-14 |
 | Zakon o izmjeni i dopuni zakona o ministarstvima i drugim organima uprave Bosne i Hercegovine | [`zakon/2017/sg083-bb6f47/`](zakon/2017/sg083-bb6f47/) | amending act | 1 | 2017-11-25 | 2017-11-25 |
 | Zakon o izmjenama i dopunama zakona o osnovama sigurnosti saobraćaja na putevima u bosni i hercegovini | [`zakon/2017/sg089-e501ac/`](zakon/2017/sg089-e501ac/) | amending act | 1 | 2017-12-23 | 2017-12-23 |
+| Zakon o izmjenama i dopuni zakona o uplatama na jedinstveni račun i raspodjeli prihoda | [`zakon/2017/sg091-01dea9/`](zakon/2017/sg091-01dea9/) | amending act | 1 | 2018-01-03 | 2018-01-03 |
+| Zakon o izmjenama i dopunama zakona o akcizama u bosni i hercegovini | [`zakon/2017/sg091-fa05a7/`](zakon/2017/sg091-fa05a7/) | amending act | 1 | 2018-01-03 | 2018-01-03 |
+| Zakon o izmjeni zakona o sistemu indirektnog oporezivanja u bosni i hercegovini | [`zakon/2017/sg091-fe90b8/`](zakon/2017/sg091-fe90b8/) | in force | 1 | 2018-01-03 | 2018-01-03 |
 | Zakon o izmjeni zakona o državnoj službi u institucijama Bosne i Hercegovine | [`zakon/2017/sg093-737527/`](zakon/2017/sg093-737527/) | in force | 1 | 2018-01-05 | 2018-01-05 |
 | Zakon o izmjenama zakona o radu u institucijama Bosne i Hercegovine | [`zakon/2017/sg093-78d46b/`](zakon/2017/sg093-78d46b/) | in force | 1 | 2018-01-05 | 2018-01-05 |
 | Zakon o izmjenama zakona o osnovama sigurnosti saobraćaja na putevima u bosni i hercegovini | [`zakon/2018/sg009-5be6b6/`](zakon/2018/sg009-5be6b6/) | in force | 1 | 2018-02-14 | 2018-02-14 |
+| Zakon o izmjeni i dopuni zakona o zaštiti i dobrobiti životinja | [`zakon/2018/sg009-b6c539/`](zakon/2018/sg009-b6c539/) | amending act | 1 | 2018-02-14 | 2018-02-14 |
 | Zakon o izmjenama i dopunama zakona o zrakoplovstvu Bosne i Hercegovine | [`zakon/2018/sg025-1469f7/`](zakon/2018/sg025-1469f7/) | amending act | 1 | 2018-04-28 | 2018-04-28 |
 | Zakon o parlamentarnom nadzoru | [`zakon/2018/sg025-c42536/`](zakon/2018/sg025-c42536/) | in force | 1 | 2018-04-28 | 2018-04-28 |
 | Zakon o izmjeni zakona o plaćama i naknadama u institucijama Bosne i Hercegovine | [`zakon/2018/sg025-fc7682/`](zakon/2018/sg025-fc7682/) | in force | 1 | 2018-04-28 | 2018-04-28 |
+| Zakon o izmjenama i dopunama zakona o krivičnom postupku Bosne i Hercegovine | [`zakon/2018/sg065-5e2a77/`](zakon/2018/sg065-5e2a77/) | amending act | 1 | 2018-09-29 | 2018-09-29 |
 | Zakon o izmjenama i dopunama zakona o sistemu državne pomoći u bosni i hercegovini | [`zakon/2020/sg039-339ea8/`](zakon/2020/sg039-339ea8/) | amending act | 1 | 2020-07-11 | 2020-07-11 |
 | Zakon o izmjenama izbornog zakona Bosne i Hercegovine | [`zakon/2020/sg041-08c468/`](zakon/2020/sg041-08c468/) | in force | 1 | 2020-07-18 | 2020-07-18 |
 | Zakon o dopunama zakona o prekršajima | [`zakon/2020/sg065-4c0f57/`](zakon/2020/sg065-4c0f57/) | amending act | 1 | 2020-10-24 | 2020-10-24 |
@@ -172,8 +181,10 @@
 | Zakon o sprečavanju sukoba interesa u institucijama na nivou Bosne i Hercegovine | [`zakon/2024/sg018-1fca66/`](zakon/2024/sg018-1fca66/) | in force | 1 | 2024-03-23 | 2024-03-23 |
 | Zakon o izmjenama i dopunama zakona o državnoj službi u institucijama Bosne i Hercegovine | [`zakon/2024/sg018-d0c496/`](zakon/2024/sg018-d0c496/) | amending act | 1 | 2024-03-23 | 2024-03-23 |
 | Zakon o izmjenama i dopunama zakona o javnim nabavkama | [`zakon/2024/sg050-2291e2/`](zakon/2024/sg050-2291e2/) | amending act | 1 | 2024-07-31 | 2024-07-31 |
+| Zakon o izmjeni zakona o visokom sudskom i tužilačkom vijeću Bosne i Hercegovine | [`zakon/2024/sg050-2b56de/`](zakon/2024/sg050-2b56de/) | in force | 1 | 2024-07-31 | 2024-07-31 |
 | Zakon o dopunama zakona o plaćama i drugim naknadama u sudskim i tužilačkim institucijama na nivou Bosne i Hercegovine | [`zakon/2024/sg079-a7c2a9/`](zakon/2024/sg079-a7c2a9/) | amending act | 1 | 2024-11-27 | 2024-11-27 |
 | Zakon o graničnoj kontroli | [`zakon/2025/sg007-53ad8f/`](zakon/2025/sg007-53ad8f/) | in force | 1 | 2025-02-22 | 2025-02-22 |
+| Zakon o zaštiti ličnih podataka | [`zakon/2025/sg012-11d919/`](zakon/2025/sg012-11d919/) | in force | 1 | 2025-03-08 | 2025-03-08 |
 | Zakon o dopunama zakona o porezu na dodatu vrijednost | [`zakon/2025/sg020-279863/`](zakon/2025/sg020-279863/) | amending act | 1 | 2025-04-12 | 2025-04-12 |
 | Zakon o dopuni zakona o plaćama i naknadama u institucijama Bosne i Hercegovine | [`zakon/2025/sg020-b5baeb/`](zakon/2025/sg020-b5baeb/) | amending act | 1 | 2025-04-12 | 2025-04-12 |
 | Zakon o dopunama zakona o administrativnim taksama | [`zakon/2025/sg057-8179ab/`](zakon/2025/sg057-8179ab/) | amending act | 1 | 2025-10-04 | 2025-10-04 |
