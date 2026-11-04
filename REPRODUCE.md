@@ -1,88 +1,13 @@
 # How this repository was made (Bosnia and Herzegovina)
 
-This file is written by the build on 2026-11-03, the day the source data was retrieved.
+This file is written by the build on 2026-10-30, the day the source data was retrieved.
 
 ## Sources
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
-| Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba) | <https://www.sluzbenilist.ba/> | 2026-11-03 | Official texts of laws; not protected by copyright |
+| Constitutional Court of Bosnia and Herzegovina, Constitution (English) | <https://www.ustavnisud.ba/public/down/USTAV_BOSNE_I_HERCEGOVINE_engl.pdf> | 2026-10-29 | Official public text; no licence statement found |
+| Prosecutor's Office of Bosnia and Herzegovina, Criminal Code (unofficial consolidated English text) | <https://www.tuzilastvobih.gov.ba/files/docs/zakoni/Criminal_Code_of_BH_-_Consolidated_text_47_14.pdf> | 2026-10-30 | Official public text; no licence statement found |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -90,35 +15,36 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 1572 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 1609 | |
+| `constitution` | Constitution of Bosnia and Herzegovina | 1 | 1995-12-14 to 1995-12-14 |
+| `criminal-code` | Criminal Code of Bosnia and Herzegovina | 1 | 2017-05-04 to 2017-05-04 |
 
-The build made 1624 commits:
+The build made 2 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 1587 | first version of an act |
-| 37 | one law on its in-force day |
+| 2 | first version of an act |
+| 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
+- 0 commits on the branch `future`: laws not yet in force on 2026-10-30.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 1580 laws in the record.
-- 3216 tags.
+- 3 laws in the record.
+- 3 tags.
 
 ## Dates
 
 Each commit is dated at noon (Europe/Sarajevo) on the day the change took effect. The other dates, enacted and published, are trailers.
 
-When a law gives no date of its own, the default rule applies: Each law of Bosnia and Herzegovina names its own day in its final article, almost always the eighth day after its publication in Službeni glasnik BiH; that day is used. https://www.sluzbenilist.ba/
+When a law gives no date of its own, the default rule applies: Constitution Article XII(1): it enters into force upon signature of the General Framework Agreement (Paris, 14 December 1995) https://www.ustavnisud.ba/public/down/USTAV_BOSNE_I_HERCEGOVINE_engl.pdf
 
 ## How the history is built
 
-`tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
+`tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `8938705c456366456b1ef9cb2eeeca5269b598715fa7dd2dcd28aaf38469f0f2` (22917969 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `6a75a05e2f381deb50fb7cb6ad297cc3fe964a71`, `check.py` `d36188b60926167ff377bd58f0b03f30cc9a1a52`, `on.py` `55bf92027127e36254521d114abde53cfefbb67d`.
-- Python 3.14.0; git version 2.52.0.windows.1.
+- Corpus: sha256 `486206a9eb89cc47e6647ae45548f35d595b7049809792d7d0284cc95fbb0432` (406682 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3e59cb6f05eccb94a9ec14431a7f6781221e83ef`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
+- Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
 
@@ -128,7 +54,11 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Every act's decisions made by hand (385 in all) are listed in that act's own README.md, under "Decisions made by hand".
+- The source is a 2006 English PDF from the Constitutional Court, so the repository holds one version, the Constitution as signed on 14 December 1995 (Article XII(1): in force on signature). Amendment I of 26 March 2009 is not in it and is not in the record.
+- One file per Article and per Annex; the numbered sections stay as lines inside each file. The three declarations at the end (signatures) are not units.
+- Criminal Code: one version, dated 2017-05-04 (the Last-Modified date of the file on the Prosecutor's Office site), credited to the publisher as 'oldest version available'; the code was adopted in 2003 and in force from 1 March 2003. The text is unofficial and consolidated only to OG 47/14.
+- Criminal Code: page numbers, typesetting artefacts and the footnote on amendments were removed; wrapped lines were joined into numbered paragraphs.
+- Not added: a civil code and a commercial code. Civil and commercial law is made by the two entities (Federation of BiH, Republika Srpska) and the Brcko District, not by the state, so there is no state-level code to record.
 
 ## What AI did and did not do
 
@@ -139,80 +69,4 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
-- none
 - none
