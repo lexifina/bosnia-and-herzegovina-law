@@ -1,0 +1,13 @@
+# ODLUKU O KRITERIJIMA ZA RASPORED SREDSTAVA IZ TEKUĆEG GRANTA "PROGRAMI ZA PRIPREMU PROJEKATA I POTENCIJALNIH KANDIDATA ZA SREDSTVA IZ FONDA HORIZONT EVROPA I PODRŠKA INOVATORSTVU" ZA PERIOD 2026. - 2028. GODINA
+
+Naslov: ODLUKU O KRITERIJIMA ZA RASPORED SREDSTAVA IZ TEKUĆEG GRANTA "PROGRAMI ZA PRIPREMU PROJEKATA I POTENCIJALNIH KANDIDATA ZA SREDSTVA IZ FONDA HORIZONT EVROPA I PODRŠKA INOVATORSTVU" ZA PERIOD 2026. - 2028. GODINA
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 80/26 (6.11.2026.), akt 3 od 37 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/IuxYq2hZ0eI=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/GBzIr7B77DA=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
