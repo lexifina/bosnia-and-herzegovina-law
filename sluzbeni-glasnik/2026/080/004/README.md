@@ -1,0 +1,13 @@
+# ODLUKU O IZMJENI ODLUKE O IMENOVANJU NADZORNOG TIJELA NAD PRIMJENOM PRAVILNIKA O NAČINU KONTROLE CIJENA, NAČINU OBLIKOVANJA CIJENA LIJEKOVA I NAČINU IZVJEŠTAVANJA O CIJENAMA LIJEKOVA U BOSNI I HERCEGOVINI
+
+Naslov: ODLUKU O IZMJENI ODLUKE O IMENOVANJU NADZORNOG TIJELA NAD PRIMJENOM PRAVILNIKA O NAČINU KONTROLE CIJENA, NAČINU OBLIKOVANJA CIJENA LIJEKOVA I NAČINU IZVJEŠTAVANJA O CIJENAMA LIJEKOVA U BOSNI I HERCEGOVINI
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službeni glasnik BiH broj 80/26 (6.11.2026.), akt 4 od 37 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/IuxYq2hZ0eI=>
+
+Službena stranica akta: <https://www.sluzbenilist.ba/page/akt/2b1ENDO9ktU=>
+
+Metadata record (index entry). The act page is official; its text is not part of this record.
