@@ -1,5 +1,7 @@
 # Bosnia and Herzegovina: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Bosnia and Herzegovina's national law, which global-law reads at `bosnia-and-herzegovina/national/acts/`.
+
 The Constitution of Bosnia and Herzegovina as a git repository: one file per Article and Annex, so `git blame` and `git log` work on the text. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `ba/`.
 
 **What is in it now**
