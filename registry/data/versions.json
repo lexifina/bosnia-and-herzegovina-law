@@ -5525,6 +5525,21 @@
    ]
   },
   {
+   "slug": "pravilnik-2011-sg015-68e36f",
+   "path": "pravilnik/2011/sg015-68e36f",
+   "short": "Pravilnik o mjerama za kontrolu određenih bolesti životinja i posebne mjere za vezikularnu bolest svinja",
+   "title": "Pravilnik o mjerama za kontrolu određenih bolesti životinja i posebne mjere za vezikularnu bolest svinja",
+   "url": "https://www.sluzbenilist.ba/page/akt/iExZwUzcziU=",
+   "versions": [
+    {
+     "from": "2011-03-08",
+     "units": 25,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/iExZwUzcziU=",
+     "sha256": "0e2a43958b8a203c502a554945fed5d9bcf9f2bd3f4a9e93c0720ab0f623cc76"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2011-sg015-a45580",
    "path": "pravilnik/2011/sg015-a45580",
    "short": "Pravilnik o mjerama za nadzor afričke svinjske kuge",
@@ -5926,6 +5941,21 @@
      "units": 3,
      "source_url": "https://www.sluzbenilist.ba/page/akt/ZbYeUUhHWzo=",
      "sha256": "32c0bcc21ba0f5cd614fe1998e346227edd37953bc7d56fc60f972e7755d1a54"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-sg040-34e390",
+   "path": "pravilnik/2011/sg040-34e390",
+   "short": "Pravilnik o utvrđivanju kriterija za odstupanje od zajedničkih temeljnih standarda sigurnosti civilnog zrakoplovstva i usvajanje alternativnih sigurnosnih mjera",
+   "title": "Pravilnik o utvrđivanju kriterija za odstupanje od zajedničkih temeljnih standarda sigurnosti civilnog zrakoplovstva i usvajanje alternativnih sigurnosnih mjera",
+   "url": "https://www.sluzbenilist.ba/page/akt/1p8gztz5k76kjn45hTadRKQM=",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 9,
+     "source_url": "https://www.sluzbenilist.ba/page/akt/1p8gztz5k76kjn45hTadRKQM=",
+     "sha256": "e1c695fc2c386b1b7aef0df6a9fa03c166a4375484f4dd8f6e0faf06240a3ccb"
     }
    ]
   },
@@ -28135,36 +28165,6 @@
      "units": 25,
      "source_url": "https://www.sluzbenilist.ba/page/akt/CERtQwJ10Fo=",
      "sha256": "143c3046fee4f7b0bb4b41a0d0452d56cfa81f56acf75d29b5650a94bc84ef79"
-    }
-   ]
-  },
-  {
-   "slug": "pravilnik-2011-sg015-68e36f",
-   "path": "pravilnik/2011/sg015-68e36f",
-   "short": "Pravilnik o mjerama za kontrolu određenih bolesti životinja i posebne mjere za vezikularnu bolest svinja",
-   "title": "Pravilnik o mjerama za kontrolu određenih bolesti životinja i posebne mjere za vezikularnu bolest svinja",
-   "url": "https://www.sluzbenilist.ba/page/akt/iExZwUzcziU=",
-   "versions": [
-    {
-     "from": "2011-03-08",
-     "units": 25,
-     "source_url": "https://www.sluzbenilist.ba/page/akt/iExZwUzcziU=",
-     "sha256": "0e2a43958b8a203c502a554945fed5d9bcf9f2bd3f4a9e93c0720ab0f623cc76"
-    }
-   ]
-  },
-  {
-   "slug": "pravilnik-2011-sg040-34e390",
-   "path": "pravilnik/2011/sg040-34e390",
-   "short": "Pravilnik o utvrđivanju kriterija za odstupanje od zajedničkih temeljnih standarda sigurnosti civilnog zrakoplovstva i usvajanje alternativnih sigurnosnih mjera",
-   "title": "Pravilnik o utvrđivanju kriterija za odstupanje od zajedničkih temeljnih standarda sigurnosti civilnog zrakoplovstva i usvajanje alternativnih sigurnosnih mjera",
-   "url": "https://www.sluzbenilist.ba/page/akt/1p8gztz5k76kjn45hTadRKQM=",
-   "versions": [
-    {
-     "from": "2011-06-01",
-     "units": 9,
-     "source_url": "https://www.sluzbenilist.ba/page/akt/1p8gztz5k76kjn45hTadRKQM=",
-     "sha256": "e1c695fc2c386b1b7aef0df6a9fa03c166a4375484f4dd8f6e0faf06240a3ccb"
     }
    ]
   },

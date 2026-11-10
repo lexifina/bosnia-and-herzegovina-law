@@ -53,7 +53,7 @@
 | Poslovnik o izmjeni poslovnika visokog sudskog i tužilačkog vijeća Bosne i Hercegovine | [`poslovnik/2026/sg027-f8cac1/`](../poslovnik/2026/sg027-f8cac1/) | in force | 1 | 2026-04-18 | 2026-04-18 |
 | Poslovnik o izmjenama i dopunama poslovnika visokog sudskog i tužilačkog vijeća Bosne i Hercegovine | [`poslovnik/2026/sg063-4fa7c2/`](../poslovnik/2026/sg063-4fa7c2/) | amended, not consolidated | 1 | 2026-09-05 | 2026-09-05 |
 
-## pravilnik (1220, of which 379 amending acts)
+## pravilnik (1218, of which 379 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -179,6 +179,7 @@
 | Pravilnik o medijaciji radi zaključenja kolektivnog ugovora o kablovskoj retransmisiji radiodifuzno emitiranih djela | [`pravilnik/2011/sg011-ff797d/`](../pravilnik/2011/sg011-ff797d/) | in force | 1 | 2011-02-22 | 2011-02-22 |
 | Pravilnik o izmjeni pravilnika o uslovima za stavljanje u promet, kvalitetu i kontroli kvaliteta mineralnih đubriva te skladištenju i rukovanju mineralnim đubrivima | [`pravilnik/2011/sg013-53c987/`](../pravilnik/2011/sg013-53c987/) | in force | 1 | 2011-03-01 | 2011-03-01 |
 | Pravilnik o zaštiti od jonizirajućeg zračenja kod medicinske ekspozicije | [`pravilnik/2011/sg013-a5871f/`](../pravilnik/2011/sg013-a5871f/) | in force | 1 | 2011-03-01 | 2011-03-01 |
+| Pravilnik o mjerama za kontrolu određenih bolesti životinja i posebne mjere za vezikularnu bolest svinja | [`pravilnik/2011/sg015-68e36f/`](../pravilnik/2011/sg015-68e36f/) | in force | 1 | 2011-03-08 | 2011-03-08 |
 | Pravilnik o mjerama za nadzor afričke svinjske kuge | [`pravilnik/2011/sg015-a45580/`](../pravilnik/2011/sg015-a45580/) | amended, not consolidated | 1 | 2011-03-08 | 2011-03-08 |
 | Pravilnik o veterinarskim uslovima za uvoz određenih vrsta ptica i o uslovima karantina | [`pravilnik/2011/sg017-533de8/`](../pravilnik/2011/sg017-533de8/) | in force | 1 | 2011-01-12 | 2011-01-12 |
 | Pravilnik o kaznenoj evidenciji | [`pravilnik/2011/sg018-37548d/`](../pravilnik/2011/sg018-37548d/) | in force | 1 | 2011-03-22 | 2011-03-22 |
@@ -206,6 +207,7 @@
 | Pravilnik o izmjeni i dopuni pravilnika o tehničkim pregledima vozila | [`pravilnik/2011/sg029-9f2e7f/`](../pravilnik/2011/sg029-9f2e7f/) | amending act | 1 | 2011-04-26 | 2011-04-26 |
 | Pravilnik o kontinuiranoj plovidbenosti zrakoplova i aeronautičkih proizvoda, dijelova i uređaja, te o ovlaštenju organizacija i osoblja uključenih u te poslove | [`pravilnik/2011/sg033-3b2866/`](../pravilnik/2011/sg033-3b2866/) | in force | 1 | 2011-05-12 | 2011-05-12 |
 | Pravilnik o izmjenama i dopunama pravilnika o kriterijima za upućivanje osuđenih lica na izdržavanje kazne zatvora | [`pravilnik/2011/sg037-562e5f/`](../pravilnik/2011/sg037-562e5f/) | amending act | 1 | 2011-05-25 | 2011-05-25 |
+| Pravilnik o utvrđivanju kriterija za odstupanje od zajedničkih temeljnih standarda sigurnosti civilnog zrakoplovstva i usvajanje alternativnih sigurnosnih mjera | [`pravilnik/2011/sg040-34e390/`](../pravilnik/2011/sg040-34e390/) | in force | 1 | 2011-06-01 | 2011-06-01 |
 | Pravilnik o postupku izdavanja memorijskih kartica za digitalni tahograf | [`pravilnik/2011/sg042-21efb0/`](../pravilnik/2011/sg042-21efb0/) | amended, not consolidated | 1 | 2011-04-26 | 2011-04-26 |
 | Pravilnik o izmjeni pravilnika o međunarodnoj vozačkoj dozvoli | [`pravilnik/2011/sg042-f01494/`](../pravilnik/2011/sg042-f01494/) | in force | 1 | 2011-05-30 | 2011-05-30 |
 | Pravilnik o licenciranju zrakoplovnog tehničkog osoblja - dozvola za održavanje zrakoplova - zrakoplovi za koje ne postoje part 66 ovlašćenja za tip | [`pravilnik/2011/sg043-868acb/`](../pravilnik/2011/sg043-868acb/) | in force | 1 | 2011-06-08 | 2011-06-08 |
@@ -244,10 +246,6 @@
 | Pravilnik o izmjeni pravilnika o unutrašnjoj organizaciji tužilaštva Bosne i Hercegovine | [`pravilnik/2011/sg104-3b4d55/`](../pravilnik/2011/sg104-3b4d55/) | in force | 1 | 2012-01-05 | 2012-01-05 |
 | Pravilnik o uslovima pod kojima se određeni štetni organizmi, bilje ili biljni proizvodi i regulirani objekti mogu uvoziti ili prevoziti/prenositi radi ogleda ili u naučne svrhe i za rad na selekcijama sorti | [`pravilnik/2011/sg104-63a7b4/`](../pravilnik/2011/sg104-63a7b4/) | in force | 1 | 2012-01-05 | 2012-01-05 |
 | Pravilnik o uspostavi popisa zračnih prijevoznika zajednice na koje se primjenjuje zabrana letenja unutar zajednice, o informisanju putnika u zračnom prometu o identitetu zračnog prijevoznika koji izvodi let | [`pravilnik/2011/sg014-c00da7/`](../pravilnik/2011/sg014-c00da7/) | in force | 1 | 2011-03-02 | 2011-03-02 |
-| Pravilnik o mjerama za kontrolu određenih bolesti životinja i posebne mjere za vezikularnu bolest svinja | [`pravilnik/2011/sg015-1361dc/`](../pravilnik/2011/sg015-1361dc/) | in force | 1 | 2011-03-08 | 2011-03-08 |
-| Pravilnik o mjerama za kontrolu određenih bolesti životinja i posebne mjere za vezikularnu bolest svinja | [`pravilnik/2011/sg015-68e36f/`](../pravilnik/2011/sg015-68e36f/) | in force | 1 | 2011-03-08 | 2011-03-08 |
-| Pravilnik o utvrđivanju kriterija za odstupanje od zajedničkih temeljnih standarda sigurnosti civilnog zrakoplovstva i usvajanje alternativnih sigurnosnih mjera | [`pravilnik/2011/sg040-34e390/`](../pravilnik/2011/sg040-34e390/) | in force | 1 | 2011-06-01 | 2011-06-01 |
-| Pravilnik o utvrđivanju kriterija za odstupanje od zajedničkih temeljnih standarda sigurnosti civilnog zrakoplovstva i usvajanje alternativnih sigurnosnih mjera | [`pravilnik/2011/sg040-c6e89b/`](../pravilnik/2011/sg040-c6e89b/) | in force | 1 | 2011-06-01 | 2011-06-01 |
 | Pravilnik o kategorizaciji radijacijskih prijetnji | [`pravilnik/2011/sg102-e1f2e5/`](../pravilnik/2011/sg102-e1f2e5/) | in force | 1 | 2012-01-03 | 2012-01-03 |
 | Pravilnik o ocjenjivanju rada zaposlenih u upravi za indirektno oporezivanje | [`pravilnik/2012/sg004-30a736/`](../pravilnik/2012/sg004-30a736/) | repealed, not consolidated | 1 | 2012-01-25 | 2012-01-25 |
 | Pravilnik o izmjenama i dopunama pravilnika o kućnom redu u ustanovama za izdržavanje krivične sankcije, mjere pritvora ili drugih mjera Bosne i Hercegovine - prečišćeni tekst | [`pravilnik/2012/sg004-b5170c/`](../pravilnik/2012/sg004-b5170c/) | amending act | 1 | 2011-12-29 | 2011-12-29 |
@@ -1895,3 +1893,12 @@
 | Zakon o žigu | [`zakon/2026/sg040-ceab04/`](../zakon/2026/sg040-ceab04/) | in force | 1 | 2026-06-20 | 2026-06-20 |
 | Zakon o zaštiti poslovne tajne kao prava intelektualnog vlasništva | [`zakon/2026/sg040-d31b50/`](../zakon/2026/sg040-d31b50/) | in force | 1 | 2026-06-20 | 2026-06-20 |
 | Zakon o izmjeni i dopuni zakona o plaćama i naknadama u institucijama Bosne i Hercegovine | [`zakon/2026/sg041-4b1e06/`](../zakon/2026/sg041-4b1e06/) | amending act | 1 | 2026-06-24 | 2026-06-24 |
+
+## Withdrawn from the record (2)
+
+Acts published here and later found not to belong (for example, titled as Government decisions but issued by another body). Their folders were removed by a correction commit; the commits that added them stay in the history. Their ids are retired: a later act with the same number gets the id with `-2` appended.
+
+| Act id | Reason | Removed by |
+| --- | --- | --- |
+| `pravilnik-2011-sg015-1361dc` | the same act as pravilnik-2011-sg015-68e36f (kept at pravilnik/2011/sg015-68e36f); this copy was read from the publisher's other edition of it (https://www.sluzbenilist.ba/page/akt/CERtQwJ10Fo=) | f8721d51 |
+| `pravilnik-2011-sg040-c6e89b` | the same act as pravilnik-2011-sg040-34e390 (kept at pravilnik/2011/sg040-34e390); this copy was read from the publisher's other edition of it (https://www.sluzbenilist.ba/page/akt/HpT4HwdxlXY=) | f8721d51 |

@@ -14,7 +14,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 1858 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 1895 | |
+| 1860 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 1897 | |
 
 The build made 296 commits:
 
@@ -27,7 +27,7 @@ The build made 296 commits:
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 1864 laws in the record.
+- 1866 laws in the record.
 - 3804 tags.
 
 ## Dates
@@ -40,7 +40,7 @@ When a law gives no date of its own, the default rule applies: Each law of Bosni
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `37473adc5a01675c72f45204819f839ac5d7606e4668162ec18bd940121a5fe7` (33932640 bytes).
+- Corpus: sha256 `eb68da1eaf81ab97172a17bec9ef0daf043b5663a2a20b6b946a42158c1e10b2` (33970353 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `0c3b59e094f64de681450174155d4a686e30cafb`, `check.py` `f7f9c39fff1b1f9a3aded2ad3364a27fb0908033`, `on.py` `0be88de7820b2dafe9f94fa40472a48776aa4cf5`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
