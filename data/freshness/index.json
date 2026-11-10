@@ -1,0 +1,484 @@
+{
+"shards": [
+{
+"shard": "constitution/undated",
+"kind": "constitution",
+"file": "data/freshness/constitution/undated.csv",
+"acts": 1
+},
+{
+"shard": "criminal-code/undated",
+"kind": "criminal-code",
+"file": "data/freshness/criminal-code/undated.csv",
+"acts": 1
+},
+{
+"shard": "poslovnik/2010",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2010.csv",
+"acts": 5
+},
+{
+"shard": "poslovnik/2011",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2011.csv",
+"acts": 1
+},
+{
+"shard": "poslovnik/2012",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2012.csv",
+"acts": 3
+},
+{
+"shard": "poslovnik/2013",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2013.csv",
+"acts": 3
+},
+{
+"shard": "poslovnik/2014",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2014.csv",
+"acts": 5
+},
+{
+"shard": "poslovnik/2015",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2015.csv",
+"acts": 2
+},
+{
+"shard": "poslovnik/2016",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2016.csv",
+"acts": 3
+},
+{
+"shard": "poslovnik/2017",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2017.csv",
+"acts": 4
+},
+{
+"shard": "poslovnik/2018",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2018.csv",
+"acts": 2
+},
+{
+"shard": "poslovnik/2019",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2019.csv",
+"acts": 1
+},
+{
+"shard": "poslovnik/2020",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2020.csv",
+"acts": 2
+},
+{
+"shard": "poslovnik/2021",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2021.csv",
+"acts": 4
+},
+{
+"shard": "poslovnik/2022",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2022.csv",
+"acts": 3
+},
+{
+"shard": "poslovnik/2023",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2023.csv",
+"acts": 2
+},
+{
+"shard": "poslovnik/2024",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2024.csv",
+"acts": 3
+},
+{
+"shard": "poslovnik/2025",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2025.csv",
+"acts": 1
+},
+{
+"shard": "poslovnik/2026",
+"kind": "poslovnik",
+"file": "data/freshness/poslovnik/2026.csv",
+"acts": 2
+},
+{
+"shard": "pravilnik/2010",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2010.csv",
+"acts": 108
+},
+{
+"shard": "pravilnik/2011",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2011.csv",
+"acts": 84
+},
+{
+"shard": "pravilnik/2012",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2012.csv",
+"acts": 89
+},
+{
+"shard": "pravilnik/2013",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2013.csv",
+"acts": 96
+},
+{
+"shard": "pravilnik/2014",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2014.csv",
+"acts": 108
+},
+{
+"shard": "pravilnik/2015",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2015.csv",
+"acts": 55
+},
+{
+"shard": "pravilnik/2016",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2016.csv",
+"acts": 78
+},
+{
+"shard": "pravilnik/2017",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2017.csv",
+"acts": 112
+},
+{
+"shard": "pravilnik/2018",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2018.csv",
+"acts": 76
+},
+{
+"shard": "pravilnik/2019",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2019.csv",
+"acts": 57
+},
+{
+"shard": "pravilnik/2020",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2020.csv",
+"acts": 42
+},
+{
+"shard": "pravilnik/2021",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2021.csv",
+"acts": 52
+},
+{
+"shard": "pravilnik/2022",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2022.csv",
+"acts": 55
+},
+{
+"shard": "pravilnik/2023",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2023.csv",
+"acts": 61
+},
+{
+"shard": "pravilnik/2024",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2024.csv",
+"acts": 57
+},
+{
+"shard": "pravilnik/2025",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2025.csv",
+"acts": 48
+},
+{
+"shard": "pravilnik/2026",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2026.csv",
+"acts": 42
+},
+{
+"shard": "pravilo/2010",
+"kind": "pravilo",
+"file": "data/freshness/pravilo/2010.csv",
+"acts": 1
+},
+{
+"shard": "pravilo/2011",
+"kind": "pravilo",
+"file": "data/freshness/pravilo/2011.csv",
+"acts": 10
+},
+{
+"shard": "pravilo/2012",
+"kind": "pravilo",
+"file": "data/freshness/pravilo/2012.csv",
+"acts": 7
+},
+{
+"shard": "pravilo/2013",
+"kind": "pravilo",
+"file": "data/freshness/pravilo/2013.csv",
+"acts": 1
+},
+{
+"shard": "pravilo/2015",
+"kind": "pravilo",
+"file": "data/freshness/pravilo/2015.csv",
+"acts": 3
+},
+{
+"shard": "pravilo/2016",
+"kind": "pravilo",
+"file": "data/freshness/pravilo/2016.csv",
+"acts": 2
+},
+{
+"shard": "pravilo/2017",
+"kind": "pravilo",
+"file": "data/freshness/pravilo/2017.csv",
+"acts": 1
+},
+{
+"shard": "pravilo/2018",
+"kind": "pravilo",
+"file": "data/freshness/pravilo/2018.csv",
+"acts": 1
+},
+{
+"shard": "pravilo/2019",
+"kind": "pravilo",
+"file": "data/freshness/pravilo/2019.csv",
+"acts": 2
+},
+{
+"shard": "pravilo/2021",
+"kind": "pravilo",
+"file": "data/freshness/pravilo/2021.csv",
+"acts": 2
+},
+{
+"shard": "pravilo/2022",
+"kind": "pravilo",
+"file": "data/freshness/pravilo/2022.csv",
+"acts": 2
+},
+{
+"shard": "uputstvo/2010",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2010.csv",
+"acts": 28
+},
+{
+"shard": "uputstvo/2011",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2011.csv",
+"acts": 16
+},
+{
+"shard": "uputstvo/2012",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2012.csv",
+"acts": 19
+},
+{
+"shard": "uputstvo/2013",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2013.csv",
+"acts": 33
+},
+{
+"shard": "uputstvo/2014",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2014.csv",
+"acts": 27
+},
+{
+"shard": "uputstvo/2015",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2015.csv",
+"acts": 28
+},
+{
+"shard": "uputstvo/2016",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2016.csv",
+"acts": 19
+},
+{
+"shard": "uputstvo/2017",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2017.csv",
+"acts": 22
+},
+{
+"shard": "uputstvo/2018",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2018.csv",
+"acts": 18
+},
+{
+"shard": "uputstvo/2019",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2019.csv",
+"acts": 20
+},
+{
+"shard": "uputstvo/2020",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2020.csv",
+"acts": 10
+},
+{
+"shard": "uputstvo/2021",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2021.csv",
+"acts": 18
+},
+{
+"shard": "uputstvo/2022",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2022.csv",
+"acts": 35
+},
+{
+"shard": "uputstvo/2023",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2023.csv",
+"acts": 11
+},
+{
+"shard": "uputstvo/2024",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2024.csv",
+"acts": 26
+},
+{
+"shard": "uputstvo/2025",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2025.csv",
+"acts": 13
+},
+{
+"shard": "uputstvo/2026",
+"kind": "uputstvo",
+"file": "data/freshness/uputstvo/2026.csv",
+"acts": 31
+},
+{
+"shard": "zakon/2010",
+"kind": "zakon",
+"file": "data/freshness/zakon/2010.csv",
+"acts": 21
+},
+{
+"shard": "zakon/2011",
+"kind": "zakon",
+"file": "data/freshness/zakon/2011.csv",
+"acts": 11
+},
+{
+"shard": "zakon/2012",
+"kind": "zakon",
+"file": "data/freshness/zakon/2012.csv",
+"acts": 20
+},
+{
+"shard": "zakon/2013",
+"kind": "zakon",
+"file": "data/freshness/zakon/2013.csv",
+"acts": 33
+},
+{
+"shard": "zakon/2014",
+"kind": "zakon",
+"file": "data/freshness/zakon/2014.csv",
+"acts": 12
+},
+{
+"shard": "zakon/2015",
+"kind": "zakon",
+"file": "data/freshness/zakon/2015.csv",
+"acts": 11
+},
+{
+"shard": "zakon/2016",
+"kind": "zakon",
+"file": "data/freshness/zakon/2016.csv",
+"acts": 24
+},
+{
+"shard": "zakon/2017",
+"kind": "zakon",
+"file": "data/freshness/zakon/2017.csv",
+"acts": 10
+},
+{
+"shard": "zakon/2018",
+"kind": "zakon",
+"file": "data/freshness/zakon/2018.csv",
+"acts": 8
+},
+{
+"shard": "zakon/2020",
+"kind": "zakon",
+"file": "data/freshness/zakon/2020.csv",
+"acts": 6
+},
+{
+"shard": "zakon/2021",
+"kind": "zakon",
+"file": "data/freshness/zakon/2021.csv",
+"acts": 3
+},
+{
+"shard": "zakon/2022",
+"kind": "zakon",
+"file": "data/freshness/zakon/2022.csv",
+"acts": 5
+},
+{
+"shard": "zakon/2023",
+"kind": "zakon",
+"file": "data/freshness/zakon/2023.csv",
+"acts": 11
+},
+{
+"shard": "zakon/2024",
+"kind": "zakon",
+"file": "data/freshness/zakon/2024.csv",
+"acts": 7
+},
+{
+"shard": "zakon/2025",
+"kind": "zakon",
+"file": "data/freshness/zakon/2025.csv",
+"acts": 5
+},
+{
+"shard": "zakon/2026",
+"kind": "zakon",
+"file": "data/freshness/zakon/2026.csv",
+"acts": 10
+}
+]
+}

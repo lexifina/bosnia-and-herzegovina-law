@@ -1,0 +1,184 @@
+{
+ "note": "Freshness of every act in this repository: when it was last checked against its official source, how, and whether a known change is missing. One row per act in data/freshness/<kind>/<year>.csv (listed in data/freshness/index.json); `python tools/freshness.py <act id or folder>` reads them. A status is as of `as_of`; an act verified longer ago than its threshold has since become stale.",
+ "schema": "ba-freshness/1",
+ "as_of": "2026-11-10",
+ "checked_against_official_source": "2026-11-10",
+ "statuses": {
+  "current": "checked against the official source within its threshold, and no known change is missing",
+  "pending-change": "the official source reports a change (amendment, repeal) this repository does not have as a consolidated text: the act is held as enacted (or as last consolidated) and labelled",
+  "stale": "not checked within its threshold",
+  "unverified": "never checked against the official source for later changes",
+  "source-unavailable": "due for a check, but the official source has not answered the latest checks"
+ },
+ "methods": {
+  "gazette-index": "every issue of Službeni glasnik BiH (sluzbenilist.ba) through the newest one read; every title, and the text of every law, regulation and Constitutional Court decision, scanned for acts that amend, repeal, correct or cite it"
+ },
+ "thresholds": {
+  "national": {
+   "days": 7,
+   "kinds": [
+    "constitution",
+    "criminal-code",
+    "zakon"
+   ],
+   "label": "Constitution, Criminal Code and laws of the Parliamentary Assembly"
+  },
+  "secondary": {
+   "days": 30,
+   "kinds": [
+    "pravilnik",
+    "uputstvo",
+    "poslovnik",
+    "pravilo"
+   ],
+   "label": "rulebooks, instructions, rules of procedure and rules"
+  }
+ },
+ "final": "A repealed act no longer changes: it stays current once checked, with no threshold (its check_due is empty).",
+ "columns": {
+  "act": "the act id (data/paths.json maps it to its folder)",
+  "status": "as of `as_of`",
+  "last_verified": "the day of the last check that confirmed the latest version held here is the newest (UTC)",
+  "check_due": "last_verified plus the threshold: after this day the act is stale unless checked again",
+  "method": "how that check was made (`methods`)",
+  "newest_change": "the newest change the official sources report (an act, by its official title)",
+  "newest_change_date": "its day (its Gazette issue day where known)",
+  "change_in_repo": "yes if this repository has that change applied to the act's text, no if not",
+  "official_url": "the act's page at its official source, to check by hand"
+ },
+ "totals": {
+  "acts": 1871,
+  "by_status": {
+   "current": 1574,
+   "pending-change": 297,
+   "stale": 0,
+   "unverified": 0,
+   "source-unavailable": 0
+  },
+  "pct_verified_7d": 100.0,
+  "pct_verified_30d": 100.0
+ },
+ "by_group": {
+  "national": {
+   "acts": 199,
+   "by_status": {
+    "current": 185,
+    "pending-change": 14,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "secondary": {
+   "acts": 1672,
+   "by_status": {
+    "current": 1389,
+    "pending-change": 283,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  }
+ },
+ "by_kind": {
+  "constitution": {
+   "acts": 1,
+   "by_status": {
+    "current": 0,
+    "pending-change": 1,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "criminal-code": {
+   "acts": 1,
+   "by_status": {
+    "current": 0,
+    "pending-change": 1,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "poslovnik": {
+   "acts": 46,
+   "by_status": {
+    "current": 31,
+    "pending-change": 15,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "pravilnik": {
+   "acts": 1220,
+   "by_status": {
+    "current": 1019,
+    "pending-change": 201,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "pravilo": {
+   "acts": 32,
+   "by_status": {
+    "current": 31,
+    "pending-change": 1,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "uputstvo": {
+   "acts": 374,
+   "by_status": {
+    "current": 308,
+    "pending-change": 66,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "zakon": {
+   "acts": 197,
+   "by_status": {
+    "current": 185,
+    "pending-change": 12,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  }
+ },
+ "sources": [
+  {
+   "source": "Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba)",
+   "url": "https://www.sluzbenilist.ba/Docs/index/bih",
+   "last_successful_check": "2026-11-10",
+   "newest_issue_read": "80/26",
+   "newest_issue_date": "2026-11-06"
+  }
+ ],
+ "index": "data/freshness/index.json",
+ "shards": 80
+}

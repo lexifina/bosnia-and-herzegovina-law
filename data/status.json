@@ -1,0 +1,16 @@
+{
+ "note": "Update status of this repository, refreshed by every refresh run (daily).",
+ "as_of": "2026-11-10T07:15:54+00:00",
+ "updates": "idle",
+ "last_published": "2026-11-06T20:55:49Z",
+ "published_last_24h": {
+  "commits": 0
+ },
+ "official_sources": [
+  {
+   "source": "Službeni glasnik BiH (JP NIO Službeni list BiH, sluzbenilist.ba)",
+   "state": "available",
+   "last_successful_contact": "2026-11-10"
+  }
+ ]
+}
