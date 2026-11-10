@@ -1,6 +1,6 @@
 {
 "note": "In-scope acts (laws of the Parliamentary Assembly; rulebooks, instructions, rules of procedure and rules) listed in Službeni glasnik BiH but held back from main, each with the rule that holds it (reason) and the exact finding (detail): its text does not split cleanly into articles, its in-force day cannot be read, its Bosnian text is not served, or a later text it depends on is not read yet.",
-"count": 1810,
+"count": 1808,
 "acts": [
 {
 "id": "",
@@ -12207,15 +12207,6 @@
 "official_url": "https://www.sluzbenilist.ba/page/akt/dorPrlYB5RI="
 },
 {
-"id": "iExZwUzcziU=",
-"gazette": "Službeni glasnik BiH 15/11",
-"date": "2011-02-28",
-"title": "PRAVILNIK O MJERAMA ZA KONTROLU ODREĐENIH BOLESTI ŽIVOTINJA I POSEBNE MJERE ZA VEZIKULARNU BOLEST SVINJA",
-"reason": "rejected",
-"detail": "rejected:the same act as pravilnik-2011-sg015-1361dc on main, which holds the publisher's other edition of it (https://www.sluzbenilist.ba/page/akt/CERtQwJ10Fo=)",
-"official_url": "https://www.sluzbenilist.ba/page/akt/iExZwUzcziU="
-},
-{
 "id": "vyuQr6rL1Vk=",
 "gazette": "Službeni glasnik BiH 17/11",
 "date": "2011-03-08",
@@ -12349,15 +12340,6 @@
 "reason": "text_before_first_article",
 "detail": "text_before_first_article",
 "official_url": "https://www.sluzbenilist.ba/page/akt/9tkZLYH84IY="
-},
-{
-"id": "1p8gztz5k76kjn45hTadRKQM=",
-"gazette": "Službeni glasnik BiH 40/11",
-"date": "2011-05-24",
-"title": "PRAVILNIK O UTVRĐIVANJU KRITERIJA ZA ODSTUPANJE OD ZAJEDNIČKIH TEMELJNIH STANDARDA SIGURNOSTI CIVILNOG ZRAKOPLOVSTVA I USVAJANJE ALTERNATIVNIH SIGURNOSNIH MJERA",
-"reason": "rejected",
-"detail": "rejected:the same act as pravilnik-2011-sg040-c6e89b on main, which holds the publisher's other edition of it (https://www.sluzbenilist.ba/page/akt/HpT4HwdxlXY=)",
-"official_url": "https://www.sluzbenilist.ba/page/akt/1p8gztz5k76kjn45hTadRKQM="
 },
 {
 "id": "4BFgztz5k76kjn45hohz4nh78h77lLhL7Q=",
