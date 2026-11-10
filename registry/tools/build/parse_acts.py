@@ -51,7 +51,17 @@ from difflib import SequenceMatcher
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
+# 2026-11-09 (Romania standard, gitlaw-bosnia-standard): with GITLAW_BA_LABEL=1 an act a later act amends, repeals,
+# corrects or cites with its amendments is published as enacted and labelled ("amended, not consolidated" /
+# "repealed, not consolidated", with amended_by = the acts that change it), not held: no official consolidated text
+# exists. Without it, the parser reads as shipped on 2026-11-03.
+import os as _os  # noqa: E402
+LABEL = _os.environ.get("GITLAW_BA_LABEL") == "1"
+FROM = _os.environ.get("GITLAW_BA_FROM", "")  # index rows dated before this day are not read (the 11-03 build: 2010)
 PARTS = HERE / "corpus.d"
+# Acts main published (2026-11-03) under the publisher's other id for the same act (it serves some acts under two
+# ids; the Bosnian issue list names one): {id on the issue list: id on main}. The act keeps main's id and link.
+ALIAS = json.loads((HERE / "acts-aliases.json").read_text(encoding="utf-8")) if (HERE / "acts-aliases.json").exists() else {}
 AKT_URL = "https://www.sluzbenilist.ba/page/akt/{akt}"
 ISSUER = "PARLAMENTARNA SKUPŠTINA BOSNE I HERCEGOVINE"
 MONTHS = {m: i for i, m in enumerate(["januara", "februara", "marta", "aprila", "maja", "juna", "jula", "augusta",
@@ -500,7 +510,7 @@ def main():
         except Exception:
             cache = {}
     rejects = json.loads(Path(a.rejects).read_text(encoding="utf-8")) if a.rejects and Path(a.rejects).exists() else {}
-    rows = [r for r in rows if r.get("series") == "Službeni glasnik BiH"]
+    rows = [r for r in rows if r.get("series") == "Službeni glasnik BiH" and r["date"] >= FROM]
     # Later titles that amend, repeal or correct a subject.
     named: dict[str, list[tuple[str, str | None]]] = defaultdict(list)
     for r in rows:
@@ -559,6 +569,14 @@ def main():
 
     laws = [r for r in rows if r.get("akt") and first_word(r) in KINDS and "USTAVNI SUD" not in r["issuer"].upper()
             and (first_word(r) != "ZAKON" or r["issuer"].upper().startswith(ISSUER))]
+    if LABEL:
+        # 2026-11-09: in-scope acts the issue pages list with no act page (before 2010 the publisher serves no free
+        # text) are held with that reason, not dropped silently
+        for r in rows:
+            if not r.get("akt") and first_word(r) in KINDS and "USTAVNI SUD" not in r["issuer"].upper() \
+                    and (first_word(r) != "ZAKON" or r["issuer"].upper().startswith(ISSUER)):
+                holds.append({"akt": None, "issue_page": r.get("issue_page"), "sg": f"{r['issue']}/{r['yy']}",
+                              "date": r["date"], "title": norm(r["title"])[:160], "reason": "no_text_served"})
     # Texts that can amend or strike a law (laws and Constitutional Court decisions): an act is judged only when every
     # such text published on or after its day is held, so a citation not yet read can never be missed.
     # A text the publisher's page does not serve (listed in unfetchable.json) can never be read: the gate does not
@@ -625,12 +643,12 @@ def main():
         """An act's key and its record in "laws" (the same for the act itself and for an act it is credited to)."""
         title = norm(r["title"])
         kslug, lkind = KINDS[first_word(r)]
-        key = f"{kslug}-{int(r['date'][:4])}-sg{r['issue']:03d}-{hashlib.sha1(r['akt'].encode()).hexdigest()[:6]}"
+        key = f"{kslug}-{int(r['date'][:4])}-sg{r['issue']:03d}-{hashlib.sha1(ALIAS.get(r['akt'], r['akt']).encode()).hexdigest()[:6]}"
         nice = title[0] + title[1:].lower() if title.isupper() else title
         nice = re.sub(r"\bbosne i hercegovine\b", "Bosne i Hercegovine", nice)
         label = f'{nice} ("Službeni glasnik BiH", br. {r["issue"]}/{r["yy"]})'
         return key, {"label": label, "title": nice, "kind": lkind, "enacted": adopted, "published": r["date"],
-                     "url": AKT_URL.format(akt=r["akt"]), "temporary_until": None, "restores": None, "note": None}
+                     "url": AKT_URL.format(akt=ALIAS.get(r["akt"], r["akt"])), "temporary_until": None, "restores": None, "note": None}
 
     seen_slugs = set()
     for r in sorted(laws, key=lambda x: (x["date"], x["issue"], x["akt"])):
@@ -639,6 +657,7 @@ def main():
         year = int(pub[:4])
         own = (r["issue"], 2000 + int(r["yy"]) if len(r["yy"]) == 2 else int(r["yy"]))
         repealers = []
+        marks: list[tuple] = []  # (kind, day, row) of later acts that change this one (label mode)
         try:
             if r["akt"] in rejects:
                 raise Hold("rejected:" + str(rejects[r["akt"]])[:200])
@@ -660,7 +679,9 @@ def main():
                         and not ((iss := issues_in(" ".join(re.findall(r"\(\s*br(?:oj|\.)\s*([^)]*)\)", x["title"], flags=re.I))))
                                  and own not in iss)]
                 if corr:
-                    raise Hold("correction_named")
+                    if not LABEL:
+                        raise Hold("correction_named")
+                    marks += [("amend", x["date"], x) for x in corr]
                 # A later text citing this amending law itself by name and issue (not the principal law's list).
                 tk, tsub = ts.split(":", 1)
                 own_cites = [c for (s, n, y), lst in cites.items() if (n, y) == own and s.split(":", 1)[0] == stem(word)
@@ -668,25 +689,42 @@ def main():
                              and (c[1] == "law" or (c[1] == "court" and c[3]))
                              # a code's amending law: a citation listing several issues names the code, not this law
                              and not (ts == code_target(title) and (s, c[2]) in multi)]
-                if own_cites:
+                if own_cites and LABEL:
+                    marks += [("cite", c[0], row_of.get(c[2])) for c in own_cites]
+                elif own_cites:
                     raise Hold("amending_law_cited_later:" + ",".join(sorted({c[0] for c in own_cites})[:3]))
             else:
                 later = [d for d, _ in named.get(subj, []) if d >= pub]
                 # a similar title (not the same) counts unless that amending text's own citation shows another act
                 later += [d for s, lst in named.items() if s != subj and similar(s, subj, 50) for d, x in lst if d >= pub
                           and not other_act(x, s, subj, own, r["akt"])]
-                if later:
+                if later and LABEL:
+                    for x in rows:
+                        if x["date"] >= pub and x is not r:
+                            s2 = target_subject(x["title"])
+                            if s2 and (s2 == subj or (similar(s2, subj, 50) and not other_act(x.get("akt"), s2, subj, own, r["akt"]))):
+                                marks.append(("repeal" if re.search(r"\bPRESTANKU\s+VA", norm(x["title"]).upper()) else "amend",
+                                              x["date"], x))
+                elif later:
                     raise Hold("named_as_amended:" + ",".join(sorted(set(later))[:3]))
                 # A later citation that lists issues after this one names its amendments; a court decision that
                 # strikes provisions changes it; a sentence saying it ceases to be valid repeals it. A citation of this
                 # issue alone otherwise (a regulation's legal basis) does not.
                 by_cite = [c for (s, n, y), lst in cites.items() if (n, y) == own and similar(s, subj, 40)
                            for c in lst if c[2] != r["akt"] and c[0] >= pub and (c[4] > 0 or (c[1] == "court" and c[3]))]
-                if by_cite:
+                if by_cite and LABEL:
+                    marks += [("cite", c[0], row_of.get(c[2])) for c in by_cite]
+                elif by_cite:
                     raise Hold("cited_later:" + ",".join(sorted({c[0] for c in by_cite})[:3]))
                 by_rep = [c for (s, n, y), lst in cites.items() if (n, y) == own and similar(s, subj, 40)
                           for c in lst if c[2] != r["akt"] and c[0] >= pub and c[5] and same_name(c[5][0], title)]
-                if by_rep:
+                if by_rep and (marks or not all(c[5][1] for c in by_rep)
+                               or (not all(c[5][2] for c in by_rep) and not all(len(c[5]) > 3 and c[5][3] for c in by_rep))
+                               or len({(row_of[c[2]]["date"], row_of[c[2]]["issue"]) for c in by_rep}) > 1) and LABEL:
+                    # 2026-11-09 (Romania standard): a repeal that is not one clean whole-act event, or an act changed
+                    # otherwise too: published as enacted and labelled, not held
+                    marks += [("repeal" if c[5][1] else "amend", c[0], row_of.get(c[2])) for c in by_rep]
+                elif by_rep:
                     # Published with its repeal as a last, empty version, when the repeal is of the whole act, by one
                     # act, on that act's own in-force day (read below); otherwise held.
                     if not all(c[5][1] for c in by_rep):
@@ -716,15 +754,17 @@ def main():
                         break
                     except (Hold, KeyError) as e:
                         errs.append(str(e)[:60])
-                if repeal is None:
+                if repeal is None and LABEL:
+                    marks += [("repeal", row_of[ak]["date"], row_of[ak]) for ak in repealers]
+                elif repeal is None:
                     raise Hold("repealing_act_day_unknown:" + ";".join(errs)[:120])
-                if repeal[2] < day:
+                if repeal and repeal[2] < day:
                     raise Hold(f"repeal_before_in_force:{repeal[2]}")
         except Hold as h:
             holds.append({"akt": r["akt"], "sg": f"{r['issue']}/{r['yy']}", "date": pub, "title": title[:160], "reason": str(h)})
             continue
         pk = (40, "zakoni") if kslug == "zakon" else (50, kslug)
-        slug = f"{kslug}-{year}-sg{r['issue']:03d}-{hashlib.sha1(r['akt'].encode()).hexdigest()[:6]}"
+        slug = f"{kslug}-{year}-sg{r['issue']:03d}-{hashlib.sha1(ALIAS.get(r['akt'], r['akt']).encode()).hexdigest()[:6]}"
         if slug in seen_slugs:
             holds.append({"akt": r["akt"], "sg": f"{r['issue']}/{r['yy']}", "title": title[:160], "reason": "slug_collision"})
             continue
@@ -748,9 +788,35 @@ def main():
                              "note": f"Prestao je važiti {r_day}, danom {when} akta {rlaw['label']}, koji to određuje.",
                              **({"same_day": True} if r_day == day else {})})
             parts[(pk, year)].setdefault("_retrieved", set()).add(fetched[rr["akt"]].get("retrieved"))
+        extra = {}
+        if marks:
+            refs, seen_r = [], set()
+            rank = {"repeal": 0, "amend": 1, "cite": 2}  # one ref per act: its strongest kind
+            for kd, d, x in sorted(marks, key=lambda m: (m[1], (m[2] or {}).get("issue", 0), (m[2] or {}).get("pos", 0), rank[m[0]])):
+                if not x:
+                    continue
+                ref = x.get("akt") or f'sg:{x["issue"]}/{x["yy"]}:{x.get("pos", 0)}'
+                if ref in seen_r:
+                    continue
+                seen_r.add(ref)
+                xt = norm(x["title"])
+                xt = xt[0] + xt[1:].lower() if xt.isupper() else xt
+                xt = re.sub(r"\bbosne i hercegovine\b", "Bosne i Hercegovine", xt)
+                refs.append({"ref": ref, "title": f'{xt} ("Službeni glasnik BiH", br. {x["issue"]}/{x["yy"]})',
+                             "url": AKT_URL.format(akt=x["akt"]) if x.get("akt") else f'https://www.sluzbenilist.ba{x.get("issue_page", "")}',
+                             "kind": kd})
+            if refs:
+                whole = any(m[0] == "repeal" for m in marks)
+                # amended_by: the acts whose titles amend, repeal or correct it (or whose text repeals it);
+                # cited_by: later texts that cite it with the gazette issues of its amendments, or a court decision
+                # striking provisions (the change is known from the citation, not from a title)
+                ch = [{k: v for k, v in x.items() if k != "kind"} for x in refs if x["kind"] != "cite"]
+                ci = [{k: v for k, v in x.items() if k != "kind"} for x in refs if x["kind"] == "cite"]
+                extra = {"label": "repealed, not consolidated" if whole else "amended, not consolidated",
+                         **({"amended_by": ch} if ch else {}), **({"cited_by": ci} if ci else {})}
         parts[(pk, year)]["acts"].append({
             "slug": slug, "short": nice, "title": nice, "url": url, "first_law": slug, "earlier_laws": [],
-            "versions": versions})
+            "versions": versions, **extra})
         parts[(pk, year)].setdefault("_retrieved", set()).add(fetched[r["akt"]].get("retrieved"))
     out_dir = Path(a.out) if a.out else PARTS
     out_dir.mkdir(exist_ok=True)

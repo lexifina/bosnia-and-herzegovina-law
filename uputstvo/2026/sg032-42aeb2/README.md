@@ -147,6 +147,14 @@ Uputstvo o postupku provođenja posrednih izbora za organe vlasti u bosni i herc
 
 Act id: `uputstvo-2026-sg032-42aeb2` (tags `uputstvo-2026-sg032-42aeb2/<day>`; `python tools/on.py <day> uputstvo-2026-sg032-42aeb2`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Uputstvo o izmjenama i dopunama uputstva o postupku provođenja posrednih izbora za organe vlasti u bosni i hercegovini obuhvaćenih izbornim zakonom Bosne i Hercegovine ("Službeni glasnik BiH", br. 78/26)](https://www.sluzbenilist.ba/page/akt/1Xgztz5k76kjn45hAuwkxrQE=)
+
 ## Decisions made by hand
 
 - A law of the Parliamentary Assembly is published here as published in Službeni glasnik BiH, in its Bosnian text; the enacting formula is kept as the preamble, the signatures below the text are cut.

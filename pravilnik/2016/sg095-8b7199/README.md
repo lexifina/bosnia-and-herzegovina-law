@@ -31,6 +31,14 @@ Pravilnik o obliku, sadržaju i načinu vođenja evidencija, te rokovima čuvanj
 
 Act id: `pravilnik-2016-sg095-8b7199` (tags `pravilnik-2016-sg095-8b7199/<day>`; `python tools/on.py <day> pravilnik-2016-sg095-8b7199`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Pravilnik o izmjeni pravilnika o obliku, sadržaju i načinu vođenja evidencija, te rokovima čuvanja podataka u evidencijama koje vode organi nadležni za izdavanje odobrenja za kretanje oružja i vojne opreme ("Službeni glasnik BiH", br. 80/26)](https://www.sluzbenilist.ba/page/akt/K5ISkI5wGsU=)
+
 ## Decisions made by hand
 
 - A law of the Parliamentary Assembly is published here as published in Službeni glasnik BiH, in its Bosnian text; the enacting formula is kept as the preamble, the signatures below the text are cut.
