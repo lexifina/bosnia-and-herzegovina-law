@@ -1,30 +1,30 @@
 # Uputstvo o utvrđivanju kvalifikacija, broja, imenovanju i razrješenju i obuci članova izborne komisije osnovne izborne jedinice u bosni i hercegovini
 
-Uputstvo o utvrđivanju kvalifikacija, broja, imenovanju i razrješenju i obuci članova izborne komisije osnovne izborne jedinice u bosni i hercegovini · 1 versions, from 2017-08-19 (latest in force: 2017-08-19) · <https://www.sluzbenilist.ba/page/akt/bSgohz4nh78h778ElbrZo=>
+Uputstvo o utvrđivanju kvalifikacija, broja, imenovanju i razrješenju i obuci članova izborne komisije osnovne izborne jedinice u bosni i hercegovini · 2 versions, from 2017-08-19 (latest in force: 2018-05-08) · <https://www.sluzbenilist.ba/page/akt/bSgohz4nh78h778ElbrZo=>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | POGLAVLJE I. UVODNE NAPOMENE | [0-heading-1.md](0-heading-1.md) | 0 |  |
-| Član 1. | [art-001.md](art-001.md) | 0 |  |
+| Član 1. | [art-001.md](art-001.md) | 1 | 2018-05-08 |
 | POGLAVLJE II. KVALIFIKACIJE | [art-001-zz-heading-1.md](art-001-zz-heading-1.md) | 0 |  |
-| Član 2. | [art-002.md](art-002.md) | 0 |  |
-| Član 3. | [art-003.md](art-003.md) | 0 |  |
-| Član 4. | [art-004.md](art-004.md) | 0 |  |
+| Član 2. | [art-002.md](art-002.md) | 1 | 2018-05-08 |
+| Član 3. | [art-003.md](art-003.md) | 1 | 2018-05-08 |
+| Član 4. | [art-004.md](art-004.md) | 1 | 2018-05-08 |
 | POGLAVLJE III. BROJ ČLANOVA | [art-004-zz-heading-1.md](art-004-zz-heading-1.md) | 0 |  |
 | Član 5. | [art-005.md](art-005.md) | 0 |  |
-| Član 6. | [art-006.md](art-006.md) | 0 |  |
+| Član 6. | [art-006.md](art-006.md) | 1 | 2018-05-08 |
 | POGLAVLJE IV. IMENOVANJE | [art-006-zz-heading-1.md](art-006-zz-heading-1.md) | 0 |  |
-| Član 7. | [art-007.md](art-007.md) | 0 |  |
-| Član 8. | [art-008.md](art-008.md) | 0 |  |
-| Član 9. | [art-009.md](art-009.md) | 0 |  |
+| Član 7. | [art-007.md](art-007.md) | 1 | 2018-05-08 |
+| Član 8. | [art-008.md](art-008.md) | 1 | 2018-05-08 |
+| Član 9. | [art-009.md](art-009.md) | 1 | 2018-05-08 |
 | POGLAVLJE V. SAGLASNOST NA IMENOVANJE | [art-009-zz-heading-1.md](art-009-zz-heading-1.md) | 0 |  |
-| Član 10. | [art-010.md](art-010.md) | 0 |  |
+| Član 10. | [art-010.md](art-010.md) | 1 | 2018-05-08 |
 | POGLAVLJE VI. OBUKA | [art-010-zz-heading-1.md](art-010-zz-heading-1.md) | 0 |  |
 | Član 11. | [art-011.md](art-011.md) | 0 |  |
 | POGLAVLJE VII. ZAVRŠNE ODREDBE | [art-011-zz-heading-1.md](art-011-zz-heading-1.md) | 0 |  |
-| Član 12. | [art-012.md](art-012.md) | 0 |  |
-| Član 13. | [art-013.md](art-013.md) | 0 |  |
-| Uvod | [uvod.md](uvod.md) | 0 |  |
+| Član 12. | [art-012.md](art-012.md) | 1 | 2018-05-08 |
+| Član 13. | [art-013.md](art-013.md) | 1 | 2018-05-08 |
+| Uvod | [uvod.md](uvod.md) | 1 | 2018-05-08 |
 
 Act id: `uputstvo-2017-sg057-820c1e` (tags `uputstvo-2017-sg057-820c1e/<day>`; `python tools/on.py <day> uputstvo-2017-sg057-820c1e`).
 

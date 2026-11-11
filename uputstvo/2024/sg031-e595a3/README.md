@@ -1,6 +1,6 @@
 # Uputstvo o postupku otvaranja i korištenja posebnog računa za finansiranje troškova izborne kampanje
 
-Uputstvo o postupku otvaranja i korištenja posebnog računa za finansiranje troškova izborne kampanje · 1 versions, from 2024-05-03 (latest in force: 2024-05-03) · <https://www.sluzbenilist.ba/page/akt/05gztz5k76kjn45hO8P4NoQI=>
+Uputstvo o postupku otvaranja i korištenja posebnog računa za finansiranje troškova izborne kampanje · 2 versions, from 2024-05-03 (latest in force: 2026-05-07) · <https://www.sluzbenilist.ba/page/akt/05gztz5k76kjn45hO8P4NoQI=>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -8,21 +8,13 @@ Uputstvo o postupku otvaranja i korištenja posebnog računa za finansiranje tro
 | Član 2. | [art-002.md](art-002.md) | 0 |  |
 | Član 3. | [art-003.md](art-003.md) | 0 |  |
 | Član 4. | [art-004.md](art-004.md) | 0 |  |
-| Član 5. | [art-005.md](art-005.md) | 0 |  |
-| Član 6. | [art-006.md](art-006.md) | 0 |  |
-| Član 7. | [art-007.md](art-007.md) | 0 |  |
-| Član 8. | [art-008.md](art-008.md) | 0 |  |
-| Uvod | [uvod.md](uvod.md) | 0 |  |
+| Član 5. | [art-005.md](art-005.md) | 1 | 2026-05-07 |
+| Član 6. | [art-006.md](art-006.md) | 1 | 2026-05-07 |
+| Član 7. | [art-007.md](art-007.md) | 1 | 2026-05-07 |
+| Član 8. | [art-008.md](art-008.md) | 1 | 2026-05-07 |
+| Uvod | [uvod.md](uvod.md) | 1 | 2026-05-07 |
 
 Act id: `uputstvo-2024-sg031-e595a3` (tags `uputstvo-2024-sg031-e595a3/<day>`; `python tools/on.py <day> uputstvo-2024-sg031-e595a3`).
-
-## Status
-
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
-
-Amended or repealed by:
-
-- [Uputstvo o izmjeni i dopuni uputstva o postupku otvaranja i korištenja posebnog računa za finansiranje troškova izborne kampanje ("Službeni glasnik BiH", br. 32/26)](https://www.sluzbenilist.ba/page/akt/SN5YbvUhGsY=)
 
 ## Decisions made by hand
 

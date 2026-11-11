@@ -58,6 +58,16 @@ HERE = Path(__file__).resolve().parent
 import os as _os  # noqa: E402
 LABEL = _os.environ.get("GITLAW_BA_LABEL") == "1"
 FROM = _os.environ.get("GITLAW_BA_FROM", "")  # index rows dated before this day are not read (the 11-03 build: 2010)
+# 2026-11-11 (gitlaw-bosnia-deep L1): in label mode (unless GITLAW_BA_CONSOL=0) an official consolidated text
+# ("prečišćeni tekst", "službeni prečišćeni tekst") is not an act of its own: it is a later version of the act it
+# consolidates (the act its "Ovaj ... obuhvata ..." article, or failing that its preamble, cites by gazette issue, among
+# the earlier acts of the same kind and name), dated on its issue day, credited to the consolidated text itself as the
+# publisher's change (law kind "publisher": no single amending act is named for each provision). When that act has no
+# text the publisher serves (1997-2009), or no earlier act of that name is listed, the consolidated text is the act's
+# oldest version available. When that act is held, the consolidated text is held with it. When an earlier act of the
+# name is listed but the text cites none of them, it is read as an ordinary act.
+CONSOL = LABEL and _os.environ.get("GITLAW_BA_CONSOL", "1") == "1"  # on unless GITLAW_BA_CONSOL=0
+CMARK = re.compile(r"\s*[-(\"]*\s*(?:(?:službeni|novi|drugi\s+novi)\s+)?pre[čc]i[šs][ćc]en\w*\s+tekst\w*\s*[-)\"]*\s*", re.I)
 PARTS = HERE / "corpus.d"
 # Acts main published (2026-11-03) under the publisher's other id for the same act (it serves some acts under two
 # ids; the Bosnian issue list names one): {id on the issue list: id on main}. The act keeps main's id and link.
@@ -462,6 +472,42 @@ def same_name(cited: str, title: str) -> bool:
     return not (len(ta) >= 8 and len(tb) >= 8 and SequenceMatcher(None, ta, tb).ratio() < 0.6)
 
 
+def clean_title(t: str) -> str:
+    """A title without its "(prečišćeni tekst)" mark."""
+    return CMARK.sub(" ", norm(t)).strip()
+
+
+def consolidated_text(title: str, page: str) -> bool:
+    """The text is an official consolidated text: its index title, or the heading right after its own title in the
+    text, says "prečišćeni tekst" (an amending act or a correction of a consolidated text is not one)."""
+    t = norm(title)
+    if re.match(r"^(?:\w+\s+O\s+(?:IZMJEN|DOPUN|PRESTANKU)|ISPRAVK|IZMJEN|DOPUN)", t.upper()):
+        return False
+    if CMARK.search(t):
+        return True
+    fl = norm(html.unescape(re.sub(r"<[^>]+>", " ", page))).upper()
+    i = re.search(r"\bČLAN\s+1\s*\.", fl)
+    fl = fl[:i.start()] if i else fl[:3000]
+    head = clean_title(t).upper()[:40]
+    j = fl.rfind(head)
+    return j >= 0 and bool(re.search(r"PRE[ČC]I[ŠS][ĆC]EN\w*\s+TEKST", fl[j:j + len(t) + 60]))
+
+
+def covered_issues(page: str) -> list[tuple[int, int]]:
+    """The gazette issues a consolidated text says it brings together ("Ovaj pravilnik obuhvata ... (br. 29/18), ...");
+    failing that, the issues its preamble cites."""
+    flat = norm(html.unescape(re.sub(r"<[^>]+>", " ", page)))
+    out = []
+    for m in re.finditer(r"\b(?:[Oo]buhvata|obuhvaćen[aoi]?\s+(?:je|su))\s*:?\s*(?=(?:Zakon|Pravilnik|Uputstv|Poslovnik|Pravil|Odluk))", flat):
+        seg = flat[m.start():m.start() + 1500]
+        e = re.search(r"\bČlan\s+\d+\w?\.", seg)
+        out += issues_in(seg[:e.start()] if e else seg)
+    if out:
+        return out
+    i = re.search(r"\bČlan\s+1\s*\.", flat)
+    return issues_in(flat[:i.start()] if i else flat[:3000])
+
+
 def raw_path(src: Path, akt: str) -> Path:
     h = hashlib.sha1(akt.encode()).hexdigest()
     return src / "raw" / h[:2] / f"{h}.html.gz"
@@ -650,8 +696,45 @@ def main():
         return key, {"label": label, "title": nice, "kind": lkind, "enacted": adopted, "published": r["date"],
                      "url": AKT_URL.format(akt=ALIAS.get(r["akt"], r["akt"])), "temporary_until": None, "restores": None, "note": None}
 
+    # Official consolidated texts (GITLAW_BA_CONSOL): which earlier act each one consolidates. cons: {akt: (base row or
+    # None, issues it covers)}; those whose base is not confirmed are read as ordinary acts.
+    cons: dict[str, tuple] = {}
+    if CONSOL:
+        def okey(x):
+            return (x["date"], x["issue"], x.get("akt") or "")
+
+        def yr(y):
+            return (y["issue"], 2000 + int(y["yy"]) if len(y["yy"]) == 2 else int(y["yy"]))
+        cand_rows = [x for x in rows if first_word(x) in KINDS and "USTAVNI SUD" not in x["issuer"].upper()
+                     and not AMENDS.match(norm(x["title"]).upper())]
+        is_c = {}
+        law_ids = {id(x) for x in laws}
+        for x in cand_rows:
+            if x.get("akt") and x["akt"] in texts and x["date"] >= "2010" and id(x) in law_ids:
+                pg = gzip.decompress(raw_path(src, x["akt"]).read_bytes()).decode("utf-8")
+                if consolidated_text(x["title"], pg):
+                    is_c[(x["akt"], x["title"])] = covered_issues(pg)
+        for x in sorted((x for x in cand_rows if (x.get("akt"), x["title"]) in is_c), key=okey):
+            w, subj = first_word(x), subject(clean_title(x["title"]))
+            before = [y for y in cand_rows if first_word(y) == w and okey(y) < okey(x) and (y.get("akt"), y["title"]) not in is_c
+                      and subject(clean_title(y["title"])) == subj]
+            cov = is_c[(x["akt"], x["title"])]
+            # the act it consolidates: of the earlier acts of that name, the one it cites first (its list names the
+            # act, then the acts amending it)
+            base = sorted((y for y in before if yr(y) in cov), key=lambda y: cov.index(yr(y)))
+            if base:
+                cons[(x["akt"], x["title"])] = (base[0], cov)
+            elif not before:
+                cons[(x["akt"], x["title"])] = (None, cov)  # no earlier act of that name at all: the act's oldest version
+            # else: an earlier act of the name exists but the text does not cite it: read as an ordinary act
+    marks_of: dict[str, list] = {}
+    act_of: dict[str, tuple] = {}
+    deferred = []
     seen_slugs = set()
     for r in sorted(laws, key=lambda x: (x["date"], x["issue"], x["akt"])):
+        if (r["akt"], r["title"]) in cons:
+            deferred.append(r)
+            continue
         title = norm(r["title"])
         pub = r["date"]
         year = int(pub[:4])
@@ -814,10 +897,106 @@ def main():
                 ci = [{k: v for k, v in x.items() if k != "kind"} for x in refs if x["kind"] == "cite"]
                 extra = {"label": "repealed, not consolidated" if whole else "amended, not consolidated",
                          **({"amended_by": ch} if ch else {}), **({"cited_by": ci} if ci else {})}
+        marks_of[slug] = marks
+        act_of[slug] = (pk, year)
         parts[(pk, year)]["acts"].append({
             "slug": slug, "short": nice, "title": nice, "url": url, "first_law": slug, "earlier_laws": [],
             "versions": versions, **extra})
         parts[(pk, year)].setdefault("_retrieved", set()).add(fetched[r["akt"]].get("retrieved"))
+    slug_of_akt = {}
+    for p_ in parts.values():
+        for a_ in p_["acts"]:
+            slug_of_akt[a_["url"].rsplit("/", 1)[-1]] = a_["slug"]
+    chain: dict[str, str] = {}  # consolidated text's akt -> the act slug it went to
+    for r in sorted(deferred, key=lambda x: (x["date"], x["issue"], x["akt"])):
+        title = norm(r["title"])
+        pub = r["date"]
+        base, cov = cons[(r["akt"], r["title"])]
+        word = first_word(r)
+        kslug, lkind = KINDS[word]
+        try:
+            if r["akt"] in rejects:
+                raise Hold("rejected:" + str(rejects[r["akt"]])[:200])
+            page = gzip.decompress(raw_path(src, r["akt"]).read_bytes()).decode("utf-8")
+            units, text_title, adopted = split(page, word)
+            if subject(clean_title(text_title)).replace(" ", "") != subject(clean_title(title)).replace(" ", ""):
+                raise Hold("title_mismatch:" + text_title[:100])
+            # the act it goes to: the base act published here, or the act an earlier consolidated text of the same
+            # base went to; a base with no text (or none listed): the first consolidated text of it is the act
+            target = None
+            if base is not None and base.get("akt"):
+                target = slug_of_akt.get(ALIAS.get(base["akt"], base["akt"]))
+                if target is None:
+                    raise Hold("consolidates_held_act:" + law_entry(base, None)[0])
+            else:
+                same = [chain[x["akt"]] for x in deferred if x["akt"] in chain and cons[(x["akt"], x["title"])][0] is base
+                        and subject(clean_title(x["title"])) == subject(clean_title(title)) and first_word(x) == word]
+                target = same[-1] if same else None
+        except Hold as h:
+            holds.append({"akt": r["akt"], "sg": f"{r['issue']}/{r['yy']}", "date": pub, "title": title[:160],
+                          "reason": "consolidated:" + str(h)})
+            continue
+        ckey, claw = law_entry(r, adopted)
+        nice_c = clean_title(title)
+        nice_c = nice_c[0] + nice_c[1:].lower() if nice_c.isupper() else nice_c
+        nice_c = re.sub(r"\bbosne i hercegovine\b", "Bosne i Hercegovine", nice_c)
+        claw = {**claw, "kind": "publisher", "title": f"{nice_c} (prečišćeni tekst)",
+                "label": f'{nice_c} (prečišćeni tekst) ("Službeni glasnik BiH", br. {r["issue"]}/{r["yy"]})',
+                "note": f"The official consolidated text (prečišćeni tekst) published in Službeni glasnik BiH, br. "
+                        f"{r['issue']}/{r['yy']}, read as in force from its issue day, {pub}. It is credited to that text, "
+                        f"not to the amending acts it brings in: it does not say which of them changed each provision."
+                        + (" It brings together the texts of Službeni glasnik BiH, br. "
+                           + ", ".join(f"{n}/{str(y)[2:]}" for n, y in dict.fromkeys(cov)) + "." if cov else "")}
+        if target is None:
+            # the act's oldest version available: the consolidated text itself
+            slug = ckey
+            if slug in seen_slugs:
+                holds.append({"akt": r["akt"], "sg": f"{r['issue']}/{r['yy']}", "title": title[:160], "reason": "slug_collision"})
+                continue
+            seen_slugs.add(slug)
+            pk = (40, "zakoni") if kslug == "zakon" else (50, kslug)
+            year = int(pub[:4])
+            parts[(pk, year)]["acts"].append({
+                "slug": slug, "short": nice_c, "title": nice_c, "url": claw["url"], "first_law": None, "earlier_laws": [],
+                "versions": [{"from": pub, "source_url": claw["url"], "sha256": fetched[r["akt"]]["sha256"], "units": units,
+                              "credits": {}, "note": claw["note"]}]})
+            parts[(pk, year)].setdefault("_retrieved", set()).add(fetched[r["akt"]].get("retrieved"))
+            act_of[slug] = (pk, year)
+            marks_of[slug] = []
+            slug_of_akt[r["akt"]] = slug
+            chain[r["akt"]] = slug
+            continue
+        pk, year = act_of[target]
+        act = next(x for x in parts[(pk, year)]["acts"] if x["slug"] == target)
+        prev = act["versions"][-1]
+        try:
+            if not prev["units"]:
+                raise Hold(f"consolidated_after_repeal:{target}")
+            if prev["from"] >= pub:
+                raise Hold(f"consolidated_not_after_last_version:{target}:{prev['from']}")
+            changed = sorted(k for k in set(prev["units"]) | set(units)
+                             if prev["units"].get(k, {}).get("text") != units.get(k, {}).get("text"))
+            if not changed:
+                raise Hold(f"consolidated_same_text:{target}")
+        except Hold as h:
+            holds.append({"akt": r["akt"], "sg": f"{r['issue']}/{r['yy']}", "date": pub, "title": title[:160],
+                          "reason": "consolidated:" + str(h)})
+            continue
+        parts[(pk, year)]["laws"][ckey] = claw
+        act["versions"].append({"from": pub, "source_url": claw["url"], "sha256": fetched[r["akt"]]["sha256"],
+                                "units": units, "credits": {k: [ckey] for k in changed}})
+        parts[(pk, year)].setdefault("_retrieved", set()).add(fetched[r["akt"]].get("retrieved"))
+        chain[r["akt"]] = target
+        # the label now counts only what changed it after its newest consolidated text
+        later = [m for m in marks_of.get(target, []) if m[1] > pub]
+        marks_of[target] = later
+        if act.get("label"):
+            if any(m[0] == "repeal" for m in later):
+                act["label"] = "repealed, not consolidated"
+            elif later:
+                act["label"] = "amended, not consolidated"
+            else:
+                del act["label"]
     out_dir = Path(a.out) if a.out else PARTS
     out_dir.mkdir(exist_ok=True)
 

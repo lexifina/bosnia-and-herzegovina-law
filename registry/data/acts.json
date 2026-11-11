@@ -36,6 +36,23 @@
 "portal": "https://www.sluzbenilist.ba/page/akt/FOAD4OJxjHA="
 },
 {
+"slug": "zakon-2010-sg012-183639",
+"path": "zakon/2010/sg012-183639",
+"kind": "zakon",
+"year": "2010",
+"number": "sg012-183639",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon Bosne i Hercegovine o izvršenju krivičnih sankcija, pritvora i drugih mjera",
+"short": "Zakon Bosne i Hercegovine o izvršenju krivičnih sankcija, pritvora i drugih mjera",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2010-02-16",
+"latest": "2016-03-29",
+"portal": "https://www.sluzbenilist.ba/page/akt/OTOg8ulJRxM="
+},
+{
 "slug": "zakon-2010-sg014-574959",
 "path": "zakon/2010/sg014-574959",
 "kind": "zakon",
@@ -104,6 +121,23 @@
 "url": "https://www.sluzbenilist.ba/page/akt/Hc6eOEPqlbo="
 }
 ]
+},
+{
+"slug": "zakon-2010-sg032-061235",
+"path": "zakon/2010/sg032-061235",
+"kind": "zakon",
+"year": "2010",
+"number": "sg032-061235",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o ravnopravnosti spolova u bosni i hercegovini",
+"short": "Zakon o ravnopravnosti spolova u bosni i hercegovini",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2010-04-22",
+"latest": "2010-04-22",
+"portal": "https://www.sluzbenilist.ba/page/akt/Ogl6BLfO0gztz5k76kjn45hI="
 },
 {
 "slug": "zakon-2010-sg032-1a60b6",
@@ -5956,6 +5990,40 @@
 "portal": "https://www.sluzbenilist.ba/page/akt/S2JnSCDxugztz5k76kjn45hQ="
 },
 {
+"slug": "pravilnik-2011-sg070-bf1ae4",
+"path": "pravilnik/2011/sg070-bf1ae4",
+"kind": "pravilnik",
+"year": "2011",
+"number": "sg070-bf1ae4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Pravilnik o načinu vođenja registra",
+"short": "Pravilnik o načinu vođenja registra",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2011-09-05",
+"latest": "2011-09-05",
+"portal": "https://www.sluzbenilist.ba/page/akt/kUSo2VNPXZs="
+},
+{
+"slug": "pravilnik-2011-sg070-c83aa6",
+"path": "pravilnik/2011/sg070-c83aa6",
+"kind": "pravilnik",
+"year": "2011",
+"number": "sg070-c83aa6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Pravilnik o službenoj legitimaciji državnih službenika u službi za reviziju finansiranja političkih stranaka",
+"short": "Pravilnik o službenoj legitimaciji državnih službenika u službi za reviziju finansiranja političkih stranaka",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2011-09-05",
+"latest": "2011-09-05",
+"portal": "https://www.sluzbenilist.ba/page/akt/78HS3nqtiyg="
+},
+{
 "slug": "pravilnik-2011-sg074-258094",
 "path": "pravilnik/2011/sg074-258094",
 "kind": "pravilnik",
@@ -7624,6 +7692,23 @@
 "from": "2012-03-14",
 "latest": "2012-03-14",
 "portal": "https://www.sluzbenilist.ba/page/akt/iy1xRyLANLU="
+},
+{
+"slug": "pravilnik-2012-sg020-0c4cd1",
+"path": "pravilnik/2012/sg020-0c4cd1",
+"kind": "pravilnik",
+"year": "2012",
+"number": "sg020-0c4cd1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Pravilnik o izvršenju mjera sigurnosti obaveznog psihijatrijskog liječenja i obaveznog liječenja od ovisnosti u zavodu za izvršenje krivičnih sankcija, pritvora i drugih mjera Bosne i Hercegovine",
+"short": "Pravilnik o izvršenju mjera sigurnosti obaveznog psihijatrijskog liječenja i obaveznog liječenja od ovisnosti u zavodu za izvršenje krivičnih sankcija, pritvora i drugih mjera Bosne i Hercegovine",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2012-03-13",
+"latest": "2012-03-13",
+"portal": "https://www.sluzbenilist.ba/page/akt/de7rPIY4jHM="
 },
 {
 "slug": "pravilnik-2012-sg020-50b988",
@@ -11753,10 +11838,10 @@
 "title": "Pravilnik o unutrašnjoj organizaciji tužilaštva Bosne i Hercegovine",
 "short": "Pravilnik o unutrašnjoj organizaciji tužilaštva Bosne i Hercegovine",
 "code": null,
-"status": "amended, not consolidated",
-"versions": 1,
+"status": "in force",
+"versions": 2,
 "from": "2013-05-21",
-"latest": "2013-05-21",
+"latest": "2022-11-04",
 "portal": "https://www.sluzbenilist.ba/page/akt/NgxSur0Xuig=",
 "amended_by": [
 {
@@ -12899,9 +12984,9 @@
 "short": "Pravilnik o godišnjim finansijskim izvještajima političkih stranaka",
 "code": null,
 "status": "amended, not consolidated",
-"versions": 1,
+"versions": 2,
 "from": "2013-12-18",
-"latest": "2013-12-18",
+"latest": "2024-05-08",
 "portal": "https://www.sluzbenilist.ba/page/akt/qZlNlD8J1ohz4nh78h778=",
 "amended_by": [
 {
@@ -16701,10 +16786,10 @@
 "title": "Uputstvo o uslovima i procedurama za akreditiranje izbornih posmatrača u bosni i hercegovini",
 "short": "Uputstvo o uslovima i procedurama za akreditiranje izbornih posmatrača u bosni i hercegovini",
 "code": null,
-"status": "amended, not consolidated",
-"versions": 1,
+"status": "in force",
+"versions": 2,
 "from": "2014-05-14",
-"latest": "2014-05-14",
+"latest": "2018-06-19",
 "portal": "https://www.sluzbenilist.ba/page/akt/rzSX5HwMGws=",
 "amended_by": [
 {
@@ -16726,9 +16811,9 @@
 "short": "Uputstvo o izgledu i načinu ispunjavanja obrazaca izjave o imovinskom stanju",
 "code": null,
 "status": "amended, not consolidated",
-"versions": 1,
+"versions": 2,
 "from": "2014-05-14",
-"latest": "2014-05-14",
+"latest": "2016-05-04",
 "portal": "https://www.sluzbenilist.ba/page/akt/Lgztz5k76kjn45hcSxhyMgqo=",
 "amended_by": [
 {
@@ -16749,10 +16834,10 @@
 "title": "Uputstvo o utvrđivanju kvalifikacija i postupku imenovanja članova biračkih odbora",
 "short": "Uputstvo o utvrđivanju kvalifikacija i postupku imenovanja članova biračkih odbora",
 "code": null,
-"status": "amended, not consolidated",
-"versions": 1,
+"status": "in force",
+"versions": 2,
 "from": "2014-05-14",
-"latest": "2014-05-14",
+"latest": "2016-05-04",
 "portal": "https://www.sluzbenilist.ba/page/akt/gztz5k76kjn45h014gcuwIik=",
 "amended_by": [
 {
@@ -16774,9 +16859,9 @@
 "short": "Uputstvo o procedurama za rješavanje po prigovorima i žalbama podnesenim izbornim komisijama",
 "code": null,
 "status": "amended, not consolidated",
-"versions": 1,
+"versions": 2,
 "from": "2014-05-14",
-"latest": "2014-05-14",
+"latest": "2020-05-07",
 "portal": "https://www.sluzbenilist.ba/page/akt/5pu84tohz4nh78h77mIZs=",
 "amended_by": [
 {
@@ -16815,9 +16900,9 @@
 "short": "Uputstvo o vrstama, načinu i rokovima za određivanje biračkih mjesta",
 "code": null,
 "status": "repealed, not consolidated",
-"versions": 1,
+"versions": 2,
 "from": "2014-05-14",
-"latest": "2014-05-14",
+"latest": "2020-05-07",
 "portal": "https://www.sluzbenilist.ba/page/akt/1CiJrohz4nh78h77FNQgg=",
 "amended_by": [
 {
@@ -18622,6 +18707,23 @@
 "portal": "https://www.sluzbenilist.ba/page/akt/gztz5k76kjn45hHDQxgztz5k76kjn45hdc7hc="
 },
 {
+"slug": "pravilnik-2015-sg097-41d039",
+"path": "pravilnik/2015/sg097-41d039",
+"kind": "pravilnik",
+"year": "2015",
+"number": "sg097-41d039",
+"withdrawn_by": null,
+"reason": null,
+"title": "Pravilnik o vrsti i uslovima za izvršenje krivične sankcije rada za opće dobro na slobodi",
+"short": "Pravilnik o vrsti i uslovima za izvršenje krivične sankcije rada za opće dobro na slobodi",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2015-12-21",
+"latest": "2015-12-21",
+"portal": "https://www.sluzbenilist.ba/page/akt/t3JrZJMWgztz5k76kjn45hjo="
+},
+{
 "slug": "pravilnik-2015-sg098-e22fb2",
 "path": "pravilnik/2015/sg098-e22fb2",
 "kind": "pravilnik",
@@ -20423,6 +20525,23 @@
 ]
 },
 {
+"slug": "pravilnik-2016-sg006-e15925",
+"path": "pravilnik/2016/sg006-e15925",
+"kind": "pravilnik",
+"year": "2016",
+"number": "sg006-e15925",
+"withdrawn_by": null,
+"reason": null,
+"title": "Pravilnik o mjerilima za utvrđivanje naknade povjerenicima u izvršavanju krivične sankcije \"rad za opće dobro na slobodi\"",
+"short": "Pravilnik o mjerilima za utvrđivanje naknade povjerenicima u izvršavanju krivične sankcije \"rad za opće dobro na slobodi\"",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2016-01-29",
+"latest": "2016-01-29",
+"portal": "https://www.sluzbenilist.ba/page/akt/fu1VHw4bchA="
+},
+{
 "slug": "pravilnik-2016-sg007-02617e",
 "path": "pravilnik/2016/sg007-02617e",
 "kind": "pravilnik",
@@ -21992,6 +22111,23 @@
 "from": "2016-01-14",
 "latest": "2016-01-14",
 "portal": "https://www.sluzbenilist.ba/page/akt/OTKkVj2OvkA="
+},
+{
+"slug": "uputstvo-2016-sg006-c4671b",
+"path": "uputstvo/2016/sg006-c4671b",
+"kind": "uputstvo",
+"year": "2016",
+"number": "sg006-c4671b",
+"withdrawn_by": null,
+"reason": null,
+"title": "Uputstvo o utvrđivanju kvalifikacija, broja i imenovanju i obuci članova izborne komisije osnovne izborne jedinice u bosni i hercegovini",
+"short": "Uputstvo o utvrđivanju kvalifikacija, broja i imenovanju i obuci članova izborne komisije osnovne izborne jedinice u bosni i hercegovini",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2016-01-29",
+"latest": "2016-01-29",
+"portal": "https://www.sluzbenilist.ba/page/akt/xa7P90J2xEA="
 },
 {
 "slug": "uputstvo-2016-sg007-c57776",
@@ -24792,9 +24928,9 @@
 "short": "Uputstvo o izgledu i načinu ispunjavanja obrasca izjave o imovinskom stanju",
 "code": null,
 "status": "repealed, not consolidated",
-"versions": 1,
+"versions": 2,
 "from": "2017-07-18",
-"latest": "2017-07-18",
+"latest": "2024-05-08",
 "portal": "https://www.sluzbenilist.ba/page/akt/43wv2mpvXxU=",
 "amended_by": [
 {
@@ -24826,9 +24962,9 @@
 "short": "Uputstvo o utvrđivanju kvalifikacija, broja, imenovanju i razrješenju i obuci članova izborne komisije osnovne izborne jedinice u bosni i hercegovini",
 "code": null,
 "status": "amended, not consolidated",
-"versions": 1,
+"versions": 2,
 "from": "2017-08-19",
-"latest": "2017-08-19",
+"latest": "2018-05-08",
 "portal": "https://www.sluzbenilist.ba/page/akt/bSgohz4nh78h778ElbrZo=",
 "amended_by": [
 {
@@ -25102,6 +25238,23 @@
 "from": "2018-09-29",
 "latest": "2018-09-29",
 "portal": "https://www.sluzbenilist.ba/page/akt/GoKIkSZ981k="
+},
+{
+"slug": "poslovnik-2018-sg029-421e11",
+"path": "poslovnik/2018/sg029-421e11",
+"kind": "poslovnik",
+"year": "2018",
+"number": "sg029-421e11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Poslovnik centralne izborne komisije Bosne i Hercegovine",
+"short": "Poslovnik centralne izborne komisije Bosne i Hercegovine",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2018-05-08",
+"latest": "2023-05-09",
+"portal": "https://www.sluzbenilist.ba/page/akt/vIbdfuAuFAI="
 },
 {
 "slug": "poslovnik-2018-sg041-6929a3",
@@ -25934,9 +26087,9 @@
 "short": "Pravilnik o provođenju izbora u bosni i hercegovini",
 "code": null,
 "status": "amended, not consolidated",
-"versions": 1,
+"versions": 2,
 "from": "2018-05-08",
-"latest": "2018-05-08",
+"latest": "2020-05-07",
 "portal": "https://www.sluzbenilist.ba/page/akt/ZbTUqmas7OQ=",
 "amended_by": [
 {
@@ -26020,9 +26173,9 @@
 "short": "Pravilnik o upotrebi i izradi izvoda iz centralnog biračkog spiska",
 "code": null,
 "status": "amended, not consolidated",
-"versions": 1,
+"versions": 2,
 "from": "2018-05-08",
-"latest": "2018-05-08",
+"latest": "2020-05-07",
 "portal": "https://www.sluzbenilist.ba/page/akt/cFWFiDKohz4nh78h77jW0=",
 "amended_by": [
 {
@@ -26099,10 +26252,10 @@
 "title": "Pravilnik o utvrđivanju kvalifikacija i postupku imenovanja članova biračkih odbora",
 "short": "Pravilnik o utvrđivanju kvalifikacija i postupku imenovanja članova biračkih odbora",
 "code": null,
-"status": "amended, not consolidated",
-"versions": 1,
+"status": "in force",
+"versions": 2,
 "from": "2018-05-08",
-"latest": "2018-05-08",
+"latest": "2020-05-07",
 "portal": "https://www.sluzbenilist.ba/page/akt/dcDJfcdQy5o=",
 "amended_by": [
 {
@@ -31121,9 +31274,9 @@
 "short": "Uputstvo o utvrđivanju kvalifikacija, broju, imenovanju, obuci i razrješenju članova izborne komisije osnovne izborne jedinice u bosni i hercegovini",
 "code": null,
 "status": "repealed, not consolidated",
-"versions": 1,
+"versions": 2,
 "from": "2021-11-06",
-"latest": "2021-11-06",
+"latest": "2022-01-07",
 "portal": "https://www.sluzbenilist.ba/page/akt/nohz4nh78h77Zz3ZBQFB4=",
 "amended_by": [
 {
@@ -32054,23 +32207,6 @@
 "portal": "https://www.sluzbenilist.ba/page/akt/MJq7PiQv5d0="
 },
 {
-"slug": "pravilnik-2022-sg074-0be318",
-"path": "pravilnik/2022/sg074-0be318",
-"kind": "pravilnik",
-"year": "2022",
-"number": "sg074-0be318",
-"withdrawn_by": null,
-"reason": null,
-"title": "Pravilnik o unutrašnjoj organizaciji tužilaštva Bosne i Hercegovine",
-"short": "Pravilnik o unutrašnjoj organizaciji tužilaštva Bosne i Hercegovine",
-"code": null,
-"status": "in force",
-"versions": 1,
-"from": "2022-11-04",
-"latest": "2022-11-04",
-"portal": "https://www.sluzbenilist.ba/page/akt/mcXa2TpLj1c="
-},
-{
 "slug": "pravilnik-2022-sg075-f298c3",
 "path": "pravilnik/2022/sg075-f298c3",
 "kind": "pravilnik",
@@ -32612,10 +32748,10 @@
 "title": "Uputstvo o postupku slanja, primanja, obrade, arhiviranja i zaštite elektronskih prijava i dokumenata državljana Bosne i Hercegovine za glasanje izvan bih elektronskim putem",
 "short": "Uputstvo o postupku slanja, primanja, obrade, arhiviranja i zaštite elektronskih prijava i dokumenata državljana Bosne i Hercegovine za glasanje izvan bih elektronskim putem",
 "code": null,
-"status": "amended, not consolidated",
-"versions": 1,
+"status": "in force",
+"versions": 2,
 "from": "2022-05-04",
-"latest": "2022-05-04",
+"latest": "2024-05-08",
 "portal": "https://www.sluzbenilist.ba/page/akt/aYF4yT9mdMQ=",
 "amended_by": [
 {
@@ -32637,9 +32773,9 @@
 "short": "Uputstvo o procedurama za rješavanje po prigovorima i žalbama podnesenim izbornim komisijama",
 "code": null,
 "status": "repealed, not consolidated",
-"versions": 1,
+"versions": 2,
 "from": "2022-05-04",
-"latest": "2022-05-04",
+"latest": "2024-05-08",
 "portal": "https://www.sluzbenilist.ba/page/akt/xJCgztz5k76kjn45hm97FCd0=",
 "amended_by": [
 {
@@ -33095,6 +33231,23 @@
 "from": "2023-01-04",
 "latest": "2023-01-04",
 "portal": "https://www.sluzbenilist.ba/page/akt/ohz4nh78h77QiPgztz5k76kjn45hVFwfMc="
+},
+{
+"slug": "pravilnik-2022-sg074-0be318",
+"path": "pravilnik/2022/sg074-0be318",
+"kind": "pravilnik",
+"year": "2022",
+"number": "sg074-0be318",
+"withdrawn_by": null,
+"reason": null,
+"title": "Pravilnik o unutrašnjoj organizaciji tužilaštva Bosne i Hercegovine",
+"short": "Pravilnik o unutrašnjoj organizaciji tužilaštva Bosne i Hercegovine",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2022-11-04",
+"latest": "2022-11-04",
+"portal": "https://www.sluzbenilist.ba/page/akt/mcXa2TpLj1c="
 },
 {
 "slug": "zakon-2023-sg046-1ebd08",
@@ -35989,6 +36142,23 @@
 ]
 },
 {
+"slug": "uputstvo-2024-sg031-48c8e0",
+"path": "uputstvo/2024/sg031-48c8e0",
+"kind": "uputstvo",
+"year": "2024",
+"number": "sg031-48c8e0",
+"withdrawn_by": null,
+"reason": null,
+"title": "Uputstvo o postupku žrijebanja političkih subjekata za utvrđivanje redoslijeda na glasačkom listiću",
+"short": "Uputstvo o postupku žrijebanja političkih subjekata za utvrđivanje redoslijeda na glasačkom listiću",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-05-08",
+"latest": "2024-05-08",
+"portal": "https://www.sluzbenilist.ba/page/akt/WWFXmOay6wY="
+},
+{
 "slug": "uputstvo-2024-sg031-5c2c5f",
 "path": "uputstvo/2024/sg031-5c2c5f",
 "kind": "uputstvo",
@@ -36084,10 +36254,10 @@
 "title": "Uputstvo o postupku otvaranja i korištenja posebnog računa za finansiranje troškova izborne kampanje",
 "short": "Uputstvo o postupku otvaranja i korištenja posebnog računa za finansiranje troškova izborne kampanje",
 "code": null,
-"status": "amended, not consolidated",
-"versions": 1,
+"status": "in force",
+"versions": 2,
 "from": "2024-05-03",
-"latest": "2024-05-03",
+"latest": "2026-05-07",
 "portal": "https://www.sluzbenilist.ba/page/akt/05gztz5k76kjn45hO8P4NoQI=",
 "amended_by": [
 {
@@ -36126,9 +36296,9 @@
 "short": "Uputstvo o utvrđivanju kvalifikacija, broju, imenovanju, obuci i razrješenju članova izborne komisije osnovne izborne jedinice u bosni i hercegovini",
 "code": null,
 "status": "amended, not consolidated",
-"versions": 1,
+"versions": 2,
 "from": "2024-05-03",
-"latest": "2024-05-03",
+"latest": "2026-05-07",
 "portal": "https://www.sluzbenilist.ba/page/akt/NUzSJRPCBiU=",
 "amended_by": [
 {
@@ -37847,9 +38017,9 @@
 "short": "Pravilnik o postupku imenovanja i razrješenja predsjednika i članova biračkih odbora u bosni i hercegovni",
 "code": null,
 "status": "amended, not consolidated",
-"versions": 1,
+"versions": 2,
 "from": "2026-01-13",
-"latest": "2026-01-13",
+"latest": "2026-05-07",
 "portal": "https://www.sluzbenilist.ba/page/akt/1gztz5k76kjn45hY5OpVrXHI=",
 "amended_by": [
 {
@@ -38702,10 +38872,10 @@
 "title": "Uputstvo o postupku provođenja posrednih izbora za organe vlasti u bosni i hercegovini obuhvaćenih izbornim zakonom Bosne i Hercegovine",
 "short": "Uputstvo o postupku provođenja posrednih izbora za organe vlasti u bosni i hercegovini obuhvaćenih izbornim zakonom Bosne i Hercegovine",
 "code": null,
-"status": "amended, not consolidated",
-"versions": 1,
+"status": "in force",
+"versions": 2,
 "from": "2026-05-06",
-"latest": "2026-05-06",
+"latest": "2026-11-03",
 "portal": "https://www.sluzbenilist.ba/page/akt/fNPQeDF9l04=",
 "amended_by": [
 {
@@ -39039,30 +39209,6 @@
 "portal": "https://www.sluzbenilist.ba/page/akt/Yohz4nh78h77zUWmzu10Y="
 },
 {
-"slug": "uputstvo-2026-sg078-4710be",
-"path": "uputstvo/2026/sg078-4710be",
-"kind": "uputstvo",
-"year": "2026",
-"number": "sg078-4710be",
-"withdrawn_by": null,
-"reason": null,
-"title": "Uputstvo o postupku provođenja posrednih izbora za organe vlasti u bosni i hercegovini obuhvaćenih izbornim zakonom Bosne i Hercegovine",
-"short": "Uputstvo o postupku provođenja posrednih izbora za organe vlasti u bosni i hercegovini obuhvaćenih izbornim zakonom Bosne i Hercegovine",
-"code": null,
-"status": "amended, not consolidated",
-"versions": 1,
-"from": "2026-11-03",
-"latest": "2026-11-03",
-"portal": "https://www.sluzbenilist.ba/page/akt/QMohz4nh78h771UCjfGaM=",
-"amended_by": [
-{
-"ref": "1Xgztz5k76kjn45hAuwkxrQE=",
-"title": "Uputstvo o izmjenama i dopunama uputstva o postupku provođenja posrednih izbora za organe vlasti u bosni i hercegovini obuhvaćenih izbornim zakonom Bosne i Hercegovine (\"Službeni glasnik BiH\", br. 78/26)",
-"url": "https://www.sluzbenilist.ba/page/akt/1Xgztz5k76kjn45hAuwkxrQE="
-}
-]
-},
-{
 "slug": "uputstvo-2026-sg078-a213dd",
 "path": "uputstvo/2026/sg078-a213dd",
 "kind": "uputstvo",
@@ -39095,6 +39241,23 @@
 "from": "2026-10-15",
 "latest": "2026-10-15",
 "portal": "https://www.sluzbenilist.ba/page/akt/oYM423CzPec="
+},
+{
+"slug": "uputstvo-2026-sg078-4710be",
+"path": "uputstvo/2026/sg078-4710be",
+"kind": "uputstvo",
+"year": "2026",
+"number": "sg078-4710be",
+"withdrawn_by": null,
+"reason": null,
+"title": "Uputstvo o postupku provođenja posrednih izbora za organe vlasti u bosni i hercegovini obuhvaćenih izbornim zakonom Bosne i Hercegovine",
+"short": "Uputstvo o postupku provođenja posrednih izbora za organe vlasti u bosni i hercegovini obuhvaćenih izbornim zakonom Bosne i Hercegovine",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-11-03",
+"latest": "2026-11-03",
+"portal": "https://www.sluzbenilist.ba/page/akt/QMohz4nh78h771UCjfGaM="
 }
 ]
 }

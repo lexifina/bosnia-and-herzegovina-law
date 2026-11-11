@@ -1,24 +1,22 @@
 # Uputstvo o utvrđivanju kvalifikacija i postupku imenovanja članova biračkih odbora
 
-Uputstvo o utvrđivanju kvalifikacija i postupku imenovanja članova biračkih odbora · 1 versions, from 2014-05-14 (latest in force: 2014-05-14) · <https://www.sluzbenilist.ba/page/akt/gztz5k76kjn45h014gcuwIik=>
+Uputstvo o utvrđivanju kvalifikacija i postupku imenovanja članova biračkih odbora · 2 versions, from 2014-05-14 (latest in force: 2016-05-04) · <https://www.sluzbenilist.ba/page/akt/gztz5k76kjn45h014gcuwIik=>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | POGLAVLJE I. UVOD | [0-heading-1.md](0-heading-1.md) | 0 |  |
-| Član 1. | [art-001.md](art-001.md) | 0 |  |
-| POGLAVLJE II. KVALIFIKACIJE I BROJ ČLANOVA Odjeljak A. Birački odbori u Bosni Hercegovini | [art-001-zz-heading-1.md](art-001-zz-heading-1.md) | 0 |  |
-| Član 2. | [art-002.md](art-002.md) | 0 |  |
+| Član 1. | [art-001.md](art-001.md) | 1 | 2016-05-04 |
+| Član 2. | [art-002.md](art-002.md) | 1 | 2016-05-04 |
 | Član 3. | [art-003.md](art-003.md) | 0 |  |
 | Član 4. | [art-004.md](art-004.md) | 0 |  |
-| Član 5. | [art-005.md](art-005.md) | 0 |  |
-| Odjeljak B. Birački odbori u DKP-ima BiH | [art-005-zz-heading-1.md](art-005-zz-heading-1.md) | 0 |  |
+| Član 5. | [art-005.md](art-005.md) | 1 | 2016-05-04 |
 | Član 6. | [art-006.md](art-006.md) | 0 |  |
-| Član 7. | [art-007.md](art-007.md) | 0 |  |
-| Odjeljak C. Mobilni timovi | [art-007-zz-heading-1.md](art-007-zz-heading-1.md) | 0 |  |
+| Član 7. | [art-007.md](art-007.md) | 1 | 2016-05-04 |
 | Član 8. | [art-008.md](art-008.md) | 0 |  |
 | Član 9. | [art-009.md](art-009.md) | 0 |  |
-| POGLAVLJE III. PRIJEDLOZI, POSTUPAK DODJELE MJESTA I IMENOVANJA Odjeljak A. Birački odbori u Bosni Hercegovini | [art-009-zz-heading-1.md](art-009-zz-heading-1.md) | 0 |  |
-| Član 10. | [art-010.md](art-010.md) | 0 |  |
+| POGLAVLJE III. PRIJEDLOZI, POSTUPAK DODJELE MJESTA I IMENOVANJA | [art-009-zz-heading-1.md](art-009-zz-heading-1.md) | 1 | 2016-05-04 |
+| Odjeljak A. Birački odbori u Bosni Hercegovini | [art-009-zz-heading-2.md](art-009-zz-heading-2.md) | 1 | 2016-05-04 |
+| Član 10. | [art-010.md](art-010.md) | 1 | 2016-05-04 |
 | Član 11. | [art-011.md](art-011.md) | 0 |  |
 | Odjeljak B. Birački odbori u DKP-ima BiH | [art-011-zz-heading-1.md](art-011-zz-heading-1.md) | 0 |  |
 | Član 12. | [art-012.md](art-012.md) | 0 |  |
@@ -28,20 +26,13 @@ Uputstvo o utvrđivanju kvalifikacija i postupku imenovanja članova biračkih o
 | POGLAVLJE IV. OBUKA, PROVJERA ZNANJA, METODE I KRITERIJI PROVJERE ZNANJA I CERTIFICIRANJE | [art-014-zz-heading-1.md](art-014-zz-heading-1.md) | 0 |  |
 | Član 15. | [art-015.md](art-015.md) | 0 |  |
 | Član 16. | [art-016.md](art-016.md) | 0 |  |
-| Član 17. | [art-017.md](art-017.md) | 0 |  |
-| Član 18. | [art-018.md](art-018.md) | 0 |  |
-| Član 19. | [art-019.md](art-019.md) | 0 |  |
-| Uvod | [uvod.md](uvod.md) | 0 |  |
+| Član 17. | [art-017.md](art-017.md) | 1 | 2016-05-04 |
+| Član 18. | [art-018.md](art-018.md) | 1 | 2016-05-04 |
+| Član 19. | [art-019.md](art-019.md) | 1 | 2016-05-04 |
+| Član 20. | [art-020.md](art-020.md) | 1 | 2016-05-04 |
+| Uvod | [uvod.md](uvod.md) | 1 | 2016-05-04 |
 
 Act id: `uputstvo-2014-sg037-561202` (tags `uputstvo-2014-sg037-561202/<day>`; `python tools/on.py <day> uputstvo-2014-sg037-561202`).
-
-## Status
-
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
-
-Amended or repealed by:
-
-- [Uputstvo o dopuni uputstva o utvrđivanju kvalifikacija i postupku imenovanja članova biračkih odbora ("Službeni glasnik BiH", br. 75/14)](https://www.sluzbenilist.ba/page/akt/sgztz5k76kjn45hIPDB7SoGE=)
 
 ## Decisions made by hand
 

@@ -1,6 +1,6 @@
 # Uputstvo o utvrđivanju kvalifikacija, broju, imenovanju, obuci i razrješenju članova izborne komisije osnovne izborne jedinice u bosni i hercegovini
 
-Uputstvo o utvrđivanju kvalifikacija, broju, imenovanju, obuci i razrješenju članova izborne komisije osnovne izborne jedinice u bosni i hercegovini · 1 versions, from 2021-11-06 (latest in force: 2021-11-06) · <https://www.sluzbenilist.ba/page/akt/nohz4nh78h77Zz3ZBQFB4=>
+Uputstvo o utvrđivanju kvalifikacija, broju, imenovanju, obuci i razrješenju članova izborne komisije osnovne izborne jedinice u bosni i hercegovini · 2 versions, from 2021-11-06 (latest in force: 2022-01-07) · <https://www.sluzbenilist.ba/page/akt/nohz4nh78h77Zz3ZBQFB4=>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -14,19 +14,19 @@ Uputstvo o utvrđivanju kvalifikacija, broju, imenovanju, obuci i razrješenju �
 | Član 5. | [art-005.md](art-005.md) | 0 |  |
 | Član 6. | [art-006.md](art-006.md) | 0 |  |
 | POGLAVLJE IV. IMENOVANJE | [art-006-zz-heading-1.md](art-006-zz-heading-1.md) | 0 |  |
-| Član 7. | [art-007.md](art-007.md) | 0 |  |
-| Član 8. | [art-008.md](art-008.md) | 0 |  |
+| Član 7. | [art-007.md](art-007.md) | 1 | 2022-01-07 |
+| Član 8. | [art-008.md](art-008.md) | 1 | 2022-01-07 |
 | Član 9. | [art-009.md](art-009.md) | 0 |  |
-| Član 10. | [art-010.md](art-010.md) | 0 |  |
-| Član 11. | [art-011.md](art-011.md) | 0 |  |
+| Član 10. | [art-010.md](art-010.md) | 1 | 2022-01-07 |
+| Član 11. | [art-011.md](art-011.md) | 1 | 2022-01-07 |
 | POGLAVLJE V. OBUKA | [art-011-zz-heading-1.md](art-011-zz-heading-1.md) | 0 |  |
 | Član 12. | [art-012.md](art-012.md) | 0 |  |
 | POGLAVLJE VI. SAGLASNOST NA IMENOVANJE I RAZRJEŠENJE | [art-012-zz-heading-1.md](art-012-zz-heading-1.md) | 0 |  |
-| Član 13. | [art-013.md](art-013.md) | 0 |  |
+| Član 13. | [art-013.md](art-013.md) | 1 | 2022-01-07 |
 | POGLAVLJE VII. ZAVRŠNE ODREDBE | [art-013-zz-heading-1.md](art-013-zz-heading-1.md) | 0 |  |
-| Član 14. | [art-014.md](art-014.md) | 0 |  |
-| Član 15. | [art-015.md](art-015.md) | 0 |  |
-| Uvod | [uvod.md](uvod.md) | 0 |  |
+| Član 14. | [art-014.md](art-014.md) | 1 | 2022-01-07 |
+| Član 15. | [art-015.md](art-015.md) | 1 | 2022-01-07 |
+| Uvod | [uvod.md](uvod.md) | 1 | 2022-01-07 |
 
 Act id: `uputstvo-2021-sg067-eecd80` (tags `uputstvo-2021-sg067-eecd80/<day>`; `python tools/on.py <day> uputstvo-2021-sg067-eecd80`).
 

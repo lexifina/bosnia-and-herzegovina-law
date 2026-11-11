@@ -1,19 +1,19 @@
 # Uputstvo o izgledu i načinu ispunjavanja obrazaca izjave o imovinskom stanju
 
-Uputstvo o izgledu i načinu ispunjavanja obrazaca izjave o imovinskom stanju · 1 versions, from 2014-05-14 (latest in force: 2014-05-14) · <https://www.sluzbenilist.ba/page/akt/Lgztz5k76kjn45hcSxhyMgqo=>
+Uputstvo o izgledu i načinu ispunjavanja obrazaca izjave o imovinskom stanju · 2 versions, from 2014-05-14 (latest in force: 2016-05-04) · <https://www.sluzbenilist.ba/page/akt/Lgztz5k76kjn45hcSxhyMgqo=>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| Član 1. | [art-001.md](art-001.md) | 0 |  |
-| Član 2. | [art-002.md](art-002.md) | 0 |  |
-| Član 3. | [art-003.md](art-003.md) | 0 |  |
-| Član 4. | [art-004.md](art-004.md) | 0 |  |
+| Član 1. | [art-001.md](art-001.md) | 1 | 2016-05-04 |
+| Član 2. | [art-002.md](art-002.md) | 1 | 2016-05-04 |
+| Član 3. | [art-003.md](art-003.md) | 1 | 2016-05-04 |
+| Član 4. | [art-004.md](art-004.md) | 1 | 2016-05-04 |
 | Član 5. | [art-005.md](art-005.md) | 0 |  |
-| Član 6. | [art-006.md](art-006.md) | 0 |  |
-| Član 7. | [art-007.md](art-007.md) | 0 |  |
-| Član 8. | [art-008.md](art-008.md) | 0 |  |
-| Član 9. | [art-009.md](art-009.md) | 0 |  |
-| Uvod | [uvod.md](uvod.md) | 0 |  |
+| Član 6. | [art-006.md](art-006.md) | 1 | 2016-05-04 |
+| Član 7. | [art-007.md](art-007.md) | 1 | 2016-05-04 |
+| Član 8. | [art-008.md](art-008.md) | 1 | 2016-05-04 |
+| Član 9. | [art-009.md](art-009.md) | 1 | 2016-05-04 |
+| Uvod | [uvod.md](uvod.md) | 1 | 2016-05-04 |
 
 Act id: `uputstvo-2014-sg037-38cb62` (tags `uputstvo-2014-sg037-38cb62/<day>`; `python tools/on.py <day> uputstvo-2014-sg037-38cb62`).
 

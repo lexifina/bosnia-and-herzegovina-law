@@ -1,6 +1,6 @@
 # Uputstvo o postupku slanja, primanja, obrade, arhiviranja i zaštite elektronskih prijava i dokumenata državljana Bosne i Hercegovine za glasanje izvan bih elektronskim putem
 
-Uputstvo o postupku slanja, primanja, obrade, arhiviranja i zaštite elektronskih prijava i dokumenata državljana Bosne i Hercegovine za glasanje izvan bih elektronskim putem · 1 versions, from 2022-05-04 (latest in force: 2022-05-04) · <https://www.sluzbenilist.ba/page/akt/aYF4yT9mdMQ=>
+Uputstvo o postupku slanja, primanja, obrade, arhiviranja i zaštite elektronskih prijava i dokumenata državljana Bosne i Hercegovine za glasanje izvan bih elektronskim putem · 2 versions, from 2022-05-04 (latest in force: 2024-05-08) · <https://www.sluzbenilist.ba/page/akt/aYF4yT9mdMQ=>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -12,13 +12,13 @@ Uputstvo o postupku slanja, primanja, obrade, arhiviranja i zaštite elektronski
 | Član 4. | [art-004.md](art-004.md) | 0 |  |
 | Član 5. | [art-005.md](art-005.md) | 0 |  |
 | Član 6. | [art-006.md](art-006.md) | 0 |  |
-| POGLAVLJE III. PODNOŠENJE ELEKTRONSKE PRIJAVE I DOKUMENTI ZA UPIS BIRAČA ZA GLASANJE IZVAN BIH | [art-006-zz-heading-1.md](art-006-zz-heading-1.md) | 0 |  |
+| POGLAVLJE III. PODNOŠENJE ELEKTRONSKE PRIJAVE I DOKUMENTI ZA UPIS BIRAČA ZA GLASANJE IZVAN BiH | [art-006-zz-heading-1.md](art-006-zz-heading-1.md) | 1 | 2024-05-08 |
 | Član 7. | [art-007.md](art-007.md) | 0 |  |
-| Član 8. | [art-008.md](art-008.md) | 0 |  |
-| Član 9. | [art-009.md](art-009.md) | 0 |  |
+| Član 8. | [art-008.md](art-008.md) | 1 | 2024-05-08 |
+| Član 9. | [art-009.md](art-009.md) | 1 | 2024-05-08 |
 | Član 10. | [art-010.md](art-010.md) | 0 |  |
 | Član 11. | [art-011.md](art-011.md) | 0 |  |
-| POGLAVLJE IV. POHRANA I OBRADA PRIJAVE I DOKUMENTACIJE ZA GLASANJE IZVAN BIH ELEKTRONSKIM PUTEM ILI PUTEM TELEFAKSA | [art-011-zz-heading-1.md](art-011-zz-heading-1.md) | 0 |  |
+| POGLAVLJE IV. POHRANA I OBRADA PRIJAVE I DOKUMENTACIJE ZA GLASANJE IZVAN BiH ELEKTRONSKIM PUTEM ILI PUTEM TELEFAKSA | [art-011-zz-heading-1.md](art-011-zz-heading-1.md) | 1 | 2024-05-08 |
 | Član 12. | [art-012.md](art-012.md) | 0 |  |
 | Član 13. | [art-013.md](art-013.md) | 0 |  |
 | Član 14. | [art-014.md](art-014.md) | 0 |  |
@@ -31,20 +31,14 @@ Uputstvo o postupku slanja, primanja, obrade, arhiviranja i zaštite elektronski
 | POGLAVLJE VII. PRAVA I OBAVEZE | [art-018-zz-heading-1.md](art-018-zz-heading-1.md) | 0 |  |
 | Član 19. | [art-019.md](art-019.md) | 0 |  |
 | Član 20. | [art-020.md](art-020.md) | 0 |  |
-| POGLAVLJE VIII. ZAVRŠNE ODREDBE | [art-020-zz-heading-1.md](art-020-zz-heading-1.md) | 0 |  |
-| Član 21. | [art-021.md](art-021.md) | 0 |  |
-| Član 22. | [art-022.md](art-022.md) | 0 |  |
-| Uvod | [uvod.md](uvod.md) | 0 |  |
+| Član 20a. | [art-020-a.md](art-020-a.md) | 1 | 2024-05-08 |
+| POGLAVLJE VIII. ZAVRŠNE ODREDBE | [art-020-a-zz-heading-1.md](art-020-a-zz-heading-1.md) | 1 | 2024-05-08 |
+| Član 21. | [art-021.md](art-021.md) | 1 | 2024-05-08 |
+| Član 22. | [art-022.md](art-022.md) | 1 | 2024-05-08 |
+| Član 23. | [art-023.md](art-023.md) | 1 | 2024-05-08 |
+| Uvod | [uvod.md](uvod.md) | 1 | 2024-05-08 |
 
 Act id: `uputstvo-2022-sg027-9d209b` (tags `uputstvo-2022-sg027-9d209b/<day>`; `python tools/on.py <day> uputstvo-2022-sg027-9d209b`).
-
-## Status
-
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
-
-Amended or repealed by:
-
-- [UPUTSTVO O IZMJENI I DOPUNAMA UPUTSTVA O POSTUPKU SLANJA, PRIMANJA, OBRADE, ARHIVIRANJA I ZAŠTITE ELEKTRONSKIH PRIJAVA I DOKUMENATA DRŽAVLJANA BOSNE I HERCEGOVINE ZA GLASANJE IZVAN BiH ELEKTRONSKIM PUTEM ("Službeni glasnik BiH", br. 31/24)](https://www.sluzbenilist.ba/page/akt/UEUAOjA7E3o=)
 
 ## Decisions made by hand
 

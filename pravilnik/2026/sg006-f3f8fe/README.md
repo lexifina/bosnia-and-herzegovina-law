@@ -1,26 +1,27 @@
 # Pravilnik o postupku imenovanja i razrješenja predsjednika i članova biračkih odbora u bosni i hercegovni
 
-Pravilnik o postupku imenovanja i razrješenja predsjednika i članova biračkih odbora u bosni i hercegovni · 1 versions, from 2026-01-13 (latest in force: 2026-01-13) · <https://www.sluzbenilist.ba/page/akt/1gztz5k76kjn45hY5OpVrXHI=>
+Pravilnik o postupku imenovanja i razrješenja predsjednika i članova biračkih odbora u bosni i hercegovni · 2 versions, from 2026-01-13 (latest in force: 2026-05-07) · <https://www.sluzbenilist.ba/page/akt/1gztz5k76kjn45hY5OpVrXHI=>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Član 1. | [art-001.md](art-001.md) | 0 |  |
-| Član 2. | [art-002.md](art-002.md) | 0 |  |
+| Član 2. | [art-002.md](art-002.md) | 1 | 2026-05-07 |
 | POGLAVLJE I. OPĆI PRINCIPI | [art-002-zz-heading-1.md](art-002-zz-heading-1.md) | 0 |  |
 | Član 3. | [art-003.md](art-003.md) | 0 |  |
 | Član 4. | [art-004.md](art-004.md) | 0 |  |
 | Član 5. | [art-005.md](art-005.md) | 0 |  |
 | Član 6. | [art-006.md](art-006.md) | 0 |  |
 | Član 7. | [art-007.md](art-007.md) | 0 |  |
-| POGLAVLJE II. KRITERIJI ZA IMENOVANJE I RAZRJEŠENJE PREDSJEDNIKA BIRAČKOG ODBORA I ZAMJENIKA PREDSJEDNIKA BIRAČKOG ODBORA Odjeljak A. Opći i posebni uvjeti za imenovanje predsjednika i zamj | [art-007-zz-heading-1.md](art-007-zz-heading-1.md) | 0 |  |
-| Član 8. | [art-008.md](art-008.md) | 0 |  |
+| POGLAVLJE II. KRITERIJI ZA IMENOVANJE I RAZRJEŠENJE PREDSJEDNIKA BIRAČKOG ODBORA I ZAMJENIKA PREDSJEDNIKA BIRAČKOG ODBORA | [art-007-zz-heading-1.md](art-007-zz-heading-1.md) | 1 | 2026-05-07 |
+| Odjeljak A. Opći i posebni uvjeti za imenovanje predsjednika i zamjenika predsjednika biračkog odbora | [art-007-zz-heading-2.md](art-007-zz-heading-2.md) | 1 | 2026-05-07 |
+| Član 8. | [art-008.md](art-008.md) | 1 | 2026-05-07 |
 | Član 9. | [art-009.md](art-009.md) | 0 |  |
 | Odjeljak B. Lista kandidata | [art-009-zz-heading-1.md](art-009-zz-heading-1.md) | 0 |  |
 | Član 10. | [art-010.md](art-010.md) | 0 |  |
 | Odjeljak C. Javni konkurs i konkursna procedura | [art-010-zz-heading-1.md](art-010-zz-heading-1.md) | 0 |  |
-| Član 11. | [art-011.md](art-011.md) | 0 |  |
+| Član 11. | [art-011.md](art-011.md) | 1 | 2026-05-07 |
 | Član 12. | [art-012.md](art-012.md) | 0 |  |
-| Član 13. | [art-013.md](art-013.md) | 0 |  |
+| Član 13. | [art-013.md](art-013.md) | 1 | 2026-05-07 |
 | Odjeljak D. - Obuka, provjera znanja i ocjenjivanje prijavljenih kandidata | [art-013-zz-heading-1.md](art-013-zz-heading-1.md) | 0 |  |
 | Član 14. | [art-014.md](art-014.md) | 0 |  |
 | Član 15. | [art-015.md](art-015.md) | 0 |  |
@@ -39,14 +40,15 @@ Pravilnik o postupku imenovanja i razrješenja predsjednika i članova biračkih
 | Odjeljak E. - Vođenje evidencija o zamjeni predsjednika biračkog odbora na izborni dan i rokovi za ažuriranje aplikacije "Elektronska obrada biračkih odbora" | [art-025-zz-heading-1.md](art-025-zz-heading-1.md) | 0 |  |
 | Član 26. | [art-026.md](art-026.md) | 0 |  |
 | Član 27. | [art-027.md](art-027.md) | 0 |  |
-| POGLAVLJE III. ČLANOVI I ZAMJENICI ČLANOVA BIRAČKIH ODBORA Odjeljak A. Opći i posebni uvjeti za imenovanje članova i zamjenika članova biračkih odbora | [art-027-zz-heading-1.md](art-027-zz-heading-1.md) | 0 |  |
+| POGLAVLJE III. ČLANOVI I ZAMJENICI ČLANOVA BIRAČKIH ODBORA | [art-027-zz-heading-1.md](art-027-zz-heading-1.md) | 1 | 2026-05-07 |
+| Odjeljak A. Opći i posebni uvjeti za imenovanje članova i zamjenika članova biračkih odbora | [art-027-zz-heading-2.md](art-027-zz-heading-2.md) | 1 | 2026-05-07 |
 | Član 28. | [art-028.md](art-028.md) | 0 |  |
-| Član 29. | [art-029.md](art-029.md) | 0 |  |
+| Član 29. | [art-029.md](art-029.md) | 1 | 2026-05-07 |
 | Odjeljak B. Postupak imenovanja članova i zamjenika biračkih odbora | [art-029-zz-heading-1.md](art-029-zz-heading-1.md) | 0 |  |
 | Član 30. | [art-030.md](art-030.md) | 0 |  |
 | Član 31. | [art-031.md](art-031.md) | 0 |  |
-| Član 32. | [art-032.md](art-032.md) | 0 |  |
-| Član 33. | [art-033.md](art-033.md) | 0 |  |
+| Član 32. | [art-032.md](art-032.md) | 1 | 2026-05-07 |
+| Član 33. | [art-033.md](art-033.md) | 1 | 2026-05-07 |
 | Član 34. | [art-034.md](art-034.md) | 0 |  |
 | Član 35. | [art-035.md](art-035.md) | 0 |  |
 | Član 36. | [art-036.md](art-036.md) | 0 |  |
@@ -55,7 +57,7 @@ Pravilnik o postupku imenovanja i razrješenja predsjednika i članova biračkih
 | Odjeljak C. Postupak imenovanja operatera i određivanja članova biračkih odbora za upravljanje aparatom za autentifikaciju i elektronsko brojanje glasova putem skenera, te obuka operatera i članova | [art-038-zz-heading-1.md](art-038-zz-heading-1.md) | 0 |  |
 | Član 39. | [art-039.md](art-039.md) | 0 |  |
 | Član 40. | [art-040.md](art-040.md) | 0 |  |
-| Član 41. | [art-041.md](art-041.md) | 0 |  |
+| Član 41. | [art-041.md](art-041.md) | 1 | 2026-05-07 |
 | POGLAVLJE IV. IMENOVANJE BIRAČKIH ODBORA U DIPLOMATSKO-KONZULARNIM PREDSTAVNIŠTVIMA BiH | [art-041-zz-heading-1.md](art-041-zz-heading-1.md) | 0 |  |
 | Član 42. | [art-042.md](art-042.md) | 0 |  |
 | Član 43. | [art-043.md](art-043.md) | 0 |  |
@@ -66,13 +68,13 @@ Pravilnik o postupku imenovanja i razrješenja predsjednika i članova biračkih
 | Član 47. | [art-047.md](art-047.md) | 0 |  |
 | POGLAVLJE VI. AŽURIRANJE LISTE KANDIDATA ZA PREDSJEDNIKE/ZAMJENIKE PREDSJEDNIKA BIRAČKOG ODBORA | [art-047-zz-heading-1.md](art-047-zz-heading-1.md) | 0 |  |
 | Član 48. | [art-048.md](art-048.md) | 0 |  |
-| Član 49. | [art-049.md](art-049.md) | 0 |  |
+| Član 49. | [art-049.md](art-049.md) | 1 | 2026-05-07 |
 | POGLAVLJE VII. ZAVRŠNE ODREDBE | [art-049-zz-heading-1.md](art-049-zz-heading-1.md) | 0 |  |
-| Član 50. | [art-050.md](art-050.md) | 0 |  |
-| Član 51. | [art-051.md](art-051.md) | 0 |  |
-| Član 52. | [art-052.md](art-052.md) | 0 |  |
-| Član 53. | [art-053.md](art-053.md) | 0 |  |
-| Uvod | [uvod.md](uvod.md) | 0 |  |
+| Član 50. | [art-050.md](art-050.md) | 1 | 2026-05-07 |
+| Član 51. | [art-051.md](art-051.md) | 1 | 2026-05-07 |
+| Član 52. | [art-052.md](art-052.md) | 1 | 2026-05-07 |
+| Član 53. | [art-053.md](art-053.md) | 1 | 2026-05-07 |
+| Uvod | [uvod.md](uvod.md) | 1 | 2026-05-07 |
 
 Act id: `pravilnik-2026-sg006-f3f8fe` (tags `pravilnik-2026-sg006-f3f8fe/<day>`; `python tools/on.py <day> pravilnik-2026-sg006-f3f8fe`).
 

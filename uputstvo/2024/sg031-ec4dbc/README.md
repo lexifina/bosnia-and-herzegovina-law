@@ -1,36 +1,36 @@
 # Uputstvo o utvrđivanju kvalifikacija, broju, imenovanju, obuci i razrješenju članova izborne komisije osnovne izborne jedinice u bosni i hercegovini
 
-Uputstvo o utvrđivanju kvalifikacija, broju, imenovanju, obuci i razrješenju članova izborne komisije osnovne izborne jedinice u bosni i hercegovini · 1 versions, from 2024-05-03 (latest in force: 2024-05-03) · <https://www.sluzbenilist.ba/page/akt/NUzSJRPCBiU=>
+Uputstvo o utvrđivanju kvalifikacija, broju, imenovanju, obuci i razrješenju članova izborne komisije osnovne izborne jedinice u bosni i hercegovini · 2 versions, from 2024-05-03 (latest in force: 2026-05-07) · <https://www.sluzbenilist.ba/page/akt/NUzSJRPCBiU=>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | POGLAVLJE I. UVODNE NAPOMENE | [0-heading-1.md](0-heading-1.md) | 0 |  |
 | Član 1. | [art-001.md](art-001.md) | 0 |  |
 | POGLAVLJE II. KVALIFIKACIJE | [art-001-zz-heading-1.md](art-001-zz-heading-1.md) | 0 |  |
-| Član 2. | [art-002.md](art-002.md) | 0 |  |
+| Član 2. | [art-002.md](art-002.md) | 1 | 2026-05-07 |
 | Član 3. | [art-003.md](art-003.md) | 0 |  |
 | Član 4. | [art-004.md](art-004.md) | 0 |  |
 | POGLAVLJE III. BROJ ČLANOVA | [art-004-zz-heading-1.md](art-004-zz-heading-1.md) | 0 |  |
 | Član 5. | [art-005.md](art-005.md) | 0 |  |
 | Član 6. | [art-006.md](art-006.md) | 0 |  |
 | POGLAVLJE IV. IMENOVANJE | [art-006-zz-heading-1.md](art-006-zz-heading-1.md) | 0 |  |
-| Član 7. | [art-007.md](art-007.md) | 0 |  |
+| Član 7. | [art-007.md](art-007.md) | 1 | 2026-05-07 |
 | Član 8. | [art-008.md](art-008.md) | 0 |  |
-| Član 9. | [art-009.md](art-009.md) | 0 |  |
-| Član 10. | [art-010.md](art-010.md) | 0 |  |
-| Član 11. | [art-011.md](art-011.md) | 0 |  |
+| Član 9. | [art-009.md](art-009.md) | 1 | 2026-05-07 |
+| Član 10. | [art-010.md](art-010.md) | 1 | 2026-05-07 |
+| Član 11. | [art-011.md](art-011.md) | 1 | 2026-05-07 |
 | Član 12. | [art-012.md](art-012.md) | 0 |  |
 | POGLAVLJE V. OBUKA | [art-012-zz-heading-1.md](art-012-zz-heading-1.md) | 0 |  |
 | Član 13. | [art-013.md](art-013.md) | 0 |  |
-| POGLAVLJE VI SAGLASNOST NA IMENOVANJE I RAZRJEŠENJE | [art-013-zz-heading-1.md](art-013-zz-heading-1.md) | 0 |  |
-| Član 14. | [art-014.md](art-014.md) | 0 |  |
+| POGLAVLJE VI. SAGLASNOST NA IMENOVANJE I RAZRJEŠENJE | [art-013-zz-heading-1.md](art-013-zz-heading-1.md) | 1 | 2026-05-07 |
+| Član 14. | [art-014.md](art-014.md) | 1 | 2026-05-07 |
 | Član 15. | [art-015.md](art-015.md) | 0 |  |
 | Član 16. | [art-016.md](art-016.md) | 0 |  |
 | POGLAVLJE VII. ZAVRŠNE ODREDBE | [art-016-zz-heading-1.md](art-016-zz-heading-1.md) | 0 |  |
 | Član 17. | [art-017.md](art-017.md) | 0 |  |
-| Član 18. | [art-018.md](art-018.md) | 0 |  |
-| Član 19. | [art-019.md](art-019.md) | 0 |  |
-| Uvod | [uvod.md](uvod.md) | 0 |  |
+| Član 18. | [art-018.md](art-018.md) | 1 | 2026-05-07 |
+| Član 19. | [art-019.md](art-019.md) | 1 | 2026-05-07 |
+| Uvod | [uvod.md](uvod.md) | 1 | 2026-05-07 |
 
 Act id: `uputstvo-2024-sg031-ec4dbc` (tags `uputstvo-2024-sg031-ec4dbc/<day>`; `python tools/on.py <day> uputstvo-2024-sg031-ec4dbc`).
 

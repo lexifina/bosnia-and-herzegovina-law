@@ -1,11 +1,11 @@
 # Pravilnik o utvrđivanju kvalifikacija i postupku imenovanja članova biračkih odbora
 
-Pravilnik o utvrđivanju kvalifikacija i postupku imenovanja članova biračkih odbora · 1 versions, from 2018-05-08 (latest in force: 2018-05-08) · <https://www.sluzbenilist.ba/page/akt/dcDJfcdQy5o=>
+Pravilnik o utvrđivanju kvalifikacija i postupku imenovanja članova biračkih odbora · 2 versions, from 2018-05-08 (latest in force: 2020-05-07) · <https://www.sluzbenilist.ba/page/akt/dcDJfcdQy5o=>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | POGLAVLJE I. UVOD | [0-heading-1.md](0-heading-1.md) | 0 |  |
-| Član 1. | [art-001.md](art-001.md) | 0 |  |
+| Član 1. | [art-001.md](art-001.md) | 1 | 2020-05-07 |
 | POGLAVLJE II. KVALIFIKACIJE I BROJ ČLANOVA | [art-001-zz-heading-1.md](art-001-zz-heading-1.md) | 0 |  |
 | Odjeljak A. Birački odbori u Bosni Hercegovini | [art-001-zz-heading-2.md](art-001-zz-heading-2.md) | 0 |  |
 | Član 2. | [art-002.md](art-002.md) | 0 |  |
@@ -13,45 +13,34 @@ Pravilnik o utvrđivanju kvalifikacija i postupku imenovanja članova biračkih 
 | Član 4. | [art-004.md](art-004.md) | 0 |  |
 | Član 5. | [art-005.md](art-005.md) | 0 |  |
 | Odjeljak B. Birački odbori u DKP-ima BiH | [art-005-zz-heading-1.md](art-005-zz-heading-1.md) | 0 |  |
-| Član 6. | [art-006.md](art-006.md) | 0 |  |
+| Član 6. | [art-006.md](art-006.md) | 1 | 2020-05-07 |
 | Član 7. | [art-007.md](art-007.md) | 0 |  |
 | Odjeljak C. Mobilni timovi | [art-007-zz-heading-1.md](art-007-zz-heading-1.md) | 0 |  |
 | Član 8. | [art-008.md](art-008.md) | 0 |  |
 | Član 9. | [art-009.md](art-009.md) | 0 |  |
 | POGLAVLJE III. PRIJEDLOZI, POSTUPAK DODJELE MJESTA I IMENOVANJA | [art-009-zz-heading-1.md](art-009-zz-heading-1.md) | 0 |  |
 | Odjeljak A. Birački odbori u Bosni Hercegovini | [art-009-zz-heading-2.md](art-009-zz-heading-2.md) | 0 |  |
-| Član 10. | [art-010.md](art-010.md) | 0 |  |
+| Član 10. | [art-010.md](art-010.md) | 1 | 2020-05-07 |
 | Član 11. | [art-011.md](art-011.md) | 0 |  |
-| Član 12. | [art-012.md](art-012.md) | 0 |  |
-| Član 13. | [art-013.md](art-013.md) | 0 |  |
+| Član 12. | [art-012.md](art-012.md) | 1 | 2020-05-07 |
+| Član 13. | [art-013.md](art-013.md) | 1 | 2020-05-07 |
 | Član 14. | [art-014.md](art-014.md) | 0 |  |
 | Odjeljak B. Birački odbori u DKP-ima BiH | [art-014-zz-heading-1.md](art-014-zz-heading-1.md) | 0 |  |
 | Član 15. | [art-015.md](art-015.md) | 0 |  |
 | Član 16. | [art-016.md](art-016.md) | 0 |  |
 | Odjeljak C. Mobilni timovi | [art-016-zz-heading-1.md](art-016-zz-heading-1.md) | 0 |  |
 | Član 17. | [art-017.md](art-017.md) | 0 |  |
-| POGLAVLJE IV. OBUKA, PROVJERA ZNANJA, METODE I KRITERIJI | [art-017-zz-heading-1.md](art-017-zz-heading-1.md) | 0 |  |
-| PROVJERE ZNANJA I CERTIFICIRANJE | [art-017-zz-heading-2.md](art-017-zz-heading-2.md) | 0 |  |
-| Član 18. | [art-018.md](art-018.md) | 0 |  |
-| Član 19. | [art-019.md](art-019.md) | 0 |  |
-| Član 20. | [art-020.md](art-020.md) | 0 |  |
-| POGLAVLJE V. BIRAČKI ODBORI I TIMOVI ZA BROJANJE KOJI SE АNGAŽIRAJU ZA BROJANJE GLASAČKIH LISTIĆA U CILЈU ОBЈЕDINJАVАNJА UTVRĐЕNIH REZULTATA GLASANJA | [art-020-zz-heading-1.md](art-020-zz-heading-1.md) | 0 |  |
-| Član 21. | [art-021.md](art-021.md) | 0 |  |
-| Član 22. | [art-022.md](art-022.md) | 0 |  |
-| Član 23. | [art-023.md](art-023.md) | 0 |  |
-| Uvod | [uvod.md](uvod.md) | 0 |  |
+| POGLAVLJE IV. OBUKA, PROVJERA ZNANJA, METODE I KRITERIJI PROVJERE ZNANJA I CERTIFICIRANJE | [art-017-zz-heading-1.md](art-017-zz-heading-1.md) | 1 | 2020-05-07 |
+| Član 18. | [art-018.md](art-018.md) | 1 | 2020-05-07 |
+| Član 19. | [art-019.md](art-019.md) | 1 | 2020-05-07 |
+| Član 20. | [art-020.md](art-020.md) | 1 | 2020-05-07 |
+| POGLAVLJE V. TIMOVI ZA BROJANJE KOJI SE ANGAŽUJU ZA BROJANJE GLASAČKIH LISTIĆA U CILЈU ОBЈЕDINJАVАNJА UTVRĐЕNIH REZULTATA GLASANJA | [art-020-zz-heading-1.md](art-020-zz-heading-1.md) | 1 | 2020-05-07 |
+| Član 21. | [art-021.md](art-021.md) | 1 | 2020-05-07 |
+| Član 22. | [art-022.md](art-022.md) | 1 | 2020-05-07 |
+| Član 23. | [art-023.md](art-023.md) | 1 | 2020-05-07 |
+| Uvod | [uvod.md](uvod.md) | 1 | 2020-05-07 |
 
 Act id: `pravilnik-2018-sg029-e15a9f` (tags `pravilnik-2018-sg029-e15a9f/<day>`; `python tools/on.py <day> pravilnik-2018-sg029-e15a9f`).
-
-## Status
-
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
-
-Amended or repealed by:
-
-- [Pravilnik o izmjeni pravilnika o utvrđivanju kvalifikacija i postupku imenovanja članova biračkih odbora ("Službeni glasnik BiH", br. 62/18)](https://www.sluzbenilist.ba/page/akt/gztz5k76kjn45hT26ImRijHI=)
-- [Pravilnik o izmjenama i dopunama pravilnika o utvrđivanju kvalifikacija i postupku imenovanja članova biračkih odbora ("Službeni glasnik BiH", br. 25/20)](https://www.sluzbenilist.ba/page/akt/kGlxohz4nh78h77GF86Oo=)
-- [Pravilnik o izmjenama i dopunama pravilnika o utvrđivanju kvalifikacija i postupku imenovanja članova biračkih odbora ("Službeni glasnik BiH", br. 25/20)](https://www.sluzbenilist.ba/page/akt/l8ohz4nh78h77nncx1kFk=)
 
 ## Decisions made by hand
 

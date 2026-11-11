@@ -1,6 +1,6 @@
 # Uputstvo o uslovima i procedurama za akreditiranje izbornih posmatrača u bosni i hercegovini
 
-Uputstvo o uslovima i procedurama za akreditiranje izbornih posmatrača u bosni i hercegovini · 1 versions, from 2014-05-14 (latest in force: 2014-05-14) · <https://www.sluzbenilist.ba/page/akt/rzSX5HwMGws=>
+Uputstvo o uslovima i procedurama za akreditiranje izbornih posmatrača u bosni i hercegovini · 2 versions, from 2014-05-14 (latest in force: 2018-06-19) · <https://www.sluzbenilist.ba/page/akt/rzSX5HwMGws=>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -8,7 +8,7 @@ Uputstvo o uslovima i procedurama za akreditiranje izbornih posmatrača u bosni 
 | Član 1. | [art-001.md](art-001.md) | 0 |  |
 | Član 2. | [art-002.md](art-002.md) | 0 |  |
 | POGLAVLJE II. PODNOŠENJE ZAHTJEVA I KRITERIJI ZA AKREDITIRANJE IZBORNIH POSMATRAČA Odjeljak A. Posmatrači političkih subjekata | [art-002-zz-heading-1.md](art-002-zz-heading-1.md) | 0 |  |
-| Član 3. | [art-003.md](art-003.md) | 0 |  |
+| Član 3. | [art-003.md](art-003.md) | 1 | 2018-06-19 |
 | Odjeljak B. Posmatrači udruženja | [art-003-zz-heading-1.md](art-003-zz-heading-1.md) | 0 |  |
 | Član 4. | [art-004.md](art-004.md) | 0 |  |
 | Odjeljak C. Međunarodni posmatrači | [art-004-zz-heading-1.md](art-004-zz-heading-1.md) | 0 |  |
@@ -20,9 +20,9 @@ Uputstvo o uslovima i procedurama za akreditiranje izbornih posmatrača u bosni 
 | POGLAVLJE III. ROKOVI ZA PODNOŠENJE ZAHTJEVA I RJEŠAVANJE | [art-007-zz-heading-1.md](art-007-zz-heading-1.md) | 0 |  |
 | Član 8. | [art-008.md](art-008.md) | 0 |  |
 | POGLAVLJE IV. RAZMATRANJE ZAHTJEVA ZA AKREDITIRANJE IZBORNIH POSMATRAČA (član 17.10 stav (2) Izbornog zakona BiH) Odjeljak A. Zahtjevi političkih subjekata | [art-008-zz-heading-1.md](art-008-zz-heading-1.md) | 0 |  |
-| Član 9. | [art-009.md](art-009.md) | 0 |  |
+| Član 9. | [art-009.md](art-009.md) | 1 | 2018-06-19 |
 | Odjeljak B. Zahtjevi udruženja | [art-009-zz-heading-1.md](art-009-zz-heading-1.md) | 0 |  |
-| Član 10. | [art-010.md](art-010.md) | 0 |  |
+| Član 10. | [art-010.md](art-010.md) | 1 | 2018-06-19 |
 | Odjeljak C. Zahtjevi međunarodnih posmatrača | [art-010-zz-heading-1.md](art-010-zz-heading-1.md) | 0 |  |
 | Član 11. | [art-011.md](art-011.md) | 0 |  |
 | Odjeljak D. Posmatrači na biračkim mjestima za glasanje u odsustvu i posmatrači mobilnih timova | [art-011-zz-heading-1.md](art-011-zz-heading-1.md) | 0 |  |
@@ -40,20 +40,12 @@ Uputstvo o uslovima i procedurama za akreditiranje izbornih posmatrača u bosni 
 | Član 20. | [art-020.md](art-020.md) | 0 |  |
 | Član 21. | [art-021.md](art-021.md) | 0 |  |
 | POGLAVLJE VIII. ZAVRŠNE ODREDBE | [art-021-zz-heading-1.md](art-021-zz-heading-1.md) | 0 |  |
-| Član 22. | [art-022.md](art-022.md) | 0 |  |
-| Član 23. | [art-023.md](art-023.md) | 0 |  |
-| Član 24. | [art-024.md](art-024.md) | 0 |  |
-| Uvod | [uvod.md](uvod.md) | 0 |  |
+| Član 22. | [art-022.md](art-022.md) | 1 | 2018-06-19 |
+| Član 23. | [art-023.md](art-023.md) | 1 | 2018-06-19 |
+| Član 24. | [art-024.md](art-024.md) | 1 | 2018-06-19 |
+| Uvod | [uvod.md](uvod.md) | 1 | 2018-06-19 |
 
 Act id: `uputstvo-2014-sg037-366860` (tags `uputstvo-2014-sg037-366860/<day>`; `python tools/on.py <day> uputstvo-2014-sg037-366860`).
-
-## Status
-
-**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
-
-Amended or repealed by:
-
-- [Uputstvo o dopunama i izmjenama uputstva o uslovima i procedurama za akreditiranje izbornih posmatrača u bosni i hercegovini ("Službeni glasnik BiH", br. 29/18)](https://www.sluzbenilist.ba/page/akt/CwSohz4nh78h773iWKV7w=)
 
 ## Decisions made by hand
 
