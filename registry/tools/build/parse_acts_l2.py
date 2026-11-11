@@ -358,7 +358,8 @@ def variants(c: str) -> str:
     c = re.sub(r"^(\w+)\s*\(\s*\d+\s*\.\s*\)", r"\1", c)  # "osmog (8.) dana"
     c = re.sub(r"^od\s+dana\s+(?:njegovog\s+)?objavljivanja\b", "danom objavljivanja", c)
     c = re.sub(r"^od\s+(\d{1,2}\.\s*\d{1,2}\.\s*\d{4})", r"\1", c)  # "od 1.1.2017. godine"
-    c = re.sub(r"\busvajanja\b", "donošenja", c)  # adopted = made: the day of the signature block
+    if not re.search(r"\d{1,2}\.\s*\d{1,2}\.\s*\d{4}", c):  # a clause naming its own date is not the signature day
+        c = re.sub(r"\busvajanja\b", "donošenja", c)  # adopted = made: the day of the signature block
     c = re.sub(r"^(\w+)\s*\(\s*(?:\d+|osam|osmi|osmog)\s*\)", r"\1", c)  # "osmog (8) dana", "8 (osam) dana"
     c = re.sub(r"^(?:osam|osmi)\s+dana?\b", "osmog dana", c)
     c = re.sub(r"^prvi\s+dan\b", "prvog dana", c)

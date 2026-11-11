@@ -54,7 +54,7 @@
 | Poslovnik o izmjeni poslovnika visokog sudskog i tužilačkog vijeća Bosne i Hercegovine | [`poslovnik/2026/sg027-f8cac1/`](../poslovnik/2026/sg027-f8cac1/) | in force | 1 | 2026-04-18 | 2026-04-18 |
 | Poslovnik o izmjenama i dopunama poslovnika visokog sudskog i tužilačkog vijeća Bosne i Hercegovine | [`poslovnik/2026/sg063-4fa7c2/`](../poslovnik/2026/sg063-4fa7c2/) | amended, not consolidated | 1 | 2026-09-05 | 2026-09-05 |
 
-## pravilnik (1223, of which 379 amending acts)
+## pravilnik (1222, of which 379 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1072,7 +1072,6 @@
 | Pravilnik o utvrđivanju detaljnih pravila za operacije jedrilica i izdavanje dozvola članovima letačke posade za jedrilice | [`pravilnik/2022/sg086-f4d398/`](../pravilnik/2022/sg086-f4d398/) | in force | 1 | 2023-01-05 | 2023-01-05 |
 | Pravilnik o izmjenama i dopuni pravilnika o uplaćivanju indirektnih poreza i ostalih prihoda i taksi koje naplaćuje uprava za indirektno oporezivanje | [`pravilnik/2022/sg087-89a6f3/`](../pravilnik/2022/sg087-89a6f3/) | amending act | 1 | 2022-12-30 | 2022-12-30 |
 | Pravilnik o izmjeni pravilnika o primjeni zakona o porezu na dodanu vrijednost | [`pravilnik/2022/sg087-e5dc83/`](../pravilnik/2022/sg087-e5dc83/) | in force | 1 | 2023-01-06 | 2023-01-06 |
-| Pravilnik o unutrašnjoj organizaciji tužilaštva Bosne i Hercegovine | [`pravilnik/2022/sg074-0be318/`](../pravilnik/2022/sg074-0be318/) | in force | 1 | 2022-11-04 | 2022-11-04 |
 | Pravilnik o utvrđivanju načina i kriterija za korištenje godišnjeg odmora i odsustva profesionalnih vojnih lica | [`pravilnik/2023/sg002-2e5a9b/`](../pravilnik/2023/sg002-2e5a9b/) | in force | 1 | 2023-01-18 | 2023-01-18 |
 | Pravilnik o postupku dodjele ugovora o uslugama iz aneksa ii. zakona o javnim nabavkama | [`pravilnik/2023/sg002-5ccd3c/`](../pravilnik/2023/sg002-5ccd3c/) | in force | 1 | 2023-01-11 | 2023-01-11 |
 | Pravilnik o izmjenama i dopunama pravilnika o sistemu za automatsko upravljanje predmetima u sudovima (cms) | [`pravilnik/2023/sg003-5ee725/`](../pravilnik/2023/sg003-5ee725/) | amending act | 1 | 2023-01-21 | 2023-01-21 |
@@ -1319,7 +1318,7 @@
 | Pravilo o dopunama pravila 92/2020 o radioamaterskoj službi | [`pravilo/2022/sg041-8c2069/`](../pravilo/2022/sg041-8c2069/) | amending act | 1 | 2022-07-02 | 2022-07-02 |
 | Pravilo o izmjenama i dopunama pravila 89/2018 o naknadama za dozvole regulatorne agencije za komunikacije | [`pravilo/2022/sg047-726931/`](../pravilo/2022/sg047-726931/) | amending act | 1 | 2022-07-27 | 2022-07-27 |
 
-## uputstvo (376, of which 89 amending acts)
+## uputstvo (375, of which 89 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1698,7 +1697,6 @@
 | Uputstvo o izmjenama i dopunama uputstva o stavljanju mandata u mirovanje i aktiviranju mandata u mirovanju | [`uputstvo/2026/sg078-26cdff/`](../uputstvo/2026/sg078-26cdff/) | amending act | 1 | 2026-11-03 | 2026-11-03 |
 | Uputstvo o izmjenama i dopunama uputstva o postupku provođenja posrednih izbora za organe vlasti u bosni i hercegovini obuhvaćenih izbornim zakonom Bosne i Hercegovine | [`uputstvo/2026/sg078-a213dd/`](../uputstvo/2026/sg078-a213dd/) | amending act | 1 | 2026-11-03 | 2026-11-03 |
 | Uputstvo o rokovima izbornih aktivnosti za održavanje ponovnih izbora na biračkom mjestu 200c019 - bukvik u osnovnoj izbornoj jedinici brčko distrikt Bosne i Hercegovine | [`uputstvo/2026/sg079-6f5a22/`](../uputstvo/2026/sg079-6f5a22/) | in force | 1 | 2026-10-15 | 2026-10-15 |
-| Uputstvo o postupku provođenja posrednih izbora za organe vlasti u bosni i hercegovini obuhvaćenih izbornim zakonom Bosne i Hercegovine | [`uputstvo/2026/sg078-4710be/`](../uputstvo/2026/sg078-4710be/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 
 ## zakon (199, of which 118 amending acts)
 
@@ -1904,7 +1902,7 @@
 | Zakon o zaštiti poslovne tajne kao prava intelektualnog vlasništva | [`zakon/2026/sg040-d31b50/`](../zakon/2026/sg040-d31b50/) | in force | 1 | 2026-06-20 | 2026-06-20 |
 | Zakon o izmjeni i dopuni zakona o plaćama i naknadama u institucijama Bosne i Hercegovine | [`zakon/2026/sg041-4b1e06/`](../zakon/2026/sg041-4b1e06/) | amending act | 1 | 2026-06-24 | 2026-06-24 |
 
-## Withdrawn from the record (2)
+## Withdrawn from the record (4)
 
 Acts published here and later found not to belong (for example, titled as Government decisions but issued by another body). Their folders were removed by a correction commit; the commits that added them stay in the history. Their ids are retired: a later act with the same number gets the id with `-2` appended.
 
@@ -1912,3 +1910,5 @@ Acts published here and later found not to belong (for example, titled as Govern
 | --- | --- | --- |
 | `pravilnik-2011-sg015-1361dc` | the same act as pravilnik-2011-sg015-68e36f (kept at pravilnik/2011/sg015-68e36f); this copy was read from the publisher's other edition of it (https://www.sluzbenilist.ba/page/akt/CERtQwJ10Fo=) | f8721d51 |
 | `pravilnik-2011-sg040-c6e89b` | the same act as pravilnik-2011-sg040-34e390 (kept at pravilnik/2011/sg040-34e390); this copy was read from the publisher's other edition of it (https://www.sluzbenilist.ba/page/akt/HpT4HwdxlXY=) | f8721d51 |
+| `pravilnik-2022-sg074-0be318` | the same act as pravilnik-2013-sg036-468d77 (kept at pravilnik/2013/sg036-468d77); this copy is its official consolidated text (Službeni glasnik BiH 74/22, https://www.sluzbenilist.ba/page/akt/mcXa2TpLj1c=), which is now that act's version from 2022-11-04 | 8a8017bc |
+| `uputstvo-2026-sg078-4710be` | the same act as uputstvo-2026-sg032-42aeb2 (kept at uputstvo/2026/sg032-42aeb2); this copy is its official consolidated text (Službeni glasnik BiH 78/26, https://www.sluzbenilist.ba/page/akt/QMohz4nh78h771UCjfGaM=), which is now that act's version from 2026-11-03 | 8a8017bc |

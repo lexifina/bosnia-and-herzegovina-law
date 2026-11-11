@@ -108,8 +108,10 @@ CITE = re.compile(r"(Pravilnik|Uputstv|Poslovnik|Pravil|Zakon)\w*\s+o\s+([^()\"]
 # citations of the new kinds: a separate pass, so a decision's name never swallows a law cited inside it
 CITE2 = re.compile(r"(Odluk|Naredb|Instrukcij)\w*\s+o\s+([^()\"]{3,250}?)\s*\(\s*[\"„“]?Službeni\s+glasnik\s+BiH"
                    r"[\"“”]?\s*,?\s*(?:br\.|broj)\s*([0-9/,.\s i]+)\)")
-IN_FORCE = re.compile(r"(?:Ovaj|Ovo|Ova|Taj)\s+(?:[Zz]akon|[Pp]ravilnik|[Uu]putstvo|[Pp]oslovnik|[Pp]ravilo"
-                      + ("|[Oo]dluka|[Nn]aredba|[Ii]nstrukcija" if KINDS2 else "") + r")\s+stupa\s+na\s+snagu\s+([^.]*)")
+IN_FORCE = re.compile(r"(?:Ovaj|Ovo|Ova|Taj)\s+(?:[Zz]akon|[Pp]ravilnik|[Uu]putstvo|[Pp]oslovnik|[Pp]ravilo)\s+stupa\s+na\s+snagu\s+([^.]*)")
+# the new kinds' own clause ("Ova odluka stupa na snagu ..."): read only for acts of those kinds
+IN_FORCE_NEW = re.compile(r"(?:Ova|Ovo|Ovaj|Taj)\s+(?:[Oo]dluka|[Nn]aredba|[Ii]nstrukcija)\s+stupa\s+na\s+snagu\s+([^.]*)")
+NEW_WORDS = ("ODLUKU", "ODLUKA", "NAREDBU", "NAREDBA", "INSTRUKCIJU", "INSTRUKCIJA")
 OUT_ISSUERS = ("USTAVNI SUD", "VISOKO SUDSKO", "KOMISIJA ZA OČUVANJE NACIONALNIH SPOMENIKA", "KOLEGIJUM")
 IND = {"IMENOVANJU", "RAZRJEŠENJU", "POSTAVLJENJU", "PRESTANKU", "PRODUŽENJU", "INTERVENTNOM", "DOPUSTIVOSTI",
        "DODJELI", "IZBORU", "RASPOREĐIVANJU", "PRIJEMU", "UNAPREĐENJU", "PREMJEŠTAJU", "POTVRĐIVANJU",
@@ -343,8 +345,9 @@ def in_force(units: dict, published: str, adopted: str | None = None, title: str
     text = " ".join(arts)
     # This law's own clause: outside quotation marks (provisions quoted into another act are not its own), or in
     # its last article where the quotation marks of earlier articles are unbalanced.
-    clauses = [m.group(1) for m in IN_FORCE.finditer(text) if text.count('"', 0, m.start()) % 2 == 0]
-    last = [m.group(1) for m in IN_FORCE.finditer(arts[-1]) if not arts[-1][:m.start()].rstrip().endswith('"')]
+    rx = IN_FORCE_NEW if (norm(title or "").upper().split() or [""])[0] in NEW_WORDS else IN_FORCE
+    clauses = [m.group(1) for m in rx.finditer(text) if text.count('"', 0, m.start()) % 2 == 0]
+    last = [m.group(1) for m in rx.finditer(arts[-1]) if not arts[-1][:m.start()].rstrip().endswith('"')]
     if not clauses and last:
         clauses = last
     full = None
@@ -356,7 +359,7 @@ def in_force(units: dict, published: str, adopted: str | None = None, title: str
             raise Hold("in_force_clause_missing")
     else:
         # the clause up to the end of its sentence, numeric dates included ("stupa na snagu 01.01.2015. godine")
-        m = list(IN_FORCE.finditer(text if clauses is not last else arts[-1]))
+        m = list(rx.finditer(text if clauses is not last else arts[-1]))
         m = [x for x in m if x.group(1) == clauses[-1]]
         if m:
             full = (text if clauses is not last else arts[-1])[m[-1].start(1):m[-1].start(1) + 160]
@@ -380,6 +383,12 @@ def own_clause(last: str, title: str | None) -> list[str]:
         subj = re.sub(r"^#\s*Član\s+\d+\w?\.\s*", "", m.group(1)).strip()
         subj = re.sub(r"^\([^)]*\)\s*", "", subj).strip()
         s = subject(subj)
+        if (norm(title or "").upper().split() or [""])[0] in NEW_WORDS:  # 2026-11-11 (L1): the new kinds name themselves
+            if re.fullmatch(r"(?:(?:ovaj|ovo|ova|ove|taj)\s+)?(?:odluka|naredba|instrukcija)", s) or \
+                    re.fullmatch(r"(?:ove?\s+|ova\s+)?(?:izmjen[ae]|dopun[ae])(?:\s+i\s+(?:izmjen[ae]|dopun[ae]))?\s+(?:odluke|naredbe|instrukcije)"
+                                 r"(?:\s+o\s+.+)?", s):
+                out.append(m.group(2))
+            continue
         if re.fullmatch(r"(?:(?:ovaj|ovo|ova|ove|taj)\s+)?(?:pravilnika?|pravlnik|zakon|uputstvo|upustvo|poslovnik|pravilo)", s) or \
                 re.fullmatch(r"(?:ove?\s+|ova\s+)?(?:izmjen[ae]|dopun[ae])(?:\s+i\s+(?:izmjen[ae]|dopun[ae]))?\s+(?:pravilnika|zakona|uputstva|poslovnika|pravila)"
                              r"(?:\s+o\s+.+)?", s) or \
@@ -400,7 +409,8 @@ def variants(c: str) -> str:
     c = re.sub(r"^(\w+)\s*\(\s*\d+\s*\.\s*\)", r"\1", c)  # "osmog (8.) dana"
     c = re.sub(r"^od\s+dana\s+(?:njegovog\s+)?objavljivanja\b", "danom objavljivanja", c)
     c = re.sub(r"^od\s+(\d{1,2}\.\s*\d{1,2}\.\s*\d{4})", r"\1", c)  # "od 1.1.2017. godine"
-    c = re.sub(r"\busvajanja\b", "donošenja", c)  # adopted = made: the day of the signature block
+    if not re.search(r"\d{1,2}\.\s*\d{1,2}\.\s*\d{4}", c):  # a clause naming its own date is not the signature day
+        c = re.sub(r"\busvajanja\b", "donošenja", c)  # adopted = made: the day of the signature block
     c = re.sub(r"^(\w+)\s*\(\s*(?:\d+|osam|osmi|osmog)\s*\)", r"\1", c)  # "osmog (8) dana", "8 (osam) dana"
     c = re.sub(r"^(?:osam|osmi)\s+dana?\b", "osmog dana", c)
     c = re.sub(r"^prvi\s+dan\b", "prvog dana", c)
@@ -658,7 +668,7 @@ def main():
         struck = court and bool(re.search(r"predmetu\s+broj\s+U[\s-]*\d", operative)) and bool(re.search(r"Utvrđuje se da[^.]{0,600}?\bni(?:je|su)\s+u\s+skladu|\b(?:U|u)kida(?:ju)? se\b|"
                                           r"prestaj(?:e|u) (?:da )?važi", operative))
         kind = "court" if court else "law" if r["title"].upper().startswith("ZAKON") else "other"
-        for m in CITE.finditer(flat):
+        for m in [*CITE.finditer(flat), *(CITE2.finditer(flat) if KINDS2 else ())]:
             lst = issues_in(m.group(3))
             # the full name repealed (subjects are cut at 80 characters, too short to tell some acts apart)
             # and whether it is the whole act, on the repealing act's own in-force day
@@ -677,13 +687,15 @@ def main():
         return (norm(r["title"]).upper().split() or [""])[0]
 
     laws = [r for r in rows if r.get("akt") and first_word(r) in KINDS and "USTAVNI SUD" not in r["issuer"].upper()
-            and (first_word(r) != "ZAKON" or r["issuer"].upper().startswith(ISSUER))]
+            and (first_word(r) != "ZAKON" or r["issuer"].upper().startswith(ISSUER))
+            and new_kind_in_scope(r["title"], r["issuer"])]
     if LABEL:
         # 2026-11-09: in-scope acts the issue pages list with no act page (before 2010 the publisher serves no free
         # text) are held with that reason, not dropped silently
         for r in rows:
             if not r.get("akt") and first_word(r) in KINDS and "USTAVNI SUD" not in r["issuer"].upper() \
-                    and (first_word(r) != "ZAKON" or r["issuer"].upper().startswith(ISSUER)):
+                    and (first_word(r) != "ZAKON" or r["issuer"].upper().startswith(ISSUER)) \
+                    and new_kind_in_scope(r["title"], r["issuer"]):
                 holds.append({"akt": None, "issue_page": r.get("issue_page"), "sg": f"{r['issue']}/{r['yy']}",
                               "date": r["date"], "title": norm(r["title"])[:160], "reason": "no_text_served"})
     # Texts that can amend or strike a law (laws and Constitutional Court decisions): an act is judged only when every
@@ -730,18 +742,23 @@ def main():
         if word not in KINDS:
             raise Hold("kind:" + word[:20])
         page = gzip.decompress(raw_path(src, r["akt"]).read_bytes()).decode("utf-8")
+        # the new kinds' titles are listed in the accusative ("ODLUKU O ...") and printed in either case: match the stem
+        sw = word[:-1] if word in ("ODLUKU", "ODLUKA", "NAREDBU", "NAREDBA", "INSTRUKCIJU", "INSTRUKCIJA") else word
         try:
-            units, text_title, adopted = split(page, word)
+            units, text_title, adopted = split(page, sw)
         except Hold as h:
             if lenient and str(h).startswith("article_numbers_not_consecutive"):
-                units, text_title, adopted = split(page, word, lenient=True)
+                units, text_title, adopted = split(page, sw, lenient=True)
             # an amending act whose centred headings include the articles it quotes: split again, quote-aware
             elif not (str(h).startswith(("article_numbers_not_consecutive", "duplicate_unit"))
                       and re.search(r"\b(?:IZMJEN|DOPUN)", title.upper())):
                 raise
             else:
-                units, text_title, adopted = split(page, word, quoted=True)
-        if subject(text_title).replace(" ", "") != subject(title).replace(" ", ""):
+                units, text_title, adopted = split(page, sw, quoted=True)
+        a_, b_ = subject(text_title).replace(" ", ""), subject(title).replace(" ", "")
+        if sw != word:
+            a_, b_ = subject(re.sub(r"^\S+\s+", "", norm(text_title))), subject(re.sub(r"^\S+\s+", "", norm(title)))
+        if a_.replace(" ", "") != b_.replace(" ", ""):
             raise Hold("title_mismatch:" + text_title[:100])
         day, how = in_force(units, r["date"], adopted, title)
         # 2026-11-11 (L1): published up to 400 days after the day it was made is consistent when its in-force day is
@@ -985,8 +1002,9 @@ def main():
             if r["akt"] in rejects:
                 raise Hold("rejected:" + str(rejects[r["akt"]])[:200])
             page = gzip.decompress(raw_path(src, r["akt"]).read_bytes()).decode("utf-8")
-            units, text_title, adopted = split(page, word)
-            if subject(clean_title(text_title)).replace(" ", "") != subject(clean_title(title)).replace(" ", ""):
+            units, text_title, adopted = split(page, word[:-1] if word in NEW_WORDS else word)
+            if subject(re.sub(r"^\S+\s+", "", clean_title(text_title))).replace(" ", "") != \
+                    subject(re.sub(r"^\S+\s+", "", clean_title(title))).replace(" ", ""):
                 raise Hold("title_mismatch:" + text_title[:100])
             # the act it goes to: the base act published here, or the act an earlier consolidated text of the same
             # base went to; a base with no text (or none listed): the first consolidated text of it is the act
