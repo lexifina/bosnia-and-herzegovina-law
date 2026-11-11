@@ -64,7 +64,7 @@
 "shard": "poslovnik/2018",
 "kind": "poslovnik",
 "file": "data/freshness/poslovnik/2018.csv",
-"acts": 2
+"acts": 3
 },
 {
 "shard": "poslovnik/2019",
@@ -124,13 +124,13 @@
 "shard": "pravilnik/2011",
 "kind": "pravilnik",
 "file": "data/freshness/pravilnik/2011.csv",
-"acts": 82
+"acts": 84
 },
 {
 "shard": "pravilnik/2012",
 "kind": "pravilnik",
 "file": "data/freshness/pravilnik/2012.csv",
-"acts": 89
+"acts": 90
 },
 {
 "shard": "pravilnik/2013",
@@ -148,13 +148,13 @@
 "shard": "pravilnik/2015",
 "kind": "pravilnik",
 "file": "data/freshness/pravilnik/2015.csv",
-"acts": 55
+"acts": 56
 },
 {
 "shard": "pravilnik/2016",
 "kind": "pravilnik",
 "file": "data/freshness/pravilnik/2016.csv",
-"acts": 78
+"acts": 79
 },
 {
 "shard": "pravilnik/2017",
@@ -190,7 +190,7 @@
 "shard": "pravilnik/2022",
 "kind": "pravilnik",
 "file": "data/freshness/pravilnik/2022.csv",
-"acts": 55
+"acts": 54
 },
 {
 "shard": "pravilnik/2023",
@@ -322,7 +322,7 @@
 "shard": "uputstvo/2016",
 "kind": "uputstvo",
 "file": "data/freshness/uputstvo/2016.csv",
-"acts": 19
+"acts": 20
 },
 {
 "shard": "uputstvo/2017",
@@ -370,7 +370,7 @@
 "shard": "uputstvo/2024",
 "kind": "uputstvo",
 "file": "data/freshness/uputstvo/2024.csv",
-"acts": 26
+"acts": 27
 },
 {
 "shard": "uputstvo/2025",
@@ -382,13 +382,13 @@
 "shard": "uputstvo/2026",
 "kind": "uputstvo",
 "file": "data/freshness/uputstvo/2026.csv",
-"acts": 31
+"acts": 30
 },
 {
 "shard": "zakon/2010",
 "kind": "zakon",
 "file": "data/freshness/zakon/2010.csv",
-"acts": 21
+"acts": 23
 },
 {
 "shard": "zakon/2011",

@@ -1,6 +1,6 @@
 {
 "note": "In-scope acts (laws of the Parliamentary Assembly; rulebooks, instructions, rules of procedure and rules) listed in Službeni glasnik BiH but held back from main, each with the rule that holds it (reason) and the exact finding (detail): its text does not split cleanly into articles, its in-force day cannot be read, its Bosnian text is not served, or a later text it depends on is not read yet.",
-"count": 1808,
+"count": 1779,
 "acts": [
 {
 "id": "",
@@ -11640,15 +11640,6 @@
 "official_url": "https://www.sluzbenilist.ba/page/akt/qtf51VlArZw="
 },
 {
-"id": "OTOg8ulJRxM=",
-"gazette": "Službeni glasnik BiH 12/10",
-"date": "2010-02-16",
-"title": "ZAKON BOSNE I HERCEGOVINE O IZVRŠENJU KRIVIČNIH SANKCIJA, PRITVORA I DRUGIH MJERA PREČIŠĆENI TEKST",
-"reason": "title_form",
-"detail": "title_form",
-"official_url": "https://www.sluzbenilist.ba/page/akt/OTOg8ulJRxM="
-},
-{
 "id": "OpRGc0eBdjA=",
 "gazette": "Službeni glasnik BiH 16/10",
 "date": "2010-03-02",
@@ -11746,15 +11737,6 @@
 "reason": "text_before_first_article",
 "detail": "text_before_first_article",
 "official_url": "https://www.sluzbenilist.ba/page/akt/w7VfY9hcohz4nh78h77WQ="
-},
-{
-"id": "Ogl6BLfO0gztz5k76kjn45hI=",
-"gazette": "Službeni glasnik BiH 32/10",
-"date": "2010-04-22",
-"title": "ZAKON O RAVNOPRAVNOSTI SPOLOVA U BOSNI I HERCEGOVINI",
-"reason": "in_force_clause_missing",
-"detail": "in_force_clause_missing",
-"official_url": "https://www.sluzbenilist.ba/page/akt/Ogl6BLfO0gztz5k76kjn45hI="
 },
 {
 "id": "a1p0CPpUwjs=",
@@ -12504,15 +12486,6 @@
 "official_url": "https://www.sluzbenilist.ba/page/akt/Gtumg9Jv2Dw="
 },
 {
-"id": "78HS3nqtiyg=",
-"gazette": "Službeni glasnik BiH 70/11",
-"date": "2011-09-05",
-"title": "PRAVILNIK O SLUŽBENOJ LEGITIMACIJI DRŽAVNIH SLUŽBENIKA U SLUŽBI ZA REVIZIJU FINANSIRANJA POLITIČKIH STRANAKA (PREČIŠĆENI TEKST)",
-"reason": "in_force_clause_missing",
-"detail": "in_force_clause_missing",
-"official_url": "https://www.sluzbenilist.ba/page/akt/78HS3nqtiyg="
-},
-{
 "id": "DcGFx3lPwfc=",
 "gazette": "Službeni glasnik BiH 70/11",
 "date": "2011-09-05",
@@ -12529,15 +12502,6 @@
 "reason": "article_numbers_not_consecutive",
 "detail": "article_numbers_not_consecutive",
 "official_url": "https://www.sluzbenilist.ba/page/akt/XphCirKox8w="
-},
-{
-"id": "kUSo2VNPXZs=",
-"gazette": "Službeni glasnik BiH 70/11",
-"date": "2011-09-05",
-"title": "PRAVILNIK O NAČINU VOĐENJA REGISTRA (PREČIŠĆENI TEKST)",
-"reason": "in_force_clause_missing",
-"detail": "in_force_clause_missing",
-"official_url": "https://www.sluzbenilist.ba/page/akt/kUSo2VNPXZs="
 },
 {
 "id": "3RTpmaKCbo0=",
@@ -12700,15 +12664,6 @@
 "reason": "adoption_day_inconsistent",
 "detail": "adoption_day_inconsistent:2011-11-23",
 "official_url": "https://www.sluzbenilist.ba/page/akt/r9xMTgkQEu8="
-},
-{
-"id": "de7rPIY4jHM=",
-"gazette": "Službeni glasnik BiH 20/12",
-"date": "2012-03-13",
-"title": "PRAVILNIK O IZVRŠENJU MJERA SIGURNOSTI OBAVEZNOG PSIHIJATRIJSKOG LIJEČENJA I OBAVEZNOG LIJEČENJA OD OVISNOSTI U ZAVODU ZA IZVRŠENJE KRIVIČNIH SANKCIJA, PRITVORA",
-"reason": "in_force_clause_missing",
-"detail": "in_force_clause_missing",
-"official_url": "https://www.sluzbenilist.ba/page/akt/de7rPIY4jHM="
 },
 {
 "id": "xRmvgztz5k76kjn45hfohz4nh78h77IVkk=",
@@ -13399,8 +13354,8 @@
 "gazette": "Službeni glasnik BiH 2/14",
 "date": "2014-01-13",
 "title": "PRAVILNIK O ORIJENTACIONIM MJERILIMA ZA RAD SUDIJA I STRUČNIH SARADNIKA U SUDOVIMA U BOSNI I HERCEGOVINI - Prečišćeni tekst\u0002 -",
-"reason": "article_numbers_not_consecutive",
-"detail": "article_numbers_not_consecutive",
+"reason": "consolidated",
+"detail": "consolidated:article_numbers_not_consecutive",
 "official_url": "https://www.sluzbenilist.ba/page/akt/tgeRoxnZHpc="
 },
 {
@@ -13908,15 +13863,6 @@
 "official_url": "https://www.sluzbenilist.ba/page/akt/g4iNtwOt590="
 },
 {
-"id": "t3JrZJMWgztz5k76kjn45hjo=",
-"gazette": "Službeni glasnik BiH 97/15",
-"date": "2015-12-21",
-"title": "PRAVILNIK O VRSTI I USLOVIMA ZA IZVRŠENJE KRIVIČNE SANKCIJE RADA ZA OPĆE DOBRO NA SLOBODI \"PREČIŠĆENI TEKST\"",
-"reason": "in_force_clause_missing",
-"detail": "in_force_clause_missing",
-"official_url": "https://www.sluzbenilist.ba/page/akt/t3JrZJMWgztz5k76kjn45hjo="
-},
-{
 "id": "l2DndDF6AtM=",
 "gazette": "Službeni glasnik BiH 101/15",
 "date": "2015-12-30",
@@ -13971,24 +13917,6 @@
 "official_url": "https://www.sluzbenilist.ba/page/akt/37JdiTohz4nh78h77Aamg="
 },
 {
-"id": "fu1VHw4bchA=",
-"gazette": "Službeni glasnik BiH 6/16",
-"date": "2016-01-29",
-"title": "PRAVILNIK O MJERILIMA ZA UTVRĐIVANJE NAKNADE POVJERENICIMA U IZVRŠAVANJU KRIVIČNE SANKCIJE \"RAD ZA OPĆE DOBRO NA SLOBODI\" \"PREČIŠĆENI TEKST\"",
-"reason": "in_force_clause_missing",
-"detail": "in_force_clause_missing",
-"official_url": "https://www.sluzbenilist.ba/page/akt/fu1VHw4bchA="
-},
-{
-"id": "xa7P90J2xEA=",
-"gazette": "Službeni glasnik BiH 6/16",
-"date": "2016-01-29",
-"title": "UPUTSTVO O UTVRĐIVANJU KVALIFIKACIJA, BROJA I IMENOVANJU I OBUCI ČLANOVA IZBORNE KOMISIJE OSNOVNE IZBORNE JEDINICE U BOSNI I HERCEGOVINI (PREČIŠĆENI TEKST)",
-"reason": "in_force_clause_missing",
-"detail": "in_force_clause_missing",
-"official_url": "https://www.sluzbenilist.ba/page/akt/xa7P90J2xEA="
-},
-{
 "id": "OqRXmg3Johz4nh78h77M8=",
 "gazette": "Službeni glasnik BiH 22/16",
 "date": "2016-03-29",
@@ -14005,15 +13933,6 @@
 "reason": "title_form",
 "detail": "title_form",
 "official_url": "https://www.sluzbenilist.ba/page/akt/dRvdRunUVAU="
-},
-{
-"id": "nxzL3ohz4nh78h77xsoaU=",
-"gazette": "Službeni glasnik BiH 22/16",
-"date": "2016-03-29",
-"title": "ZAKON BOSNE I HERCEGOVINE O IZVRŠENJU KRIVIČNIH SANKCIJA, PRITVORA I DRUGIH MJERA",
-"reason": "title_form",
-"detail": "title_form",
-"official_url": "https://www.sluzbenilist.ba/page/akt/nxzL3ohz4nh78h77xsoaU="
 },
 {
 "id": "CzpjWXFhAes=",
@@ -14065,8 +13984,8 @@
 "gazette": "Službeni glasnik BiH 32/16",
 "date": "2016-05-04",
 "title": "PRAVILNIK O NAČINU PROVOĐENJA IZBORA U BOSNI I HERCEGOVINI (Prečišćeni tekst)",
-"reason": "in_force_clause_missing",
-"detail": "in_force_clause_missing",
+"reason": "consolidated",
+"detail": "consolidated:consolidates_held_act:pravilnik-2014-sg037-d59ec5",
 "official_url": "https://www.sluzbenilist.ba/page/akt/9Ggztz5k76kjn45hsmq5Bdeo="
 },
 {
@@ -14077,24 +13996,6 @@
 "reason": "title_form",
 "detail": "title_form",
 "official_url": "https://www.sluzbenilist.ba/page/akt/E9Kp5eusGvw="
-},
-{
-"id": "dHi3ExKohz4nh78h77UAk=",
-"gazette": "Službeni glasnik BiH 32/16",
-"date": "2016-05-04",
-"title": "UPUTSTVO O IZGLEDU I NAČINU ISPUNJAVANJA OBRAZACA IZJAVE O IMOVINSKOM STANJU (PREČIŠĆENI TEKST)",
-"reason": "in_force_clause_missing",
-"detail": "in_force_clause_missing",
-"official_url": "https://www.sluzbenilist.ba/page/akt/dHi3ExKohz4nh78h77UAk="
-},
-{
-"id": "dNiJ8Jm6yQg=",
-"gazette": "Službeni glasnik BiH 32/16",
-"date": "2016-05-04",
-"title": "UPUTSTVO O UTVRĐIVANJU KVALIFIKACIJA I POSTUPKU IMENOVANJA ČLANOVA BIRAČKIH ODBORA (PREČIŠĆENI TEKST)",
-"reason": "in_force_clause_missing",
-"detail": "in_force_clause_missing",
-"official_url": "https://www.sluzbenilist.ba/page/akt/dNiJ8Jm6yQg="
 },
 {
 "id": "qyosVDOvHi0=",
@@ -14128,8 +14029,8 @@
 "gazette": "Službeni glasnik BiH 43/16",
 "date": "2016-06-10",
 "title": "PRAVILNIK O NAČINU PROVJERE POTPISA PODRŠKE I OBRASCI ZA OVJERU POLITIČKIH SUBJEKATA ZA UČEŠĆE NA NEPOSREDNIM IZBORIMA U BOSNI I HERCEGOVINI (Prečišćeni tekst)",
-"reason": "in_force_clause_missing",
-"detail": "in_force_clause_missing",
+"reason": "consolidated",
+"detail": "consolidated:consolidates_held_act:pravilnik-2014-sg037-fb2f6c",
 "official_url": "https://www.sluzbenilist.ba/page/akt/63BUtk98rIs="
 },
 {
@@ -14209,8 +14110,8 @@
 "gazette": "Službeni glasnik BiH 63/16",
 "date": "2016-08-26",
 "title": "PRAVILNIK O LICENCAMA (Prečišćeni tekst)",
-"reason": "text_before_first_article",
-"detail": "text_before_first_article",
+"reason": "consolidated",
+"detail": "consolidated:text_before_first_article",
 "official_url": "https://www.sluzbenilist.ba/page/akt/NscXEmvxByU="
 },
 {
@@ -14646,24 +14547,6 @@
 "official_url": "https://www.sluzbenilist.ba/page/akt/SEgHzohz4nh78h77sQHpY="
 },
 {
-"id": "ExrtwH0P2WY=",
-"gazette": "Službeni glasnik BiH 29/18",
-"date": "2018-05-08",
-"title": "UPUTSTVO O UTVRĐIVANJU KVALIFIKACIJA, BROJA, IMENOVANJU I RAZRJEŠENJU I OBUCI ČLANOVA IZBORNE KOMISIJE OSNOVNE IZBORNE JEDINICE U BOSNI I HERCEGOVINI (PREČIŠĆEN",
-"reason": "in_force_clause_missing",
-"detail": "in_force_clause_missing",
-"official_url": "https://www.sluzbenilist.ba/page/akt/ExrtwH0P2WY="
-},
-{
-"id": "vIbdfuAuFAI=",
-"gazette": "Službeni glasnik BiH 29/18",
-"date": "2018-05-08",
-"title": "POSLOVNIK CENTRALNE IZBORNE KOMISIJE BOSNE I HERCEGOVINE (PREČIŠĆENI TEKST)",
-"reason": "title_form",
-"detail": "title_form",
-"official_url": "https://www.sluzbenilist.ba/page/akt/vIbdfuAuFAI="
-},
-{
 "id": "wO5cEP4Y1Ks=",
 "gazette": "Službeni glasnik BiH 30/18",
 "date": "2018-05-11",
@@ -14716,15 +14599,6 @@
 "reason": "title_form",
 "detail": "title_form",
 "official_url": "https://www.sluzbenilist.ba/page/akt/va3ohz4nh78h77RndfMfs="
-},
-{
-"id": "9M7k4VhJbkk=",
-"gazette": "Službeni glasnik BiH 41/18",
-"date": "2018-06-19",
-"title": "UPUTSTVO O USLOVIMA I PROCEDURAMA ZA AKREDITIRANJE IZBORNIH POSMATRAČA U BOSNI I HERCEGOVINI (PREČIŠĆENI TEKST)",
-"reason": "in_force_clause_missing",
-"detail": "in_force_clause_missing",
-"official_url": "https://www.sluzbenilist.ba/page/akt/9M7k4VhJbkk="
 },
 {
 "id": "u7Qohz4nh78h7789l2uEE=",
@@ -15015,24 +14889,6 @@
 "official_url": "https://www.sluzbenilist.ba/page/akt/Dohz4nh78h77s1Hb66T4Y="
 },
 {
-"id": "KpgJ9qTJGSk=",
-"gazette": "Službeni glasnik BiH 25/20",
-"date": "2020-05-07",
-"title": "PRAVILNIK O UTVRĐIVANJU KVALIFIKACIJA I POSTUPKU IMENOVANJA ČLANOVA BIRAČKIH ODBORA (PREČIŠĆENI TEKST)",
-"reason": "in_force_clause_missing",
-"detail": "in_force_clause_missing",
-"official_url": "https://www.sluzbenilist.ba/page/akt/KpgJ9qTJGSk="
-},
-{
-"id": "WcNohz4nh78h77l0s4Ekc=",
-"gazette": "Službeni glasnik BiH 25/20",
-"date": "2020-05-07",
-"title": "UPUTSTVO O PROCEDURAMA ZA RJEŠAVANJE PO PRIGOVORIMA I ŽALBAMA PODNESENIM IZBORNIM KOMISIJAMA (PREČIŠĆENI TEKST)",
-"reason": "in_force_clause_missing",
-"detail": "in_force_clause_missing",
-"official_url": "https://www.sluzbenilist.ba/page/akt/WcNohz4nh78h77l0s4Ekc="
-},
-{
 "id": "ZgGh4B8LIvY=",
 "gazette": "Službeni glasnik BiH 25/20",
 "date": "2020-05-07",
@@ -15042,39 +14898,12 @@
 "official_url": "https://www.sluzbenilist.ba/page/akt/ZgGh4B8LIvY="
 },
 {
-"id": "Zugohz4nh78h77YgCfWwM=",
-"gazette": "Službeni glasnik BiH 25/20",
-"date": "2020-05-07",
-"title": "PRAVILNIK O PROVOĐENJU IZBORA U BOSNI I HERCEGOVINI (Prečišćeni tekst)",
-"reason": "in_force_clause_missing",
-"detail": "in_force_clause_missing",
-"official_url": "https://www.sluzbenilist.ba/page/akt/Zugohz4nh78h77YgCfWwM="
-},
-{
-"id": "k7ArdGcgDzc=",
-"gazette": "Službeni glasnik BiH 25/20",
-"date": "2020-05-07",
-"title": "PRAVILNIK O UPOTREBI I IZRADI IZVODA IZ CENTRALNOG BIRAČKOG SPISKA (PREČIŠĆENI TEKST)",
-"reason": "in_force_clause_missing",
-"detail": "in_force_clause_missing",
-"official_url": "https://www.sluzbenilist.ba/page/akt/k7ArdGcgDzc="
-},
-{
 "id": "l8ohz4nh78h77nncx1kFk=",
 "gazette": "Službeni glasnik BiH 25/20",
 "date": "2020-05-07",
 "title": "PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O UTVRĐIVANJU KVALIFIKACIJA I POSTUPKU IMENOVANJA ČLANOVA BIRAČKIH ODBORA",
 "reason": "no_title",
 "detail": "no_title",
-"official_url": "https://www.sluzbenilist.ba/page/akt/l8ohz4nh78h77nncx1kFk="
-},
-{
-"id": "l8ohz4nh78h77nncx1kFk=",
-"gazette": "Službeni glasnik BiH 25/20",
-"date": "2020-05-07",
-"title": "UPUTSTVO O VRSTAMA, NAČINU I ROKOVIMA ZA ODREĐIVANJE BIRAČKIH MJESTA (PREČIŠĆENI TEKST)",
-"reason": "in_force_clause_missing",
-"detail": "in_force_clause_missing",
 "official_url": "https://www.sluzbenilist.ba/page/akt/l8ohz4nh78h77nncx1kFk="
 },
 {
@@ -15348,15 +15177,6 @@
 "official_url": "https://www.sluzbenilist.ba/page/akt/0RXnCU9gztz5k76kjn45hTYc="
 },
 {
-"id": "EMGF5Wwohz4nh78h77DKM=",
-"gazette": "Službeni glasnik BiH 1/22",
-"date": "2022-01-07",
-"title": "UPUTSTVO O UTVRĐIVANJU KVALIFIKACIJA, BROJU, IMENOVANJU, OBUCI I RAZRJEŠENJU ČLANOVA IZBORNE KOMISIJE OSNOVNE IZBORNE JEDINICE U BOSNI I HERCEGOVINI (PREČIŠĆENI",
-"reason": "in_force_clause_missing",
-"detail": "in_force_clause_missing",
-"official_url": "https://www.sluzbenilist.ba/page/akt/EMGF5Wwohz4nh78h77DKM="
-},
-{
 "id": "5uJiNk9pkdc=",
 "gazette": "Službeni glasnik BiH 6/22",
 "date": "2022-02-08",
@@ -15528,15 +15348,6 @@
 "official_url": "https://www.sluzbenilist.ba/page/akt/4zd7Br5OxV8="
 },
 {
-"id": "eOnyVu5CjkU=",
-"gazette": "Službeni glasnik BiH 32/23",
-"date": "2023-05-09",
-"title": "POSLOVNIK CENTRALNE IZBORNE KOMISIJE BOSNE I HERCEGOVINE (PREČIŠĆENI TEKST)",
-"reason": "title_form",
-"detail": "title_form",
-"official_url": "https://www.sluzbenilist.ba/page/akt/eOnyVu5CjkU="
-},
-{
 "id": "WTPfvyN9BbM=",
 "gazette": "Službeni glasnik BiH 41/23",
 "date": "2023-06-09",
@@ -15672,21 +15483,12 @@
 "official_url": "https://www.sluzbenilist.ba/page/akt/T1oquRXW7ps="
 },
 {
-"id": "0XlcYMnLcOc=",
-"gazette": "Službeni glasnik BiH 31/24",
-"date": "2024-05-08",
-"title": "PRAVILNIK O GODIŠNJIM FINANSIJSKIM IZVJEŠTAJIMA POLITIČKIH STRANAKA",
-"reason": "in_force_clause_missing",
-"detail": "in_force_clause_missing",
-"official_url": "https://www.sluzbenilist.ba/page/akt/0XlcYMnLcOc="
-},
-{
 "id": "AGQsgztz5k76kjn45h8bcOVI=",
 "gazette": "Službeni glasnik BiH 31/24",
 "date": "2024-05-08",
 "title": "UPUTSTVO O POSTUPKU PROVOĐENJA POSREDNIH IZBORA ZA ORGANE VLASTI U BOSNI I HERCEGOVINI OBUHVAĆENIH IZBORNIM ZAKONOM BOSNE I HERCEGOVINE (Prečišćeni tekst)",
-"reason": "in_force_clause_missing",
-"detail": "in_force_clause_missing",
+"reason": "consolidated",
+"detail": "consolidated:consolidates_held_act:uputstvo-2022-sg075-777493",
 "official_url": "https://www.sluzbenilist.ba/page/akt/AGQsgztz5k76kjn45h8bcOVI="
 },
 {
@@ -15703,35 +15505,17 @@
 "gazette": "Službeni glasnik BiH 31/24",
 "date": "2024-05-08",
 "title": "UPUTSTVO O UVJETIMA I PROCEDURAMA ZA AKREDITIRANJE IZBORNIH POSMATRAČA U BOSNI I HERCEGOVINI (PREČIŠĆENI TEKST)",
-"reason": "in_force_clause_missing",
-"detail": "in_force_clause_missing",
+"reason": "consolidated",
+"detail": "consolidated:consolidates_held_act:uputstvo-2022-sg027-9a8899",
 "official_url": "https://www.sluzbenilist.ba/page/akt/K4Mn80JILH4="
-},
-{
-"id": "P7jdVIVyzgztz5k76kjn45h8=",
-"gazette": "Službeni glasnik BiH 31/24",
-"date": "2024-05-08",
-"title": "UPUTSTVO O POSTUPKU SLANJA, PRIMANJA, OBRADE, ARHIVIRANJA I ZAŠTITE ELEKTRONSKIH PRIJAVA I DOKUMENATA DRŽAVLJANA BOSNE I HERCEGOVINE ZA GLASANJE IZVAN BiH ELEKT",
-"reason": "in_force_clause_missing",
-"detail": "in_force_clause_missing",
-"official_url": "https://www.sluzbenilist.ba/page/akt/P7jdVIVyzgztz5k76kjn45h8="
-},
-{
-"id": "WWFXmOay6wY=",
-"gazette": "Službeni glasnik BiH 31/24",
-"date": "2024-05-08",
-"title": "UPUTSTVO O POSTUPKU ŽRIJEBANJA POLITIČKIH SUBJEKATA ZA UTVRĐIVANJE REDOSLIJEDA NA GLASAČKOM LISTIĆU (Prečišćeni tekst)",
-"reason": "in_force_clause_missing",
-"detail": "in_force_clause_missing",
-"official_url": "https://www.sluzbenilist.ba/page/akt/WWFXmOay6wY="
 },
 {
 "id": "YYP4QI8sgztz5k76kjn45hZM=",
 "gazette": "Službeni glasnik BiH 31/24",
 "date": "2024-05-08",
 "title": "UPUTSTVO O DODJELI I PRESTANKU MANDATA (PREČIŠĆENI TEKST)",
-"reason": "article_numbers_not_consecutive",
-"detail": "article_numbers_not_consecutive",
+"reason": "consolidated",
+"detail": "consolidated:article_numbers_not_consecutive",
 "official_url": "https://www.sluzbenilist.ba/page/akt/YYP4QI8sgztz5k76kjn45hZM="
 },
 {
@@ -15751,24 +15535,6 @@
 "reason": "in_force_clause_missing",
 "detail": "in_force_clause_missing",
 "official_url": "https://www.sluzbenilist.ba/page/akt/ngnuRkEPBqg="
-},
-{
-"id": "sxTSynaQink=",
-"gazette": "Službeni glasnik BiH 31/24",
-"date": "2024-05-08",
-"title": "UPUTSTVO O IZGLEDU I NAČINU ISPUNJAVANJA OBRASCA IZJAVE O IMOVINSKOM STANJU (PREČIŠĆENI TEKST)",
-"reason": "in_force_clause_missing",
-"detail": "in_force_clause_missing",
-"official_url": "https://www.sluzbenilist.ba/page/akt/sxTSynaQink="
-},
-{
-"id": "tBXSrhbSf1w=",
-"gazette": "Službeni glasnik BiH 31/24",
-"date": "2024-05-08",
-"title": "UPUTSTVO O PROCEDURAMA ZA RJEŠAVANJE PO PRIGOVORIMA I ŽALBAMA PODNESENIM IZBORNIM KOMISIJAMA (PREČIŠĆENI TEKST)",
-"reason": "in_force_clause_missing",
-"detail": "in_force_clause_missing",
-"official_url": "https://www.sluzbenilist.ba/page/akt/tBXSrhbSf1w="
 },
 {
 "id": "1R1G2OFQY3k=",
@@ -16122,24 +15888,6 @@
 "official_url": "https://www.sluzbenilist.ba/page/akt/pLcR7ZaKeps="
 },
 {
-"id": "0tRvi0v69e8=",
-"gazette": "Službeni glasnik BiH 32/26",
-"date": "2026-05-07",
-"title": "PRAVILNIK O POSTUPKU IMENOVANJA I RAZRJEŠENJA PREDSJEDNIKA I ČLANOVA BIRAČKIH ODBORA U BOSNI I HERCEGOVNI (PREČIŠĆENI TEKST)",
-"reason": "in_force_clause_missing",
-"detail": "in_force_clause_missing",
-"official_url": "https://www.sluzbenilist.ba/page/akt/0tRvi0v69e8="
-},
-{
-"id": "5AaMmngztz5k76kjn45hzd2s=",
-"gazette": "Službeni glasnik BiH 32/26",
-"date": "2026-05-07",
-"title": "UPUTSTVO O UTVRĐIVANJU KVALIFIKACIJA, BROJU, IMENOVANJU, OBUCI I RAZRJEŠENJU ČLANOVA IZBORNE KOMISIJE OSNOVNE IZBORNE JEDINICE U BOSNI I HERCEGOVINI (PREČIŠĆENI",
-"reason": "in_force_clause_missing",
-"detail": "in_force_clause_missing",
-"official_url": "https://www.sluzbenilist.ba/page/akt/5AaMmngztz5k76kjn45hzd2s="
-},
-{
 "id": "CUhSTsFxtOg=",
 "gazette": "Službeni glasnik BiH 32/26",
 "date": "2026-05-07",
@@ -16156,15 +15904,6 @@
 "reason": "in_force_on_adoption_day_unknown",
 "detail": "in_force_on_adoption_day_unknown",
 "official_url": "https://www.sluzbenilist.ba/page/akt/kmBOW9Fs04o="
-},
-{
-"id": "uEVQxprWfrc=",
-"gazette": "Službeni glasnik BiH 32/26",
-"date": "2026-05-07",
-"title": "UPUTSTVO O POSTUPKU OTVARANJA I KORIŠTENJA POSEBNOG RAČUNA ZA FINANSIRANJE TROŠKOVA IZBORNE KAMPANJE (Prečišćeni tekst)",
-"reason": "in_force_clause_missing",
-"detail": "in_force_clause_missing",
-"official_url": "https://www.sluzbenilist.ba/page/akt/uEVQxprWfrc="
 },
 {
 "id": "3pWuN8XKvz8=",

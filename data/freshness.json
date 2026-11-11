@@ -1,7 +1,7 @@
 {
  "note": "Freshness of every act in this repository: when it was last checked against its official source, how, and whether a known change is missing. One row per act in data/freshness/<kind>/<year>.csv (listed in data/freshness/index.json); `python tools/freshness.py <act id or folder>` reads them. A status is as of `as_of`; an act verified longer ago than its threshold has since become stale.",
  "schema": "ba-freshness/1",
- "as_of": "2026-11-10",
+ "as_of": "2026-11-11",
  "checked_against_official_source": "2026-11-10",
  "statuses": {
   "current": "checked against the official source within its threshold, and no known change is missing",
@@ -19,9 +19,10 @@
    "kinds": [
     "constitution",
     "criminal-code",
-    "zakon"
+    "zakon",
+    "odluka"
    ],
-   "label": "Constitution, Criminal Code and laws of the Parliamentary Assembly"
+   "label": "Constitution, Criminal Code, laws of the Parliamentary Assembly and decisions"
   },
   "secondary": {
    "days": 30,
@@ -29,9 +30,11 @@
     "pravilnik",
     "uputstvo",
     "poslovnik",
-    "pravilo"
+    "pravilo",
+    "naredba",
+    "instrukcija"
    ],
-   "label": "rulebooks, instructions, rules of procedure and rules"
+   "label": "rulebooks, instructions, rules of procedure, rules and orders"
   }
  },
  "final": "A repealed act no longer changes: it stays current once checked, with no threshold (its check_due is empty).",
@@ -47,10 +50,10 @@
   "official_url": "the act's page at its official source, to check by hand"
  },
  "totals": {
-  "acts": 1869,
+  "acts": 1877,
   "by_status": {
-   "current": 1572,
-   "pending-change": 297,
+   "current": 1588,
+   "pending-change": 289,
    "stale": 0,
    "unverified": 0,
    "source-unavailable": 0
@@ -60,9 +63,9 @@
  },
  "by_group": {
   "national": {
-   "acts": 199,
+   "acts": 201,
    "by_status": {
-    "current": 185,
+    "current": 187,
     "pending-change": 14,
     "stale": 0,
     "unverified": 0,
@@ -72,10 +75,10 @@
    "pct_verified_30d": 100.0
   },
   "secondary": {
-   "acts": 1670,
+   "acts": 1676,
    "by_status": {
-    "current": 1387,
-    "pending-change": 283,
+    "current": 1401,
+    "pending-change": 275,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -110,9 +113,9 @@
    "pct_verified_30d": 100.0
   },
   "poslovnik": {
-   "acts": 46,
+   "acts": 47,
    "by_status": {
-    "current": 31,
+    "current": 32,
     "pending-change": 15,
     "stale": 0,
     "unverified": 0,
@@ -122,10 +125,10 @@
    "pct_verified_30d": 100.0
   },
   "pravilnik": {
-   "acts": 1218,
+   "acts": 1222,
    "by_status": {
-    "current": 1017,
-    "pending-change": 201,
+    "current": 1023,
+    "pending-change": 199,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -146,10 +149,10 @@
    "pct_verified_30d": 100.0
   },
   "uputstvo": {
-   "acts": 374,
+   "acts": 375,
    "by_status": {
-    "current": 308,
-    "pending-change": 66,
+    "current": 315,
+    "pending-change": 60,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -158,9 +161,9 @@
    "pct_verified_30d": 100.0
   },
   "zakon": {
-   "acts": 197,
+   "acts": 199,
    "by_status": {
-    "current": 185,
+    "current": 187,
     "pending-change": 12,
     "stale": 0,
     "unverified": 0,
