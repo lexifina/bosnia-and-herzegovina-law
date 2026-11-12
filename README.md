@@ -1,5 +1,10 @@
 # Bosnia and Herzegovina: law history in git
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
+<img alt="Bosnia and Herzegovina law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+</picture>
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Bosnia and Herzegovina's national (state-level) law, which global-law reads at `bosnia-and-herzegovina/national/acts/`.
 
 The law of the state of Bosnia and Herzegovina as a git repository: one file per article, one commit per act on the day it took effect, so `git blame` and `git log` work on the text. The law of the entities, the Brčko District and the cantons is in separate repositories (`lexifina/bosnia-federation-law`, `lexifina/bosnia-republika-srpska-law`, `lexifina/bosnia-brcko-law` and the canton repositories).
