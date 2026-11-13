@@ -1,42 +1,57 @@
-# Bosnia and Herzegovina: law history in git
+# Bosna i Hercegovina: historija propisa u gitu
+
+**Bosanski** · [English](README.en.md)
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
-<img alt="Bosnia and Herzegovina law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+<source media="(prefers-color-scheme: dark)" srcset="data/bs/effort-dark.svg">
+<img alt="Propisi Bosne i Hercegovine u ovom repozitoriju: šta sadrži, izmjene po godini stupanja na snagu, potpunost u odnosu na zvanične izvore i tačnost sadržaja" src="data/bs/effort-light.svg" width="880">
 </picture>
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Bosnia and Herzegovina's national (state-level) law, which global-law reads at `bosnia-and-herzegovina/national/acts/`.
+Dio projekta [lexifina/global-law](https://github.com/lexifina/global-law), jedne git historije prava svih zemalja: ovo je nacionalno (državno) pravo Bosne i Hercegovine, koje global-law čita na putanji `bosnia-and-herzegovina/national/acts/`.
 
-The law of the state of Bosnia and Herzegovina as a git repository: one file per article, one commit per act on the day it took effect, so `git blame` and `git log` work on the text. The law of the entities, the Brčko District and the cantons is in separate repositories (`lexifina/bosnia-federation-law`, `lexifina/bosnia-republika-srpska-law`, `lexifina/bosnia-brcko-law` and the canton repositories).
+Pravo države Bosne i Hercegovine kao git repozitorij: jedna datoteka po članu, jedan commit po propisu na dan kada je stupio na snagu, tako da `git blame` i `git log` rade na tekstu. Pravo entiteta, Brčko distrikta i kantona nalazi se u zasebnim repozitorijima (`lexifina/bosnia-federation-law`, `lexifina/bosnia-republika-srpska-law`, `lexifina/bosnia-brcko-law` i repozitoriji kantona).
 
-**What is in it now**
+**Šta sadrži sada**
 
-| Folder | Law | Versions | History |
+| Folder | Propis | Verzije | Historija |
 | --- | --- | ---: | --- |
-| `constitution/` | Constitution of Bosnia and Herzegovina (Annex 4 to the General Framework Agreement for Peace, Dayton/Paris) | 1 | As signed on 14 December 1995 (English, the authentic text) |
-| `criminal-code/` | Criminal Code of Bosnia and Herzegovina (2003), unofficial consolidated English text to Official Gazette 47/14 | 1 | Oldest version available: the Prosecutor's Office of BiH file, dated 4 May 2017 |
-| `zakon/`, `pravilnik/`, `uputstvo/`, `poslovnik/`, `pravilo/` | 1,879 acts published in Službeni glasnik BiH: laws of the Parliamentary Assembly, and the rulebooks, instructions, rules of procedure and rules of state institutions | one per act, plus each official consolidated text of it, and its repeal where it reads cleanly | As published in the Gazette, in Bosnian, each on the in-force day its own final article names; a consolidated text on its issue day |
+| `constitution/` | Ustav Bosne i Hercegovine (Aneks 4 Općeg okvirnog sporazuma za mir, Dayton/Pariz) | 1 | Kako je potpisan 14. decembra 1995. (na engleskom, autentični tekst) |
+| `criminal-code/` | Krivični zakon Bosne i Hercegovine (2003), nezvanični prečišćeni tekst na engleskom, zaključno sa Službenim glasnikom 47/14 | 1 | Najstarija dostupna verzija: datoteka Tužilaštva BiH s datumom 4. maja 2017. |
+| `zakon/`, `pravilnik/`, `uputstvo/`, `poslovnik/`, `pravilo/` | 1.879 propisa objavljenih u Službenom glasniku BiH: zakoni Parlamentarne skupštine te pravilnici, uputstva, poslovnici i pravila državnih institucija | jedna po propisu, uz svaki njegov službeni prečišćeni tekst i njegovo stavljanje van snage ako se može čisto pročitati | Kako su objavljeni u Glasniku, na bosanskom, svaki na dan stupanja na snagu koji navodi njegov vlastiti završni član; prečišćeni tekst na dan izlaska broja |
 
-Every act is listed, with its kind, number, status and span, in [registry/ACTS.md](registry/ACTS.md) and [registry/data/acts.json](registry/data/acts.json); `registry/data/paths.json` maps each act id to its folder (`<kind>/<year>/sg<issue>-<id>`). How the Gazette acts were read and built is in [registry/REPRODUCE.md](registry/REPRODUCE.md). What is planned, part by part, and how much of each part is published is in [PLAN.md](PLAN.md).
+Svaki propis je naveden, s vrstom, brojem, statusom i vremenskim rasponom, u [registry/ACTS.md](registry/ACTS.md) i [registry/data/acts.json](registry/data/acts.json); `registry/data/paths.json` povezuje id svakog propisa s njegovim folderom (`<kind>/<year>/sg<issue>-<id>`). Kako su propisi iz Glasnika pročitani i izgrađeni opisano je u [registry/REPRODUCE.md](registry/REPRODUCE.md). Šta je planirano, dio po dio, i koliko je svakog dijela objavljeno navodi [PLAN.md](PLAN.md).
 
-## Dates and limits
+## Datumi i ograničenja
 
-- **Constitution.** One version, dated 14 December 1995: under Article XII(1) it entered into force on signature of the General Framework Agreement. Amendment I (26 March 2009, Brčko District; Službeni glasnik BiH 25/09) is not in this record: the source is the Constitutional Court's English PDF of 2006. Files: `art-01.md` is Article I, `annex-ii.md` is Annex II, `preamble.md` the preamble; the PDF's own typesetting is kept.
-- **Criminal Code.** The English consolidation posted by the Prosecutor's Office of BiH, which labels it unofficial; the Official Gazette text in the local languages prevails. It runs to amendment 47/14, so later amendments are not in it. Civil and commercial law is made by the entities and the Brčko District, not by the state.
-- **Gazette acts.** Each act is published as the Gazette printed it. Some issuing bodies (the Central Election Commission most often, also ministries and the Parliamentary Assembly) publish an official consolidated text ("prečišćeni tekst") of an act in the Gazette: that text is a later version of the act it consolidates (the act its own "obuhvata ..." article names first), in force from its issue day, and credited to the consolidated text itself, since it does not say which amending act changed each provision. When the act it consolidates has no text the publisher serves (1997-2009), the first consolidated text is the act's oldest version available. An act that a later act amends, repeals, corrects or cites with its amendments (after its newest consolidated text, if any) is still published as enacted, and labelled `amended, not consolidated` (or `repealed, not consolidated`) in `registry/data/acts.json`, with the acts that change it (`amended_by`, each with its official link); the change itself is not applied to its text. A repeal is applied (a last, empty version) only when one later act repeals the whole act on its own in-force day.
-- Every version names the official page it was read from (commit trailers `Source:`; `portal` in `registry/data/acts.json`), so every act can be checked against its source.
-- Acts listed in the Gazette but held back (their text does not split cleanly into articles, their in-force day cannot be read, or their Bosnian text is not served) are listed with the reason in [data/held.json](data/held.json); acts published but not yet in force are in [data/pending.json](data/pending.json) and are appended on their day.
+- **Ustav.** Jedna verzija, s datumom 14. decembra 1995.: prema članu XII(1) stupio je na snagu potpisivanjem Općeg okvirnog sporazuma. Amandman I (26. marta 2009., Brčko distrikt; Službeni glasnik BiH 25/09) nije u ovom zapisu: izvor je PDF Ustavnog suda na engleskom iz 2006. Datoteke: `art-01.md` je član I, `annex-ii.md` je Aneks II, `preamble.md` preambula; zadržan je prijelom samog PDF-a.
+- **Krivični zakon.** Prečišćeni tekst na engleskom koji je objavilo Tužilaštvo BiH, koje ga označava kao nezvaničan; mjerodavan je tekst Službenog glasnika na lokalnim jezicima. Obuhvata izmjene zaključno sa 47/14, pa kasnije izmjene nisu u njemu. Građansko i privredno pravo donose entiteti i Brčko distrikt, a ne država.
+- **Propisi iz Glasnika.** Svaki propis je objavljen onako kako ga je Glasnik odštampao. Neki donosioci (najčešće Centralna izborna komisija, ali i ministarstva i Parlamentarna skupština) objavljuju u Glasniku službeni „prečišćeni tekst” propisa: taj tekst je kasnija verzija propisa koji prečišćava (propisa koji njegov član „obuhvata ...” navodi prvi), na snazi je od dana izlaska broja i pripisuje se samom prečišćenom tekstu, jer ne navodi koji je propis o izmjenama promijenio koju odredbu. Kada propis koji prečišćava nema tekst koji izdavač nudi (1997-2009), prvi prečišćeni tekst je najstarija dostupna verzija propisa. Propis koji kasniji propis mijenja, stavlja van snage, ispravlja ili navodi zajedno s njegovim izmjenama (nakon njegovog najnovijeg prečišćenog teksta, ako ga ima) i dalje je objavljen onako kako je donesen i označen kao `amended, not consolidated` (ili `repealed, not consolidated`) u `registry/data/acts.json`, s propisima koji ga mijenjaju (`amended_by`, svaki sa svojim službenim linkom); sama izmjena se ne primjenjuje na njegov tekst. Stavljanje van snage se primjenjuje (posljednja, prazna verzija) samo kada jedan kasniji propis samostalno stavi van snage cijeli propis na dan svog stupanja na snagu.
+- Svaka verzija navodi zvaničnu stranicu s koje je pročitana (traileri commita `Source:`; `portal` u `registry/data/acts.json`), tako da se svaki propis može provjeriti prema izvoru.
+- Propisi navedeni u Glasniku, ali zadržani (njihov tekst se ne dijeli čisto na članove, njihov dan stupanja na snagu ne može se pročitati ili njihov bosanski tekst nije dostupan) navedeni su s razlogom u [data/held.json](data/held.json); propisi koji su objavljeni, ali još nisu stupili na snagu, nalaze se u [data/pending.json](data/pending.json) i dodaju se na svoj dan.
 
-## Freshness
+## Ažurnost
 
 <!-- freshness-summary -->
-Checked against the official sources: 2026-11-10; 100% of acts verified in the last 7 days, 100% in the last 30 ([data/freshness.json](data/freshness.json)).
+Provjereno prema zvaničnim izvorima: 2026-11-10; 100% propisa provjereno u posljednjih 7 dana, 100% u posljednjih 30 ([data/freshness.json](data/freshness.json)).
 <!-- /freshness-summary -->
 
-`python tools/freshness.py <act>` gives an act's status, its last check and the official link. A refresh runner reads every new issue of Službeni glasnik BiH daily, appends new acts, labels acts that a new act changes, and re-checks every act within its threshold (7 days for the Constitution, the Criminal Code and laws; 30 days for regulations); [data/status.json](data/status.json) says whether updates are running and whether the official source is answering. Statuses and fields: [data/freshness.json](data/freshness.json).
+`python tools/freshness.py <act>` daje status propisa, njegovu posljednju provjeru i zvanični link. Proces osvježavanja svakodnevno čita svaki novi broj Službenog glasnika BiH, dodaje nove propise, označava propise koje novi propis mijenja i ponovo provjerava svaki propis u okviru njegovog praga (7 dana za Ustav, Krivični zakon i zakone; 30 dana za podzakonske propise); [data/status.json](data/status.json) pokazuje da li ažuriranja rade i da li zvanični izvor odgovara. Statusi i polja: [data/freshness.json](data/freshness.json).
 
-## Source
+## Izvor
 
-Službeni glasnik BiH, as shown by JP NIO Službeni list BiH (https://www.sluzbenilist.ba): every issue's list of acts and each act's Bosnian text. Prosecutor's Office of Bosnia and Herzegovina (https://www.tuzilastvobih.gov.ba), Criminal Code consolidated text, retrieved 30 October 2026. Constitutional Court of Bosnia and Herzegovina (https://www.ustavnisud.ba), Constitution of Bosnia and Herzegovina, English PDF, retrieved 29 October 2026. Official texts of laws are not protected by copyright in Bosnia and Herzegovina.
+Službeni glasnik BiH, kako ga prikazuje JP NIO Službeni list BiH (https://www.sluzbenilist.ba): popis propisa svakog broja i bosanski tekst svakog propisa. Tužilaštvo Bosne i Hercegovine (https://www.tuzilastvobih.gov.ba), prečišćeni tekst Krivičnog zakona, preuzeto 30. oktobra 2026. Ustavni sud Bosne i Hercegovine (https://www.ustavnisud.ba), Ustav Bosne i Hercegovine, PDF na engleskom, preuzeto 29. oktobra 2026. Zvanični tekstovi zakona u Bosni i Hercegovini nisu zaštićeni autorskim pravom.
 
-No AI model wrote or changed legal text. This is not legal advice and not an official publication; for anything that matters, read the original.
+Nijedan AI model nije pisao niti mijenjao tekst propisa. Ovo nije pravni savjet niti zvanična publikacija; za sve što je važno, pročitajte izvornik.
+
+Ovo je prijevod engleske verzije ([README.en.md](README.en.md)); ako se razlikuju, važi engleska verzija.
+
+## Više
+
+Iz repozitorija [lexifina/global-law](https://github.com/lexifina/global-law) (na engleskom):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): sve funkcije i šta svaki korpus mora podržavati (`git blame`, `law.py`, MCP alati)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): pitanja i odgovori · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): predlaganje izmjena · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): kako je napravljen · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): koliko je ažuran svaki korpus · [Praćenje](https://github.com/lexifina/global-law/tree/main/monitoring): da li ažuriranja rade · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): kako se svaki zvanični izvor prati zbog izmjena
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): koliko su alati brzi, izmjereno
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): grafikoni i veze kroz pravo cijelog svijeta
+- [Ranjivosti](https://github.com/lexifina/global-law/tree/main/vulnerabilities): greške u propisima onako kako su objavljeni

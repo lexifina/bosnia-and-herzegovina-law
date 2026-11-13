@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="752" viewBox="0 0 880 752" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
+<rect x="0.5" y="0.5" width="879" height="751" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="24" y="38" font-size="16" font-weight="600" fill="#1f2328">Pravo BiH kao git historija</text>
+<rect x="605.1" y="24.5" width="137" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
+<text x="673.5" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">zapis do 11. nov 2026.</text>
+<rect x="749.8" y="24.5" width="106" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
+<text x="802.9" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">ažurnost: ažurno</text>
+<rect x="24.5" y="60.5" width="831" height="58" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.0" y="87" font-size="20" font-weight="600" fill="#1f2328">1.881</text>
+<text x="40.0" y="106" font-size="12" fill="#59636e">propisa</text>
+<line x1="190.4" y1="61" x2="190.4" y2="118" stroke="#d1d9e0"/>
+<text x="206.4" y="87" font-size="20" font-weight="600" fill="#1f2328">1.951</text>
+<text x="206.4" y="106" font-size="12" fill="#59636e">izmjena, kao commitovi</text>
+<line x1="356.8" y1="61" x2="356.8" y2="118" stroke="#d1d9e0"/>
+<text x="372.8" y="87" font-size="20" font-weight="600" fill="#1f2328">36.769</text>
+<text x="372.8" y="106" font-size="12" fill="#59636e">datoteka odredbi</text>
+<line x1="523.2" y1="61" x2="523.2" y2="118" stroke="#d1d9e0"/>
+<text x="539.2" y="87" font-size="20" font-weight="600" fill="#1f2328">1.905</text>
+<text x="539.2" y="106" font-size="12" fill="#59636e">autora: propisi i izdavači</text>
+<line x1="689.6" y1="61" x2="689.6" y2="118" stroke="#d1d9e0"/>
+<text x="705.6" y="87" font-size="20" font-weight="600" fill="#1f2328">1995–2026</text>
+<text x="705.6" y="106" font-size="12" fill="#59636e">godina historije</text>
+<rect x="24.5" y="134.5" width="831" height="248" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.5" y="160.5" font-size="14" font-weight="600" fill="#1f2328">Izmjene po godini stupanja na snagu</text>
+<line x1="80.5" y1="330.5" x2="839.5" y2="330.5" stroke="#d1d9e0" stroke-width="1"/>
+<text x="72.5" y="334.5" font-size="11" text-anchor="end" fill="#59636e">0</text>
+<line x1="80.5" y1="255.5" x2="839.5" y2="255.5" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="259.5" font-size="11" text-anchor="end" fill="#59636e">100</text>
+<line x1="80.5" y1="180.5" x2="839.5" y2="180.5" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="184.5" font-size="11" text-anchor="end" fill="#59636e">200</text>
+<rect x="81.10" y="329.0" width="22.52" height="1.5" rx="1.5" fill="#1f883d"><title>1995: izmjene koje su stupile na snagu: 1</title></rect>
+<text x="92.4" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1995</text>
+<text x="211.0" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2000</text>
+<text x="329.5" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2005</text>
+<rect x="413.16" y="329.0" width="22.52" height="1.5" rx="1.5" fill="#1f883d"><title>2009: izmjene koje su stupile na snagu: 1</title></rect>
+<rect x="436.88" y="210.5" width="22.52" height="120.0" rx="1.5" fill="#1f883d"><title>2010: izmjene koje su stupile na snagu: 160</title></rect>
+<text x="448.1" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2010</text>
+<rect x="460.60" y="232.2" width="22.52" height="98.2" rx="1.5" fill="#1f883d"><title>2011: izmjene koje su stupile na snagu: 131</title></rect>
+<rect x="484.32" y="227.8" width="22.52" height="102.8" rx="1.5" fill="#1f883d"><title>2012: izmjene koje su stupile na snagu: 137</title></rect>
+<rect x="508.04" y="200.0" width="22.52" height="130.5" rx="1.5" fill="#1f883d"><title>2013: izmjene koje su stupile na snagu: 174</title></rect>
+<text x="519.3" y="194.0" font-size="11" font-weight="600" text-anchor="middle" fill="#1f2328">174 u 2013.</text>
+<rect x="531.76" y="215.0" width="22.52" height="115.5" rx="1.5" fill="#1f883d"><title>2014: izmjene koje su stupile na snagu: 154</title></rect>
+<rect x="555.48" y="251.0" width="22.52" height="79.5" rx="1.5" fill="#1f883d"><title>2015: izmjene koje su stupile na snagu: 106</title></rect>
+<text x="566.7" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2015</text>
+<rect x="579.19" y="230.8" width="22.52" height="99.8" rx="1.5" fill="#1f883d"><title>2016: izmjene koje su stupile na snagu: 133</title></rect>
+<rect x="602.91" y="220.2" width="22.52" height="110.2" rx="1.5" fill="#1f883d"><title>2017: izmjene koje su stupile na snagu: 147</title></rect>
+<rect x="626.63" y="242.8" width="22.52" height="87.8" rx="1.5" fill="#1f883d"><title>2018: izmjene koje su stupile na snagu: 117</title></rect>
+<rect x="650.35" y="271.2" width="22.52" height="59.2" rx="1.5" fill="#1f883d"><title>2019: izmjene koje su stupile na snagu: 79</title></rect>
+<rect x="674.07" y="278.8" width="22.52" height="51.8" rx="1.5" fill="#1f883d"><title>2020: izmjene koje su stupile na snagu: 69</title></rect>
+<text x="685.3" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2020</text>
+<rect x="697.79" y="270.5" width="22.52" height="60.0" rx="1.5" fill="#1f883d"><title>2021: izmjene koje su stupile na snagu: 80</title></rect>
+<rect x="721.51" y="257.8" width="22.52" height="72.8" rx="1.5" fill="#1f883d"><title>2022: izmjene koje su stupile na snagu: 97</title></rect>
+<rect x="745.23" y="259.2" width="22.52" height="71.2" rx="1.5" fill="#1f883d"><title>2023: izmjene koje su stupile na snagu: 95</title></rect>
+<rect x="768.94" y="254.0" width="22.52" height="76.5" rx="1.5" fill="#1f883d"><title>2024: izmjene koje su stupile na snagu: 102</title></rect>
+<rect x="792.66" y="276.5" width="22.52" height="54.0" rx="1.5" fill="#1f883d"><title>2025: izmjene koje su stupile na snagu: 72</title></rect>
+<text x="803.9" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2025</text>
+<rect x="816.38" y="258.5" width="22.52" height="72.0" rx="1.5" fill="#1f883d"><title>2026: izmjene koje su stupile na snagu: 96</title></rect>
+<text x="40.5" y="368.5" font-size="11.5" fill="#59636e">Izmjene datirane danom stupanja na snagu: 1.951. Vrsta historije: in-force.</text>
+<rect x="24.5" y="396.5" width="831" height="152" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.5" y="422.5" font-size="14" font-weight="600" fill="#1f2328">Potpunost, provjereno prema zvaničnim izvorima 12. nov 2026.</text>
+<text x="40.5" y="446.5" font-size="13" fill="#1f2328">Ustav</text>
+<text x="40.5" y="462.5" font-size="11.5" fill="#59636e">u repozitoriju</text>
+<g><title>Ustav: 100%</title><rect x="276.5" y="443.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="443.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
+<text x="424.0" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100%</text>
+<text x="40.5" y="482.5" font-size="13" fill="#1f2328">Glavni zakonici</text>
+<text x="40.5" y="498.5" font-size="11.5" fill="#59636e">udio osnovnih zakonika</text>
+<g><title>Glavni zakonici: 17%</title><rect x="276.5" y="479.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="479.5" width="15.6" height="8" rx="4" fill="#d1242f"/></g>
+<text x="424.0" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">17%</text>
+<text x="40.5" y="518.5" font-size="13" fill="#1f2328">Državni propisi</text>
+<text x="40.5" y="534.5" font-size="11.5" fill="#59636e">propisi u odnosu na zvanični ukupan broj</text>
+<g><title>Državni propisi: 29%</title><rect x="276.5" y="515.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="515.5" width="26.7" height="8" rx="4" fill="#9a6700"/></g>
+<text x="424.0" y="522.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">29%</text>
+<text x="456.0" y="446.5" font-size="13" fill="#1f2328">Regionalni propisi</text>
+<text x="456.0" y="462.5" font-size="11.5" fill="#59636e">obuhvaćene teritorijalne jedinice</text>
+<g><title>Regionalni propisi: 62%</title><rect x="692.0" y="443.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="692.0" y="443.5" width="56.7" height="8" rx="4" fill="#9a6700"/></g>
+<text x="839.5" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">62%</text>
+<text x="456.0" y="482.5" font-size="13" fill="#1f2328">Sudska praksa</text>
+<text x="456.0" y="498.5" font-size="11.5" fill="#59636e">obuhvaćeni najviši sudovi</text>
+<g><title>Sudska praksa: 0%</title><rect x="692.0" y="479.5" width="91.5" height="8" rx="4" fill="#eff2f5"/></g>
+<text x="839.5" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">0%</text>
+<rect x="24.5" y="562.5" width="831" height="152" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.5" y="588.5" font-size="14" font-weight="600" fill="#1f2328">Tačnost sadržaja</text>
+<text x="40.5" y="612.5" font-size="13" fill="#1f2328">Izmjene s datumom važenja</text>
+<text x="40.5" y="628.5" font-size="11.5" fill="#59636e">udio izmjena</text>
+<g><title>Izmjene s datumom važenja: 100%</title><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
+<text x="424.0" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100%</text>
+<text x="40.5" y="648.5" font-size="13" fill="#1f2328">Izmjene sa zvaničnim izvorom</text>
+<text x="40.5" y="664.5" font-size="11.5" fill="#59636e">red Source ili link u commitu</text>
+<g><title>Izmjene sa zvaničnim izvorom: 100%</title><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
+<text x="424.0" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100%</text>
+<text x="40.5" y="684.5" font-size="13" fill="#1f2328">Provjereno sa zvaničnim izvorom</text>
+<text x="40.5" y="700.5" font-size="11.5" fill="#59636e">repozitorij: 11. nov 2026.; praćenje global-law: 10. nov 2026.</text>
+<text x="424.0" y="688.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">11. nov 2026.</text>
+<text x="456.0" y="612.5" font-size="13" fill="#1f2328">Korpusi ove zemlje u global-law</text>
+<text x="456.0" y="628.5" font-size="11.5" fill="#59636e">državni propisi: 1, regionalni propisi: 8</text>
+<text x="839.5" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">9</text>
+<text x="24" y="736" font-size="11.5" fill="#59636e" textLength="832" lengthAdjust="spacingAndGlyphs">lexifina/bosnia-and-herzegovina-law na 8469c90, napravljeno 2026-11-13. Bez commitova dokumentacije. Obuhvat: 1881 acts, 1939 dated versions from 1995-12-14 to 2026-11-03</text>
+</svg>
