@@ -57,10 +57,6 @@ Each version is credited to the act that published it, as the Gazette names it. 
 
 ## How current it is
 
-<!-- freshness-summary -->
-Checked against the official sources: 2026-11-10; 100% of acts verified in the last 7 days, 100% in the last 30 ([data/freshness.json](data/freshness.json)).
-<!-- /freshness-summary -->
-
 A refresh runner reads every new issue of Službeni glasnik BiH, appends new acts and re-checks each act within 7 days (laws) or 30 days (regulations); [data/status.json](data/status.json) says whether updates are running, and `python tools/freshness.py <act>` gives one act's status and official link.
 
 ## How it is checked

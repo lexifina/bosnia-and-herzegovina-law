@@ -57,10 +57,6 @@ Svaka verzija pripisuje se propisu koji ju je objavio, onako kako ga Glasnik naz
 
 ## Koliko je ažurno
 
-<!-- freshness-summary -->
-Provjereno prema zvaničnim izvorima: 2026-11-10; 100% propisa provjereno u posljednjih 7 dana, 100% u posljednjih 30 ([data/freshness.json](data/freshness.json)).
-<!-- /freshness-summary -->
-
 Proces osvježavanja čita svaki novi broj Službenog glasnika BiH, dodaje nove propise i ponovo provjerava svaki propis u roku od 7 dana (zakoni) ili 30 dana (podzakonski propisi); [data/status.json](data/status.json) pokazuje da li ažuriranja rade, a `python tools/freshness.py <act>` daje status i zvanični link jednog propisa.
 
 ## Kako se provjerava
