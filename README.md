@@ -30,7 +30,8 @@ Propisi iz Glasnika su na bosanskom jeziku, latinicom, onako kako ih objavljuje 
 
 - **[Pitajte Claude o pravu Bosne i Hercegovine](https://global-law.lexifina.com/v1/try_claude?country=bosnia-and-herzegovina)**: otvara Claude sa spremnim prvim pitanjem.
 - **[Pitajte ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=bosnia-and-herzegovina)**: isto pitanje u ChatGPT-u.
-- **[Pozovite API u pregledniku](https://global-law.lexifina.com/v1/search_law?query=godi%C5%A1nji+odmor&jurisdictions=bosnia-and-herzegovina)**: pretraga prava Bosne i Hercegovine za „godišnji odmor”, odgovor u JSON-u. Dokumentacija je [ovdje](https://lexifina.com/api/global-law).
+- **[Pretražite pravo Bosne i Hercegovine na našoj stranici](https://lexifina.com/law?country=bosnia-and-herzegovina&q=godi%C5%A1nji+odmor)**: pretraga za „godišnji odmor”, s tekstom svake odredbe i njenim verzijama, bez računa.
+- **[REST API za programere](https://global-law.lexifina.com/v1/search_law?query=godi%C5%A1nji+odmor&jurisdiction=bosnia-and-herzegovina)**: ista pretraga kao JSON, bez ključa. Dokumentacija je [ovdje](https://lexifina.com/api/global-law).
 
 Oba asistenta čitaju podatke preko besplatnog konektora Global law (MCP, `https://global-law.lexifina.com/mcp`); prvi put razgovor daje link kojim se konektor dodaje. Pitajte na bosanskom, hrvatskom ili srpskom, ili na engleskom.
 
