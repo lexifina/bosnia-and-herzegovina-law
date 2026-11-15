@@ -89,6 +89,10 @@ See [`LICENSE`](LICENSE). The legal texts are official texts, which are not prot
 
 No AI model wrote, translated or changed legal text; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md) and [`registry/REPRODUCE.md`](registry/REPRODUCE.md)).
 
+## Visualisations
+
+[visualisations/](visualisations/README.en.md): charts of the law of Bosnia and Herzegovina drawn from this repository. A placeholder for now: no charts have been drawn yet.
+
 ## More
 
 From [lexifina/global-law](https://github.com/lexifina/global-law):

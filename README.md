@@ -91,6 +91,10 @@ Nijedan AI model nije pisao, prevodio niti mijenjao tekst propisa; skripte je na
 
 Ovo je prijevod engleske verzije ([README.en.md](README.en.md)); ako se razlikuju, važi engleska verzija.
 
+## Vizualizacije
+
+[visualisations/](visualisations/): grafikoni o pravu Bosne i Hercegovine, nacrtani iz ovog repozitorija. Zasad privremena stranica: grafikoni još nisu nacrtani.
+
 ## Više
 
 Iz repozitorija [lexifina/global-law](https://github.com/lexifina/global-law) (na engleskom):
