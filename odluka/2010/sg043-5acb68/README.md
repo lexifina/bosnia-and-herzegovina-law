@@ -1,5 +1,7 @@
 # ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O NAČINU POLAGANJA JAVNOG I STRUČNOG ISPITA
 
+Version type: as-enacted (official Gazette issue text).
+
 ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O NAČINU POLAGANJA JAVNOG I STRUČNOG ISPITA · 1 version, from 2010-06-02 · <https://www.sluzbenilist.ba/page/akt/bYVDgphCqTk=>
 
 | Provision | File |

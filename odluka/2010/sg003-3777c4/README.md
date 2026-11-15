@@ -1,5 +1,7 @@
 # ODLUKU O ZABRANI STAVLJANJA NA TRŽIŠTE POTROŠAČKIH PROIZVODA KOJI SADRŽE BIOCID DIMETILFUMARAT
 
+Version type: as-enacted (official Gazette issue text).
+
 ODLUKU O ZABRANI STAVLJANJA NA TRŽIŠTE POTROŠAČKIH PROIZVODA KOJI SADRŽE BIOCID DIMETILFUMARAT · 1 version, from 2010-01-26 · <https://www.sluzbenilist.ba/page/akt/RfDwPkTvxZI=>
 
 | Provision | File |

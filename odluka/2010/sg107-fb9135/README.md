@@ -1,5 +1,7 @@
 # ODLUKU O USLOVIMA I NAČINU PRIZNAVANJA DOKUMENATA I ZNAKOVA USKLAĐENOSTI IZDATIH U INOSTRANSTVU
 
+Version type: as-enacted (official Gazette issue text).
+
 ODLUKU O USLOVIMA I NAČINU PRIZNAVANJA DOKUMENATA I ZNAKOVA USKLAĐENOSTI IZDATIH U INOSTRANSTVU · 1 version, from 2011-01-04 · <https://www.sluzbenilist.ba/page/akt/gztz5k76kjn45haFCdgtjB6k=>
 
 | Provision | File |

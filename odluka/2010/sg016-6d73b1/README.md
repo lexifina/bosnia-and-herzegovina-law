@@ -1,5 +1,7 @@
 # ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O MJERAMA ZAŠTITE DOMAĆE PROIZVODNJE OD PREKOMJERNOG UVOZA
 
+Version type: as-enacted (official Gazette issue text).
+
 ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O MJERAMA ZAŠTITE DOMAĆE PROIZVODNJE OD PREKOMJERNOG UVOZA · 1 version, from 2010-03-10 · <https://www.sluzbenilist.ba/page/akt/ohz4nh78h77RtVEaYNxkk=>
 
 | Provision | File |

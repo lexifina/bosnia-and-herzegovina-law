@@ -1,5 +1,7 @@
 # ODLUKU O VISINI NAKNADE ZA IZRADU MEMORIJSKIH KARTICA ZA DIGITALNI TAHOGRAF
 
+Version type: as-enacted (official Gazette issue text).
+
 ODLUKU O VISINI NAKNADE ZA IZRADU MEMORIJSKIH KARTICA ZA DIGITALNI TAHOGRAF · 1 version, from 2011-04-27 · <https://www.sluzbenilist.ba/page/akt/hzL86weBhp8=>
 
 | Provision | File |

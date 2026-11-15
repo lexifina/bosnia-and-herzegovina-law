@@ -1,5 +1,7 @@
 # ODLUKU O NAKNADI ZA RAD ČLANOVIMA KOMISIJE ZA DEMINIRANJE U BOSNI I HERCEGOVINI
 
+Version type: as-enacted (official Gazette issue text).
+
 ODLUKU O NAKNADI ZA RAD ČLANOVIMA KOMISIJE ZA DEMINIRANJE U BOSNI I HERCEGOVINI · 1 version, from 2009-06-17 · <https://www.sluzbenilist.ba/page/akt/z2yLlzxU7EY=>
 
 | Provision | File |

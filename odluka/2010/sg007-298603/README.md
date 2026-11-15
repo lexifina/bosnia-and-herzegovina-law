@@ -1,5 +1,7 @@
 # ODLUKU O ELEKTRONSKOM POSLOVANJU I "E-VLADI" U VIJEĆU MINISTARA BOSNE I HERCEGOVINE
 
+Version type: as-enacted (official Gazette issue text).
+
 ODLUKU O ELEKTRONSKOM POSLOVANJU I "E-VLADI" U VIJEĆU MINISTARA BOSNE I HERCEGOVINE · 1 version, from 2010-02-09 · <https://www.sluzbenilist.ba/page/akt/DAeNkQGohz4nh78h77OEE=>
 
 | Provision | File |

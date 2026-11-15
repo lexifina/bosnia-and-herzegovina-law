@@ -1,5 +1,7 @@
 # ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O KVALITETU TEČNIH NAFTNIH GORIVA
 
+Version type: as-enacted (official Gazette issue text).
+
 ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O KVALITETU TEČNIH NAFTNIH GORIVA · 1 version, from 2010-06-30 · <https://www.sluzbenilist.ba/page/akt/a2nYs6jQRRc=>
 
 | Provision | File |

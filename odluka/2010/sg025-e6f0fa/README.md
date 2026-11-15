@@ -1,5 +1,7 @@
 # ODLUKU O SJEDIŠTU I POČETKU RADA DIREKCIJE ZA KOORDINACIJU POLICIJSKIH TIJELA
 
+Version type: as-enacted (official Gazette issue text).
+
 ODLUKU O SJEDIŠTU I POČETKU RADA DIREKCIJE ZA KOORDINACIJU POLICIJSKIH TIJELA · 1 version, from 2010-03-09 · <https://www.sluzbenilist.ba/page/akt/0KDIuRdLgztz5k76kjn45hg8=>
 
 | Provision | File |

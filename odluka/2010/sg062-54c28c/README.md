@@ -1,5 +1,7 @@
 # ODLUKU O OSNIVANJU VIJEĆA ZA ZAŠTITU PRAVA INTELEKTUALNOG VLASNIŠTVA
 
+Version type: as-enacted (official Gazette issue text).
+
 ODLUKU O OSNIVANJU VIJEĆA ZA ZAŠTITU PRAVA INTELEKTUALNOG VLASNIŠTVA · 1 version, from 2010-08-10 · <https://www.sluzbenilist.ba/page/akt/OUADU1wA0xQ=>
 
 | Provision | File |

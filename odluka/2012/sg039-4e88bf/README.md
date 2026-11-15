@@ -1,5 +1,7 @@
 # ODLUKU O IZMJENI ODLUKE O USVAJANJU OSNOVA KVALIFIKACIJSKOG OKVIRA U BOSNI I HERCEGOVINI
 
+Version type: as-enacted (official Gazette issue text).
+
 ODLUKU O IZMJENI ODLUKE O USVAJANJU OSNOVA KVALIFIKACIJSKOG OKVIRA U BOSNI I HERCEGOVINI · 1 version, from 2012-03-07 · <https://www.sluzbenilist.ba/page/akt/AhAZIsHFMR4=>
 
 | Provision | File |

@@ -1,5 +1,7 @@
 # ODLUKU O OSNIVANJU FORUMA ZA RAZVOJ I PROMOCIJU PREDUZETNIŠTVA U BOSNI I HERCEGOVINI
 
+Version type: as-enacted (official Gazette issue text).
+
 ODLUKU O OSNIVANJU FORUMA ZA RAZVOJ I PROMOCIJU PREDUZETNIŠTVA U BOSNI I HERCEGOVINI · 1 version, from 2011-02-09 · <https://www.sluzbenilist.ba/page/akt/tgGmNc83I4A=>
 
 | Provision | File |

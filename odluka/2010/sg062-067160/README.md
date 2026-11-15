@@ -1,5 +1,7 @@
 # ODLUKU O OSNIVANJU VIJEĆA ZA RAZVOJ KORISNIKA INTELEKTUALNOG VLASNIŠTVA
 
+Version type: as-enacted (official Gazette issue text).
+
 ODLUKU O OSNIVANJU VIJEĆA ZA RAZVOJ KORISNIKA INTELEKTUALNOG VLASNIŠTVA · 1 version, from 2010-08-10 · <https://www.sluzbenilist.ba/page/akt/FtaaabOohz4nh78h77ohz4nh78h77Xw=>
 
 | Provision | File |

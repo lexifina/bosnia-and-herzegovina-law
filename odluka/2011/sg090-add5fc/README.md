@@ -1,5 +1,7 @@
 # ODLUKU O NAKNADI PUTNIH TROŠKOVA I DNEVNICA ČLANOVIMA VIJEĆA ZA OPĆE OBRAZOVANJE U BOSNI I HERCEGOVINI
 
+Version type: as-enacted (official Gazette issue text).
+
 ODLUKU O NAKNADI PUTNIH TROŠKOVA I DNEVNICA ČLANOVIMA VIJEĆA ZA OPĆE OBRAZOVANJE U BOSNI I HERCEGOVINI · 1 version, from 2011-11-15 · <https://www.sluzbenilist.ba/page/akt/Lgztz5k76kjn45hypZ5IKf9E=>
 
 | Provision | File |
