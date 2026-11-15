@@ -66,6 +66,7 @@ A refresh runner reads every new issue of Službeni glasnik BiH, appends new act
 - Acts whose text does not split cleanly into articles, or whose in-force day cannot be read, are held back rather than guessed, each with its reason in [data/held.json](data/held.json).
 - `registry/tools/build/check_repo.py` reads every version back from git and compares it with the corpus; the same corpus always gives the same commit hashes. The corpus and builder hashes are in `registry/REPRODUCE.md`.
 - Duplicates found later are withdrawn by a new commit (`withdrawn_by` in `registry/data/acts.json`); no published commit is rewritten.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in the law of Bosnia and Herzegovina, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 

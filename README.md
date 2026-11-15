@@ -66,6 +66,7 @@ Proces osvježavanja čita svaki novi broj Službenog glasnika BiH, dodaje nove 
 - Propisi čiji se tekst ne dijeli čisto na članove ili čiji se dan stupanja na snagu ne može pročitati zadržavaju se umjesto da se pogađa, svaki s razlogom u [data/held.json](data/held.json).
 - `registry/tools/build/check_repo.py` čita svaku verziju iz gita i poredi je s korpusom; isti korpus uvijek daje iste hasheve commitova. Hashevi korpusa i alata za izgradnju su u `registry/REPRODUCE.md`.
 - Duplikati pronađeni naknadno povlače se novim commitom (`withdrawn_by` u `registry/data/acts.json`); nijedan objavljeni commit se ne prepravlja.
+- [vulnerabilities/](vulnerabilities/): moguće greške u propisima Bosne i Hercegovine, koje su pronašli detektori global-law i koje su ručno provjerene.
 
 ## Šta ne prikazuje
 
