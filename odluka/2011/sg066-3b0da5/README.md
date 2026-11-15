@@ -1,5 +1,7 @@
 # ODLUKU O USPOSTAVI SISTEMA KONTROLE ZA PREKOGRANIČNE PROGRAME SA DRŽAVAMA ČLANICAMA EVROPSKE UNIJE
 
+Version type: as-enacted (official Gazette issue text).
+
 ODLUKU O USPOSTAVI SISTEMA KONTROLE ZA PREKOGRANIČNE PROGRAME SA DRŽAVAMA ČLANICAMA EVROPSKE UNIJE · 1 version, from 2011-06-14 · <https://www.sluzbenilist.ba/page/akt/o9TSOn2WFbs=>
 
 | Provision | File |

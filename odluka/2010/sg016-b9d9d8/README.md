@@ -1,5 +1,7 @@
 # ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O POSTUPKU I NAČINU UTVRĐIVANJA ANTIDAMPINŠKE I KOMPENZATORNE DAŽBINE
 
+Version type: as-enacted (official Gazette issue text).
+
 ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O POSTUPKU I NAČINU UTVRĐIVANJA ANTIDAMPINŠKE I KOMPENZATORNE DAŽBINE · 1 version, from 2010-03-10 · <https://www.sluzbenilist.ba/page/akt/uRzjE2866RQ=>
 
 | Provision | File |

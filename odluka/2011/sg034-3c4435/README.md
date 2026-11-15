@@ -1,5 +1,7 @@
 # ODLUKU O POSEBNIM VRSTAMA UVOZA ZA KOJA SE NE PROVODI POSTUPAK HOMOLOGACIJE POJEDINAČNOG VOZILA
 
+Version type: as-enacted (official Gazette issue text).
+
 ODLUKU O POSEBNIM VRSTAMA UVOZA ZA KOJA SE NE PROVODI POSTUPAK HOMOLOGACIJE POJEDINAČNOG VOZILA · 1 version, from 2011-04-22 · <https://www.sluzbenilist.ba/page/akt/t49lNZ7ewa0=>
 
 | Provision | File |

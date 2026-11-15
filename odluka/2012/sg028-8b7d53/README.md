@@ -1,5 +1,7 @@
 # ODLUKU O USLOVIMA ZA STICANJE STATUSA PREDAVAČA U DIREKCIJI ZA EVROPSKE INTEGRACIJE
 
+Version type: as-enacted (official Gazette issue text).
+
 ODLUKU O USLOVIMA ZA STICANJE STATUSA PREDAVAČA U DIREKCIJI ZA EVROPSKE INTEGRACIJE · 1 version, from 2012-02-23 · <https://www.sluzbenilist.ba/page/akt/qvb7gztz5k76kjn45hBgztz5k76kjn45hejh0=>
 
 | Provision | File |

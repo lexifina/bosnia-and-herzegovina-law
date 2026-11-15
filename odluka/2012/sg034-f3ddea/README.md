@@ -1,5 +1,7 @@
 # ODLUKU O ZABRANI UVOZA U BOSNU I HERCEGOVINU ODREĐENIH POŠILJKI PORIJEKLOM IZ REPUBLIKE GVINEJE
 
+Version type: as-enacted (official Gazette issue text).
+
 ODLUKU O ZABRANI UVOZA U BOSNU I HERCEGOVINU ODREĐENIH POŠILJKI PORIJEKLOM IZ REPUBLIKE GVINEJE · 1 version, from 2012-04-05 · <https://www.sluzbenilist.ba/page/akt/GSY0UArMQtg=>
 
 | Provision | File |

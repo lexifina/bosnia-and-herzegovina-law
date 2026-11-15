@@ -1,5 +1,7 @@
 # ODLUKU O UTVRĐIVANJU VISINE NOVČANE NAKNADE ZA RAD ČLANOVIMA VIJEĆA ZA GENETIČKI MODIFICIRANE ORGANIZME
 
+Version type: as-enacted (official Gazette issue text).
+
 ODLUKU O UTVRĐIVANJU VISINE NOVČANE NAKNADE ZA RAD ČLANOVIMA VIJEĆA ZA GENETIČKI MODIFICIRANE ORGANIZME · 1 version, from 2010-06-03 · <https://www.sluzbenilist.ba/page/akt/305NZXkGBTk=>
 
 | Provision | File |

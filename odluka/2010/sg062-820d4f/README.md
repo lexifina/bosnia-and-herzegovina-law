@@ -1,5 +1,7 @@
 # ODLUKU O VISINI NAKNADA ČLANOVIMA VISOKOG SUDSKOG I TUŽILAČKOG VIJEĆA BOSNE I HERCEGOVINE
 
+Version type: as-enacted (official Gazette issue text).
+
 ODLUKU O VISINI NAKNADA ČLANOVIMA VISOKOG SUDSKOG I TUŽILAČKOG VIJEĆA BOSNE I HERCEGOVINE · 1 version, from 2010-06-24 · <https://www.sluzbenilist.ba/page/akt/ZOob7jZIq2Y=>
 
 | Provision | File |

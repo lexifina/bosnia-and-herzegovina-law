@@ -1,5 +1,7 @@
 # ODLUKU O PROVOĐENJU POSTUPKA ZAJEDNIČKIH JAVNIH NABAVKI ZA INSTITUCIJE BOSNE I HERCEGOVINE
 
+Version type: as-enacted (official Gazette issue text).
+
 ODLUKU O PROVOĐENJU POSTUPKA ZAJEDNIČKIH JAVNIH NABAVKI ZA INSTITUCIJE BOSNE I HERCEGOVINE · 1 version, from 2010-11-18 · <https://www.sluzbenilist.ba/page/akt/jZclDgkZY4U=>
 
 | Provision | File |

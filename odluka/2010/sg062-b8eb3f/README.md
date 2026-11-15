@@ -1,5 +1,7 @@
 # ODLUKU O OSNIVANJU VIJEĆA ZA AUTORSKO PRAVO I SRODNA PRAVA
 
+Version type: as-enacted (official Gazette issue text).
+
 ODLUKU O OSNIVANJU VIJEĆA ZA AUTORSKO PRAVO I SRODNA PRAVA · 1 version, from 2010-08-10 · <https://www.sluzbenilist.ba/page/akt/lCGO4hNIJ7g=>
 
 | Provision | File |

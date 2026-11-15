@@ -1,5 +1,7 @@
 # ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O USPOSTAVLJANJU RADNIH GRUPA ZA EVROPSKE INTEGRACIJE
 
+Version type: as-enacted (official Gazette issue text).
+
 ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O USPOSTAVLJANJU RADNIH GRUPA ZA EVROPSKE INTEGRACIJE · 1 version, from 2010-06-24 · <https://www.sluzbenilist.ba/page/akt/Mfy5O7lI8iA=>
 
 | Provision | File |

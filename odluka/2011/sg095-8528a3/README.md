@@ -1,5 +1,7 @@
 # ODLUKU O IZMJENI I DOPUNI ODLUKE O VISINI NOVČANE NAKNADE ZA RAD U VIJEĆU ZA NAUKU BOSNE I HERCEGOVINE
 
+Version type: as-enacted (official Gazette issue text).
+
 ODLUKU O IZMJENI I DOPUNI ODLUKE O VISINI NOVČANE NAKNADE ZA RAD U VIJEĆU ZA NAUKU BOSNE I HERCEGOVINE · 1 version, from 2011-10-26 · <https://www.sluzbenilist.ba/page/akt/ohz4nh78h77WX9sw256P0=>
 
 | Provision | File |

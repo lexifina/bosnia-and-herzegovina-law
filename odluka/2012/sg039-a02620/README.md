@@ -1,5 +1,7 @@
 # ODLUKU O ODREĐIVANJU GRANIČNIH PRELAZA U BOSNI I HERCEGOVINI
 
+Version type: as-enacted (official Gazette issue text).
+
 ODLUKU O ODREĐIVANJU GRANIČNIH PRELAZA U BOSNI I HERCEGOVINI · 1 version, from 2012-05-30 · <https://www.sluzbenilist.ba/page/akt/ZlRFDl8RMb4=>
 
 | Provision | File |

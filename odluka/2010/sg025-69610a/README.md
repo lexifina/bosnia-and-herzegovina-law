@@ -1,5 +1,7 @@
 # ODLUKU O SJEDIŠTU AGENCIJE ZA PREVENCIJU KORUPCIJE I KOORDINACIJU BORBE PROTIV KORUPCIJE
 
+Version type: as-enacted (official Gazette issue text).
+
 ODLUKU O SJEDIŠTU AGENCIJE ZA PREVENCIJU KORUPCIJE I KOORDINACIJU BORBE PROTIV KORUPCIJE · 1 version, from 2010-03-09 · <https://www.sluzbenilist.ba/page/akt/ivohz4nh78h77WmcZrgztz5k76kjn45h8Y=>
 
 | Provision | File |

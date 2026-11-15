@@ -1,5 +1,7 @@
 # ODLUKU O VISINI NOVČANE NAKNADE ZA RAD ČLANOVA VIJEĆA ZA STATISTIKU BOSNE I HERCEGOVINE
 
+Version type: as-enacted (official Gazette issue text).
+
 ODLUKU O VISINI NOVČANE NAKNADE ZA RAD ČLANOVA VIJEĆA ZA STATISTIKU BOSNE I HERCEGOVINE · 1 version, from 2010-06-03 · <https://www.sluzbenilist.ba/page/akt/ToFhGUANe8k=>
 
 | Provision | File |

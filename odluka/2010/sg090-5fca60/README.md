@@ -1,5 +1,7 @@
 # ODLUKU O UTVRĐIVANJU NAKNADE ZA RAD ČLANOVIMA VIJEĆA REGULATORNE AGENCIJE ZA KOMUNIKACIJE
 
+Version type: as-enacted (official Gazette issue text).
+
 ODLUKU O UTVRĐIVANJU NAKNADE ZA RAD ČLANOVIMA VIJEĆA REGULATORNE AGENCIJE ZA KOMUNIKACIJE · 1 version, from 2010-06-03 · <https://www.sluzbenilist.ba/page/akt/iohz4nh78h77vd1z1zRiw=>
 
 | Provision | File |
