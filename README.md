@@ -71,9 +71,9 @@ Proces osvježavanja čita svaki novi broj Službenog glasnika BiH, dodaje nove 
 ## Šta ne prikazuje
 
 - **Izmjene u tekstu.** Propis koji kasniji propis mijenja zadržan je onako kako je donesen i označen kao `amended, not consolidated` (235 propisa) ili `repealed, not consolidated` (52) u `registry/data/acts.json`, s propisima koji ga mijenjaju. Kasnije verzije daju samo službeni prečišćeni tekstovi.
-- **Propise iz perioda 1997-2009.** Izdavač za njih ne nudi besplatan tekst: 1.284 propisa koje Glasnik navodi nisu ovdje. Još 495 propisa iz perioda 2010-2026 je zadržano; svih 1.779 navedeno je u [data/held.json](data/held.json). Ovdje je 1.875 od 3.654 propisa planiranih vrsta.
+- **Propise iz perioda 1997-2009.** Izdavač za njih ne nudi besplatan tekst: 1.284 propisa koje Glasnik navodi nisu ovdje. Još 238 propisa iz perioda 2010-2026 je zadržano; svih 1.522 navedeno je u [data/held.json](data/held.json). Ovdje je 2.132 od 3.654 propisa planiranih vrsta.
 - **Amandman I na Ustav** (2009, Brčko distrikt), kojeg nema u engleskom tekstu Ustavnog suda iz 2006., i **izmjene Krivičnog zakona nakon 47/14**, kojih nema u korištenom prečišćenom tekstu.
-- **Sudsku praksu** (planirana je drugdje) i **pravo entiteta, Brčko distrikta i kantona**, koji donose građansko i privredno pravo (u gore navedenim repozitorijima).
+- **Sudsku praksu**, osim zapisa (metapodaci i službeni link) o 54.075 odluka Ustavnog suda, od kojih 662 s tekstom (`caselaw/ustavni-sud/`, `sudska-praksa/ustavni-sud/`), i o 1.170 predmeta Suda Bosne i Hercegovine (`sudska-praksa/sud-bih/`); i **pravo entiteta, Brčko distrikta i kantona**, koji donose građansko i privredno pravo (u gore navedenim repozitorijima).
 
 ## Izvori
 

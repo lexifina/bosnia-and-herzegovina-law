@@ -71,9 +71,9 @@ A refresh runner reads every new issue of Službeni glasnik BiH, appends new act
 ## What it does not show
 
 - **Amendments to the text.** An act that a later act amends is kept as enacted and labelled `amended, not consolidated` (235 acts) or `repealed, not consolidated` (52) in `registry/data/acts.json`, with the acts that change it. Only official consolidated texts give later versions.
-- **Acts of 1997-2009.** The publisher serves no free text for them: 1,284 acts the Gazette lists are not here. Another 495 acts of 2010-2026 are held back; all 1,779 are in [data/held.json](data/held.json). 1,875 of the 3,654 acts in the planned kinds are here.
+- **Acts of 1997-2009.** The publisher serves no free text for them: 1,284 acts the Gazette lists are not here. Another 238 acts of 2010-2026 are held back; all 1,522 are in [data/held.json](data/held.json). 2,132 of the 3,654 acts in the planned kinds are here.
 - **The Constitution's Amendment I** (2009, Brčko District), which the Court's 2006 English text does not have, and **Criminal Code amendments after 47/14**, which the consolidation does not have.
-- **Case law** (planned elsewhere), and **the law of the entities, the Brčko District and the cantons**, which make civil and commercial law (in the repositories linked above).
+- **Case law**, apart from records (metadata and the official link) of 54,075 Constitutional Court decisions, 662 of them with their text (`caselaw/ustavni-sud/`, `sudska-praksa/ustavni-sud/`), and of 1,170 Court of Bosnia and Herzegovina cases (`sudska-praksa/sud-bih/`); and **the law of the entities, the Brčko District and the cantons**, which make civil and commercial law (in the repositories linked above).
 
 ## Sources
 
