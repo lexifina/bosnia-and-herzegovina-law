@@ -93,7 +93,13 @@ Ovo je prijevod engleske verzije ([README.en.md](README.en.md)); ako se razlikuj
 
 ## Vizualizacije
 
-[visualisations/](visualisations/): grafikoni o pravu Bosne i Hercegovine, nacrtani iz ovog repozitorija. Zasad privremena stranica: grafikoni još nisu nacrtani.
+[visualisations/](visualisations/): Pravo Bosne i Hercegovine u 20 grafikona, nacrtanih iz ovog repozitorija.
+
+Između ostalog:
+
+- šta objavljuje Službeni glasnik BiH, ko donosi akte i kada propisi stupaju na snagu
+- odluke visokog predstavnika, najčešće mijenjani zakoni i dva doma Parlamentarne skupštine
+- budžet države i tekuća rezerva, odluke Ustavnog suda i predmeti ratnih zločina pred Sudom BiH
 
 ## Više
 

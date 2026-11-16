@@ -91,7 +91,13 @@ No AI model wrote, translated or changed legal text; the scripts were written by
 
 ## Visualisations
 
-[visualisations/](visualisations/README.en.md): charts of the law of Bosnia and Herzegovina drawn from this repository. A placeholder for now: no charts have been drawn yet.
+[visualisations/](visualisations/README.en.md): The law of Bosnia and Herzegovina in 20 charts, drawn from this repository.
+
+Including:
+
+- what Službeni glasnik BiH publishes, who issues its acts and when they take effect
+- the High Representative's decisions, the most-amended laws and the two houses of the Parliamentary Assembly
+- the state budget and its reserve, the Constitutional Court's decisions and war crimes cases at the Court of BiH
 
 ## More
 
